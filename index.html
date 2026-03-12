@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Daily Report - 每日科技资讯</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <meta name="description" content="每日 AI、科技、加密货币资讯速览">
+    <meta name="author" content="AI Daily Report">
+    <link rel="alternate" type="application/rss+xml" title="RSS 订阅" href="feed.xml">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <h1>🤖 AI Daily Report</h1>
+            <p class="subtitle">每日 AI、科技、加密货币资讯速览</p>
+            <div class="header-meta">
+                <span id="last-updated">加载中...</span>
+                <button onclick="loadNews()" class="refresh-btn">🔄 刷新</button>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- 分类筛选 -->
+        <nav class="category-nav">
+            <button class="cat-btn active" data-category="all">全部</button>
+            <button class="cat-btn" data-category="ai">🤖 AI</button>
+            <button class="cat-btn" data-category="tech">💻 科技</button>
+            <button class="cat-btn" data-category="crypto">₿ 加密</button>
+        </nav>
+
+        <!-- 加载状态 -->
+        <div id="loading" class="loading">
+            <div class="spinner"></div>
+            <p>正在加载资讯...</p>
+        </div>
+
+        <!-- 新闻列表 -->
+        <div id="news-grid" class="news-grid"></div>
+        
+        <!-- 无数据提示 -->
+        <div id="empty" class="empty" style="display:none;">
+            <p>暂无资讯</p>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>© 2026 AI Daily Report | 自动更新于 GitHub Actions</p>
+            <p><a href="feed.xml">📡 RSS 订阅</a> | <a href="https://github.com/LP2425158457/AI-Daily-Report">GitHub</a></p>
+        </div>
+    </footer>
+
+    <script>
+        let allNews = [];
+        let currentCategory = 'all';
+
+        // 加载新闻
+        async function loadNews() {
+            const loading = document.getElementById('loading');
+            const newsGrid = document.getElementById('news-grid');
+            const empty = document.getElementById('empty');
+            
+            loading.style.display = 'block';
+            newsGrid.innerHTML = '';
+            empty.style.display = 'none';
+            
+            try {
+                const response = await fetch('data/news.json');
+                const data = await response.json();
+                
+                allNews = data.news;
+                
+                // 更新时间显示
+                const date = new Date(data.last_updated);
+                document.getElementById('last-updated').textContent = 
+                    `🕐 最后更新: ${date.toLocaleString('zh-CN')}`;
+                
+                renderNews();
+            } catch (error) {
+                console.error('加载失败:', error);
+                empty.style.display = 'block';
+                empty.innerHTML = '<p>加载失败，请稍后重试</p>';
+            } finally {
+                loading.style.display = 'none';
+            }
+        }
+
+        // 渲染新闻卡片
+        function renderNews() {
+            const newsGrid = document.getElementById('news-grid');
+            const empty = document.getElementById('empty');
+            
+            // 筛选
+            const filtered = currentCategory === 'all' 
+                ? allNews 
+                : allNews.filter(n => n.category === currentCategory);
+            
+            if (filtered.length === 0) {
+                newsGrid.innerHTML = '';
+                empty.style.display = 'block';
+                return;
+            }
+            
+            empty.style.display = 'none';
+            
+            newsGrid.innerHTML = filtered.map(news => `
+                <article class="news-card" data-category="${news.category}">
+                    <div class="card-image">
+                        <img src="${news.image || 'https://via.placeholder.com/400x200?text=News'}" 
+                             alt="${news.title}" 
+                             onerror="this.src='https://via.placeholder.com/400x200?text=News'">
+                        <span class="category-tag category-${news.category}">${getCategoryName(news.category)}</span>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">
+                            <a href="${news.url}" target="_blank" rel="noopener">${news.title}</a>
+                        </h3>
+                        <p class="card-summary">${news.summary || '暂无摘要'}</p>
+                        <div class="card-meta">
+                            <span class="source">${news.source}</span>
+                            <span class="domain">${news.domain}</span>
+                        </div>
+                    </div>
+                </article>
+            `).join('');
+        }
+
+        // 分类名称
+        function getCategoryName(cat) {
+            const names = { ai: 'AI', tech: '科技', crypto: '加密', general: '综合' };
+            return names[cat] || '综合';
+        }
+
+        // 分类切换
+        document.querySelectorAll('.cat-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentCategory = btn.dataset.category;
+                renderNews();
+            });
+        });
+
+        // 页面加载
+        document.addEventListener('DOMContentLoaded', loadNews);
+    </script>
+</body>
+</html>
