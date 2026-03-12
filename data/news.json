@@ -1,7 +1,16 @@
 {
-  "last_updated": "2026-03-12T08:49:35.657499",
+  "last_updated": "2026-03-12T09:24:26.660908",
   "total": 59,
   "news": [
+    {
+      "title": "3D-Knitting: The Ultimate Guide",
+      "url": "https://www.oliver-charles.com/pages/3d-knitting",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47347945\">Comments</a>",
+      "id": "55157e22ec0a"
+    },
     {
       "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
       "url": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
@@ -39,15 +48,6 @@
       "id": "f7ebd17c81bd"
     },
     {
-      "title": "3D-Knitting: The Ultimate Guide",
-      "url": "https://www.oliver-charles.com/pages/3d-knitting",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47347945\">Comments</a>",
-      "id": "55157e22ec0a"
-    },
-    {
       "title": "Making WebAssembly a first-class language on the Web",
       "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
       "image": "",
@@ -57,13 +57,13 @@
       "id": "99cd14af0a26"
     },
     {
-      "title": "WebPKI and You",
-      "url": "https://blog.brycekerley.net/2026/03/08/webpki-and-you.html",
+      "title": "Printf-Tac-Toe",
+      "url": "https://github.com/carlini/printf-tac-toe",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47308349\">Comments</a>",
-      "id": "beb43c2bcc9d"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47296645\">Comments</a>",
+      "id": "d5ecf7025f94"
     },
     {
       "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
@@ -647,6 +647,15 @@
     ],
     "tech": [
       {
+        "title": "3D-Knitting: The Ultimate Guide",
+        "url": "https://www.oliver-charles.com/pages/3d-knitting",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47347945\">Comments</a>",
+        "id": "55157e22ec0a"
+      },
+      {
         "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
         "url": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
         "image": "",
@@ -683,15 +692,6 @@
         "id": "f7ebd17c81bd"
       },
       {
-        "title": "3D-Knitting: The Ultimate Guide",
-        "url": "https://www.oliver-charles.com/pages/3d-knitting",
-        "image": "",
-        "source": "Hacker News",
-        "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47347945\">Comments</a>",
-        "id": "55157e22ec0a"
-      },
-      {
         "title": "Making WebAssembly a first-class language on the Web",
         "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
         "image": "",
@@ -701,13 +701,13 @@
         "id": "99cd14af0a26"
       },
       {
-        "title": "WebPKI and You",
-        "url": "https://blog.brycekerley.net/2026/03/08/webpki-and-you.html",
+        "title": "Printf-Tac-Toe",
+        "url": "https://github.com/carlini/printf-tac-toe",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47308349\">Comments</a>",
-        "id": "beb43c2bcc9d"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47296645\">Comments</a>",
+        "id": "d5ecf7025f94"
       },
       {
         "title": "Google 完成对以色列安全公司 Wiz 的收购",
