@@ -1,0 +1,42 @@
+name: Daily Report Generator
+
+on:
+  schedule:
+    # 每天 UTC 0 点 = 北京时间 8 点
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 支持手动触发
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: |
+          pip install feedparser beautifulsoup4 requests markdown2 jinja2 Pillow
+          
+      - name: Generate daily report
+        env:
+          # 可选的 API Key（用于更智能的摘要）
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/generate_report.py
+        shell: bash
+        
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --staged --quiet || git commit -m "Daily report $(date +%Y-%m-%d)"
+          git push
