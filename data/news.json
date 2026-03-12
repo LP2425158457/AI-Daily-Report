@@ -1,16 +1,7 @@
 {
-  "last_updated": "2026-03-12T08:30:59.360090",
+  "last_updated": "2026-03-12T08:49:35.657499",
   "total": 59,
   "news": [
-    {
-      "title": "Show HN: s@: decentralized social networking over static sites",
-      "url": "http://satproto.org/",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47344548\">Comments</a>",
-      "id": "dce07e265b28"
-    },
     {
       "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
       "url": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
@@ -21,6 +12,15 @@
       "id": "f1ef2a50a3d4"
     },
     {
+      "title": "Show HN: s@: decentralized social networking over static sites",
+      "url": "http://satproto.org/",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47344548\">Comments</a>",
+      "id": "dce07e265b28"
+    },
+    {
       "title": "Temporal: The 9-year journey to fix time in JavaScript",
       "url": "https://bloomberg.github.io/js-blog/post/temporal/",
       "image": "",
@@ -28,6 +28,24 @@
       "category": "tech",
       "summary": "<a href=\"https://news.ycombinator.com/item?id=47336989\">Comments</a>",
       "id": "4d019263ce2e"
+    },
+    {
+      "title": "Returning to Rails in 2026",
+      "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47347064\">Comments</a>",
+      "id": "f7ebd17c81bd"
+    },
+    {
+      "title": "3D-Knitting: The Ultimate Guide",
+      "url": "https://www.oliver-charles.com/pages/3d-knitting",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47347945\">Comments</a>",
+      "id": "55157e22ec0a"
     },
     {
       "title": "Making WebAssembly a first-class language on the Web",
@@ -46,24 +64,6 @@
       "category": "tech",
       "summary": "<a href=\"https://news.ycombinator.com/item?id=47308349\">Comments</a>",
       "id": "beb43c2bcc9d"
-    },
-    {
-      "title": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
-      "url": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47296568\">Comments</a>",
-      "id": "1567c8ce4791"
-    },
-    {
-      "title": "Many SWE-bench-Passing PRs would not be merged",
-      "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47341645\">Comments</a>",
-      "id": "c5a2f829a644"
     },
     {
       "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
@@ -647,15 +647,6 @@
     ],
     "tech": [
       {
-        "title": "Show HN: s@: decentralized social networking over static sites",
-        "url": "http://satproto.org/",
-        "image": "",
-        "source": "Hacker News",
-        "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47344548\">Comments</a>",
-        "id": "dce07e265b28"
-      },
-      {
         "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
         "url": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
         "image": "",
@@ -665,6 +656,15 @@
         "id": "f1ef2a50a3d4"
       },
       {
+        "title": "Show HN: s@: decentralized social networking over static sites",
+        "url": "http://satproto.org/",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47344548\">Comments</a>",
+        "id": "dce07e265b28"
+      },
+      {
         "title": "Temporal: The 9-year journey to fix time in JavaScript",
         "url": "https://bloomberg.github.io/js-blog/post/temporal/",
         "image": "",
@@ -672,6 +672,24 @@
         "category": "tech",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47336989\">Comments</a>",
         "id": "4d019263ce2e"
+      },
+      {
+        "title": "Returning to Rails in 2026",
+        "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47347064\">Comments</a>",
+        "id": "f7ebd17c81bd"
+      },
+      {
+        "title": "3D-Knitting: The Ultimate Guide",
+        "url": "https://www.oliver-charles.com/pages/3d-knitting",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47347945\">Comments</a>",
+        "id": "55157e22ec0a"
       },
       {
         "title": "Making WebAssembly a first-class language on the Web",
@@ -690,24 +708,6 @@
         "category": "tech",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47308349\">Comments</a>",
         "id": "beb43c2bcc9d"
-      },
-      {
-        "title": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
-        "url": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
-        "image": "",
-        "source": "Hacker News",
-        "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47296568\">Comments</a>",
-        "id": "1567c8ce4791"
-      },
-      {
-        "title": "Many SWE-bench-Passing PRs would not be merged",
-        "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
-        "image": "",
-        "source": "Hacker News",
-        "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47341645\">Comments</a>",
-        "id": "c5a2f829a644"
       },
       {
         "title": "Google 完成对以色列安全公司 Wiz 的收购",
