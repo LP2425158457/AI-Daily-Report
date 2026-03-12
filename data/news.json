@@ -1,7 +1,70 @@
 {
-  "last_updated": "2026-03-12T16:16:48.838186",
-  "total": 52,
+  "last_updated": "2026-03-12T08:19:47.765960",
+  "total": 59,
   "news": [
+    {
+      "title": "Show HN: s@: decentralized social networking over static sites",
+      "url": "http://satproto.org/",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47344548\">Comments</a>",
+      "id": "dce07e265b28"
+    },
+    {
+      "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
+      "url": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47347362\">Comments</a>",
+      "id": "f1ef2a50a3d4"
+    },
+    {
+      "title": "Temporal: The 9-year journey to fix time in JavaScript",
+      "url": "https://bloomberg.github.io/js-blog/post/temporal/",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47336989\">Comments</a>",
+      "id": "4d019263ce2e"
+    },
+    {
+      "title": "Returning to Rails in 2026",
+      "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47347064\">Comments</a>",
+      "id": "f7ebd17c81bd"
+    },
+    {
+      "title": "Making WebAssembly a first-class language on the Web",
+      "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47331811\">Comments</a>",
+      "id": "99cd14af0a26"
+    },
+    {
+      "title": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
+      "url": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47296568\">Comments</a>",
+      "id": "1567c8ce4791"
+    },
+    {
+      "title": "WebPKI and You",
+      "url": "https://blog.brycekerley.net/2026/03/08/webpki-and-you.html",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47308349\">Comments</a>",
+      "id": "beb43c2bcc9d"
+    },
     {
       "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
       "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
@@ -583,6 +646,69 @@
       }
     ],
     "tech": [
+      {
+        "title": "Show HN: s@: decentralized social networking over static sites",
+        "url": "http://satproto.org/",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47344548\">Comments</a>",
+        "id": "dce07e265b28"
+      },
+      {
+        "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
+        "url": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47347362\">Comments</a>",
+        "id": "f1ef2a50a3d4"
+      },
+      {
+        "title": "Temporal: The 9-year journey to fix time in JavaScript",
+        "url": "https://bloomberg.github.io/js-blog/post/temporal/",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47336989\">Comments</a>",
+        "id": "4d019263ce2e"
+      },
+      {
+        "title": "Returning to Rails in 2026",
+        "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47347064\">Comments</a>",
+        "id": "f7ebd17c81bd"
+      },
+      {
+        "title": "Making WebAssembly a first-class language on the Web",
+        "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47331811\">Comments</a>",
+        "id": "99cd14af0a26"
+      },
+      {
+        "title": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
+        "url": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47296568\">Comments</a>",
+        "id": "1567c8ce4791"
+      },
+      {
+        "title": "WebPKI and You",
+        "url": "https://blog.brycekerley.net/2026/03/08/webpki-and-you.html",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47308349\">Comments</a>",
+        "id": "beb43c2bcc9d"
+      },
       {
         "title": "Google 完成对以色列安全公司 Wiz 的收购",
         "url": "https://www.solidot.org/story?sid=83746",
