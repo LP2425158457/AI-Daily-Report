@@ -16,7 +16,6 @@ from urllib.parse import urlparse
 import feedparser
 import requests
 from bs4 import BeautifulSoup
-import markdown
 from jinja2 import Template
 
 # 配置
