@@ -68,6 +68,18 @@ layout: post
 
 ---
 
+### WebPKI and You
+
+> 来源：Hacker News | 分类：AI
+
+<a href="https://news.ycombinator.com/item?id=47308349">Comments</a>...
+
+
+
+[阅读原文](https://blog.brycekerley.net/2026/03/08/webpki-and-you.html)
+
+---
+
 ### Many SWE-bench-Passing PRs would not be merged
 
 > 来源：Hacker News | 分类：AI
@@ -89,18 +101,6 @@ layout: post
 
 
 [阅读原文](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
-
----
-
-### WebPKI and You
-
-> 来源：Hacker News | 分类：AI
-
-<a href="https://news.ycombinator.com/item?id=47308349">Comments</a>...
-
-
-
-[阅读原文](https://blog.brycekerley.net/2026/03/08/webpki-and-you.html)
 
 ---
 
@@ -347,18 +347,6 @@ Humble has teamed up with Frictional Games for a new bundle of PC games that pus
 
 ---
 
-### Stablecoins won't get any kind of deposit insurance under GENIUS rules, says FDIC chief
-
-> 来源：CoinDesk | 分类：加密货币
-
-...
-
-![Stablecoins won't get any kind of deposit insurance under GENIUS rules, says FDIC chief](https://cdn.sanity.io/images/s3y3vcno/production/4dec3b1f07abfcbc16ecbf2179f780ef1d08b618-4928x2772.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip)
-
-[阅读原文](https://www.coindesk.com/policy/2026/03/11/stablecoins-won-t-get-any-kind-of-deposit-insurance-under-genius-rules-says-fdic-chief)
-
----
-
 ### New Zealand regulator says NZDD stablecoin not a financial product
 
 > 来源：CoinTelegraph | 分类：加密货币
@@ -383,7 +371,19 @@ Humble has teamed up with Frictional Games for a new bundle of PC games that pus
 
 ---
 
+### Binance.US names new CEO as crypto exchange eyes expansion
+
+> 来源：CoinTelegraph | 分类：加密货币
+
+<p style="float: right; margin: 0 0 10px 15px; width: 240px;"><img alt="Binance.US names new CEO as crypto exchange eyes expansion" class="type:primaryImage" src="https://images.cointelegraph.com/imag...
+
+![Binance.US names new CEO as crypto exchange eyes expansion](https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2RmN2UtOTNkZS03N2EyLWFiZmQtMDYyMWVhNWE0ODIzLmpwZw==.jpg)
+
+[阅读原文](https://cointelegraph.com/news/binance-us-names-new-ceo-crypto-exchange-eyes-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
-*本日报由 AI 自动生成，更新时间：2026-03-12 06:37:36*
+
+---
+
+*本日报由 AI 自动生成，更新时间：2026-03-12 06:42:36*
