@@ -3,147 +3,316 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Daily Report - 每日科技资讯</title>
-    <link rel="stylesheet" href="assets/css/style.css">
-    <meta name="description" content="每日 AI、科技、加密货币资讯速览">
-    <meta name="author" content="AI Daily Report">
-    <link rel="alternate" type="application/rss+xml" title="RSS 订阅" href="feed.xml">
+    <title>AI Daily - 每日科技资讯</title>
+    <meta name="description" content="每日 AI、科技、加密货币精选资讯">
+    <meta property="og:title" content="AI Daily - 每日科技资讯">
+    <meta property="og:type" content="website">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        :root {
+            --bg: #f5f5f5;
+            --card-bg: #fff;
+            --text-main: #1a1a1a;
+            --text-sub: #666;
+            --primary: #f85959;
+            --shadow: 0 2px 8px rgba(0,0,0,0.08);
+            --shadow-hover: 0 8px 20px rgba(0,0,0,0.12);
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", sans-serif;
+            background: var(--bg);
+            color: var(--text-main);
+            line-height: 1.6;
+        }
+        
+        /* Header - 今日头条风格 */
+        .header {
+            background: #fff;
+            padding: 16px 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        }
+        
+        .header-inner {
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            color: var(--primary);
+            text-decoration: none;
+        }
+        
+        .header-right {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            font-size: 14px;
+            color: var(--text-sub);
+        }
+        
+        .refresh-btn {
+            background: var(--bg);
+            border: none;
+            padding: 8px 16px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.2s;
+        }
+        
+        .refresh-btn:hover { background: #e0e0e0; }
+        
+        /* 分类标签 */
+        .category-tags {
+            display: flex;
+            gap: 10px;
+            padding: 20px 0;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+        }
+        
+        .cat-tag {
+            background: #fff;
+            border: 1px solid #e0e0e0;
+            padding: 8px 20px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 15px;
+            white-space: nowrap;
+            transition: all 0.2s;
+            color: var(--text-main);
+            text-decoration: none;
+        }
+        
+        .cat-tag.active, .cat-tag:hover {
+            background: var(--primary);
+            color: #fff;
+            border-color: var(--primary);
+        }
+        
+        /* 新闻流 */
+        .container {
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        
+        .news-list {
+            display: none;
+        }
+        
+        .news-list.active { display: block; }
+        
+        /* 新闻卡片 - 大图+文字 */
+        .news-card {
+            background: var(--card-bg);
+            border-radius: 8px;
+            overflow: hidden;
+            margin-bottom: 20px;
+            box-shadow: var(--shadow);
+            transition: transform 0.2s, box-shadow 0.2s;
+            cursor: pointer;
+        }
+        
+        .news-card:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-hover);
+        }
+        
+        .card-image {
+            width: 100%;
+            height: 400px;
+            object-fit: cover;
+            display: block;
+        }
+        
+        .card-content {
+            padding: 20px 24px 24px;
+        }
+        
+        .card-title {
+            font-size: 22px;
+            font-weight: 600;
+            line-height: 1.4;
+            margin-bottom: 12px;
+            color: var(--text-main);
+        }
+        
+        .card-meta {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-size: 13px;
+            color: var(--text-sub);
+        }
+        
+        .source-tag {
+            background: #f0f0f0;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-size: 12px;
+        }
+        
+        /* 加载状态 */
+        .loading {
+            text-align: center;
+            padding: 80px 20px;
+        }
+        
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 3px solid #e0e0e0;
+            border-top-color: var(--primary);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            margin: 0 auto 16px;
+        }
+        
+        @keyframes spin { to { transform: rotate(360deg); } }
+        
+        .empty {
+            text-align: center;
+            padding: 80px 20px;
+            color: var(--text-sub);
+        }
+        
+        /* 响应式 */
+        @media (max-width: 768px) {
+            .container { padding: 0 12px; }
+            .card-image { height: 250px; }
+            .card-title { font-size: 18px; }
+            .card-content { padding: 16px; }
+        }
+    </style>
 </head>
 <body>
-    <header class="site-header">
-        <div class="container">
-            <h1>🤖 AI Daily Report</h1>
-            <p class="subtitle">每日 AI、科技、加密货币资讯速览</p>
-            <div class="header-meta">
-                <span id="last-updated">加载中...</span>
-                <button onclick="loadNews()" class="refresh-btn">🔄 刷新</button>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-inner">
+            <a href="#" class="logo">🔥 AI Daily</a>
+            <div class="header-right">
+                <span id="update-time">更新中...</span>
+                <button class="refresh-btn" onclick="loadNews()">🔄 刷新</button>
             </div>
         </div>
     </header>
 
-    <main class="container">
-        <!-- 分类筛选 -->
-        <nav class="category-nav">
-            <button class="cat-btn active" data-category="all">全部</button>
-            <button class="cat-btn" data-category="ai">🤖 AI</button>
-            <button class="cat-btn" data-category="tech">💻 科技</button>
-            <button class="cat-btn" data-category="crypto">₿ 加密</button>
+    <!-- 分类 -->
+    <div class="container">
+        <nav class="category-tags">
+            <a class="cat-tag active" data-cat="all" onclick="switchCategory('all')">推荐</a>
+            <a class="cat-tag" data-cat="ai" onclick="switchCategory('ai')">🤖 AI</a>
+            <a class="cat-tag" data-cat="tech" onclick="switchCategory('tech')">💻 科技</a>
+            <a class="cat-tag" data-cat="crypto" onclick="switchCategory('crypto')">₿ 加密</a>
         </nav>
+    </div>
 
-        <!-- 加载状态 -->
-        <div id="loading" class="loading">
-            <div class="spinner"></div>
-            <p>正在加载资讯...</p>
-        </div>
+    <!-- 加载 -->
+    <div id="loading" class="loading">
+        <div class="spinner"></div>
+        <p>正在加载资讯...</p>
+    </div>
 
-        <!-- 新闻列表 -->
-        <div id="news-grid" class="news-grid"></div>
-        
-        <!-- 无数据提示 -->
-        <div id="empty" class="empty" style="display:none;">
-            <p>暂无资讯</p>
-        </div>
+    <!-- 新闻流 -->
+    <main class="container">
+        <div id="news-list" class="news-list"></div>
     </main>
 
-    <footer class="site-footer">
-        <div class="container">
-            <p>© 2026 AI Daily Report | 自动更新于 GitHub Actions</p>
-            <p><a href="feed.xml">📡 RSS 订阅</a> | <a href="https://github.com/LP2425158457/AI-Daily-Report">GitHub</a></p>
-        </div>
-    </footer>
+    <!-- 空状态 -->
+    <div id="empty" class="empty" style="display: none;">
+        <p>暂无内容，点击刷新试试</p>
+    </div>
 
     <script>
-        let allNews = [];
+        let newsData = { ai: [], tech: [], crypto: [], news: [] };
         let currentCategory = 'all';
 
-        // 加载新闻
         async function loadNews() {
             const loading = document.getElementById('loading');
-            const newsGrid = document.getElementById('news-grid');
+            const newsList = document.getElementById('news-list');
             const empty = document.getElementById('empty');
             
             loading.style.display = 'block';
-            newsGrid.innerHTML = '';
+            newsList.style.display = 'none';
             empty.style.display = 'none';
             
             try {
-                const response = await fetch('data/news.json');
-                const data = await response.json();
+                const res = await fetch('data/news.json?' + Date.now());
+                const data = await res.json();
                 
-                allNews = data.news;
+                newsData = data.categories || { ai: [], tech: [], crypto: [] };
+                newsData.news = data.news || [];
                 
-                // 更新时间显示
                 const date = new Date(data.last_updated);
-                document.getElementById('last-updated').textContent = 
-                    `🕐 最后更新: ${date.toLocaleString('zh-CN')}`;
+                document.getElementById('update-time').textContent = 
+                    '🕐 ' + date.toLocaleString('zh-CN');
                 
                 renderNews();
-            } catch (error) {
-                console.error('加载失败:', error);
+            } catch (err) {
+                console.error(err);
                 empty.style.display = 'block';
-                empty.innerHTML = '<p>加载失败，请稍后重试</p>';
             } finally {
                 loading.style.display = 'none';
             }
         }
 
-        // 渲染新闻卡片
         function renderNews() {
-            const newsGrid = document.getElementById('news-grid');
+            const newsList = document.getElementById('news-list');
             const empty = document.getElementById('empty');
             
-            // 筛选
-            const filtered = currentCategory === 'all' 
-                ? allNews 
-                : allNews.filter(n => n.category === currentCategory);
+            let items = [];
+            if (currentCategory === 'all') {
+                items = newsData.news.slice(0, 30);
+            } else {
+                items = newsData[currentCategory] || [];
+            }
             
-            if (filtered.length === 0) {
-                newsGrid.innerHTML = '';
+            if (items.length === 0) {
+                newsList.style.display = 'none';
                 empty.style.display = 'block';
                 return;
             }
             
             empty.style.display = 'none';
+            newsList.style.display = 'block';
             
-            newsGrid.innerHTML = filtered.map(news => `
-                <article class="news-card" data-category="${news.category}">
-                    <div class="card-image">
-                        <img src="${news.image || 'https://via.placeholder.com/400x200?text=News'}" 
-                             alt="${news.title}" 
-                             onerror="this.src='https://via.placeholder.com/400x200?text=News'">
-                        <span class="category-tag category-${news.category}">${getCategoryName(news.category)}</span>
-                    </div>
+            newsList.innerHTML = items.map(item => `
+                <article class="news-card" onclick="window.open('${item.url}', '_blank')">
+                    <img src="${item.image}" 
+                         alt="${item.title}" 
+                         class="card-image"
+                         onerror="this.src='https://via.placeholder.com/800x400?text=News'">
                     <div class="card-content">
-                        <h3 class="card-title">
-                            <a href="${news.url}" target="_blank" rel="noopener">${news.title}</a>
-                        </h3>
-                        <p class="card-summary">${news.summary || '暂无摘要'}</p>
+                        <h2 class="card-title">${item.title}</h2>
                         <div class="card-meta">
-                            <span class="source">${news.source}</span>
-                            <span class="domain">${news.domain}</span>
+                            <span class="source-tag">${item.source}</span>
+                            <span>${item.category || '综合'}</span>
                         </div>
                     </div>
                 </article>
             `).join('');
         }
 
-        // 分类名称
-        function getCategoryName(cat) {
-            const names = { ai: 'AI', tech: '科技', crypto: '加密', general: '综合' };
-            return names[cat] || '综合';
+        function switchCategory(cat) {
+            document.querySelectorAll('.cat-tag').forEach(el => {
+                el.classList.toggle('active', el.dataset.cat === cat);
+            });
+            currentCategory = cat;
+            renderNews();
         }
 
-        // 分类切换
-        document.querySelectorAll('.cat-btn').forEach(btn => {
-            btn.addEventListener('click', () => {
-                document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
-                btn.classList.add('active');
-                currentCategory = btn.dataset.category;
-                renderNews();
-            });
-        });
-
-        // 页面加载
         document.addEventListener('DOMContentLoaded', loadNews);
     </script>
 </body>
