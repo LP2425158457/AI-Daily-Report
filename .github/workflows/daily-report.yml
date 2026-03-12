@@ -12,11 +12,16 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 开启写入权限
     
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-        
+        with:
+          ref: main
+          fetch-depth: 0
+          
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -24,19 +29,19 @@ jobs:
           
       - name: Install dependencies
         run: |
-          pip install feedparser beautifulsoup4 requests markdown2 jinja2 Pillow
+          pip install feedparser beautifulsoup4 requests jinja2 Pillow
           
       - name: Generate daily report
         env:
-          # 可选的 API Key（用于更智能的摘要）
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python scripts/generate_report.py
-        shell: bash
         
       - name: Commit and push
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
           git diff --staged --quiet || git commit -m "Daily report $(date +%Y-%m-%d)"
-          git push
+          git push https://x-access-token:$GH_TOKEN@github.com/${{ github.repository }} main
