@@ -8,6 +8,18 @@ layout: post
 
 ## 🤖 AI 资讯
 
+### Returning to Rails in 2026
+
+> 来源：Hacker News | 分类：AI
+
+<a href="https://news.ycombinator.com/item?id=47347064">Comments</a>...
+
+
+
+[阅读原文](https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/)
+
+---
+
 ### Show HN: s@: decentralized social networking over static sites
 
 > 来源：Hacker News | 分类：AI
@@ -20,15 +32,15 @@ layout: post
 
 ---
 
-### WireGuard Is Two Things
+### SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]
 
 > 来源：Hacker News | 分类：AI
 
-<a href="https://news.ycombinator.com/item?id=47346511">Comments</a>...
+<a href="https://news.ycombinator.com/item?id=47347362">Comments</a>...
 
 
 
-[阅读原文](https://www.proxylity.com/articles/wireguard-is-two-things.html)
+[阅读原文](https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf)
 
 ---
 
@@ -41,18 +53,6 @@ layout: post
 
 
 [阅读原文](https://bloomberg.github.io/js-blog/post/temporal/)
-
----
-
-### Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results
-
-> 来源：Hacker News | 分类：AI
-
-<a href="https://news.ycombinator.com/item?id=47296568">Comments</a>...
-
-
-
-[阅读原文](https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/)
 
 ---
 
@@ -80,6 +80,30 @@ layout: post
 
 ---
 
+### Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results
+
+> 来源：Hacker News | 分类：AI
+
+<a href="https://news.ycombinator.com/item?id=47296568">Comments</a>...
+
+
+
+[阅读原文](https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/)
+
+---
+
+### Datahäxan
+
+> 来源：Hacker News | 分类：AI
+
+<a href="https://news.ycombinator.com/item?id=47310617">Comments</a>...
+
+
+
+[阅读原文](https://0dd.company/galleries/witches/7.html)
+
+---
+
 ### Many SWE-bench-Passing PRs would not be merged
 
 > 来源：Hacker News | 分类：AI
@@ -89,30 +113,6 @@ layout: post
 
 
 [阅读原文](https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/)
-
----
-
-### Iran-backed hackers claim wiper attack on medtech firm Stryker
-
-> 来源：Hacker News | 分类：AI
-
-<a href="https://news.ycombinator.com/item?id=47346091">Comments</a>...
-
-
-
-[阅读原文](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
-
----
-
-### Don't post generated/AI-edited comments. HN is for conversation between humans
-
-> 来源：Hacker News | 分类：AI
-
-<a href="https://news.ycombinator.com/item?id=47340079">Comments</a>...
-
-
-
-[阅读原文](https://news.ycombinator.com/newsguidelines.html#generated)
 
 ---
 
@@ -129,6 +129,33 @@ layout: post
 ---
 
 ## 💻 科技资讯
+
+### 硬氪独家 | 中科院博士创业光学芯片，主攻3D机器视觉和AI微显，已实现稳定量产
+
+> 来源：36kr | 分类：科技
+
+<p>作者&nbsp;|&nbsp;乔钰杰</p>
+  <p>编辑&nbsp;|&nbsp;袁斯来</p>
+  <p>硬氪获悉，中科融合感知智能研究院（苏州工业园区）有限公司（下称“中科融合”）近日宣布完成新一轮近亿元融资，本轮由松禾资本与长兴基金等机构联合投资。创立&nbsp;8&nbsp;年来，公司已完成多轮融资，背后股东包括松禾资本、华映资本、清华水木创投、硅港资本、凌云光、万讯自控等多家产...
+
+![硬氪独家 | 中科院博士创业光学芯片，主攻3D机器视觉和AI微显，已实现稳定量产](https://img.36krcdn.com/hsossms/20260312/v2_7e6f1523d00b4cd698c076f385502602@5920579_oswg486788oswg927oswg603_img_000?x-oss-process=image/format,jpg/interlace,1)
+
+[阅读原文](https://36kr.com/p/3719635474511237?f=rss)
+
+---
+
+### 科氪｜全系旗舰亮相AWE2026，石头科技展示从技术到市场的系统性实力
+
+> 来源：36kr | 分类：科技
+
+<p>2026年3月12日，中国家电及消费电子博览会（AWE2026）在上海开幕。全球智能清洁行业领导品牌石头科技，集中呈现了其在家庭清洁领域的前沿技术布局与成果，系统展示了覆盖扫地机器人、洗地机、洗衣机三大品类的全系旗舰产品，并携手人民日报健康客户端联合发布了《2026家庭地面清洁标准白皮书》。</p>
+  <p>这一系列组合举措，展现了头部企业从提供产品到定义体验、参与构建行业标准的系统性能力...
+
+![科氪｜全系旗舰亮相AWE2026，石头科技展示从技术到市场的系统性实力](https://img.36krcdn.com/hsossms/20260312/v2_e3d380af0e764910b987d27c1d112062@517825446_oswg1751957oswg4000oswg2666_img_jpeg?x-oss-process=image/quality,q_90/format,jpg/interlace,1)
+
+[阅读原文](https://36kr.com/p/3719613233640839?f=rss)
+
+---
 
 ### 自研全球最小行星滚柱丝杠，量产价格降至百元级，「诺仕机器人」完成超亿元A轮融资｜水下项目
 
@@ -237,31 +264,43 @@ Swedish vibe-coding unicorn Lovable crossed $400 million in annual recurring rev
 
 ---
 
-### iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID
-
-> 来源：The Verge | 分类：科技
-
-Apple's rumored foldable iPhone will come with an iPad-style interface that will allow users to view apps side-by-side, according to a report from Bloomberg's Mark Gurman. Gurman also reports that the...
-
-
-
-[阅读原文](https://www.theverge.com/tech/893429/iphone-fold-rumor-ipad-multitasking-face-id-rumor)
-
----
-
-### Some of the best horror games ever made are included in Humble’s latest $15 bundle
-
-> 来源：The Verge | 分类：科技
-
-Humble has teamed up with Frictional Games for a new bundle of PC games that pushed the horror genre forward. The bundle includes the Penumbra Collectors Pack, all four Amnesia titles (The Dark Descen...
-
-
-
-[阅读原文](https://www.theverge.com/gadgets/893314/frictional-games-amnesia-soma-humble-bundle-deal-sale-steam)
-
----
-
 ## ₿ 加密货币
+
+### Meet LITRO: The tokenized crude project to start pilot testing soon for 2027 debut
+
+> 来源：CoinDesk | 分类：加密货币
+
+...
+
+![Meet LITRO: The tokenized crude project to start pilot testing soon for 2027 debut](https://cdn.sanity.io/images/s3y3vcno/production/773c8d9e27bc8ab7bbacd23880e8614f1a301527-1920x1459.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip)
+
+[阅读原文](https://www.coindesk.com/markets/2026/03/12/meet-litro-the-tokenized-crude-project-to-start-pilot-testing-soon-for-2027-debut)
+
+---
+
+### Asia’s biggest bitcoin buyer now wants to build the BTC ecosystem
+
+> 来源：CoinDesk | 分类：加密货币
+
+...
+
+![Asia’s biggest bitcoin buyer now wants to build the BTC ecosystem](https://cdn.sanity.io/images/s3y3vcno/production/2b80c002c296863a2eea4fb98ebe974ae5cf997f-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip)
+
+[阅读原文](https://www.coindesk.com/markets/2026/03/12/asia-s-biggest-bitcoin-buyer-now-wants-to-further-build-the-btc-ecosystem)
+
+---
+
+### Across's acx rockets 80%, massively beating bitcoin, on plans to dump its DAO structure
+
+> 来源：CoinDesk | 分类：加密货币
+
+...
+
+![Across's acx rockets 80%, massively beating bitcoin, on plans to dump its DAO structure](https://cdn.sanity.io/images/s3y3vcno/production/131b3b926cccfbe4bf54e3d8d930962af4231120-1271x619.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip)
+
+[阅读原文](https://www.coindesk.com/markets/2026/03/12/across-s-acx-rockets-80-massively-beating-bitcoin-on-plans-to-dump-its-dao-structure)
+
+---
 
 ### XRP steadies near $1.38 as Bollinger squeeze hints at breakout before CPI
 
@@ -323,30 +362,6 @@ Humble has teamed up with Frictional Games for a new bundle of PC games that pus
 
 ---
 
-### Ripple's share buyback program values the firm at $50 billion
-
-> 来源：CoinDesk | 分类：加密货币
-
-...
-
-![Ripple's share buyback program values the firm at $50 billion](https://cdn.sanity.io/images/s3y3vcno/production/b6d44b1a0f70b26c756c4e4603c2b567c9ab531f-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip)
-
-[阅读原文](https://www.coindesk.com/business/2026/03/11/ripple-s-share-buyback-program-values-the-firm-at-usd50-billion-bloomberg)
-
----
-
-### Bloomberg strategist doubles down on $10,000 bitcoin call but peers say it would take a nuclear war to get there
-
-> 来源：CoinDesk | 分类：加密货币
-
-...
-
-![Bloomberg strategist doubles down on $10,000 bitcoin call but peers say it would take a nuclear war to get there](https://cdn.sanity.io/images/s3y3vcno/production/ea8e1928d0d5811a7ae0cae6f6d5ad3d5dd2b714-2932x1649.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip)
-
-[阅读原文](https://www.coindesk.com/markets/2026/03/11/bloomberg-strategist-doubles-down-on-usd10-000-bitcoin-call-but-peers-say-it-would-take-a-nuclear-war-to-get-there)
-
----
-
 ### New Zealand regulator says NZDD stablecoin not a financial product
 
 > 来源：CoinTelegraph | 分类：加密货币
@@ -371,19 +386,7 @@ Humble has teamed up with Frictional Games for a new bundle of PC games that pus
 
 ---
 
-### Binance.US names new CEO as crypto exchange eyes expansion
-
-> 来源：CoinTelegraph | 分类：加密货币
-
-<p style="float: right; margin: 0 0 10px 15px; width: 240px;"><img alt="Binance.US names new CEO as crypto exchange eyes expansion" class="type:primaryImage" src="https://images.cointelegraph.com/imag...
-
-![Binance.US names new CEO as crypto exchange eyes expansion](https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2RmN2UtOTNkZS03N2EyLWFiZmQtMDYyMWVhNWE0ODIzLmpwZw==.jpg)
-
-[阅读原文](https://cointelegraph.com/news/binance-us-names-new-ceo-crypto-exchange-eyes-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 ---
 
-
----
-
-*本日报由 AI 自动生成，更新时间：2026-03-12 06:42:36*
+*本日报由 AI 自动生成，更新时间：2026-03-12 07:49:41*
