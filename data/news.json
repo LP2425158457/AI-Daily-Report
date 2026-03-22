@@ -1,69 +1,78 @@
 {
-  "last_updated": "2026-03-21T01:19:52.455577",
-  "total": 59,
+  "last_updated": "2026-03-22T01:29:09.022576",
+  "total": 60,
   "news": [
     {
-      "title": "OpenCode – The open source AI coding agent",
-      "url": "https://opencode.ai/",
+      "title": "Tinybox – Offline AI device 120B parameters",
+      "url": "https://tinygrad.org/#tinybox",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47460525\">Comments</a>",
-      "id": "b12f333bb82b"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47470773\">Comments</a>",
+      "id": "0bf35657441a"
     },
     {
-      "title": "Our commitment to Windows quality",
-      "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
+      "title": "Professional video editing, right in the browser with WebGPU and WASM",
+      "url": "https://tooscut.app/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47459296\">Comments</a>",
-      "id": "e7998526f17e"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47471601\">Comments</a>",
+      "id": "3ab39655d90d"
     },
     {
-      "title": "We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster",
-      "url": "https://www.openui.com/blog/rust-wasm-parser",
+      "title": "Some things just take time",
+      "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47461094\">Comments</a>",
-      "id": "0db0197edaf2"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47467537\">Comments</a>",
+      "id": "fa8cc3166c57"
     },
     {
-      "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
-      "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+      "title": "Boomloom: Think with your hands",
+      "url": "https://www.theboomloom.com",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47462483\">Comments</a>",
-      "id": "87462083bdcd"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47457570\">Comments</a>",
+      "id": "7bd0ea051b54"
     },
     {
-      "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
-      "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+      "title": "Do Not Turn Child Protection into Internet Access Control",
+      "url": "https://news.dyne.org/child-protection-is-not-access-control/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47453942\">Comments</a>",
-      "id": "78c12fef7ba8"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47470991\">Comments</a>",
+      "id": "ed6217e5685c"
     },
     {
-      "title": "Lent and Lisp",
-      "url": "https://leancrew.com/all-this/2026/02/lent-and-lisp/",
+      "title": "Bayesian statistics for confused data scientists",
+      "url": "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47425257\">Comments</a>",
-      "id": "8d0a5101661e"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47428953\">Comments</a>",
+      "id": "b565c0d0612c"
     },
     {
-      "title": "Attention Residuals",
-      "url": "https://github.com/MoonshotAI/Attention-Residuals",
+      "title": "Trivy ecosystem supply chain briefly compromised",
+      "url": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47458595\">Comments</a>",
-      "id": "22b236707d47"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47450142\">Comments</a>",
+      "id": "5b0b1e03b5e0"
+    },
+    {
+      "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
+      "url": "https://grafeo.dev/",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47467567\">Comments</a>",
+      "id": "25a411ec8899"
     },
     {
       "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
@@ -210,6 +219,15 @@
       "id": "c26def4cb3eb"
     },
     {
+      "title": "App+1｜给「类原生」用户的来电拦截工具：Pixel Telo",
+      "url": "https://sspai.com/post/107136",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "如果你也是国内的 Pixel 或类原生系统用户，正被骚扰电话困扰，不妨试试这款向经典致敬、又融入了现代设计的工具。<a href=\"https://sspai.com/post/107136\" target=\"_blank\">查看全文</a>",
+      "id": "68a0c0a4e944"
+    },
+    {
       "title": "本周看什么 | 最近值得一看的 12 部作品",
       "url": "https://sspai.com/post/107582",
       "image": "",
@@ -273,67 +291,13 @@
       "id": "b3e082cb33ce"
     },
     {
-      "title": "杀死你的不是它：聊聊我们的 AI 的焦虑",
-      "url": "https://sspai.com/post/106923",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "不要让「自我」在洪流中溶解。祝你成为自己 :)<a href=\"https://sspai.com/post/106923\" target=\"_blank\">查看全文</a>",
-      "id": "e0828d0889af"
-    },
-    {
-      "title": "Grayscale files S-1 for Hyperliquid ETF, joining Bitwise, 21Shares",
-      "url": "https://cointelegraph.com/news/grayscale-files-sec-papers-for-hyperliquid-etf-joining-bitwise-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZmYzgtMGQ3OS03MTFiLTk2ZTAtNzQwMThmNjE5YTA3LmpwZw==.jpg",
+      "title": "CFTC staff clarify expectations on using crypto as collateral",
+      "url": "https://cointelegraph.com/news/cftc-staff-clarify-expectations-crypto-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAwMzctN2NkNS03N2I5LWJmNGUtYTJjMGFhOTI2MTM3.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Grayscale files S-1 for Hyperliquid ETF, joining Bitwise, 21Shares\" class=\"typ",
-      "id": "3caf55b2195e"
-    },
-    {
-      "title": "Rumors emerge of a CLARITY Act deal between White House and lawmakers",
-      "url": "https://cointelegraph.com/news/clarity-act-deal-white-house-lawmakers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDBkMjctYmIzNC03NTMyLTg3YWItNmVmNGY4OTQ0NGMwLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Rumors emerge of a CLARITY Act deal between White House and lawmakers\" class=\"",
-      "id": "3f9f77b77e42"
-    },
-    {
-      "title": "Bitcoin price aims to hold $70K amid rising inflation concerns",
-      "url": "https://cointelegraph.com/news/bitcoin-price-aims-to-hold-70k-amid-rising-inflation-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmMzOGEtMjU5NS03MmE0LWE1ZjctNjc3ODYxMmM2OWQ1LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price aims to hold $70K amid rising inflation concerns\" class=\"type:pr",
-      "id": "2235f49220de"
-    },
-    {
-      "title": "Google Threat Intel flags 'Ghostblade' crypto-stealing malware",
-      "url": "https://cointelegraph.com/news/google-ghostblade-crypto-stealing-malware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDBjYWItODM0ZS03MmE4LWE4MTYtZjM1YWY3NDAwNDgxLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Google Threat Intel flags 'Ghostblade' crypto-stealing malware\" class=\"type:pr",
-      "id": "c3cddf2c5aa9"
-    },
-    {
-      "title": "Crypto Biz: Institutions aren’t waiting for the bottom",
-      "url": "https://cointelegraph.com/news/crypto-biz-institutional-crypto-demand-stablecoins-abra-spac-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDBjMzctMzgzZS03NDFlLTk0OTEtNmNlZTFmOTJlZDEwLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Institutions aren’t waiting for the bottom\" class=\"type:primaryIma",
-      "id": "09062df9e041"
-    },
-    {
-      "title": "Ledger hires ex-Circle exec as CFO, opens NYC office to expand US business",
-      "url": "https://cointelegraph.com/news/ledger-hires-ex-circle-executive-opens-nyc-office?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzQ4ZjAtMzI0OC03ZWQ5LTg0N2YtM2JkNDdjNGIyNjQxLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger hires ex-Circle exec as CFO, opens NYC office to expand US business\" cl",
-      "id": "231d0214d90c"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC staff clarify expectations on using crypto as collateral\" class=\"type:pri",
+      "id": "02c3f48e11af"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -345,13 +309,76 @@
       "id": "772e97788bfd"
     },
     {
-      "title": "Ether taker volume hits 3-year high: Will ETH avoid a 19% price decline?",
-      "url": "https://cointelegraph.com/news/ether-taker-volume-hits-3-year-high-will-eth-avoid-a-19percent-price-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU0OWYtYjdjZC03ZDFlLThjZjctYjE4Y2QzYTA4Zjdj.jpg",
+      "title": "Brazil's finance minister shelves crypto tax policy due to election: Report",
+      "url": "https://cointelegraph.com/news/brazil-finance-minister-shelves-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjE2OWQtMzVhNS03ZGViLTkyOWItZjRkZDQ1MDAwNDEzLmpwZw==.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether taker volume hits 3-year high: Will ETH avoid a 19% price decline?\" clas",
-      "id": "b565b2a22f8d"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Brazil's finance minister shelves crypto tax policy due to election: Report\" c",
+      "id": "c8541dc6e373"
+    },
+    {
+      "title": "SEC crypto guidance puts the 'final nail' in the Gensler era: Analyst",
+      "url": "https://cointelegraph.com/news/sec-crypto-guidance-final-nail-gensler-era?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDExN2MtNjIxMC03N2I2LTk3NzUtMTE4M2YwMjM1NTU3LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC crypto guidance puts the 'final nail' in the Gensler era: Analyst\" class=\"",
+      "id": "eba1ea8ac4ed"
+    },
+    {
+      "title": "Bitcoin options signal fear even as BTC ETF outflows remain relatively low",
+      "url": "https://cointelegraph.com/news/bitcoin-options-signal-fear-even-as-btc-etf-outflows-remain-relatively-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTQ1MWQtNTFhZi03NTM0LTk1YzUtYjAzOWYwNDQ2Yjdh.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin options signal fear even as BTC ETF outflows remain relatively low\" cl",
+      "id": "1669898706f2"
+    },
+    {
+      "title": "Ethereum eyes 25% rally as richest ETH whales return to 'profitable state'",
+      "url": "https://cointelegraph.com/news/ethereum-25-rally-richest-eth-whale-return-profitable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDEwYTYtZjZlYy03MWM0LWFiNDktZDNlZmEyYzAyMTBhLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum eyes 25% rally as richest ETH whales return to 'profitable state'\" cl",
+      "id": "679917eb5bf4"
+    },
+    {
+      "title": "Hong Kong retiree loses $840K in triple ‘crypto expert’ scam",
+      "url": "https://cointelegraph.com/news/hong-kong-retiree-loses-840k-triple-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmMwNjgtYzdiYi03MjY0LTk3NmQtN2ZjYWY5ODNjOWEwLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hong Kong retiree loses $840K in triple ‘crypto expert’ scam\" class=\"type:prim",
+      "id": "1950076fef65"
+    },
+    {
+      "title": "Bitcoin mining difficulty falls 7.7% as miner pressure persists",
+      "url": "https://cointelegraph.com/news/bitcoin-mining-difficulty-drops-7-7-miner-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjk4OTktNTdlNi03ZGM4LWJiNjctZTU0ODlhYWZlMzJhLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin mining difficulty falls 7.7% as miner pressure persists\" class=\"type:p",
+      "id": "ea44d64ed275"
+    },
+    {
+      "title": "The 7 Largest Publicly Traded Ethereum Treasury Firms",
+      "url": "https://decrypt.co/335519/7-largest-publicly-traded-ethereum-treasury-firms",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-07-gID_7.jpg@png",
+      "source": "Decrypt",
+      "category": "crypto",
+      "summary": "Publicly traded firms are now stacking Ethereum, pulling in billions of dollars of ETH. These are the largest holders.",
+      "id": "ef1d9726a05a"
+    },
+    {
+      "title": "Strategy Now Holds $54 Billion in Bitcoin—These Are Its Biggest Buys",
+      "url": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/michael-saylor-bitcoin-lightning-x-twitter-gID_7.png@png",
+      "source": "Decrypt",
+      "category": "crypto",
+      "summary": "How did Michael Saylor's firm amass a record stash of Bitcoin? Here's a look back at how Strategy made such massive gains.",
+      "id": "68b3fdbded78"
     },
     {
       "title": "Bitcoin Has Stabilized, But Investors Are Paying Up for Downside Protection: VanEck",
@@ -406,24 +433,6 @@
       "category": "crypto",
       "summary": "The Trump administration's framework outlines a national approach to AI policy, from child safety to data centers.",
       "id": "f040fa8d41a8"
-    },
-    {
-      "title": "Eightco Boosts OpenAI Investment After BitMine's Tom Lee Joins Board",
-      "url": "https://decrypt.co/361920/eightco-boosts-openai-investment-bitmine-tom-lee-joins-board",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Publicly traded blockchain and AI firm Eightco upped its investment in the private firm behind ChatGPT, OpenAI.",
-      "id": "e6f1806530ee"
-    },
-    {
-      "title": "Gemini Faces Class-Action Suit Over Prediction Market Pivot, Plummeting Stock Price",
-      "url": "https://decrypt.co/361922/gemini-faces-class-action-suit-prediction-market-stock-price",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/cameron-tyler-winklevoss-twins-decrypt-style-gID_7.jpg@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Shareholders claim the Winklevoss twins failed to disclose plans to shift Gemini’s focus, and overstated the viability of its ambitions.",
-      "id": "9c17c61938d6"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -647,67 +656,76 @@
     ],
     "tech": [
       {
-        "title": "OpenCode – The open source AI coding agent",
-        "url": "https://opencode.ai/",
+        "title": "Tinybox – Offline AI device 120B parameters",
+        "url": "https://tinygrad.org/#tinybox",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47460525\">Comments</a>",
-        "id": "b12f333bb82b"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47470773\">Comments</a>",
+        "id": "0bf35657441a"
       },
       {
-        "title": "Our commitment to Windows quality",
-        "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
+        "title": "Professional video editing, right in the browser with WebGPU and WASM",
+        "url": "https://tooscut.app/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47459296\">Comments</a>",
-        "id": "e7998526f17e"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47471601\">Comments</a>",
+        "id": "3ab39655d90d"
       },
       {
-        "title": "We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster",
-        "url": "https://www.openui.com/blog/rust-wasm-parser",
+        "title": "Some things just take time",
+        "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47461094\">Comments</a>",
-        "id": "0db0197edaf2"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47467537\">Comments</a>",
+        "id": "fa8cc3166c57"
       },
       {
-        "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
-        "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+        "title": "Boomloom: Think with your hands",
+        "url": "https://www.theboomloom.com",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47462483\">Comments</a>",
-        "id": "87462083bdcd"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47457570\">Comments</a>",
+        "id": "7bd0ea051b54"
       },
       {
-        "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
-        "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+        "title": "Do Not Turn Child Protection into Internet Access Control",
+        "url": "https://news.dyne.org/child-protection-is-not-access-control/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47453942\">Comments</a>",
-        "id": "78c12fef7ba8"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47470991\">Comments</a>",
+        "id": "ed6217e5685c"
       },
       {
-        "title": "Lent and Lisp",
-        "url": "https://leancrew.com/all-this/2026/02/lent-and-lisp/",
+        "title": "Bayesian statistics for confused data scientists",
+        "url": "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47425257\">Comments</a>",
-        "id": "8d0a5101661e"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47428953\">Comments</a>",
+        "id": "b565c0d0612c"
       },
       {
-        "title": "Attention Residuals",
-        "url": "https://github.com/MoonshotAI/Attention-Residuals",
+        "title": "Trivy ecosystem supply chain briefly compromised",
+        "url": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47458595\">Comments</a>",
-        "id": "22b236707d47"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47450142\">Comments</a>",
+        "id": "5b0b1e03b5e0"
+      },
+      {
+        "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
+        "url": "https://grafeo.dev/",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47467567\">Comments</a>",
+        "id": "25a411ec8899"
       },
       {
         "title": "北美何时开始使用弓箭",
@@ -782,6 +800,15 @@
         "id": "c26def4cb3eb"
       },
       {
+        "title": "App+1｜给「类原生」用户的来电拦截工具：Pixel Telo",
+        "url": "https://sspai.com/post/107136",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "如果你也是国内的 Pixel 或类原生系统用户，正被骚扰电话困扰，不妨试试这款向经典致敬、又融入了现代设计的工具。<a href=\"https://sspai.com/post/107136\" target=\"_blank\">查看全文</a>",
+        "id": "68a0c0a4e944"
+      },
+      {
         "title": "本周看什么 | 最近值得一看的 12 部作品",
         "url": "https://sspai.com/post/107582",
         "image": "",
@@ -845,15 +872,6 @@
         "id": "b3e082cb33ce"
       },
       {
-        "title": "杀死你的不是它：聊聊我们的 AI 的焦虑",
-        "url": "https://sspai.com/post/106923",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "不要让「自我」在洪流中溶解。祝你成为自己 :)<a href=\"https://sspai.com/post/106923\" target=\"_blank\">查看全文</a>",
-        "id": "e0828d0889af"
-      },
-      {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
         "source": "MacRumors",
         "category": "tech",
@@ -892,58 +910,13 @@
     ],
     "crypto": [
       {
-        "title": "Grayscale files S-1 for Hyperliquid ETF, joining Bitwise, 21Shares",
-        "url": "https://cointelegraph.com/news/grayscale-files-sec-papers-for-hyperliquid-etf-joining-bitwise-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZmYzgtMGQ3OS03MTFiLTk2ZTAtNzQwMThmNjE5YTA3LmpwZw==.jpg",
+        "title": "CFTC staff clarify expectations on using crypto as collateral",
+        "url": "https://cointelegraph.com/news/cftc-staff-clarify-expectations-crypto-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAwMzctN2NkNS03N2I5LWJmNGUtYTJjMGFhOTI2MTM3.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Grayscale files S-1 for Hyperliquid ETF, joining Bitwise, 21Shares\" class=\"typ",
-        "id": "3caf55b2195e"
-      },
-      {
-        "title": "Rumors emerge of a CLARITY Act deal between White House and lawmakers",
-        "url": "https://cointelegraph.com/news/clarity-act-deal-white-house-lawmakers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDBkMjctYmIzNC03NTMyLTg3YWItNmVmNGY4OTQ0NGMwLmpwZw==.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Rumors emerge of a CLARITY Act deal between White House and lawmakers\" class=\"",
-        "id": "3f9f77b77e42"
-      },
-      {
-        "title": "Bitcoin price aims to hold $70K amid rising inflation concerns",
-        "url": "https://cointelegraph.com/news/bitcoin-price-aims-to-hold-70k-amid-rising-inflation-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmMzOGEtMjU5NS03MmE0LWE1ZjctNjc3ODYxMmM2OWQ1LmpwZw==.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price aims to hold $70K amid rising inflation concerns\" class=\"type:pr",
-        "id": "2235f49220de"
-      },
-      {
-        "title": "Google Threat Intel flags 'Ghostblade' crypto-stealing malware",
-        "url": "https://cointelegraph.com/news/google-ghostblade-crypto-stealing-malware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDBjYWItODM0ZS03MmE4LWE4MTYtZjM1YWY3NDAwNDgxLmpwZw==.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Google Threat Intel flags 'Ghostblade' crypto-stealing malware\" class=\"type:pr",
-        "id": "c3cddf2c5aa9"
-      },
-      {
-        "title": "Crypto Biz: Institutions aren’t waiting for the bottom",
-        "url": "https://cointelegraph.com/news/crypto-biz-institutional-crypto-demand-stablecoins-abra-spac-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDBjMzctMzgzZS03NDFlLTk0OTEtNmNlZTFmOTJlZDEwLmpwZw==.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Institutions aren’t waiting for the bottom\" class=\"type:primaryIma",
-        "id": "09062df9e041"
-      },
-      {
-        "title": "Ledger hires ex-Circle exec as CFO, opens NYC office to expand US business",
-        "url": "https://cointelegraph.com/news/ledger-hires-ex-circle-executive-opens-nyc-office?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzQ4ZjAtMzI0OC03ZWQ5LTg0N2YtM2JkNDdjNGIyNjQxLmpwZw==.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger hires ex-Circle exec as CFO, opens NYC office to expand US business\" cl",
-        "id": "231d0214d90c"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC staff clarify expectations on using crypto as collateral\" class=\"type:pri",
+        "id": "02c3f48e11af"
       },
       {
         "title": "Here’s what happened in crypto today",
@@ -955,13 +928,76 @@
         "id": "772e97788bfd"
       },
       {
-        "title": "Ether taker volume hits 3-year high: Will ETH avoid a 19% price decline?",
-        "url": "https://cointelegraph.com/news/ether-taker-volume-hits-3-year-high-will-eth-avoid-a-19percent-price-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU0OWYtYjdjZC03ZDFlLThjZjctYjE4Y2QzYTA4Zjdj.jpg",
+        "title": "Brazil's finance minister shelves crypto tax policy due to election: Report",
+        "url": "https://cointelegraph.com/news/brazil-finance-minister-shelves-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjE2OWQtMzVhNS03ZGViLTkyOWItZjRkZDQ1MDAwNDEzLmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether taker volume hits 3-year high: Will ETH avoid a 19% price decline?\" clas",
-        "id": "b565b2a22f8d"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Brazil's finance minister shelves crypto tax policy due to election: Report\" c",
+        "id": "c8541dc6e373"
+      },
+      {
+        "title": "SEC crypto guidance puts the 'final nail' in the Gensler era: Analyst",
+        "url": "https://cointelegraph.com/news/sec-crypto-guidance-final-nail-gensler-era?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDExN2MtNjIxMC03N2I2LTk3NzUtMTE4M2YwMjM1NTU3LmpwZw==.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC crypto guidance puts the 'final nail' in the Gensler era: Analyst\" class=\"",
+        "id": "eba1ea8ac4ed"
+      },
+      {
+        "title": "Bitcoin options signal fear even as BTC ETF outflows remain relatively low",
+        "url": "https://cointelegraph.com/news/bitcoin-options-signal-fear-even-as-btc-etf-outflows-remain-relatively-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTQ1MWQtNTFhZi03NTM0LTk1YzUtYjAzOWYwNDQ2Yjdh.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin options signal fear even as BTC ETF outflows remain relatively low\" cl",
+        "id": "1669898706f2"
+      },
+      {
+        "title": "Ethereum eyes 25% rally as richest ETH whales return to 'profitable state'",
+        "url": "https://cointelegraph.com/news/ethereum-25-rally-richest-eth-whale-return-profitable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDEwYTYtZjZlYy03MWM0LWFiNDktZDNlZmEyYzAyMTBhLmpwZw==.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum eyes 25% rally as richest ETH whales return to 'profitable state'\" cl",
+        "id": "679917eb5bf4"
+      },
+      {
+        "title": "Hong Kong retiree loses $840K in triple ‘crypto expert’ scam",
+        "url": "https://cointelegraph.com/news/hong-kong-retiree-loses-840k-triple-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmMwNjgtYzdiYi03MjY0LTk3NmQtN2ZjYWY5ODNjOWEwLmpwZw==.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hong Kong retiree loses $840K in triple ‘crypto expert’ scam\" class=\"type:prim",
+        "id": "1950076fef65"
+      },
+      {
+        "title": "Bitcoin mining difficulty falls 7.7% as miner pressure persists",
+        "url": "https://cointelegraph.com/news/bitcoin-mining-difficulty-drops-7-7-miner-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjk4OTktNTdlNi03ZGM4LWJiNjctZTU0ODlhYWZlMzJhLmpwZw==.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin mining difficulty falls 7.7% as miner pressure persists\" class=\"type:p",
+        "id": "ea44d64ed275"
+      },
+      {
+        "title": "The 7 Largest Publicly Traded Ethereum Treasury Firms",
+        "url": "https://decrypt.co/335519/7-largest-publicly-traded-ethereum-treasury-firms",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-07-gID_7.jpg@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "Publicly traded firms are now stacking Ethereum, pulling in billions of dollars of ETH. These are the largest holders.",
+        "id": "ef1d9726a05a"
+      },
+      {
+        "title": "Strategy Now Holds $54 Billion in Bitcoin—These Are Its Biggest Buys",
+        "url": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/michael-saylor-bitcoin-lightning-x-twitter-gID_7.png@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "How did Michael Saylor's firm amass a record stash of Bitcoin? Here's a look back at how Strategy made such massive gains.",
+        "id": "68b3fdbded78"
       },
       {
         "title": "Bitcoin Has Stabilized, But Investors Are Paying Up for Downside Protection: VanEck",
@@ -1016,24 +1052,6 @@
         "category": "crypto",
         "summary": "The Trump administration's framework outlines a national approach to AI policy, from child safety to data centers.",
         "id": "f040fa8d41a8"
-      },
-      {
-        "title": "Eightco Boosts OpenAI Investment After BitMine's Tom Lee Joins Board",
-        "url": "https://decrypt.co/361920/eightco-boosts-openai-investment-bitmine-tom-lee-joins-board",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Publicly traded blockchain and AI firm Eightco upped its investment in the private firm behind ChatGPT, OpenAI.",
-        "id": "e6f1806530ee"
-      },
-      {
-        "title": "Gemini Faces Class-Action Suit Over Prediction Market Pivot, Plummeting Stock Price",
-        "url": "https://decrypt.co/361922/gemini-faces-class-action-suit-prediction-market-stock-price",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/cameron-tyler-winklevoss-twins-decrypt-style-gID_7.jpg@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Shareholders claim the Winklevoss twins failed to disclose plans to shift Gemini’s focus, and overstated the viability of its ambitions.",
-        "id": "9c17c61938d6"
       },
       {
         "title": "比特币突破 80000 美元",
