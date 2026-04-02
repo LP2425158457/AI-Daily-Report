@@ -1,78 +1,96 @@
 {
-  "last_updated": "2026-04-01T01:55:42.957930",
+  "last_updated": "2026-04-02T01:44:29.373909",
   "total": 60,
   "news": [
     {
-      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "title": "A new C++ back end for ocamlc",
+      "url": "https://github.com/ocaml/ocaml/pull/14701",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47586778\">Comments</a>",
-      "id": "b0cca5a4ac12"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47608058\">Comments</a>",
+      "id": "43ae9ec187b9"
     },
     {
-      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
-      "url": "https://arxiv.org/abs/2602.04118",
+      "title": "NASA’s Artemis II Crew Launches to the Moon",
+      "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47541733\">Comments</a>",
-      "id": "7566b4f9d72a"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47603657\">Comments</a>",
+      "id": "ab3809b8bfa4"
     },
     {
-      "title": "TruffleRuby",
-      "url": "https://chrisseaton.com/truffleruby/",
+      "title": "DRAM pricing is killing the hobbyist SBC market",
+      "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47557171\">Comments</a>",
-      "id": "44386e69aeec"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47606840\">Comments</a>",
+      "id": "87998a915103"
     },
     {
-      "title": "Ministack (Replacement for LocalStack)",
-      "url": "https://ministack.org/",
+      "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
+      "url": "https://blog.cloudflare.com/emdash-wordpress/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47593285\">Comments</a>",
-      "id": "fc8b8598997c"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47602832\">Comments</a>",
+      "id": "4738a3dc2bff"
     },
     {
-      "title": "A dot a day keeps the clutter away",
-      "url": "https://scottlawsonbc.com/post/dot-system",
+      "title": "Fast and Gorgeous Erosion Filter",
+      "url": "https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47593556\">Comments</a>",
-      "id": "3486d6b2d58f"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47584386\">Comments</a>",
+      "id": "3d1cea4928bb"
     },
     {
-      "title": "U.S. exempts oil industry from protecting Gulf animals, for 'national security'",
-      "url": "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security",
+      "title": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
+      "url": "https://github.com/hauntsaninja/git_bayesect",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47595620\">Comments</a>",
-      "id": "32209a726bd4"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47557921\">Comments</a>",
+      "id": "3623eaf1137f"
     },
     {
-      "title": "OpenAI closes funding round at an $852B valuation",
-      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "title": "AI for American-produced cement and concrete",
+      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47592755\">Comments</a>",
-      "id": "89144b9701a3"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47603737\">Comments</a>",
+      "id": "dbd74eb46eca"
     },
     {
-      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-      "url": "https://prismml.com/",
+      "title": "IPv6 address, as a sentence you can remember",
+      "url": "https://sentence2ipv6.tib3rius.com/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47593422\">Comments</a>",
-      "id": "32225cb02875"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47607923\">Comments</a>",
+      "id": "d4dab29a43e9"
+    },
+    {
+      "title": "The Download: gig workers training humanoids, and better AI benchmarks",
+      "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "id": "5c1f54684ab4"
+    },
+    {
+      "title": "The gig workers who are training humanoid robots at home",
+      "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on",
+      "id": "92699daa7684"
     },
     {
       "title": "Shifting to AI model customization is an architectural imperative",
@@ -129,94 +147,103 @@
       "id": "adc6cdad8497"
     },
     {
-      "title": "Inside the stealthy startup that pitched brainless human clones",
-      "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "After operating in secrecy for years, a startup company called R3 Bio, in Richmond, California, suddenly shared details about its work last week—sayin",
-      "id": "b78ff0e81dc4"
-    },
-    {
-      "title": "A woman’s uterus has been kept alive outside the body for the first time",
-      "url": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "“Think of this as a human body,” says Javier González. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it r",
-      "id": "776a9ba350ed"
-    },
-    {
-      "title": "微软停止通过 Copilot 在 Pull Request 中插入广告",
-      "url": "https://www.solidot.org/story?sid=83922",
+      "title": "欧洲国家快速拥抱绿色技术和电动汽车",
+      "url": "https://www.solidot.org/story?sid=83938",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "在引发广泛关注之后，GitHub Copilot 首席产品经理 Tim Rogers 通过 HN 宣布他们已经禁用了 Copilot 在 Pull Request 中插入广告的行为。Copilot 团队没有把在 PR 中插入“Quickly spin up Copilot coding agent ",
-      "id": "11df5e3218e5"
+      "summary": "因霍尔木兹海峡封锁推高世界各地的油气价格，欧洲多国转向了绿色技术购买了更多电动汽车。数据显示，3 月前三周英国热泵销量较上月同期增长 51%，太阳能销量增长 54%，电动汽车充电器销量增长 20%。法国二手车在线零售商 Aramisauto 的电动汽车销量在 2 月中旬到 3 月 9 日期间几乎翻了",
+      "id": "b358f7d6935a"
     },
     {
-      "title": "Google 开始推行 Android 开发者身份验证",
-      "url": "https://www.solidot.org/story?sid=83921",
+      "title": "百度多辆无人驾驶出租车同时发生故障",
+      "url": "https://www.solidot.org/story?sid=83937",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "Google 受争议的开发者身份验证正式启动。从今年 9 月起 Google 将强制性要求验证所有 Android 应用开发者的身份，未经身份验证的开发者的应用将无法在 Android 设备上安装（sideload）。Google 官方博客声称它是出于安全理由要求验证开发者身份，理由是其分析显示来自",
-      "id": "527029ef179f"
+      "summary": "百度旗下的萝卜快跑在武汉运营无人驾驶出租车服务，本周二 3 月 31 日 20 时左右无人出租车在路上集体趴窝。根据社交媒体平台上广泛流传的现场照片和视频，故障的萝卜快跑无人出租车不仅有停在路边的，还有停在马路中间的，甚至还有停在高架路的，部分乘客被困车内逾一小时。武汉交警称，初步判断为系统故障所致",
+      "id": "bc43f1334d2f"
     },
     {
-      "title": "空气污染预警减少了过早死亡",
-      "url": "https://www.solidot.org/story?sid=83920",
+      "title": "瑞典回归传统的基于纸质的课堂教育模式",
+      "url": "https://www.solidot.org/story?sid=83936",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "根据发表于 PNAS Nexus 上的一项研究，研究团队分析了中国北方 57 座城市连续五年的数据，以评估空气污染预警的实际效果。短期暴露于 PM2.5（细颗粒物）已被充分证实会增加心血管和呼吸系统死亡风险。研究显示，由于空气预警导致的 PM2.5 的减少在五年间共避免了近 5.4 万例过早死亡——",
-      "id": "56880dab0254"
+      "summary": "数字化教育和社交媒体给儿童和青少年带来的问题最近几年日益受到关注和争论。瑞典和其它国家一样，过去几十年逐渐放弃纸质书籍，切换到平板电脑和数字资源，试图让学生为网络世界做好准备。但数字化教育的争议最终促使瑞典在 2023 年宣布回归传统的基于纸质的课堂教育模式，纸质书籍重新回到课堂，学生开始学习用铅笔",
+      "id": "be1ebfa6d2a3"
     },
     {
-      "title": "儿童青少年屏幕使用时间过去三十年显著增加",
-      "url": "https://www.solidot.org/story?sid=83919",
+      "title": "尼安德特人在灭绝边缘生存了 35 万年",
+      "url": "https://www.solidot.org/story?sid=83935",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "芬兰研究人员报告，过去三十年（1991-2022 年间）儿童和青少年的屏幕使用时间显著增加，新冠疫情后更为明显。以前的屏幕主要是传统电视，但随着时间的迁移屏幕逐渐向 PC、手机和游戏等更个性化的数字设备转变，电视的观看时间则在逐渐下降。研究发现，新冠疫情期间采取了社交封锁政策，儿童青少年依赖电子屏幕",
-      "id": "363019bc0909"
+      "summary": "从 40 万到 4.5 万年前，尼安德特人独自占据了欧亚大陆的大部分地区，狩猎大型动物、采集植物、熟练制造石器，用兽皮制作衣物。但他们的生存状况岌岌可危。两项新研究表明，尼安德特人以地理上相距甚远的小群体形式生存，经历了严重的近亲繁殖，7.5 万年前濒临灭绝。近亲繁殖被广泛认为不利于适应环境变化。但",
+      "id": "e764f486e5a0"
     },
     {
-      "title": "微软 Copilot 在修改 PR 中的拼写错误时添加了广告",
-      "url": "https://www.solidot.org/story?sid=83918",
+      "title": "过去一年最活跃的勒索软件组织是 Qilin",
+      "url": "https://www.solidot.org/story?sid=83934",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "开发者发现，使用微软 AI 助手 Copilot 修改 PR 中的拼写错误时它主动添加了一则广告。对 GitHub 平台的搜索发现，已经有数以万计的 PR 包含了相同的广告——“Quickly spin up Copilot coding agent tasks from anywhere on y",
-      "id": "6069e8dac574"
+      "summary": "从 2025 年 3 月到 2026 年 3 月，勒索软件组织在 376 天内发布了 7,655 条受害者组织名单，平均每天约 20 条，或每 71 分钟新增一个受害者组织。对受害者名单的分析显示，在 129 个活跃的勒索软件组织中排名前五的组织发布了 3,027 条受害者名单，占总数的 40%。其",
+      "id": "a0c7f10dc835"
     },
     {
-      "title": "木星闪电释放的能量相当于原子弹爆炸",
-      "url": "https://www.solidot.org/story?sid=83917",
+      "title": "口服药有助于消除时差反应",
+      "url": "https://www.solidot.org/story?sid=83933",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "科学家使用 NASA 朱诺号探测器仪器测量了木星闪电，发现其释放的能量是地球上闪电的 1 百到 1 万倍。地球闪电一次释放的能量约为 10 亿焦耳，这意味着木星最强闪电释放大约 10 万亿焦耳的能量，相当于 2400 吨 TNT 炸药，或广岛原子弹威力的六分之一。根据朱诺号对木星风暴中闪电发生频率的",
-      "id": "971fc55eaa40"
+      "summary": "只靠吃药就能消除时差反应的未来或将到来？日本大阪大学等研究团队在美国科学杂志上发布研究成果称，通过实验发现了能加快生物钟的化合物。该团队确认，对处于时差犯困状态的实验鼠投入该化合物后，会比通常情况更早恢复，该团队称“也有望发展为药物”。时差反应的起因是调控人体内生物钟的时钟基因发生偏差。人类的生物钟",
+      "id": "8f60b8d89c65"
     },
     {
-      "title": "蜜蜂和蜂鸟在工作期间吸入了微量的酒",
-      "url": "https://www.solidot.org/story?sid=83916",
+      "title": "俄罗斯加大力度打击 VPN",
+      "url": "https://www.solidot.org/story?sid=83932",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "蜜蜂和蜂鸟都会饮酒，它们的食物——花蜜——都含有微量的酒精。加州伯克利的研究人员发现含有乙醇的花蜜相当普遍。在他们分析的 29 种植物花蜜样本中有 26 种发现了乙醇。大多数样本的乙醇浓度极低，但有一个样本的乙醇浓度达到了 0.056%——大约相当于 0.1 度酒精，勉强可算作酒了。虽然听起来微不足",
-      "id": "38a6c1628d41"
+      "summary": "俄罗斯数字部长 Maksut Shadayev 通过官方支持的消息应用 MAX 宣布政府将加大力度打击 VPN。有数以百万计的俄罗斯人通过 VPN 绕过封锁和审查。俄罗斯此前已经多次封锁移动互联网，干扰主要消息应用 WhatsApp 和 Telegram 的服务。Shadayev 称最新的任务是减少",
+      "id": "db8a9c740c02"
     },
     {
-      "title": "杜比诉 Snapchat 挑战 AV1 的免专利费声明",
-      "url": "https://www.solidot.org/story?sid=83915",
+      "title": "一颗 Starlink 卫星在轨道上突然解体",
+      "url": "https://www.solidot.org/story?sid=83931",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "成员包括亚马逊、苹果、Google、微软、Mozilla 和 Netflix 的 AOMedia 联盟开发了免专利费的开放编解码器 AOMedia Video 1(AV1)。但杜比公司（Dolby Laboratories）对 Snap 公司提起的专利侵权诉讼对 AV1 的免专利费声明提出了质疑。杜",
-      "id": "48fafb981701"
+      "summary": "SpaceX 证实它的一颗 Starlink 卫星上周日失去联系。对于这颗卫星解体成数十块碎片 SpaceX 没有使用“爆炸”一词去形容。根据利用地面雷达网络跟踪近地轨道物体的 LeoLabs 公司的观察，编号为 34343 的 Starlink 卫星解体是因为“内部的高能源”而非太空碎片等导致的碰",
+      "id": "2b5fb6635652"
+    },
+    {
+      "title": "派早报：OPPO 发布 K15 Pro 系列、DLSS 4.5 开始推送等",
+      "url": "https://sspai.com/post/108175",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "雷蛇推出人体工学键盘 Pro Type Ergo、微软承诺会为 Windows 11 的 Linux 子系统提速等。<a href=\"https://sspai.com/post/108175\" target=\"_blank\">查看全文</a>",
+      "id": "f815847b9d55"
+    },
+    {
+      "title": "本月玩什么｜失落星船：马拉松、Pokémon Pokopia 等",
+      "url": "https://sspai.com/post/108163",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "最近值得一试的新作汇总。<a href=\"https://sspai.com/post/108163\" target=\"_blank\">查看全文</a>",
+      "id": "40a8ed6f7802"
+    },
+    {
+      "title": "Agent 的家：如何在 AI 时代搭建硬件基座",
+      "url": "https://sspai.com/post/108064",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/108064\" target",
+      "id": "670bfb03db0d"
     },
     {
       "title": "派早报：Claude Code 源码意外泄露、OpenAI 获 1220 亿美元融资等",
@@ -260,80 +287,62 @@
       "image": "",
       "source": "少数派",
       "category": "tech",
-      "summary": "随着vivoX300系列发布，专业视频模式和vivoLog再度成了摄影爱好者们关注的焦点。从X200系列开始，我也用vivo手机拍摄过不少长片和短片。在此过程中，我不可避免地要将vivoLog转至其它 ...<a href=\"https://sspai.com/post/108101\" target",
+      "summary": "套还原 LUT 并不是处理 vivo Log——乃至所有 Log 画面——的最佳方式。在本文中，我就结合自己使用 vivo X200 和 X300 系列的拍摄及调色的经验，聊聊如何正确做 vivo Log 的色彩空间转换。<a href=\"https://sspai.com/post/108101\"",
       "id": "f4ed1884cfc5"
     },
     {
-      "title": "不用可以先收藏 | 有备无患：我的逃生包和生存盒都装了啥？",
-      "url": "https://sspai.com/post/108027",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "如果只有 3 分钟紧急撤离，这两个逃生包能帮我活过 72 小时<a href=\"https://sspai.com/post/108027\" target=\"_blank\">查看全文</a>",
-      "id": "5bfc155f5b7e"
-    },
-    {
-      "title": "派早报：vivo 举办 vivo X 系列春季新品发布会等",
-      "url": "https://sspai.com/post/108088",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "少数派的近期动态年度征文进入投票环节，本次征文设有#TeamSilicon（AI助力赛道）与#TeamCarbon（手工匠人赛道），快来分别选出你喜欢的作品。少数派全新付费栏目上架，一份不再过时的Ra ...<a href=\"https://sspai.com/post/108088\" target",
-      "id": "60aa9cafd3de"
-    },
-    {
-      "title": "派评 | 近期值得关注的 App",
-      "url": "https://sspai.com/post/108075",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/108075\" target=\"_blank\">查看全文</a>",
-      "id": "65bcadd6c7ea"
-    },
-    {
-      "title": "Bitfarms loss widens to $285M as Bitcoin fell, but shares jump anyway",
-      "url": "https://cointelegraph.com/news/bitfarms-shares-rise-despite-285-million-net-loss-amid-ai-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDQ2MDYtNGZjMy03YWViLWExY2UtY2RhMzlmMWEwODYyLmpwZw==.jpg",
+      "title": "Elon Musk's SpaceX quietly files for IPO, seeking mammoth debut",
+      "url": "https://cointelegraph.com/news/elon-musks-spacex-files-confidential-ipo-with-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDRiMDgtM2E5OS03M2FiLWFkNGUtOTZlMzljODMyNzUwLmpwZw==.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitfarms loss widens to $285M as Bitcoin fell, but shares jump anyway\" class=\"",
-      "id": "0341c639cdea"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Elon Musk's SpaceX quietly files for IPO, seeking mammoth debut\" class=\"type:p",
+      "id": "43239a0a558d"
     },
     {
-      "title": "Solana DEX volumes drop to 2024 lows: Will SOL hold $80 as support?",
-      "url": "https://cointelegraph.com/news/solana-dex-volumes-drop-to-2024-lows-will-sol-hold-80-as-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZlMzktMGFjZS03NzhmLWEwMTgtZDRjZjVjMTA2ZTAzLmpwZw==.jpg",
+      "title": "Crypto exchange Bithumb to delay IPO until after 2028: Report",
+      "url": "https://cointelegraph.com/news/crypto-exchange-bithumb-delay-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDRhZGEtZTg3Yy03M2Y3LWIyOTctNTU0YjFkMjA2MzQyLmpwZw==.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana DEX volumes drop to 2024 lows: Will SOL hold $80 as support?\" class=\"ty",
-      "id": "1ff9aac2531d"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto exchange Bithumb to delay IPO until after 2028: Report\" class=\"type:pri",
+      "id": "8d34a9b1b64e"
     },
     {
-      "title": "Bitcoin, stocks soar as markets respond to chance of US and Israel-Iran war ending",
-      "url": "https://cointelegraph.com/news/bitcoin-stocks-soar-as-markets-respond-to-chance-of-us-and-israel-iran-war-ending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjkxMjQtNzI2Yi03ZDI3LWJiYzctMzRjZjZmOWUxNjYyLmpwZw==.jpg",
+      "title": "US Treasury seeks public input for state-level stablecoin regulations",
+      "url": "https://cointelegraph.com/news/us-treasury-state-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDRiMDQtYWI5Yi03ODYwLTg3NTctNzA3NjBiZTAxNDNkLmpwZw==.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin, stocks soar as markets respond to chance of US and Israel-Iran war en",
-      "id": "1d8ebac5c5ab"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Treasury seeks public input for state-level stablecoin regulations\" class=\"",
+      "id": "7357a767dc95"
     },
     {
-      "title": "Trump says US will leave Iran within 2 to 3 weeks",
-      "url": "https://cointelegraph.com/news/trump-signals-us-withdrawal-iran-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDQ1ZmUtOGM5YS03ZDY4LWI2NTktZmEwYzY3MGZkZDJlLmpwZw==.jpg",
+      "title": "Hyperliquid whale makes $80M bet on market crash: Is Bitcoin in trouble?",
+      "url": "https://cointelegraph.com/news/hyperliquid-whale-makes-dollar80m-bet-on-market-crash-is-bitcoin-in-trouble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDRhYzAtYWE3Zi03NWM5LWJkNjQtOThiMzVhZmQwNzUyLmpwZw==.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump says US will leave Iran within 2 to 3 weeks\" class=\"type:primaryImage\" s",
-      "id": "df508fcc3f3b"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperliquid whale makes $80M bet on market crash: Is Bitcoin in trouble?\" clas",
+      "id": "15e9f1d04ac9"
     },
     {
-      "title": "Crypto Fear and Greed Index stuck on ‘extreme fear,’ but is there a silver lining?",
-      "url": "https://cointelegraph.com/news/crypto-fear-and-greed-index-stuck-on-extreme-fear-but-is-there-a-silver-lining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNkZDUtOWM3Yi03MTgwLWFiZDYtOGNkYWJiODUwNGM1LmpwZw==.jpg",
+      "title": "EDX seeks OCC trust bank charter for institutional crypto custody",
+      "url": "https://cointelegraph.com/news/citadel-backed-edx-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDRhNzQtMWQyMi03ZDU5LTgwOGQtMzIxOGMyNTJkZWUwLmpwZw==.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Fear and Greed Index stuck on ‘extreme fear,’ but is there a silver lin",
-      "id": "55b7d1635ddb"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EDX seeks OCC trust bank charter for institutional crypto custody\" class=\"type",
+      "id": "78024ffbbbf8"
+    },
+    {
+      "title": "Pro-crypto PAC to be headed by Tether executive ahead of US midterms",
+      "url": "https://cointelegraph.com/news/crypto-pactether-exec-us-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDRhMzMtOThmMy03NjFmLTllOGYtOTk0YWRkY2JiMjZhLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pro-crypto PAC to be headed by Tether executive ahead of US midterms\" class=\"t",
+      "id": "69f72266adc6"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -345,94 +354,85 @@
       "id": "772e97788bfd"
     },
     {
-      "title": "Texas Lt. Gov. lists crypto, prediction markets in charges for lawmakers",
-      "url": "https://cointelegraph.com/news/texas-dan-patrick-crypto-prediction-markets-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDQ1N2YtMmJhMC03NWU5LTkxNzAtZjk1ZGVhZWIxOTI3LmpwZw==.jpg",
+      "title": "Price predictions 4/1: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, BCH, LINK",
+      "url": "https://cointelegraph.com/news/price-predictions-4-1-btc-eth-bnb-xrp-sol-doge-hype-ada-bch-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDQ5ZWItMWUzMy03ZjgyLWI0ZWUtNDBhMjgxMzhlZWJiLmpwZw==.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Texas Lt. Gov. lists crypto, prediction markets in charges for lawmakers\" clas",
-      "id": "9d55b350f8e3"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 4/1: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, BCH, LINK\" cl",
+      "id": "dafbf39c82ca"
     },
     {
-      "title": "Wall Street moves benchmarks onchain as S&P tokenizes Treasurys index",
-      "url": "https://cointelegraph.com/news/sp-tokenizes-treasury-index-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDQ1OTgtNjljMy03YjRkLTgxMjgtNTBkMDEzZjljMTM3LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Wall Street moves benchmarks onchain as S&amp;P tokenizes Treasurys index\" cla",
-      "id": "560e4de17db3"
-    },
-    {
-      "title": "Watch Out Bitcoin: Cryptography-Breaking Quantum Computers May Be Closer Than Expected, Says Caltech",
-      "url": "https://decrypt.co/362988/cryptography-breaking-quantum-computers-closer-expected-caltech-bitcoin",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/google-quantum-decrypt-style-01-2-gID_7.jpg@png",
+      "title": "These Three Altcoins Just Got Leveraged Crypto ETFs",
+      "url": "https://decrypt.co/363089/volatility-shares-everaged-crypto-etfs-three-altcoins",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_green-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Research suggests fault-tolerant quantum machines could arrive sooner than expected, posing a threat to Bitcoin and Ethereum cryptography.",
-      "id": "20d7529c035b"
+      "summary": "Volatility Shares, the company that launched the first leveraged crypto fund in the U.S., is expanding its roster to smaller digital assets",
+      "id": "dd0f1122606b"
     },
     {
-      "title": "Crypto Startup Uses Polymarket to Bet on Its Own Fundraise, Blindsiding Backers",
-      "url": "https://decrypt.co/362977/crypto-startup-polymarket-bet-fundraise-blindsiding-backers",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/money-decrypt-style-gID_7.jpg@png",
+      "title": "Solana DeFi Exchange Drift Protocol Exploited, Upwards of $285 Million Stolen",
+      "url": "https://decrypt.co/363087/solana-drift-protocol-exploited-285-million",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "P2P.me was established to push boundaries, but the startup admitted that wagering on itself via Polymarket may have been a bridge too far.",
-      "id": "9a599f1d4dca"
+      "summary": "Solana-based perpetuals DEX Drift Protocol has suffered an exploit impacting more than $200 million in funds.",
+      "id": "c0bb11999837"
     },
     {
-      "title": "If You Hold Solana on Magic Eden's Wallet, It's Time to Move It or Lose It",
-      "url": "https://decrypt.co/362979/if-you-hold-solana-magic-eden-wallet-time-to-move",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Solana-gID_7.png@png",
+      "title": "Google's Veo 3.1 Lite Cuts API Costs in Half as OpenAI's Sora Exits the Market",
+      "url": "https://decrypt.co/363077/google-veo-3-1-lite-cuts-api-costs-half-openai-sora",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Support for Magic Eden's crypto wallet is ending soon, meaning users will have to export their private keys to avoid losing access to funds.",
-      "id": "ae997d498f1c"
+      "summary": "Google's cheapest video model yet targets developers burned by high generation costs, arriving just days after OpenAI pulled the plug on Sora.",
+      "id": "633493bc7ef9"
     },
     {
-      "title": "California Tightens AI Contract Rules as Fight With Trump Admin Grows",
-      "url": "https://decrypt.co/362968/california-tightens-ai-contract-rules-fight-trump-admin",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/gavin-newsom-decrypt-style-01-gID_7.jpg@png",
+      "title": "Elon Musk’s SpaceX Files Confidentially for Record-Breaking $1.75 Trillion IPO",
+      "url": "https://decrypt.co/363074/elon-musk-spacex-files-ipo",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/elon-musk-decrypt-style-03-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Governor Gavin Newsom orders stronger safeguards for AI companies seeking California contracts, escalating tensions with the Trump administration over",
-      "id": "b16add95e8df"
+      "summary": "Elon Musk’s rocket company has confidentially submitted IPO paperwork to U.S. regulators, potentially setting up one of the largest public listings in",
+      "id": "231f4ae8c0bd"
     },
     {
-      "title": "Latin America’s Mercado Libre Pulls the Plug on Its Crypto Coin",
-      "url": "https://decrypt.co/362958/latin-america-mercado-libre-pulls-plug-crypto-coin",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-mercado-libre-gID_7.png@png",
+      "title": "Fed's Barr Says Stablecoins Need Tighter Controls to Fight Money Laundering",
+      "url": "https://decrypt.co/363071/fed-barr-stablecoins-tighter-controls-fight-money-laundering",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Latin America's e-commerce giant Mercado Libre quietly killed its Mercado Coin loyalty token—pivoting to its own stablecoin.",
-      "id": "d122fe0c948b"
+      "summary": "The Fed governor has previously said that stablecoins risk undermining the U.S. central bank’s credibility.",
+      "id": "358efe47611a"
     },
     {
-      "title": "Zcash Vulnerability That Put Millions of Dollars of ZEC at Risk Has Been Fixed",
-      "url": "https://decrypt.co/362957/zcash-devs-patch-vulnerability-millions-dollars-zec-risk",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-gID_7.jpg@png",
+      "title": "Cambodia Extradites Alleged Huione Crypto Scam Kingpin to China: Report",
+      "url": "https://decrypt.co/363058/cambodia-extradites-alleged-huione-crypto-scam-kingpin-to-china-report",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "A critical vulnerability in Zcash node software could have allowed attackers to drain millions of dollars of ZEC from a deprecated shielded pool.",
-      "id": "0fc29f2ba27e"
+      "summary": "Chinese authorities have arrested Li Xiong, former chairman of Huione Group, linked by U.S. regulators to billions in illicit crypto flows.",
+      "id": "87d9a5d80321"
     },
     {
-      "title": "Bitcoin, Crypto Stocks Climb on Reports That Iran's President Is 'Ready to End War'",
-      "url": "https://decrypt.co/362913/bitcon-crypto-stocks-climb-reports-iranian-president-end-war",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Iran-Bitcoin-1-gID_7.jpg@png",
+      "title": "The Quantum Threat to Bitcoin Dividing Crypto",
+      "url": "https://decrypt.co/363030/the-quantum-threat-to-bitcoin-dividing-crypto",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Stocks are surging while Bitcoin and Ethereum hit their highest prices in days after Iran's president said he's looking to end the conflict.",
-      "id": "10c348f4409d"
+      "summary": "Two papers published this week have reignited debates about the risk posed by “Q-day” to the cryptography that underpins digital assets.",
+      "id": "8175a2eccab4"
     },
     {
-      "title": "Tether's USAT Stablecoin Expands Beyond Ethereum Mainnet to Celo",
-      "url": "https://decrypt.co/362941/tethers-usat-stablecoin-expands-ethereum-mainnet-celo",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Tether-decrypt-style-02-gID_7.png@png",
+      "title": "Bitcoin Gets Its First Bond Rating as Moody's Grades New Hampshire Deal",
+      "url": "https://decrypt.co/363032/bitcoin-first-bond-rating-moodys-new-hampshire",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "The Tether-backed USAT stablecoin built for the U.S. market is expanding to Ethereum layer-2 network Celo with help from Google Cloud.",
-      "id": "e2e0688c1fa0"
+      "summary": "Moody's has rated a New Hampshire Bitcoin-backed bond—a first for BTC as direct bond collateral.",
+      "id": "b96747335fd1"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -546,6 +546,24 @@
   "categories": {
     "ai": [
       {
+        "title": "The Download: gig workers training humanoids, and better AI benchmarks",
+        "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+        "id": "5c1f54684ab4"
+      },
+      {
+        "title": "The gig workers who are training humanoid robots at home",
+        "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on",
+        "id": "92699daa7684"
+      },
+      {
         "title": "Shifting to AI model customization is an architectural imperative",
         "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
         "image": "",
@@ -600,24 +618,6 @@
         "id": "adc6cdad8497"
       },
       {
-        "title": "Inside the stealthy startup that pitched brainless human clones",
-        "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "After operating in secrecy for years, a startup company called R3 Bio, in Richmond, California, suddenly shared details about its work last week—sayin",
-        "id": "b78ff0e81dc4"
-      },
-      {
-        "title": "A woman’s uterus has been kept alive outside the body for the first time",
-        "url": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "“Think of this as a human body,” says Javier González. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it r",
-        "id": "776a9ba350ed"
-      },
-      {
         "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
         "source": "OpenAI Blog",
         "category": "ai",
@@ -656,148 +656,175 @@
     ],
     "tech": [
       {
-        "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-        "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+        "title": "A new C++ back end for ocamlc",
+        "url": "https://github.com/ocaml/ocaml/pull/14701",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47586778\">Comments</a>",
-        "id": "b0cca5a4ac12"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47608058\">Comments</a>",
+        "id": "43ae9ec187b9"
       },
       {
-        "title": "TinyLoRA – Learning to Reason in 13 Parameters",
-        "url": "https://arxiv.org/abs/2602.04118",
+        "title": "NASA’s Artemis II Crew Launches to the Moon",
+        "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47541733\">Comments</a>",
-        "id": "7566b4f9d72a"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47603657\">Comments</a>",
+        "id": "ab3809b8bfa4"
       },
       {
-        "title": "TruffleRuby",
-        "url": "https://chrisseaton.com/truffleruby/",
+        "title": "DRAM pricing is killing the hobbyist SBC market",
+        "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47557171\">Comments</a>",
-        "id": "44386e69aeec"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47606840\">Comments</a>",
+        "id": "87998a915103"
       },
       {
-        "title": "Ministack (Replacement for LocalStack)",
-        "url": "https://ministack.org/",
+        "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
+        "url": "https://blog.cloudflare.com/emdash-wordpress/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47593285\">Comments</a>",
-        "id": "fc8b8598997c"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47602832\">Comments</a>",
+        "id": "4738a3dc2bff"
       },
       {
-        "title": "A dot a day keeps the clutter away",
-        "url": "https://scottlawsonbc.com/post/dot-system",
+        "title": "Fast and Gorgeous Erosion Filter",
+        "url": "https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47593556\">Comments</a>",
-        "id": "3486d6b2d58f"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47584386\">Comments</a>",
+        "id": "3d1cea4928bb"
       },
       {
-        "title": "U.S. exempts oil industry from protecting Gulf animals, for 'national security'",
-        "url": "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security",
+        "title": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
+        "url": "https://github.com/hauntsaninja/git_bayesect",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47595620\">Comments</a>",
-        "id": "32209a726bd4"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47557921\">Comments</a>",
+        "id": "3623eaf1137f"
       },
       {
-        "title": "OpenAI closes funding round at an $852B valuation",
-        "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+        "title": "AI for American-produced cement and concrete",
+        "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47592755\">Comments</a>",
-        "id": "89144b9701a3"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47603737\">Comments</a>",
+        "id": "dbd74eb46eca"
       },
       {
-        "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-        "url": "https://prismml.com/",
+        "title": "IPv6 address, as a sentence you can remember",
+        "url": "https://sentence2ipv6.tib3rius.com/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47593422\">Comments</a>",
-        "id": "32225cb02875"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47607923\">Comments</a>",
+        "id": "d4dab29a43e9"
       },
       {
-        "title": "微软停止通过 Copilot 在 Pull Request 中插入广告",
-        "url": "https://www.solidot.org/story?sid=83922",
+        "title": "欧洲国家快速拥抱绿色技术和电动汽车",
+        "url": "https://www.solidot.org/story?sid=83938",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "在引发广泛关注之后，GitHub Copilot 首席产品经理 Tim Rogers 通过 HN 宣布他们已经禁用了 Copilot 在 Pull Request 中插入广告的行为。Copilot 团队没有把在 PR 中插入“Quickly spin up Copilot coding agent ",
-        "id": "11df5e3218e5"
+        "summary": "因霍尔木兹海峡封锁推高世界各地的油气价格，欧洲多国转向了绿色技术购买了更多电动汽车。数据显示，3 月前三周英国热泵销量较上月同期增长 51%，太阳能销量增长 54%，电动汽车充电器销量增长 20%。法国二手车在线零售商 Aramisauto 的电动汽车销量在 2 月中旬到 3 月 9 日期间几乎翻了",
+        "id": "b358f7d6935a"
       },
       {
-        "title": "Google 开始推行 Android 开发者身份验证",
-        "url": "https://www.solidot.org/story?sid=83921",
+        "title": "百度多辆无人驾驶出租车同时发生故障",
+        "url": "https://www.solidot.org/story?sid=83937",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "Google 受争议的开发者身份验证正式启动。从今年 9 月起 Google 将强制性要求验证所有 Android 应用开发者的身份，未经身份验证的开发者的应用将无法在 Android 设备上安装（sideload）。Google 官方博客声称它是出于安全理由要求验证开发者身份，理由是其分析显示来自",
-        "id": "527029ef179f"
+        "summary": "百度旗下的萝卜快跑在武汉运营无人驾驶出租车服务，本周二 3 月 31 日 20 时左右无人出租车在路上集体趴窝。根据社交媒体平台上广泛流传的现场照片和视频，故障的萝卜快跑无人出租车不仅有停在路边的，还有停在马路中间的，甚至还有停在高架路的，部分乘客被困车内逾一小时。武汉交警称，初步判断为系统故障所致",
+        "id": "bc43f1334d2f"
       },
       {
-        "title": "空气污染预警减少了过早死亡",
-        "url": "https://www.solidot.org/story?sid=83920",
+        "title": "瑞典回归传统的基于纸质的课堂教育模式",
+        "url": "https://www.solidot.org/story?sid=83936",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "根据发表于 PNAS Nexus 上的一项研究，研究团队分析了中国北方 57 座城市连续五年的数据，以评估空气污染预警的实际效果。短期暴露于 PM2.5（细颗粒物）已被充分证实会增加心血管和呼吸系统死亡风险。研究显示，由于空气预警导致的 PM2.5 的减少在五年间共避免了近 5.4 万例过早死亡——",
-        "id": "56880dab0254"
+        "summary": "数字化教育和社交媒体给儿童和青少年带来的问题最近几年日益受到关注和争论。瑞典和其它国家一样，过去几十年逐渐放弃纸质书籍，切换到平板电脑和数字资源，试图让学生为网络世界做好准备。但数字化教育的争议最终促使瑞典在 2023 年宣布回归传统的基于纸质的课堂教育模式，纸质书籍重新回到课堂，学生开始学习用铅笔",
+        "id": "be1ebfa6d2a3"
       },
       {
-        "title": "儿童青少年屏幕使用时间过去三十年显著增加",
-        "url": "https://www.solidot.org/story?sid=83919",
+        "title": "尼安德特人在灭绝边缘生存了 35 万年",
+        "url": "https://www.solidot.org/story?sid=83935",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "芬兰研究人员报告，过去三十年（1991-2022 年间）儿童和青少年的屏幕使用时间显著增加，新冠疫情后更为明显。以前的屏幕主要是传统电视，但随着时间的迁移屏幕逐渐向 PC、手机和游戏等更个性化的数字设备转变，电视的观看时间则在逐渐下降。研究发现，新冠疫情期间采取了社交封锁政策，儿童青少年依赖电子屏幕",
-        "id": "363019bc0909"
+        "summary": "从 40 万到 4.5 万年前，尼安德特人独自占据了欧亚大陆的大部分地区，狩猎大型动物、采集植物、熟练制造石器，用兽皮制作衣物。但他们的生存状况岌岌可危。两项新研究表明，尼安德特人以地理上相距甚远的小群体形式生存，经历了严重的近亲繁殖，7.5 万年前濒临灭绝。近亲繁殖被广泛认为不利于适应环境变化。但",
+        "id": "e764f486e5a0"
       },
       {
-        "title": "微软 Copilot 在修改 PR 中的拼写错误时添加了广告",
-        "url": "https://www.solidot.org/story?sid=83918",
+        "title": "过去一年最活跃的勒索软件组织是 Qilin",
+        "url": "https://www.solidot.org/story?sid=83934",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "开发者发现，使用微软 AI 助手 Copilot 修改 PR 中的拼写错误时它主动添加了一则广告。对 GitHub 平台的搜索发现，已经有数以万计的 PR 包含了相同的广告——“Quickly spin up Copilot coding agent tasks from anywhere on y",
-        "id": "6069e8dac574"
+        "summary": "从 2025 年 3 月到 2026 年 3 月，勒索软件组织在 376 天内发布了 7,655 条受害者组织名单，平均每天约 20 条，或每 71 分钟新增一个受害者组织。对受害者名单的分析显示，在 129 个活跃的勒索软件组织中排名前五的组织发布了 3,027 条受害者名单，占总数的 40%。其",
+        "id": "a0c7f10dc835"
       },
       {
-        "title": "木星闪电释放的能量相当于原子弹爆炸",
-        "url": "https://www.solidot.org/story?sid=83917",
+        "title": "口服药有助于消除时差反应",
+        "url": "https://www.solidot.org/story?sid=83933",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "科学家使用 NASA 朱诺号探测器仪器测量了木星闪电，发现其释放的能量是地球上闪电的 1 百到 1 万倍。地球闪电一次释放的能量约为 10 亿焦耳，这意味着木星最强闪电释放大约 10 万亿焦耳的能量，相当于 2400 吨 TNT 炸药，或广岛原子弹威力的六分之一。根据朱诺号对木星风暴中闪电发生频率的",
-        "id": "971fc55eaa40"
+        "summary": "只靠吃药就能消除时差反应的未来或将到来？日本大阪大学等研究团队在美国科学杂志上发布研究成果称，通过实验发现了能加快生物钟的化合物。该团队确认，对处于时差犯困状态的实验鼠投入该化合物后，会比通常情况更早恢复，该团队称“也有望发展为药物”。时差反应的起因是调控人体内生物钟的时钟基因发生偏差。人类的生物钟",
+        "id": "8f60b8d89c65"
       },
       {
-        "title": "蜜蜂和蜂鸟在工作期间吸入了微量的酒",
-        "url": "https://www.solidot.org/story?sid=83916",
+        "title": "俄罗斯加大力度打击 VPN",
+        "url": "https://www.solidot.org/story?sid=83932",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "蜜蜂和蜂鸟都会饮酒，它们的食物——花蜜——都含有微量的酒精。加州伯克利的研究人员发现含有乙醇的花蜜相当普遍。在他们分析的 29 种植物花蜜样本中有 26 种发现了乙醇。大多数样本的乙醇浓度极低，但有一个样本的乙醇浓度达到了 0.056%——大约相当于 0.1 度酒精，勉强可算作酒了。虽然听起来微不足",
-        "id": "38a6c1628d41"
+        "summary": "俄罗斯数字部长 Maksut Shadayev 通过官方支持的消息应用 MAX 宣布政府将加大力度打击 VPN。有数以百万计的俄罗斯人通过 VPN 绕过封锁和审查。俄罗斯此前已经多次封锁移动互联网，干扰主要消息应用 WhatsApp 和 Telegram 的服务。Shadayev 称最新的任务是减少",
+        "id": "db8a9c740c02"
       },
       {
-        "title": "杜比诉 Snapchat 挑战 AV1 的免专利费声明",
-        "url": "https://www.solidot.org/story?sid=83915",
+        "title": "一颗 Starlink 卫星在轨道上突然解体",
+        "url": "https://www.solidot.org/story?sid=83931",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "成员包括亚马逊、苹果、Google、微软、Mozilla 和 Netflix 的 AOMedia 联盟开发了免专利费的开放编解码器 AOMedia Video 1(AV1)。但杜比公司（Dolby Laboratories）对 Snap 公司提起的专利侵权诉讼对 AV1 的免专利费声明提出了质疑。杜",
-        "id": "48fafb981701"
+        "summary": "SpaceX 证实它的一颗 Starlink 卫星上周日失去联系。对于这颗卫星解体成数十块碎片 SpaceX 没有使用“爆炸”一词去形容。根据利用地面雷达网络跟踪近地轨道物体的 LeoLabs 公司的观察，编号为 34343 的 Starlink 卫星解体是因为“内部的高能源”而非太空碎片等导致的碰",
+        "id": "2b5fb6635652"
+      },
+      {
+        "title": "派早报：OPPO 发布 K15 Pro 系列、DLSS 4.5 开始推送等",
+        "url": "https://sspai.com/post/108175",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "雷蛇推出人体工学键盘 Pro Type Ergo、微软承诺会为 Windows 11 的 Linux 子系统提速等。<a href=\"https://sspai.com/post/108175\" target=\"_blank\">查看全文</a>",
+        "id": "f815847b9d55"
+      },
+      {
+        "title": "本月玩什么｜失落星船：马拉松、Pokémon Pokopia 等",
+        "url": "https://sspai.com/post/108163",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "最近值得一试的新作汇总。<a href=\"https://sspai.com/post/108163\" target=\"_blank\">查看全文</a>",
+        "id": "40a8ed6f7802"
+      },
+      {
+        "title": "Agent 的家：如何在 AI 时代搭建硬件基座",
+        "url": "https://sspai.com/post/108064",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/108064\" target",
+        "id": "670bfb03db0d"
       },
       {
         "title": "派早报：Claude Code 源码意外泄露、OpenAI 获 1220 亿美元融资等",
@@ -841,35 +868,8 @@
         "image": "",
         "source": "少数派",
         "category": "tech",
-        "summary": "随着vivoX300系列发布，专业视频模式和vivoLog再度成了摄影爱好者们关注的焦点。从X200系列开始，我也用vivo手机拍摄过不少长片和短片。在此过程中，我不可避免地要将vivoLog转至其它 ...<a href=\"https://sspai.com/post/108101\" target",
+        "summary": "套还原 LUT 并不是处理 vivo Log——乃至所有 Log 画面——的最佳方式。在本文中，我就结合自己使用 vivo X200 和 X300 系列的拍摄及调色的经验，聊聊如何正确做 vivo Log 的色彩空间转换。<a href=\"https://sspai.com/post/108101\"",
         "id": "f4ed1884cfc5"
-      },
-      {
-        "title": "不用可以先收藏 | 有备无患：我的逃生包和生存盒都装了啥？",
-        "url": "https://sspai.com/post/108027",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "如果只有 3 分钟紧急撤离，这两个逃生包能帮我活过 72 小时<a href=\"https://sspai.com/post/108027\" target=\"_blank\">查看全文</a>",
-        "id": "5bfc155f5b7e"
-      },
-      {
-        "title": "派早报：vivo 举办 vivo X 系列春季新品发布会等",
-        "url": "https://sspai.com/post/108088",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "少数派的近期动态年度征文进入投票环节，本次征文设有#TeamSilicon（AI助力赛道）与#TeamCarbon（手工匠人赛道），快来分别选出你喜欢的作品。少数派全新付费栏目上架，一份不再过时的Ra ...<a href=\"https://sspai.com/post/108088\" target",
-        "id": "60aa9cafd3de"
-      },
-      {
-        "title": "派评 | 近期值得关注的 App",
-        "url": "https://sspai.com/post/108075",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/108075\" target=\"_blank\">查看全文</a>",
-        "id": "65bcadd6c7ea"
       },
       {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
@@ -910,49 +910,58 @@
     ],
     "crypto": [
       {
-        "title": "Bitfarms loss widens to $285M as Bitcoin fell, but shares jump anyway",
-        "url": "https://cointelegraph.com/news/bitfarms-shares-rise-despite-285-million-net-loss-amid-ai-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDQ2MDYtNGZjMy03YWViLWExY2UtY2RhMzlmMWEwODYyLmpwZw==.jpg",
+        "title": "Elon Musk's SpaceX quietly files for IPO, seeking mammoth debut",
+        "url": "https://cointelegraph.com/news/elon-musks-spacex-files-confidential-ipo-with-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDRiMDgtM2E5OS03M2FiLWFkNGUtOTZlMzljODMyNzUwLmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitfarms loss widens to $285M as Bitcoin fell, but shares jump anyway\" class=\"",
-        "id": "0341c639cdea"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Elon Musk's SpaceX quietly files for IPO, seeking mammoth debut\" class=\"type:p",
+        "id": "43239a0a558d"
       },
       {
-        "title": "Solana DEX volumes drop to 2024 lows: Will SOL hold $80 as support?",
-        "url": "https://cointelegraph.com/news/solana-dex-volumes-drop-to-2024-lows-will-sol-hold-80-as-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZlMzktMGFjZS03NzhmLWEwMTgtZDRjZjVjMTA2ZTAzLmpwZw==.jpg",
+        "title": "Crypto exchange Bithumb to delay IPO until after 2028: Report",
+        "url": "https://cointelegraph.com/news/crypto-exchange-bithumb-delay-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDRhZGEtZTg3Yy03M2Y3LWIyOTctNTU0YjFkMjA2MzQyLmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana DEX volumes drop to 2024 lows: Will SOL hold $80 as support?\" class=\"ty",
-        "id": "1ff9aac2531d"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto exchange Bithumb to delay IPO until after 2028: Report\" class=\"type:pri",
+        "id": "8d34a9b1b64e"
       },
       {
-        "title": "Bitcoin, stocks soar as markets respond to chance of US and Israel-Iran war ending",
-        "url": "https://cointelegraph.com/news/bitcoin-stocks-soar-as-markets-respond-to-chance-of-us-and-israel-iran-war-ending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjkxMjQtNzI2Yi03ZDI3LWJiYzctMzRjZjZmOWUxNjYyLmpwZw==.jpg",
+        "title": "US Treasury seeks public input for state-level stablecoin regulations",
+        "url": "https://cointelegraph.com/news/us-treasury-state-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDRiMDQtYWI5Yi03ODYwLTg3NTctNzA3NjBiZTAxNDNkLmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin, stocks soar as markets respond to chance of US and Israel-Iran war en",
-        "id": "1d8ebac5c5ab"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Treasury seeks public input for state-level stablecoin regulations\" class=\"",
+        "id": "7357a767dc95"
       },
       {
-        "title": "Trump says US will leave Iran within 2 to 3 weeks",
-        "url": "https://cointelegraph.com/news/trump-signals-us-withdrawal-iran-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDQ1ZmUtOGM5YS03ZDY4LWI2NTktZmEwYzY3MGZkZDJlLmpwZw==.jpg",
+        "title": "Hyperliquid whale makes $80M bet on market crash: Is Bitcoin in trouble?",
+        "url": "https://cointelegraph.com/news/hyperliquid-whale-makes-dollar80m-bet-on-market-crash-is-bitcoin-in-trouble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDRhYzAtYWE3Zi03NWM5LWJkNjQtOThiMzVhZmQwNzUyLmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump says US will leave Iran within 2 to 3 weeks\" class=\"type:primaryImage\" s",
-        "id": "df508fcc3f3b"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperliquid whale makes $80M bet on market crash: Is Bitcoin in trouble?\" clas",
+        "id": "15e9f1d04ac9"
       },
       {
-        "title": "Crypto Fear and Greed Index stuck on ‘extreme fear,’ but is there a silver lining?",
-        "url": "https://cointelegraph.com/news/crypto-fear-and-greed-index-stuck-on-extreme-fear-but-is-there-a-silver-lining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNkZDUtOWM3Yi03MTgwLWFiZDYtOGNkYWJiODUwNGM1LmpwZw==.jpg",
+        "title": "EDX seeks OCC trust bank charter for institutional crypto custody",
+        "url": "https://cointelegraph.com/news/citadel-backed-edx-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDRhNzQtMWQyMi03ZDU5LTgwOGQtMzIxOGMyNTJkZWUwLmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Fear and Greed Index stuck on ‘extreme fear,’ but is there a silver lin",
-        "id": "55b7d1635ddb"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EDX seeks OCC trust bank charter for institutional crypto custody\" class=\"type",
+        "id": "78024ffbbbf8"
+      },
+      {
+        "title": "Pro-crypto PAC to be headed by Tether executive ahead of US midterms",
+        "url": "https://cointelegraph.com/news/crypto-pactether-exec-us-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDRhMzMtOThmMy03NjFmLTllOGYtOTk0YWRkY2JiMjZhLmpwZw==.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pro-crypto PAC to be headed by Tether executive ahead of US midterms\" class=\"t",
+        "id": "69f72266adc6"
       },
       {
         "title": "Here’s what happened in crypto today",
@@ -964,94 +973,85 @@
         "id": "772e97788bfd"
       },
       {
-        "title": "Texas Lt. Gov. lists crypto, prediction markets in charges for lawmakers",
-        "url": "https://cointelegraph.com/news/texas-dan-patrick-crypto-prediction-markets-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDQ1N2YtMmJhMC03NWU5LTkxNzAtZjk1ZGVhZWIxOTI3LmpwZw==.jpg",
+        "title": "Price predictions 4/1: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, BCH, LINK",
+        "url": "https://cointelegraph.com/news/price-predictions-4-1-btc-eth-bnb-xrp-sol-doge-hype-ada-bch-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDQ5ZWItMWUzMy03ZjgyLWI0ZWUtNDBhMjgxMzhlZWJiLmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Texas Lt. Gov. lists crypto, prediction markets in charges for lawmakers\" clas",
-        "id": "9d55b350f8e3"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 4/1: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, BCH, LINK\" cl",
+        "id": "dafbf39c82ca"
       },
       {
-        "title": "Wall Street moves benchmarks onchain as S&P tokenizes Treasurys index",
-        "url": "https://cointelegraph.com/news/sp-tokenizes-treasury-index-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDQ1OTgtNjljMy03YjRkLTgxMjgtNTBkMDEzZjljMTM3LmpwZw==.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Wall Street moves benchmarks onchain as S&amp;P tokenizes Treasurys index\" cla",
-        "id": "560e4de17db3"
-      },
-      {
-        "title": "Watch Out Bitcoin: Cryptography-Breaking Quantum Computers May Be Closer Than Expected, Says Caltech",
-        "url": "https://decrypt.co/362988/cryptography-breaking-quantum-computers-closer-expected-caltech-bitcoin",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/google-quantum-decrypt-style-01-2-gID_7.jpg@png",
+        "title": "These Three Altcoins Just Got Leveraged Crypto ETFs",
+        "url": "https://decrypt.co/363089/volatility-shares-everaged-crypto-etfs-three-altcoins",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_green-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Research suggests fault-tolerant quantum machines could arrive sooner than expected, posing a threat to Bitcoin and Ethereum cryptography.",
-        "id": "20d7529c035b"
+        "summary": "Volatility Shares, the company that launched the first leveraged crypto fund in the U.S., is expanding its roster to smaller digital assets",
+        "id": "dd0f1122606b"
       },
       {
-        "title": "Crypto Startup Uses Polymarket to Bet on Its Own Fundraise, Blindsiding Backers",
-        "url": "https://decrypt.co/362977/crypto-startup-polymarket-bet-fundraise-blindsiding-backers",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/money-decrypt-style-gID_7.jpg@png",
+        "title": "Solana DeFi Exchange Drift Protocol Exploited, Upwards of $285 Million Stolen",
+        "url": "https://decrypt.co/363087/solana-drift-protocol-exploited-285-million",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "P2P.me was established to push boundaries, but the startup admitted that wagering on itself via Polymarket may have been a bridge too far.",
-        "id": "9a599f1d4dca"
+        "summary": "Solana-based perpetuals DEX Drift Protocol has suffered an exploit impacting more than $200 million in funds.",
+        "id": "c0bb11999837"
       },
       {
-        "title": "If You Hold Solana on Magic Eden's Wallet, It's Time to Move It or Lose It",
-        "url": "https://decrypt.co/362979/if-you-hold-solana-magic-eden-wallet-time-to-move",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Solana-gID_7.png@png",
+        "title": "Google's Veo 3.1 Lite Cuts API Costs in Half as OpenAI's Sora Exits the Market",
+        "url": "https://decrypt.co/363077/google-veo-3-1-lite-cuts-api-costs-half-openai-sora",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Support for Magic Eden's crypto wallet is ending soon, meaning users will have to export their private keys to avoid losing access to funds.",
-        "id": "ae997d498f1c"
+        "summary": "Google's cheapest video model yet targets developers burned by high generation costs, arriving just days after OpenAI pulled the plug on Sora.",
+        "id": "633493bc7ef9"
       },
       {
-        "title": "California Tightens AI Contract Rules as Fight With Trump Admin Grows",
-        "url": "https://decrypt.co/362968/california-tightens-ai-contract-rules-fight-trump-admin",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/gavin-newsom-decrypt-style-01-gID_7.jpg@png",
+        "title": "Elon Musk’s SpaceX Files Confidentially for Record-Breaking $1.75 Trillion IPO",
+        "url": "https://decrypt.co/363074/elon-musk-spacex-files-ipo",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/elon-musk-decrypt-style-03-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Governor Gavin Newsom orders stronger safeguards for AI companies seeking California contracts, escalating tensions with the Trump administration over",
-        "id": "b16add95e8df"
+        "summary": "Elon Musk’s rocket company has confidentially submitted IPO paperwork to U.S. regulators, potentially setting up one of the largest public listings in",
+        "id": "231f4ae8c0bd"
       },
       {
-        "title": "Latin America’s Mercado Libre Pulls the Plug on Its Crypto Coin",
-        "url": "https://decrypt.co/362958/latin-america-mercado-libre-pulls-plug-crypto-coin",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-mercado-libre-gID_7.png@png",
+        "title": "Fed's Barr Says Stablecoins Need Tighter Controls to Fight Money Laundering",
+        "url": "https://decrypt.co/363071/fed-barr-stablecoins-tighter-controls-fight-money-laundering",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Latin America's e-commerce giant Mercado Libre quietly killed its Mercado Coin loyalty token—pivoting to its own stablecoin.",
-        "id": "d122fe0c948b"
+        "summary": "The Fed governor has previously said that stablecoins risk undermining the U.S. central bank’s credibility.",
+        "id": "358efe47611a"
       },
       {
-        "title": "Zcash Vulnerability That Put Millions of Dollars of ZEC at Risk Has Been Fixed",
-        "url": "https://decrypt.co/362957/zcash-devs-patch-vulnerability-millions-dollars-zec-risk",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-gID_7.jpg@png",
+        "title": "Cambodia Extradites Alleged Huione Crypto Scam Kingpin to China: Report",
+        "url": "https://decrypt.co/363058/cambodia-extradites-alleged-huione-crypto-scam-kingpin-to-china-report",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "A critical vulnerability in Zcash node software could have allowed attackers to drain millions of dollars of ZEC from a deprecated shielded pool.",
-        "id": "0fc29f2ba27e"
+        "summary": "Chinese authorities have arrested Li Xiong, former chairman of Huione Group, linked by U.S. regulators to billions in illicit crypto flows.",
+        "id": "87d9a5d80321"
       },
       {
-        "title": "Bitcoin, Crypto Stocks Climb on Reports That Iran's President Is 'Ready to End War'",
-        "url": "https://decrypt.co/362913/bitcon-crypto-stocks-climb-reports-iranian-president-end-war",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Iran-Bitcoin-1-gID_7.jpg@png",
+        "title": "The Quantum Threat to Bitcoin Dividing Crypto",
+        "url": "https://decrypt.co/363030/the-quantum-threat-to-bitcoin-dividing-crypto",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Stocks are surging while Bitcoin and Ethereum hit their highest prices in days after Iran's president said he's looking to end the conflict.",
-        "id": "10c348f4409d"
+        "summary": "Two papers published this week have reignited debates about the risk posed by “Q-day” to the cryptography that underpins digital assets.",
+        "id": "8175a2eccab4"
       },
       {
-        "title": "Tether's USAT Stablecoin Expands Beyond Ethereum Mainnet to Celo",
-        "url": "https://decrypt.co/362941/tethers-usat-stablecoin-expands-ethereum-mainnet-celo",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Tether-decrypt-style-02-gID_7.png@png",
+        "title": "Bitcoin Gets Its First Bond Rating as Moody's Grades New Hampshire Deal",
+        "url": "https://decrypt.co/363032/bitcoin-first-bond-rating-moodys-new-hampshire",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "The Tether-backed USAT stablecoin built for the U.S. market is expanding to Ethereum layer-2 network Celo with help from Google Cloud.",
-        "id": "e2e0688c1fa0"
+        "summary": "Moody's has rated a New Hampshire Bitcoin-backed bond—a first for BTC as direct bond collateral.",
+        "id": "b96747335fd1"
       },
       {
         "title": "比特币突破 80000 美元",
