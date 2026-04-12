@@ -1,69 +1,78 @@
 {
-  "last_updated": "2026-04-11T01:44:08.654384",
-  "total": 59,
+  "last_updated": "2026-04-12T01:55:37.488793",
+  "total": 60,
   "news": [
     {
-      "title": "Filing the corners off my MacBooks",
-      "url": "https://kentwalters.com/posts/corners/",
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47724352\">Comments</a>",
-      "id": "5094125023fb"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47732020\">Comments</a>",
+      "id": "d6b391df8954"
     },
     {
-      "title": "Artemis II safely splashes down",
-      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47725583\">Comments</a>",
-      "id": "0b90f9cd7c62"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47733971\">Comments</a>",
+      "id": "858808ce7024"
     },
     {
-      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
-      "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47722333\">Comments</a>",
-      "id": "50566dfe0824"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47733217\">Comments</a>",
+      "id": "443f6348590c"
     },
     {
-      "title": "Installing Every* Firefox Extension",
-      "url": "https://jack.cab/blog/every-firefox-extension",
+      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+      "url": "https://zenodo.org/records/19513269",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47724118\">Comments</a>",
-      "id": "67cb0f56149d"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47733561\">Comments</a>",
+      "id": "6ece5b2e1bc6"
     },
     {
-      "title": "WireGuard makes new Windows release following Microsoft signing resolution",
-      "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
+      "title": "Pijul a FOSS distributed version control system",
+      "url": "https://pijul.org/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47719942\">Comments</a>",
-      "id": "5afb56739e2d"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47672941\">Comments</a>",
+      "id": "b7d72a414526"
     },
     {
-      "title": "Industrial design files for Keychron keyboards and mice",
-      "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
+      "title": "Dark Castle",
+      "url": "https://darkcastle.co.uk/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47720419\">Comments</a>",
-      "id": "eed1e06c4129"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47733521\">Comments</a>",
+      "id": "20e316e21cb8"
     },
     {
-      "title": "AI assistance when contributing to the Linux kernel",
-      "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+      "title": "How Complex is my Code?",
+      "url": "https://philodev.one/posts/2026-04-code-complexity/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47721953\">Comments</a>",
-      "id": "c003b8541975"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47673171\">Comments</a>",
+      "id": "a2b03a8d6f1b"
+    },
+    {
+      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+      "url": "https://www.v68k.org/advanced-mac-substitute/",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47731506\">Comments</a>",
+      "id": "01ac49dfc716"
     },
     {
       "title": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
@@ -138,6 +147,51 @@
       "id": "3cafd0fae1ea"
     },
     {
+      "title": "Red Hat 解雇了中国工程团队",
+      "url": "https://www.solidot.org/story?sid=84021",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "IBM 子公司 Red Hat 解雇了整个中国工程团队，将大部分工作岗位转移到印度。一位自称是 Red Hat China 首席软件工程师的用户在 Hacker News 上发帖称他周四醒来后发现无法登陆 VPN，其他多种服务的访问权限也都撤销了，CTO 之后通知他们公司将业务重心转移到亚太中心。此",
+      "id": "6fb1655e3a9c"
+    },
+    {
+      "title": "在 Firefox 浏览器上安装“所有”扩展会发生什么",
+      "url": "https://www.solidot.org/story?sid=84020",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "Firefox 官方扩展商店共有 8.4 万个扩展，如果我们下载安装所有这些扩展，会发生什么事？有人替我们完成了这一几乎不可能的任务。扩展的总容量为 49.3 GB，单个扩展的平均容量为 584.9 kB。容量最大的是 dmitlichess 共 196.3 MB——包含逾 2000 音频文件，其次",
+      "id": "2d9b5989e6e2"
+    },
+    {
+      "title": "全球夜间人造光亮度 8 年增加 16%",
+      "url": "https://www.solidot.org/story?sid=84019",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "根据发表在《自然》期刊上的一项研究，通过对卫星观测数据分析发现，2014-2022 年间，全球夜间人造光总体亮度增加了 16%。研究显示，全球夜间亮度变化并非均匀增强，而是不同地区此消彼长形成“拼图式”格局。2022 年美国夜间总亮度位居全球首位，其次为中国、印度、加拿大和巴西。亮度增长主要来自城市",
+      "id": "bf9bdb9bbb3f"
+    },
+    {
+      "title": "涉嫌向 Sam Altman 住宅扔燃烧瓶的嫌疑人被捕",
+      "url": "https://www.solidot.org/story?sid=84018",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "旧金山警方逮捕了一名涉嫌向 OpenAI CEO Sam Altman 住宅扔燃烧瓶的嫌疑人，还嫌疑人还跑到 OpenAI 位于旧金山 Mission Bay 的总部大楼前发表威胁言论。OpenAI 在发给员工的内部声明中表示，在周五 3:45am PT 左右，嫌疑人接近 Sam 住宅投掷了一枚燃烧",
+      "id": "abf7cf70f491"
+    },
+    {
+      "title": "Artemis II 宇航员返回地面",
+      "url": "https://www.solidot.org/story?sid=84017",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "NASA 执行阿尔忒弥斯二号（Artemis II）绕月任务的四名宇航员于 4 月 10 日 5:07 p.m. PDT 溅落在圣地亚哥海岸附近。NASA 宇航员 Reid Wiseman、Victor Glover 和 Christina Koch，以及加拿大 CSA 宇航员 Jeremy Han",
+      "id": "5bc16ebdf6ad"
+    },
+    {
       "title": "阿根廷企鹅国度发现 PFAS",
       "url": "https://www.solidot.org/story?sid=84016",
       "image": "",
@@ -165,49 +219,13 @@
       "id": "9e9e16f1f604"
     },
     {
-      "title": "EFF 退出 X 平台",
-      "url": "https://www.solidot.org/story?sid=84013",
+      "title": "浅谈人工智能时代的用户体验：Agent Experience 导论",
+      "url": "https://sspai.com/post/107600",
       "image": "",
-      "source": "Solidot",
+      "source": "少数派",
       "category": "tech",
-      "summary": "电子前哨基金会（EFF）宣布退出 X/Twitter 平台，原因可能是 X 平台的算法在马斯克（Elon Musk）治下更倾向于传播右翼内容，导致立场倾向于左翼的数字权利组织 EFF 的内容曝光度大幅下降。EFF 称它每天在 X/Twitter 上发表 5-10 条推文， 2018 年这些推文月曝光",
-      "id": "0d1d3ea47aef"
-    },
-    {
-      "title": "NASA 如何构建 Artemis II 的容错计算机",
-      "url": "https://www.solidot.org/story?sid=84012",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "阿波罗宇航员用于登月的计算机配备了 1-MHz 处理器和 4 kilobytes 可擦除内存，其功能有限，飞船重要的环境和电源控制仍然是通过手动或机电方式实现的。阿尔忒弥斯（Artemis）II 的 Orion 飞船则配备了至今容错能力最强的计算机系统。为了应对太空辐射，飞船配备了两台计算机 Veh",
-      "id": "b7541f1399ab"
-    },
-    {
-      "title": "FreeBSD 公布兼容笔记本型号",
-      "url": "https://www.solidot.org/story?sid=84011",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "FreeBSD 基金会在 2024 年第四季度启动了项目 Laptop Support &amp; Usability Project，致力于改进 FreeBSD 发行版在现代笔记本电脑上的兼容性，解决 Wi-Fi、图形、音频、安装程序和睡眠状态等方面的问题。该项目已经取得了长足进步，它公布了一个兼",
-      "id": "96d67ad73cfe"
-    },
-    {
-      "title": "日本限制人类受精卵的基因编辑",
-      "url": "https://www.solidot.org/story?sid=84010",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "日本政府内阁会议敲定了《基因组编辑胚胎规制法案》，内容为附带罚则禁止用基因组编辑技术改变人类受精卵的基因并以生育为目的向人类、动物子宫进行移植的研究及治疗。此举旨在管制基因编辑婴儿的出生。对受精卵的基因组编辑有望对遗传性疾病起到预防作用，但另一方面也存在产生超出预期的影响等技术层面的极限和风险。试图",
-      "id": "f86be719535c"
-    },
-    {
-      "title": "美国生育率创历史新低",
-      "url": "https://www.solidot.org/story?sid=84009",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "美国 CDC 公布的初步统计数据显示，2025 年美国女性生育的婴儿数量比 2007 年的峰值纪录减少约 71 万。\n2007 年美国共有 4,316,233 名婴儿出生。2025 年尽管美国总人口数量更多，但新生儿数量仅为 3,606,400 人。为何生育率下降？部分专家认为是经济方面的因素导致的",
-      "id": "5284bdb504c3"
+      "summary": "AX 专门探讨如何设计产品形态，使 AI Agent 能够可靠地「理解」、自主操作并高效集成，而非仅服务于人类用户。<a href=\"https://sspai.com/post/107600\" target=\"_blank\">查看全文</a>",
+      "id": "2682a0afcf9d"
     },
     {
       "title": "本周看什么 | 最近值得一看的 11 部作品",
@@ -273,42 +291,6 @@
       "id": "c67c60755087"
     },
     {
-      "title": "派早报：智谱发布旗舰模型 GLM-5.1、索尼推出 Playerbase 计划等",
-      "url": "https://sspai.com/post/108426",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "DeepSeek 上线专家模式、闪迪推出 2TB Extreme Pro UHS-II SD 卡等。<a href=\"https://sspai.com/post/108426\" target=\"_blank\">查看全文</a>",
-      "id": "2a9d62b73b39"
-    },
-    {
-      "title": "Bitcoin community weighs in on reports of Iran's crypto toll for oil ships",
-      "url": "https://cointelegraph.com/news/bitcoin-community-iran-crypto-toll-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc5MjUtZTJlYi03N2EyLTllYWYtZGE3OGQ3OTFmMzJkLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin community weighs in on reports of Iran's crypto toll for oil ships\" cl",
-      "id": "462de845b932"
-    },
-    {
-      "title": "Prediction market users await Artemis II mission splashdown",
-      "url": "https://cointelegraph.com/news/prediction-market-bets-artemis-moon-mission?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc4ZTYtMzI0Ny03MGUxLWJkZjYtMmQzOWZjMDFmMWMzLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Prediction market users await Artemis II mission splashdown\" class=\"type:prima",
-      "id": "5c3b6b9e2705"
-    },
-    {
-      "title": "CoreWeave lands multi-year agreement with Anthropic to run AI workloads",
-      "url": "https://cointelegraph.com/news/coreweave-agreement-anthropic-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc4ZGItZDc4YS03ZmEyLWEzNDMtMjUwMDMwYzY5MTQ0LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CoreWeave lands multi-year agreement with Anthropic to run AI workloads\" class",
-      "id": "ba008fad1286"
-    },
-    {
       "title": "Here’s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg",
@@ -318,40 +300,94 @@
       "id": "772e97788bfd"
     },
     {
-      "title": "Crypto Biz: Will Bitcoin secure safe passage through the Hormuz Strait?",
-      "url": "https://cointelegraph.com/news/iran-bitcoin-strait-of-hormuz-oil-tolls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc4YjktZDY5ZS03MTgyLWFjYjUtMjdjZjU0ZDI2YTBlLmpwZw==.jpg",
+      "title": "US President Trump faces renewed backlash as Trump-linked tokens crash",
+      "url": "https://cointelegraph.com/news/trump-backlash-crypto-tokens-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDdlNmItZTNiZC03NGI0LTlmMWUtYTA0Yjc4YjFiZDU0LmpwZw==.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Will Bitcoin secure safe passage through the Hormuz Strait?\" class",
-      "id": "88149e83f9cb"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US President Trump faces renewed backlash as Trump-linked tokens crash\" class=",
+      "id": "b01b8749e29b"
     },
     {
-      "title": "Bitcoin charts point to $80K in April: Here’s how it may happen",
-      "url": "https://cointelegraph.com/news/bitcoin-charts-point-to-dollar80k-in-april-here-s-how-it-may-happen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc4MmEtN2NiZS03ZTVmLTk3YzctZmNmYjI0Yjg1MjZmLmpwZw==.jpg",
+      "title": "Crypto crashed six months ago: Have markets improved, or are bears still in charge?",
+      "url": "https://cointelegraph.com/news/crypto-crashed-six-months-ago-have-markets-improved-or-are-bears-still-in-charge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDdkODQtZDRkOC03ODNhLTkyYTctMGZiY2E3NTJmM2FhLmpwZw==.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin charts point to $80K in April: Here’s how it may happen\" class=\"type:p",
-      "id": "450dba9bf11d"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto crashed six months ago: Have markets improved, or are bears still in ch",
+      "id": "624ba8eaca21"
     },
     {
-      "title": "Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act",
-      "url": "https://cointelegraph.com/news/coinbase-ceo-treasury-secretary-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc4NTEtYzBlOS03NDM5LTk2YzAtODYzMzk4YWJhNmMzLmpwZw==.jpg",
+      "title": "Bitcoin price analysis sees new short squeeze as open interest nears $25B",
+      "url": "https://cointelegraph.com/news/bitcoin-price-analysis-sees-new-short-squeeze-as-open-interest-nears-25b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDdkNWYtYzM4YS03ODE1LWI5NjctMWVjZWRkYzlhZjNhLmpwZw==.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act\" class=\"ty",
-      "id": "62320ec92a03"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price analysis sees new short squeeze as open interest nears $25B\" cla",
+      "id": "7d3c0aa52baa"
     },
     {
-      "title": "Price predictions 4/10: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, LINK",
-      "url": "https://cointelegraph.com/news/price-predictions-4-10-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc4MzctNTNhNi03OTg4LThhM2YtZWJlNjdhMzJkNzY5LmpwZw==.jpg",
+      "title": "Messaging push notifications are a privacy attack surface, says Durov",
+      "url": "https://cointelegraph.com/news/messaging-notifications-privacy-attack-durov?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDdkYWUtZTQ3MC03ZWE4LTg1NDItNzZhOWYyNDRjODYyLmpwZw==.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 4/10: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, LINK\" c",
-      "id": "eedca91f1bd1"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Messaging push notifications are a privacy attack surface, says Durov\" class=\"",
+      "id": "acb8bd06e39f"
+    },
+    {
+      "title": "Reality of AI’s impact on employment clashes with C-suite optimism",
+      "url": "https://cointelegraph.com/news/reality-ai-impact-employment-clashes-optimism?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDcxYTEtYzBjNi03NTZiLTg4NWMtYmQ1NDZhYjI2OWNhLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Reality of AI’s impact on employment clashes with C-suite optimism\" class=\"typ",
+      "id": "f626bf4a9c3b"
+    },
+    {
+      "title": "Paying Iran in crypto could put shippers at sanctions risk: Chainalysis",
+      "url": "https://cointelegraph.com/news/paying-iran-crypto-shippers-sanctions-risk-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDdjN2ItYWRmMy03ZmU2LTgzY2UtOTRmNWZlODJjODE1LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Paying Iran in crypto could put shippers at sanctions risk: Chainalysis\" class",
+      "id": "2c276f6d398e"
+    },
+    {
+      "title": "Trump-linked WLFI hits new low as token-backed loan triggers concern",
+      "url": "https://cointelegraph.com/news/trump-linked-wlfi-hits-new-low-token-backed-loan-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDdiZGMtOGM2OC03Zjc3LTkwMmYtNzAxZTA3ZjJhOTBkLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump-linked WLFI hits new low as token-backed loan triggers concern\" class=\"t",
+      "id": "6d583e2a3b38"
+    },
+    {
+      "title": "'Not Going to Stop at Bitcoin': Morgan Stanley Weighs Tokenization, Tax Solutions in Crypto Push",
+      "url": "https://decrypt.co/364030/not-going-stop-bitcoin-morgan-stanley-weighs-tokenization-tax-solutions",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-morgan-stanley-gID_7.png@png",
+      "source": "Decrypt",
+      "category": "crypto",
+      "summary": "Morgan Stanley’s Amy Oldenburg signaled that the Wall Street giant’s crypto journey has a long way to go.",
+      "id": "e79fea649e96"
+    },
+    {
+      "title": "New Tools Aim to Make AI 'Vibe Coding' Safer for Crypto",
+      "url": "https://decrypt.co/364080/asi-alliance-matterhorn-ai-tools-vibe-coding-crypto",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/blockchain-decrypt-style-gID_7.jpg@png",
+      "source": "Decrypt",
+      "category": "crypto",
+      "summary": "A new initiative by Matterhorn and the ASI Alliance adds auditing tools and safety checks for AI-generated smart contracts.",
+      "id": "560e708004cd"
+    },
+    {
+      "title": "Economists Said AI Wouldn’t Take Jobs—Some Now Admit They Got It Wrong",
+      "url": "https://decrypt.co/364008/economists-ai-wouldnt-take-jobs-admit-wrong",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/ai-jobs-gID_1.png@png",
+      "source": "Decrypt",
+      "category": "crypto",
+      "summary": "A new multi-university study surveyed 69 economists, 52 AI experts, and 38 superforecasters. All three groups agree: faster AI means fewer jobs.",
+      "id": "efeda3199d50"
     },
     {
       "title": "This 'Space Invaders' Clone Game Pays Real Bitcoin—If You're Skilled, Lucky or Rich",
@@ -397,33 +433,6 @@
       "category": "crypto",
       "summary": "CIA leadership confirmed the agency used AI to generate its first-ever autonomous intelligence report—and expect to use full AI agent teams.",
       "id": "f3fefe47834b"
-    },
-    {
-      "title": "Elon Musk’s xAI Sues Colorado Over AI Law as Fight Over State Regulation Intensifies",
-      "url": "https://decrypt.co/363951/elon-musk-xai-colorado-ai-law",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-4-gID_7.png@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Elon Musk’s AI company xAI is challenging Colorado’s new high-risk AI law, adding to mounting legal scrutiny around its Grok chatbot.",
-      "id": "1afb28348f07"
-    },
-    {
-      "title": "Zcash Could Rise to $420 After 62% Weekly Price Spike, Traders Predict",
-      "url": "https://decrypt.co/363946/zcash-could-rise-420-after-62-weekly-price-spike-traders-predict",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-gID_7.jpg@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Privacy-focused coin Zcash is soaring higher than Bitcoin. Myriad predictors think ZEC is likely to keep rising after a massive gain.",
-      "id": "8f8815241bf8"
-    },
-    {
-      "title": "Exodus Rolls Out 'Exodus Pay' to Turn Bitcoin Wallet Into Spending App",
-      "url": "https://decrypt.co/363947/exodus-pay-bitcoin-wallet-spending-app",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/credit-card-decrypt-style-04-gID_7.png@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "The feature lets users spend crypto directly from a self-custodial wallet.",
-      "id": "0382e3188bf0"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -647,67 +656,121 @@
     ],
     "tech": [
       {
-        "title": "Filing the corners off my MacBooks",
-        "url": "https://kentwalters.com/posts/corners/",
+        "title": "Small models also found the vulnerabilities that Mythos found",
+        "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47724352\">Comments</a>",
-        "id": "5094125023fb"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47732020\">Comments</a>",
+        "id": "d6b391df8954"
       },
       {
-        "title": "Artemis II safely splashes down",
-        "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+        "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+        "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47725583\">Comments</a>",
-        "id": "0b90f9cd7c62"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47733971\">Comments</a>",
+        "id": "858808ce7024"
       },
       {
-        "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
-        "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
+        "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+        "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47722333\">Comments</a>",
-        "id": "50566dfe0824"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47733217\">Comments</a>",
+        "id": "443f6348590c"
       },
       {
-        "title": "Installing Every* Firefox Extension",
-        "url": "https://jack.cab/blog/every-firefox-extension",
+        "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+        "url": "https://zenodo.org/records/19513269",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47724118\">Comments</a>",
-        "id": "67cb0f56149d"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47733561\">Comments</a>",
+        "id": "6ece5b2e1bc6"
       },
       {
-        "title": "WireGuard makes new Windows release following Microsoft signing resolution",
-        "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
+        "title": "Pijul a FOSS distributed version control system",
+        "url": "https://pijul.org/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47719942\">Comments</a>",
-        "id": "5afb56739e2d"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47672941\">Comments</a>",
+        "id": "b7d72a414526"
       },
       {
-        "title": "Industrial design files for Keychron keyboards and mice",
-        "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
+        "title": "Dark Castle",
+        "url": "https://darkcastle.co.uk/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47720419\">Comments</a>",
-        "id": "eed1e06c4129"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47733521\">Comments</a>",
+        "id": "20e316e21cb8"
       },
       {
-        "title": "AI assistance when contributing to the Linux kernel",
-        "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+        "title": "How Complex is my Code?",
+        "url": "https://philodev.one/posts/2026-04-code-complexity/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47721953\">Comments</a>",
-        "id": "c003b8541975"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47673171\">Comments</a>",
+        "id": "a2b03a8d6f1b"
+      },
+      {
+        "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+        "url": "https://www.v68k.org/advanced-mac-substitute/",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47731506\">Comments</a>",
+        "id": "01ac49dfc716"
+      },
+      {
+        "title": "Red Hat 解雇了中国工程团队",
+        "url": "https://www.solidot.org/story?sid=84021",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "IBM 子公司 Red Hat 解雇了整个中国工程团队，将大部分工作岗位转移到印度。一位自称是 Red Hat China 首席软件工程师的用户在 Hacker News 上发帖称他周四醒来后发现无法登陆 VPN，其他多种服务的访问权限也都撤销了，CTO 之后通知他们公司将业务重心转移到亚太中心。此",
+        "id": "6fb1655e3a9c"
+      },
+      {
+        "title": "在 Firefox 浏览器上安装“所有”扩展会发生什么",
+        "url": "https://www.solidot.org/story?sid=84020",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "Firefox 官方扩展商店共有 8.4 万个扩展，如果我们下载安装所有这些扩展，会发生什么事？有人替我们完成了这一几乎不可能的任务。扩展的总容量为 49.3 GB，单个扩展的平均容量为 584.9 kB。容量最大的是 dmitlichess 共 196.3 MB——包含逾 2000 音频文件，其次",
+        "id": "2d9b5989e6e2"
+      },
+      {
+        "title": "全球夜间人造光亮度 8 年增加 16%",
+        "url": "https://www.solidot.org/story?sid=84019",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "根据发表在《自然》期刊上的一项研究，通过对卫星观测数据分析发现，2014-2022 年间，全球夜间人造光总体亮度增加了 16%。研究显示，全球夜间亮度变化并非均匀增强，而是不同地区此消彼长形成“拼图式”格局。2022 年美国夜间总亮度位居全球首位，其次为中国、印度、加拿大和巴西。亮度增长主要来自城市",
+        "id": "bf9bdb9bbb3f"
+      },
+      {
+        "title": "涉嫌向 Sam Altman 住宅扔燃烧瓶的嫌疑人被捕",
+        "url": "https://www.solidot.org/story?sid=84018",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "旧金山警方逮捕了一名涉嫌向 OpenAI CEO Sam Altman 住宅扔燃烧瓶的嫌疑人，还嫌疑人还跑到 OpenAI 位于旧金山 Mission Bay 的总部大楼前发表威胁言论。OpenAI 在发给员工的内部声明中表示，在周五 3:45am PT 左右，嫌疑人接近 Sam 住宅投掷了一枚燃烧",
+        "id": "abf7cf70f491"
+      },
+      {
+        "title": "Artemis II 宇航员返回地面",
+        "url": "https://www.solidot.org/story?sid=84017",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "NASA 执行阿尔忒弥斯二号（Artemis II）绕月任务的四名宇航员于 4 月 10 日 5:07 p.m. PDT 溅落在圣地亚哥海岸附近。NASA 宇航员 Reid Wiseman、Victor Glover 和 Christina Koch，以及加拿大 CSA 宇航员 Jeremy Han",
+        "id": "5bc16ebdf6ad"
       },
       {
         "title": "阿根廷企鹅国度发现 PFAS",
@@ -737,49 +800,13 @@
         "id": "9e9e16f1f604"
       },
       {
-        "title": "EFF 退出 X 平台",
-        "url": "https://www.solidot.org/story?sid=84013",
+        "title": "浅谈人工智能时代的用户体验：Agent Experience 导论",
+        "url": "https://sspai.com/post/107600",
         "image": "",
-        "source": "Solidot",
+        "source": "少数派",
         "category": "tech",
-        "summary": "电子前哨基金会（EFF）宣布退出 X/Twitter 平台，原因可能是 X 平台的算法在马斯克（Elon Musk）治下更倾向于传播右翼内容，导致立场倾向于左翼的数字权利组织 EFF 的内容曝光度大幅下降。EFF 称它每天在 X/Twitter 上发表 5-10 条推文， 2018 年这些推文月曝光",
-        "id": "0d1d3ea47aef"
-      },
-      {
-        "title": "NASA 如何构建 Artemis II 的容错计算机",
-        "url": "https://www.solidot.org/story?sid=84012",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "阿波罗宇航员用于登月的计算机配备了 1-MHz 处理器和 4 kilobytes 可擦除内存，其功能有限，飞船重要的环境和电源控制仍然是通过手动或机电方式实现的。阿尔忒弥斯（Artemis）II 的 Orion 飞船则配备了至今容错能力最强的计算机系统。为了应对太空辐射，飞船配备了两台计算机 Veh",
-        "id": "b7541f1399ab"
-      },
-      {
-        "title": "FreeBSD 公布兼容笔记本型号",
-        "url": "https://www.solidot.org/story?sid=84011",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "FreeBSD 基金会在 2024 年第四季度启动了项目 Laptop Support &amp; Usability Project，致力于改进 FreeBSD 发行版在现代笔记本电脑上的兼容性，解决 Wi-Fi、图形、音频、安装程序和睡眠状态等方面的问题。该项目已经取得了长足进步，它公布了一个兼",
-        "id": "96d67ad73cfe"
-      },
-      {
-        "title": "日本限制人类受精卵的基因编辑",
-        "url": "https://www.solidot.org/story?sid=84010",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "日本政府内阁会议敲定了《基因组编辑胚胎规制法案》，内容为附带罚则禁止用基因组编辑技术改变人类受精卵的基因并以生育为目的向人类、动物子宫进行移植的研究及治疗。此举旨在管制基因编辑婴儿的出生。对受精卵的基因组编辑有望对遗传性疾病起到预防作用，但另一方面也存在产生超出预期的影响等技术层面的极限和风险。试图",
-        "id": "f86be719535c"
-      },
-      {
-        "title": "美国生育率创历史新低",
-        "url": "https://www.solidot.org/story?sid=84009",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "美国 CDC 公布的初步统计数据显示，2025 年美国女性生育的婴儿数量比 2007 年的峰值纪录减少约 71 万。\n2007 年美国共有 4,316,233 名婴儿出生。2025 年尽管美国总人口数量更多，但新生儿数量仅为 3,606,400 人。为何生育率下降？部分专家认为是经济方面的因素导致的",
-        "id": "5284bdb504c3"
+        "summary": "AX 专门探讨如何设计产品形态，使 AI Agent 能够可靠地「理解」、自主操作并高效集成，而非仅服务于人类用户。<a href=\"https://sspai.com/post/107600\" target=\"_blank\">查看全文</a>",
+        "id": "2682a0afcf9d"
       },
       {
         "title": "本周看什么 | 最近值得一看的 11 部作品",
@@ -845,15 +872,6 @@
         "id": "c67c60755087"
       },
       {
-        "title": "派早报：智谱发布旗舰模型 GLM-5.1、索尼推出 Playerbase 计划等",
-        "url": "https://sspai.com/post/108426",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "DeepSeek 上线专家模式、闪迪推出 2TB Extreme Pro UHS-II SD 卡等。<a href=\"https://sspai.com/post/108426\" target=\"_blank\">查看全文</a>",
-        "id": "2a9d62b73b39"
-      },
-      {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
         "source": "MacRumors",
         "category": "tech",
@@ -892,33 +910,6 @@
     ],
     "crypto": [
       {
-        "title": "Bitcoin community weighs in on reports of Iran's crypto toll for oil ships",
-        "url": "https://cointelegraph.com/news/bitcoin-community-iran-crypto-toll-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc5MjUtZTJlYi03N2EyLTllYWYtZGE3OGQ3OTFmMzJkLmpwZw==.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin community weighs in on reports of Iran's crypto toll for oil ships\" cl",
-        "id": "462de845b932"
-      },
-      {
-        "title": "Prediction market users await Artemis II mission splashdown",
-        "url": "https://cointelegraph.com/news/prediction-market-bets-artemis-moon-mission?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc4ZTYtMzI0Ny03MGUxLWJkZjYtMmQzOWZjMDFmMWMzLmpwZw==.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Prediction market users await Artemis II mission splashdown\" class=\"type:prima",
-        "id": "5c3b6b9e2705"
-      },
-      {
-        "title": "CoreWeave lands multi-year agreement with Anthropic to run AI workloads",
-        "url": "https://cointelegraph.com/news/coreweave-agreement-anthropic-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc4ZGItZDc4YS03ZmEyLWEzNDMtMjUwMDMwYzY5MTQ0LmpwZw==.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CoreWeave lands multi-year agreement with Anthropic to run AI workloads\" class",
-        "id": "ba008fad1286"
-      },
-      {
         "title": "Here’s what happened in crypto today",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg",
@@ -928,40 +919,94 @@
         "id": "772e97788bfd"
       },
       {
-        "title": "Crypto Biz: Will Bitcoin secure safe passage through the Hormuz Strait?",
-        "url": "https://cointelegraph.com/news/iran-bitcoin-strait-of-hormuz-oil-tolls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc4YjktZDY5ZS03MTgyLWFjYjUtMjdjZjU0ZDI2YTBlLmpwZw==.jpg",
+        "title": "US President Trump faces renewed backlash as Trump-linked tokens crash",
+        "url": "https://cointelegraph.com/news/trump-backlash-crypto-tokens-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDdlNmItZTNiZC03NGI0LTlmMWUtYTA0Yjc4YjFiZDU0LmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Will Bitcoin secure safe passage through the Hormuz Strait?\" class",
-        "id": "88149e83f9cb"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US President Trump faces renewed backlash as Trump-linked tokens crash\" class=",
+        "id": "b01b8749e29b"
       },
       {
-        "title": "Bitcoin charts point to $80K in April: Here’s how it may happen",
-        "url": "https://cointelegraph.com/news/bitcoin-charts-point-to-dollar80k-in-april-here-s-how-it-may-happen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc4MmEtN2NiZS03ZTVmLTk3YzctZmNmYjI0Yjg1MjZmLmpwZw==.jpg",
+        "title": "Crypto crashed six months ago: Have markets improved, or are bears still in charge?",
+        "url": "https://cointelegraph.com/news/crypto-crashed-six-months-ago-have-markets-improved-or-are-bears-still-in-charge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDdkODQtZDRkOC03ODNhLTkyYTctMGZiY2E3NTJmM2FhLmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin charts point to $80K in April: Here’s how it may happen\" class=\"type:p",
-        "id": "450dba9bf11d"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto crashed six months ago: Have markets improved, or are bears still in ch",
+        "id": "624ba8eaca21"
       },
       {
-        "title": "Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act",
-        "url": "https://cointelegraph.com/news/coinbase-ceo-treasury-secretary-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc4NTEtYzBlOS03NDM5LTk2YzAtODYzMzk4YWJhNmMzLmpwZw==.jpg",
+        "title": "Bitcoin price analysis sees new short squeeze as open interest nears $25B",
+        "url": "https://cointelegraph.com/news/bitcoin-price-analysis-sees-new-short-squeeze-as-open-interest-nears-25b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDdkNWYtYzM4YS03ODE1LWI5NjctMWVjZWRkYzlhZjNhLmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act\" class=\"ty",
-        "id": "62320ec92a03"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price analysis sees new short squeeze as open interest nears $25B\" cla",
+        "id": "7d3c0aa52baa"
       },
       {
-        "title": "Price predictions 4/10: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, LINK",
-        "url": "https://cointelegraph.com/news/price-predictions-4-10-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc4MzctNTNhNi03OTg4LThhM2YtZWJlNjdhMzJkNzY5LmpwZw==.jpg",
+        "title": "Messaging push notifications are a privacy attack surface, says Durov",
+        "url": "https://cointelegraph.com/news/messaging-notifications-privacy-attack-durov?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDdkYWUtZTQ3MC03ZWE4LTg1NDItNzZhOWYyNDRjODYyLmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 4/10: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, LINK\" c",
-        "id": "eedca91f1bd1"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Messaging push notifications are a privacy attack surface, says Durov\" class=\"",
+        "id": "acb8bd06e39f"
+      },
+      {
+        "title": "Reality of AI’s impact on employment clashes with C-suite optimism",
+        "url": "https://cointelegraph.com/news/reality-ai-impact-employment-clashes-optimism?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDcxYTEtYzBjNi03NTZiLTg4NWMtYmQ1NDZhYjI2OWNhLmpwZw==.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Reality of AI’s impact on employment clashes with C-suite optimism\" class=\"typ",
+        "id": "f626bf4a9c3b"
+      },
+      {
+        "title": "Paying Iran in crypto could put shippers at sanctions risk: Chainalysis",
+        "url": "https://cointelegraph.com/news/paying-iran-crypto-shippers-sanctions-risk-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDdjN2ItYWRmMy03ZmU2LTgzY2UtOTRmNWZlODJjODE1LmpwZw==.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Paying Iran in crypto could put shippers at sanctions risk: Chainalysis\" class",
+        "id": "2c276f6d398e"
+      },
+      {
+        "title": "Trump-linked WLFI hits new low as token-backed loan triggers concern",
+        "url": "https://cointelegraph.com/news/trump-linked-wlfi-hits-new-low-token-backed-loan-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDdiZGMtOGM2OC03Zjc3LTkwMmYtNzAxZTA3ZjJhOTBkLmpwZw==.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump-linked WLFI hits new low as token-backed loan triggers concern\" class=\"t",
+        "id": "6d583e2a3b38"
+      },
+      {
+        "title": "'Not Going to Stop at Bitcoin': Morgan Stanley Weighs Tokenization, Tax Solutions in Crypto Push",
+        "url": "https://decrypt.co/364030/not-going-stop-bitcoin-morgan-stanley-weighs-tokenization-tax-solutions",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-morgan-stanley-gID_7.png@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "Morgan Stanley’s Amy Oldenburg signaled that the Wall Street giant’s crypto journey has a long way to go.",
+        "id": "e79fea649e96"
+      },
+      {
+        "title": "New Tools Aim to Make AI 'Vibe Coding' Safer for Crypto",
+        "url": "https://decrypt.co/364080/asi-alliance-matterhorn-ai-tools-vibe-coding-crypto",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/blockchain-decrypt-style-gID_7.jpg@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "A new initiative by Matterhorn and the ASI Alliance adds auditing tools and safety checks for AI-generated smart contracts.",
+        "id": "560e708004cd"
+      },
+      {
+        "title": "Economists Said AI Wouldn’t Take Jobs—Some Now Admit They Got It Wrong",
+        "url": "https://decrypt.co/364008/economists-ai-wouldnt-take-jobs-admit-wrong",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/ai-jobs-gID_1.png@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "A new multi-university study surveyed 69 economists, 52 AI experts, and 38 superforecasters. All three groups agree: faster AI means fewer jobs.",
+        "id": "efeda3199d50"
       },
       {
         "title": "This 'Space Invaders' Clone Game Pays Real Bitcoin—If You're Skilled, Lucky or Rich",
@@ -1007,33 +1052,6 @@
         "category": "crypto",
         "summary": "CIA leadership confirmed the agency used AI to generate its first-ever autonomous intelligence report—and expect to use full AI agent teams.",
         "id": "f3fefe47834b"
-      },
-      {
-        "title": "Elon Musk’s xAI Sues Colorado Over AI Law as Fight Over State Regulation Intensifies",
-        "url": "https://decrypt.co/363951/elon-musk-xai-colorado-ai-law",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-4-gID_7.png@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Elon Musk’s AI company xAI is challenging Colorado’s new high-risk AI law, adding to mounting legal scrutiny around its Grok chatbot.",
-        "id": "1afb28348f07"
-      },
-      {
-        "title": "Zcash Could Rise to $420 After 62% Weekly Price Spike, Traders Predict",
-        "url": "https://decrypt.co/363946/zcash-could-rise-420-after-62-weekly-price-spike-traders-predict",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-gID_7.jpg@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Privacy-focused coin Zcash is soaring higher than Bitcoin. Myriad predictors think ZEC is likely to keep rising after a massive gain.",
-        "id": "8f8815241bf8"
-      },
-      {
-        "title": "Exodus Rolls Out 'Exodus Pay' to Turn Bitcoin Wallet Into Spending App",
-        "url": "https://decrypt.co/363947/exodus-pay-bitcoin-wallet-spending-app",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/credit-card-decrypt-style-04-gID_7.png@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "The feature lets users spend crypto directly from a self-custodial wallet.",
-        "id": "0382e3188bf0"
       },
       {
         "title": "比特币突破 80000 美元",
