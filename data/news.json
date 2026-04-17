@@ -1,78 +1,141 @@
 {
-  "last_updated": "2026-04-16T01:59:48.796320",
+  "last_updated": "2026-04-17T01:55:35.072456",
   "total": 60,
   "news": [
     {
-      "title": "Cybersecurity looks like proof of work now",
-      "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
+      "title": "Claude Opus 4.7",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47769089\">Comments</a>",
-      "id": "ec5f9db29b0e"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47793411\">Comments</a>",
+      "id": "554e33bdff22"
     },
     {
-      "title": "I made a terminal pager",
-      "url": "https://theleo.zone/posts/pager/",
+      "title": "Codex for almost everything",
+      "url": "https://openai.com/index/codex-for-almost-everything/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47786164\">Comments</a>",
-      "id": "e3f99d7f0539"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47796469\">Comments</a>",
+      "id": "2a279b35fa4c"
     },
     {
-      "title": "Ohio prison inmates 'built computers and hid them in ceiling (2017)",
-      "url": "https://www.bbc.com/news/technology-39576394",
+      "title": "CadQuery is an open-source Python library for building 3D CAD models",
+      "url": "https://cadquery.github.io/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47785948\">Comments</a>",
-      "id": "0c2c3b537b81"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47772725\">Comments</a>",
+      "id": "705cc133abfa"
     },
     {
-      "title": "YouTube now lets you turn off Shorts",
-      "url": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "url": "https://github.com/gainsec/autoprober",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47786791\">Comments</a>",
-      "id": "a1cce93e99dc"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47800033\">Comments</a>",
+      "id": "bf82fd924052"
     },
     {
-      "title": "Google broke its promise to me – now ICE has my data",
-      "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+      "title": "A Better R Programming Experience Thanks to Tree-sitter",
+      "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47782570\">Comments</a>",
-      "id": "84d4959921e2"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47799573\">Comments</a>",
+      "id": "d23bb1c76336"
     },
     {
-      "title": "Introduction to Spherical Harmonics for Graphics Programmers",
-      "url": "https://gpfault.net/posts/sph.html",
+      "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+      "url": "https://clojure.org/about/documentary",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47749548\">Comments</a>",
-      "id": "64b62ad3b88a"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47798345\">Comments</a>",
+      "id": "b3942bf7af00"
     },
     {
-      "title": "Cal.com is going closed source",
-      "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
+      "title": "Android CLI: Build Android apps 3x faster using any agent",
+      "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47780456\">Comments</a>",
-      "id": "e7469ca4e3d1"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47797665\">Comments</a>",
+      "id": "aae2e5da8865"
     },
     {
-      "title": "God sleeps in the minerals",
-      "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
+      "title": "Show HN: Spice simulation → oscilloscope → verification with Claude Code",
+      "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47778475\">Comments</a>",
-      "id": "1776f8419acf"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47801255\">Comments</a>",
+      "id": "7702ff7d8ebf"
+    },
+    {
+      "title": "Making AI operational in constrained public sector environments",
+      "url": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government instit",
+      "id": "ffb6f750ad8a"
+    },
+    {
+      "title": "Treating enterprise AI as an operating layer",
+      "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation m",
+      "id": "890d7c38e58b"
+    },
+    {
+      "title": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
+      "url": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "id": "7914f5f65597"
+    },
+    {
+      "title": "Why having “humans in the loop” in an AI war is an illusion",
+      "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has ",
+      "id": "4d239704a02a"
+    },
+    {
+      "title": "The noise we make is hurting animals. Can we learn to shut up?",
+      "url": "https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "When the covid-19 pandemic started, Jennifer Phillips thought about the songs of the sparrows. They were easier to hear, because the world had suddenl",
+      "id": "45d844b25594"
+    },
+    {
+      "title": "The quest to measure our relationship with nature",
+      "url": "https://www.technologyreview.com/2026/04/16/1135245/measure-relationship-with-nature-index/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "As a movement, environmentalism has been pretty misanthropic. Understandably so—we humans have done some destructive things to the ecosystems around u",
+      "id": "45d553dd3e2f"
+    },
+    {
+      "title": "Is carbon removal in trouble?",
+      "url": "https://www.technologyreview.com/2026/04/16/1135928/carbon-removal-microsoft/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "Last week, news outlets reported that Microsoft was pausing carbon removal purchases. It was something of a bombshell. The thing is, Microsoft is the ",
+      "id": "dca77ae4a35a"
     },
     {
       "title": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
@@ -84,139 +147,112 @@
       "id": "489af3e28e7d"
     },
     {
-      "title": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram",
-      "url": "https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "From inside a money-laundering center in Cambodia, an employee opens a popular Vietnamese banking app on his phone. The app asks him to upload a photo",
-      "id": "c4ed27c23ca2"
-    },
-    {
-      "title": "No one’s sure if synthetic mirror life will kill us all",
-      "url": "https://www.technologyreview.com/2026/04/15/1135197/synthetic-mirror-life-microbes-kill-us-all/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "For four days in February 2019, some 30 synthetic biologists and ethicists hunkered down at a conference center in Northern Virginia to brainstorm hig",
-      "id": "04c945347fea"
-    },
-    {
-      "title": "Building trust in the AI era with privacy-led UX",
-      "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part ",
-      "id": "ec74a40a4180"
-    },
-    {
-      "title": "Redefining the future of software engineering",
-      "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code access",
-      "id": "47bf083cd188"
-    },
-    {
-      "title": "The Download: the state of AI, and protecting bears with drones",
-      "url": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "id": "68f02b391134"
-    },
-    {
-      "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
-      "url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can rea",
-      "id": "0459972415bf"
-    },
-    {
-      "title": "Coming soon: 10 Things That Matter in AI Right Now",
-      "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on ",
-      "id": "353b2565b843"
-    },
-    {
-      "title": "全球暖化危及水稻产量",
-      "url": "https://www.solidot.org/story?sid=84057",
+      "title": "新研究再次证实 AI 有害大脑",
+      "url": "https://www.solidot.org/story?sid=84069",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "全球九成以上的大米产自亚洲，亚洲有逾十亿人口以大米为主食。历史数据显示，亚洲大米过去九千年很少能在年平均气温逾 28°C 或暖季最高气温逾 33°C 的地区茁壮成长，而全球暖化的速度比水稻能适应的速度快 5000 倍。根据发表在《Communications Earth &amp; Environm",
-      "id": "b4fe8a8b8daa"
+      "summary": "研究人员在预印本平台 ArXiv 上发表论文《AI assistance reduces persistence and hurts independent performance》，再次证实 AI 有害大脑。研究人员招募了 350 名美国人，任务是解决一些分数方程。半数参与者被随机分配到 AI 组",
+      "id": "7c7db4ffbd94"
     },
     {
-      "title": "美国国会新法案要求操作系统验证用户年龄",
-      "url": "https://www.solidot.org/story?sid=84056",
+      "title": "Mozilla 宣布开源可自托管 AI 客户端 Thunderbolt",
+      "url": "https://www.solidot.org/story?sid=84068",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "美国民主党议员 Josh Gottheimer 和共和党议员 Elise M. Stefanik 联合提出了一项新法案，要求操作系统开发商验证用户的年龄。法案已于 4 月 13 日递交到众议院能源和商业委员，其详细内容还没有公开，目前只知道法案的标题是“To require operating sy",
-      "id": "e210c11ccd0e"
+      "summary": "Mozilla 与德国 AI 基础设施公司 deepset 合作宣布开源可自托管 AI 客户端 Thunderbolt。MZLA Technologies Corporation CEO Ryan Sipes 表示，AI 太重要而不能外包，Thunderbolt 为机构组织提供了一种自主的 AI 客",
+      "id": "bf7dc73a7d68"
     },
     {
-      "title": "斯坦福报告凸显了 AI 业内人士和公众之间的分歧",
-      "url": "https://www.solidot.org/story?sid=84055",
+      "title": "Linux Mint 宣布采用更长的开发周期",
+      "url": "https://www.solidot.org/story?sid=84067",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "斯坦福大学 HAI 研究院本周一发表了年度报告 AI Index。报告凸显了 AI 业内人士和公众之间日益扩大的分歧。报告援引皮尤研究中心上月发布的一份报告：只有 10% 的美国人对 AI 在日常生活中的日益普及感到兴奋而非担忧，但 56% 的 AI 专家认为 AI 将在未来 20 年对美国产生积极",
-      "id": "7db47a3e265a"
+      "summary": "基于 Ubuntu 的发行版 Linux Mint 正式宣布放慢发布周期。Ubuntu 是每半年发布一个新版本，Linux Mint 此前采用的发布周期类似。项目联合创始人 Clem Lefebvre 指出，每六个月发布一个新版本，此外还包括 LMDE，他们花在测试、修 bug 和发布上的时间远多于",
+      "id": "526ff84f81e3"
     },
     {
-      "title": "俄罗斯流行应用被发现会检测是否安装 VPN",
-      "url": "https://www.solidot.org/story?sid=84054",
+      "title": "人类的噪音在伤害动物，我们会学会安静吗？",
+      "url": "https://www.solidot.org/story?sid=84066",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "RKS Global 的专家发现，30 款俄罗斯最流行 Android 应用​有 22 款能检测 VPN，其中 19 款会将 VPN 状态发送至服务器。这些应用包括：Yandex Browser、Yandex Maps、VKontakte、My MTS、Sberbank Online、T-Bank、",
-      "id": "cf8ba573ed12"
+      "summary": "人类一直在制造噪音，而动物并不喜欢。动物需要时刻注意周围的声音，警惕捕食者接近或者发现求偶者。无处不在的人造噪音增加了动物彼此之间的沟通难度。旧金山公园 Presidio 的历史录音显示，在 1960 年代麻雀有三种不同的“方言”，但到了 2010 年代，由于交通噪音麻雀主要使用其中音调更高的“方言",
+      "id": "458dbd68c0a5"
     },
     {
-      "title": "安娜的档案被勒令向 Spotify 等赔偿 3.22 亿美元",
-      "url": "https://www.solidot.org/story?sid=84053",
+      "title": "帝企鹅因气候变化导致数量减少被列为濒危",
+      "url": "https://www.solidot.org/story?sid=84065",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "纽约南区法官 Jed Rakoff 作出缺席判决，勒令影子图书馆安娜的档案（Anna's Archive）向 Spotify 以及唱片公司环球音乐、索尼音乐和华纳唱片赔偿 3.22 亿美元，其中 Spotify 获得 3 亿美元赔偿。安娜的档案的运营者没有现身法庭为其辩护，也不太可能支付赔偿金。这起",
-      "id": "8215a4c70f2f"
+      "summary": "世界自然保护联盟（IUCN）发布公报，南极洲两个最具代表性的物种——帝企鹅和南极毛皮海狮因数量快速、急剧减少，已被列入濒危物种红色名录濒危等级。IUCN 将物种生存状况划分为 9 个等级：灭绝、野外灭绝、极危、濒危、易危、近危、无危、数据缺乏、未予评估。IUCN 公报指出，根据卫星图像，2009 年",
+      "id": "095898b745b8"
     },
     {
-      "title": "互联网档案馆存档数千音乐会录音带",
-      "url": "https://www.solidot.org/story?sid=84052",
+      "title": "抹香鲸的发声沟通方式与人类相似",
+      "url": "https://www.solidot.org/story?sid=84064",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "芝加哥音乐粉丝 Aadam Jacobs 自 1980 年代起录制他参加的演唱会，至今积累了逾万盘磁带。现年 59 岁的 Jacobs 知道磁带会随着时间推移而损坏，因此他同意互联网档案馆的志愿者将这些磁带数字化。互联网档案馆已经上传了 2477 盘音乐会磁带，其中包括相当罕见的 1989 年涅盘乐",
-      "id": "92e2292d76c6"
+      "summary": "人类与抹香鲸可能没有共同之处，但根据发表在《Proceedings B》上的一项研究，抹香鲸的发声沟通方式与人类语言有着惊人的相似性。抹香鲸不仅有着某种形式的“字母表”，在发声中形成元音，且元音的结构与人类语言采用了相同的方法。抹香鲸通过一系列“咔嗒”声进行交流，对咔嗒声的分析发现，抹香鲸能通过长短",
+      "id": "c379776571a7"
     },
     {
-      "title": "美国最完美的约会日期是 10 月 8 日",
-      "url": "https://www.solidot.org/story?sid=84051",
+      "title": "中国手游如何征服世界",
+      "url": "https://www.solidot.org/story?sid=84063",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "在 2000 年上映的电影《特工佳丽（Miss Congeniality）》中，桑德拉·布洛克扮演的女主角被问到完美的约会日期时回答，“April 25th, because it's not too hot, not too cold. All you need is a light jacket",
-      "id": "938e9572578c"
+      "summary": "AppMagic 的数据显示，2026 年 2 月全世界收入最高的 15 款手游中有 7 款来自中国，这些游戏的内购在一个月内产生了 6.68 亿美元的收入。Playrix、King、Roblox Corporation 和 Supercell 等西方公司仍然能跻身全球收入最高的 10 大手游发行商",
+      "id": "390ab2e4bdb8"
     },
     {
-      "title": "英国首相表示社媒平台应停止无限滚动",
-      "url": "https://www.solidot.org/story?sid=84050",
+      "title": "IPv6 普及度突破 50%",
+      "url": "https://www.solidot.org/story?sid=84062",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "在澳大利亚等国之后，英国也在考虑限制儿童使用社交媒体，它正在测试禁令、宵禁和应用使用时间限制等措施观察这些措施对儿童睡眠、家庭生活和学业的影响。英国首相 Keir Starmer 表示社媒平台应移除针对年轻用户的让人上瘾的无限滚动功能。他接受 BBC 采访时称社媒公司设计的算法旨在让用户上瘾，家长正",
-      "id": "0b1835dd8608"
+      "summary": "根据 Google 的统计，全球的 IPv6 普及度最近一段时间突破了 50%。按国别统计，中国只有 4.66%，美国 54.61%，加拿大 40.91%，俄罗斯 47.67%，印度 74.87%。然而 Cloudflare 的数据与 Google 有显著差异，Cloudflare 统计的是 HTT",
+      "id": "21500dcd9f0b"
+    },
+    {
+      "title": "城市漫步指南：在沿海宜居小城，过一段不赶时间的日子",
+      "url": "https://sspai.com/post/108070",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "前言工作的疲惫和生活中琐事积压，让我产生了换个环境去旅居的念头，最近在积极的考察一些比较宜居的城市。四月初趁着出差的机会来到了福建和广西，边应付公司的事物边考察当地的宜居城市。我先去了厦门，之后从南宁 ...<a href=\"https://sspai.com/post/108070\" target",
+      "id": "9643ceae4b3b"
+    },
+    {
+      "title": "众测 | 让通勤路上的你「重装简行」：邀你一同体验 tomtoc T77 双肩包",
+      "url": "https://sspai.com/post/108694",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "当代城市工作者的出行场景正变得越来越复合。人们希望在一个背包里装下工作所需的电脑与数码设备，同时塞入下班健身的衣物，甚至直接背着它开启一趟两三天的短途差旅。但要在同一个背包上同时实现「出色的设备保护」 ...<a href=\"https://sspai.com/post/108694\" target",
+      "id": "3e6e6756f2bd"
+    },
+    {
+      "title": "从画质玄学到改机热潮：浅谈拍立得的前世今生",
+      "url": "https://sspai.com/post/108630",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "这份坚守，无关情怀的浪漫，而在于技术的胜利。<a href=\"https://sspai.com/post/108630\" target=\"_blank\">查看全文</a>",
+      "id": "88f39aa1c811"
+    },
+    {
+      "title": "译文｜Tahoe 的图标令人难评",
+      "url": "https://sspai.com/post/105394",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "Apple 成功地在一个操作系统版本中集齐了图标设计中的常见错误。<a href=\"https://sspai.com/post/105394\" target=\"_blank\">查看全文</a>",
+      "id": "9df93649cae8"
     },
     {
       "title": "派早报：Keychron 推出轻量化鼠标 G3、微软推出新模型等",
@@ -255,67 +291,31 @@
       "id": "75a3ee1f33b0"
     },
     {
-      "title": "从一夜无眠到夜夜香甜：睡个好觉并不难",
-      "url": "https://sspai.com/post/107146",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "我想与你分享AI无法真正共情的人生大事：睡眠。<a href=\"https://sspai.com/post/107146\" target=\"_blank\">查看全文</a>",
-      "id": "c6dff4d821b5"
-    },
-    {
-      "title": "派早报：拓竹 X2D 正式发布、微软再次上调 Surface 全线产品定价等",
-      "url": "https://sspai.com/post/108653",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "索尼发布发布 Inzone M10S II 游戏显示器及系列音频外设，三星发布 2026 款 Micro RGB 电视等。<a href=\"https://sspai.com/post/108653\" target=\"_blank\">查看全文</a>",
-      "id": "1a0b17927cc6"
-    },
-    {
-      "title": "社区速递 137 | 派友挑战不沉迷手机的周末、未来视野显示器与 MT6000 路由器",
-      "url": "https://sspai.com/post/108632",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/108632\" target",
-      "id": "44bb25484c5f"
-    },
-    {
-      "title": "想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修」",
-      "url": "https://sspai.com/post/108005",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/108005\" target",
-      "id": "acfe0bf845df"
-    },
-    {
-      "title": "Bitcoin should prepare now, even if quantum is a 'lab experiment’: Adam Back",
-      "url": "https://cointelegraph.com/news/bitcoiners-should-prepare-quantum-now-adam-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQyYTYtNzViZi03NmU2LWE3MTYtYzEwODZhYWI0ZTNkLmpwZw==.jpg",
+      "title": "Bitcoin eyes $90K as whales absorb 20x daily BTC supply in 30 days",
+      "url": "https://cointelegraph.com/news/bitcoin-eyes-dollar90k-as-whales-absorb-20x-daily-btc-supply-in-30-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDk3MzEtZTZhMi03MDBlLTlkNTAtMzU4ODFiNDRjYmYxLmpwZw==.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin should prepare now, even if quantum is a 'lab experiment’: Adam Back\" ",
-      "id": "f479e909c7a4"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin eyes $90K as whales absorb 20x daily BTC supply in 30 days\" class=\"typ",
+      "id": "99a49bb0fb58"
     },
     {
-      "title": "Ether open interest sees 26% increase as markets rally: Are traders into ETH again?",
-      "url": "https://cointelegraph.com/news/ether-open-interest-sees-26percent-increase-as-markets-rally-are-traders-into-eth-again?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkyZmItMWNiMi03MzgyLWJjMjctOTcwNDMzMzIzODlmLmpwZw==.jpg",
+      "title": "Bitcoin liquidations top $283M after short squeeze sends BTC price above $75K",
+      "url": "https://cointelegraph.com/news/bitcoin-liquidations-top-dollar283m-after-short-squeeze-sends-btc-price-above-dollar75k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDk3NWItZjU3Ni03MzI4LTkwYWYtMDRiMDM1ZTI2ZDY4LmpwZw==.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether open interest sees 26% increase as markets rally: Are traders into ETH a",
-      "id": "cd42cd2ce8db"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin liquidations top $283M after short squeeze sends BTC price above $75K\"",
+      "id": "dcdf46b63f6b"
     },
     {
-      "title": "Crypto PAC Fellowship discloses $11M from Cantor Fitzgerald and Anchorage Digital",
-      "url": "https://cointelegraph.com/news/crypto-pac-fellowship-discloses-11m-from-cantor-fitzgerald-and-anchorage-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkyZGQtOGY3My03NTZkLWI3MmUtODQ1NDhkMzhlMzBlLmpwZw==.jpg",
+      "title": "Bitcoin funding rate stays negative even as BTC price trades above $75K: What gives?",
+      "url": "https://cointelegraph.com/news/bitcoin-funding-rate-stays-negative-even-as-btc-price-trades-above-75k-what-gives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDk4MGQtYzQ5MC03NDI5LWFkZGEtNjQ5YzMxOGIyZDM3LmpwZw==.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC Fellowship discloses $11M from Cantor Fitzgerald and Anchorage Digi",
-      "id": "8025079bc82f"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin funding rate stays negative even as BTC price trades above $75K: What ",
+      "id": "66e3a6fd44d6"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -327,112 +327,112 @@
       "id": "772e97788bfd"
     },
     {
-      "title": "Bitcoin traders cash out 63K BTC profit as price rallied above $76K: Will the market rebound?",
-      "url": "https://cointelegraph.com/news/bitcoin-traders-cash-out-63k-btc-profits-as-price-rallied-above-dollar76k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkxNzctNjM3Ni03NmExLWJjY2UtMTNkOGRiODRhMGU5LmpwZw==.jpg",
+      "title": "Key Ethereum researcher Josh Stark leaves the Ethereum Foundation",
+      "url": "https://cointelegraph.com/news/key-ethereum-developer-josh-stark-leaves-the-ethereum-foundation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzczMmQtOGNhMS03OTgyLTlmZTYtMGNjNWUxNmI1NzFhLmpwZw==.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin traders cash out 63K BTC profit as price rallied above $76K: Will the ",
-      "id": "863416672bc9"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Key Ethereum researcher Josh Stark leaves the Ethereum Foundation\" class=\"type",
+      "id": "84b0eae65bc3"
     },
     {
-      "title": "Bitnomial launches Injective futures in US, with eyes on ETF eligibility",
-      "url": "https://cointelegraph.com/news/injective-futures-go-live-on-cftc-regulated-us-exchange-opening-etf-pathway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkyZTItNjA2OC03YTQwLWE2NDMtZmY0YzkwNjg4NjNiLmpwZw==.jpg",
+      "title": "After Kalshi appeal, prediction markets fight could head to US Supreme Court",
+      "url": "https://cointelegraph.com/news/prediction-markets-legal-fight-supreme-court-kalshi-appeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDk4MDktMmRhMi03ZWRhLWJlNmMtYTI0YWQyNjZjZThhLmpwZw==.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitnomial launches Injective futures in US, with eyes on ETF eligibility\" clas",
-      "id": "046549420c17"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"After Kalshi appeal, prediction markets fight could head to US Supreme Court\" ",
+      "id": "a78fb2fdfb9d"
     },
     {
-      "title": "Kalshi to create ‘portal for parents‘ on prediction markets: Report",
-      "url": "https://cointelegraph.com/news/kalshi-parents-monitoring-minors-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkyYjUtYmU1YS03YWFiLWEzZjEtNTg4ODZmMDQ1OGZjLmpwZw==.jpg",
+      "title": "HIVE plans $75M raise to fund AI infrastructure push",
+      "url": "https://cointelegraph.com/news/hive-plans-75m-raise-to-fund-ai-infrastructure-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDk3ZDAtYzM2ZS03MTc2LWFhZmYtMmRmZjg1MDU5M2M3LmpwZw==.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi to create ‘portal for parents‘ on prediction markets: Report\" class=\"ty",
-      "id": "5409a347d6f2"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HIVE plans $75M raise to fund AI infrastructure push\" class=\"type:primaryImage",
+      "id": "506d48977e78"
     },
     {
-      "title": "Bitwise debuts Avalanche ETP offering AVAX exposure and yield",
-      "url": "https://cointelegraph.com/news/bitwise-launches-avalanche-etp-with-staking-feature?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkyN2YtMzRkYi03ODQ0LWFmNzMtZTA5ZjNmMDAxNWNmLmpwZw==.jpg",
+      "title": "Public crypto miners sold more BTC in Q1 2026 than all of 2025: Report",
+      "url": "https://cointelegraph.com/news/publicly-mining-sold-btc-q1-2026-all-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDk3N2UtNTJlNy03NjU1LTgwYzEtODQ5NDhiYzM4ODFiLmpwZw==.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitwise debuts Avalanche ETP offering AVAX exposure and yield\" class=\"type:pri",
-      "id": "bb539a3a3cb8"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Public crypto miners sold more BTC in Q1 2026 than all of 2025: Report\" class=",
+      "id": "c90be9c0113a"
     },
     {
-      "title": "Google's Latest AI Update Makes Industrial Robots Way Smarter—Here's How",
-      "url": "https://decrypt.co/364521/google-ai-update-makes-industrial-robots-way-smarter",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-ai-robots-gID_7.jpg@png",
+      "title": "Quantum Proposal Won’t Save Satoshi’s Bitcoin, Says Cardano Founder Hoskinson",
+      "url": "https://decrypt.co/364676/cardano-charles-hoskinson-bitcoin-quantum-debate",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/CharlesHoskinson-DecryptStyle3-scaled-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "The new Google Gemini Robotics AI model gives robots improved spatial reasoning and task planning abilities for industrial applications.",
-      "id": "4b818af68d7d"
+      "summary": "Cardano founder Charles Hoskinson says \"it's not possible\" to save all vulnerable Bitcoin from quantum computing under the current proposal.",
+      "id": "f4d6609617b2"
     },
     {
-      "title": "Will Maine Governor Janet Mills Sign Nation's First AI Data Center Ban Into Law?",
-      "url": "https://decrypt.co/364518/will-maine-governor-janet-mills-sign-first-ai-data-center-ban",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-18-gID_7.png@png",
+      "title": "Ethereum Foundation Helps Expose North Korean Workers That Infiltrated Crypto Firms",
+      "url": "https://decrypt.co/364671/ethereum-foundation-helps-expose-north-korean-workers-crypto-firms",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Maine's moratorium on AI data centers would last for over a year. Will the governor, embroiled in a tough Senate primary, sign it into law?",
-      "id": "724710234eb0"
+      "summary": "The Ethereum Foundation reported that a six-month program helped expose around 100 DPRK IT workers across 53 crypto projects.",
+      "id": "f6a14111b8a2"
     },
     {
-      "title": "You Switched to Claude Over Surveillance Fears. Now It Wants Your Passport",
-      "url": "https://decrypt.co/364509/claude-anthropic-government-id-kyc-privacy",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png@png",
+      "title": "OpenAI Super App Takes Shape: Codex Gets Computer Use, Browser, and Image Gen",
+      "url": "https://decrypt.co/364670/codex-computer-use-browser-image-gen-openai-super-app",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Anthropic quietly rolled out government ID and selfie verification for Claude—a first among major AI chatbots, and a peculiar pivot for a company whos",
-      "id": "ee7905cf3ec8"
+      "summary": "OpenAI's Codex desktop app now controls your Mac, runs its own browser, and generates images. The update pushes Codex further into territory occupied ",
+      "id": "e89e2965e341"
     },
     {
-      "title": "World Liberty Wants WLFI Locked Beyond Trump's Second Term—Investors Aren't Thrilled",
-      "url": "https://decrypt.co/364504/world-liberty-wants-wlfi-locked-beyond-trump-second-term",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/trump-decrypt-style-01-gID_7.png@png",
+      "title": "Russian Crypto Exchange Grinex Halts Trading, Alleging $13M Exploit by 'Western Special Services'",
+      "url": "https://decrypt.co/364656/russian-crypto-exchange-grinex-halts-trading-13m-exploit",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "World Liberty Financial's early supporters vented frustrations after the Trump-backed crypto venture released a four-year vesting schedule.",
-      "id": "3c57ee0f2b54"
+      "summary": "Russian crypto exchange Grinex paused trading services after a $13 million exploit it says was conducted by \"foreign special services.\"",
+      "id": "2a65ecaa0348"
     },
     {
-      "title": "'Killing Satoshi': $70M Bitcoin Film Starring Casey Affleck Will Make Heavy Use of AI",
-      "url": "https://decrypt.co/364505/killing-satoshi-70m-bitcoin-film-starring-casey-affleck-will-make-heavy-use-of-ai",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/satoshi-nakamoto-decrypt-style-01-gID_7.jpg@png",
+      "title": "Federal AI Use Soars, But Bottlenecks Threaten Momentum Amid Public Skepticism: Brookings",
+      "url": "https://decrypt.co/364659/federal-ai-use-soars-bottlenecks-threaten-momentum-skepticism",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "A $70 million feature film focusing on Bitcoin and the hunt for creator Satoshi Nakamoto will lean heavily on AI tools.",
-      "id": "77a7637c21fd"
+      "summary": "The United States government has rapidly adopted AI tools in recent years, but skepticism towards both AI and agencies alike is only growing.",
+      "id": "0413217d4679"
     },
     {
-      "title": "Free Qwen Is Dead: Alibaba Shuts Down Qwen Code Free Tier",
-      "url": "https://decrypt.co/364501/alibaba-shuts-down-free-tier-qwen-code",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-qwen-gID_7.png@png",
+      "title": "Suspicious Polymarket Trader Made $320K on Last-Minute 2025 Biden Pardons",
+      "url": "https://decrypt.co/364660/suspicious-polymarket-trader-320k-2025-biden-pardons",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-joe-biden-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Alibaba shut down Qwen Code's free tier today, following MiniMax's license bait-and-switch. The idea that Chinese labs are the \"open-source good guys\"",
-      "id": "62a659fc0df9"
+      "summary": "Two linked wallets flawlessly bet on several pardons made by former President Joe Biden during his final minutes in office.",
+      "id": "74d9a0a39e2f"
     },
     {
-      "title": "Try a LattAI? Starbucks Debuts ChatGPT App for AI Drink Suggestions",
-      "url": "https://decrypt.co/364491/starbucks-debuts-chatgpt-app-ai-drink-suggestions",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-starbucks-gID_7.png@png",
+      "title": "Your AI Chats Can Be Used Against You in Court—Law Firms Are Scrambling",
+      "url": "https://decrypt.co/364653/your-ai-chats-against-you-court-law-firms-scrambling",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Starbucks’ ChatGPT integration lets customers describe their mood or upload photos to receive AI-generated drink picks.",
-      "id": "f129f9f0bc73"
+      "summary": "Two months after a New York federal judge ruled AI conversations can be seized by prosecutors, more than a dozen major law firms have issued warnings ",
+      "id": "eb8e54805cd6"
     },
     {
-      "title": "Anthropic Preps Opus 4.7 and Full-Stack AI Studio—While Sitting on Something Much Scarier",
-      "url": "https://decrypt.co/364483/anthropic-opus-47-full-stack-ai-studio-mythos",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
+      "title": "Stack BTC CEO Steps Down as Farage-Linked Bitcoin Venture Reshuffles Leadership",
+      "url": "https://decrypt.co/364619/stack-btc-ceo-steps-down-as-farage-linked-bitcoin-venture-reshuffles-leadership",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/nigel-farage-decrypt-style-01-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Leaked models, a new design tool, and an unreleaseable cyber weapon walk into a press cycle.",
-      "id": "1e846e0210c5"
+      "summary": "Reform UK leader Nigel Farage announced his backing of the company following its relaunch under the Stack BTC name in March.",
+      "id": "ce8fedd89d06"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -546,6 +546,69 @@
   "categories": {
     "ai": [
       {
+        "title": "Making AI operational in constrained public sector environments",
+        "url": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government instit",
+        "id": "ffb6f750ad8a"
+      },
+      {
+        "title": "Treating enterprise AI as an operating layer",
+        "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation m",
+        "id": "890d7c38e58b"
+      },
+      {
+        "title": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
+        "url": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+        "id": "7914f5f65597"
+      },
+      {
+        "title": "Why having “humans in the loop” in an AI war is an illusion",
+        "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has ",
+        "id": "4d239704a02a"
+      },
+      {
+        "title": "The noise we make is hurting animals. Can we learn to shut up?",
+        "url": "https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "When the covid-19 pandemic started, Jennifer Phillips thought about the songs of the sparrows. They were easier to hear, because the world had suddenl",
+        "id": "45d844b25594"
+      },
+      {
+        "title": "The quest to measure our relationship with nature",
+        "url": "https://www.technologyreview.com/2026/04/16/1135245/measure-relationship-with-nature-index/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "As a movement, environmentalism has been pretty misanthropic. Understandably so—we humans have done some destructive things to the ecosystems around u",
+        "id": "45d553dd3e2f"
+      },
+      {
+        "title": "Is carbon removal in trouble?",
+        "url": "https://www.technologyreview.com/2026/04/16/1135928/carbon-removal-microsoft/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "Last week, news outlets reported that Microsoft was pausing carbon removal purchases. It was something of a bombshell. The thing is, Microsoft is the ",
+        "id": "dca77ae4a35a"
+      },
+      {
         "title": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
         "url": "https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/",
         "image": "",
@@ -553,69 +616,6 @@
         "category": "ai",
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
         "id": "489af3e28e7d"
-      },
-      {
-        "title": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram",
-        "url": "https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "From inside a money-laundering center in Cambodia, an employee opens a popular Vietnamese banking app on his phone. The app asks him to upload a photo",
-        "id": "c4ed27c23ca2"
-      },
-      {
-        "title": "No one’s sure if synthetic mirror life will kill us all",
-        "url": "https://www.technologyreview.com/2026/04/15/1135197/synthetic-mirror-life-microbes-kill-us-all/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "For four days in February 2019, some 30 synthetic biologists and ethicists hunkered down at a conference center in Northern Virginia to brainstorm hig",
-        "id": "04c945347fea"
-      },
-      {
-        "title": "Building trust in the AI era with privacy-led UX",
-        "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part ",
-        "id": "ec74a40a4180"
-      },
-      {
-        "title": "Redefining the future of software engineering",
-        "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code access",
-        "id": "47bf083cd188"
-      },
-      {
-        "title": "The Download: the state of AI, and protecting bears with drones",
-        "url": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-        "id": "68f02b391134"
-      },
-      {
-        "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
-        "url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can rea",
-        "id": "0459972415bf"
-      },
-      {
-        "title": "Coming soon: 10 Things That Matter in AI Right Now",
-        "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on ",
-        "id": "353b2565b843"
       },
       {
         "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -656,148 +656,184 @@
     ],
     "tech": [
       {
-        "title": "Cybersecurity looks like proof of work now",
-        "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
+        "title": "Claude Opus 4.7",
+        "url": "https://www.anthropic.com/news/claude-opus-4-7",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47769089\">Comments</a>",
-        "id": "ec5f9db29b0e"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47793411\">Comments</a>",
+        "id": "554e33bdff22"
       },
       {
-        "title": "I made a terminal pager",
-        "url": "https://theleo.zone/posts/pager/",
+        "title": "Codex for almost everything",
+        "url": "https://openai.com/index/codex-for-almost-everything/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47786164\">Comments</a>",
-        "id": "e3f99d7f0539"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47796469\">Comments</a>",
+        "id": "2a279b35fa4c"
       },
       {
-        "title": "Ohio prison inmates 'built computers and hid them in ceiling (2017)",
-        "url": "https://www.bbc.com/news/technology-39576394",
+        "title": "CadQuery is an open-source Python library for building 3D CAD models",
+        "url": "https://cadquery.github.io/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47785948\">Comments</a>",
-        "id": "0c2c3b537b81"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47772725\">Comments</a>",
+        "id": "705cc133abfa"
       },
       {
-        "title": "YouTube now lets you turn off Shorts",
-        "url": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
+        "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+        "url": "https://github.com/gainsec/autoprober",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47786791\">Comments</a>",
-        "id": "a1cce93e99dc"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47800033\">Comments</a>",
+        "id": "bf82fd924052"
       },
       {
-        "title": "Google broke its promise to me – now ICE has my data",
-        "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+        "title": "A Better R Programming Experience Thanks to Tree-sitter",
+        "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47782570\">Comments</a>",
-        "id": "84d4959921e2"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47799573\">Comments</a>",
+        "id": "d23bb1c76336"
       },
       {
-        "title": "Introduction to Spherical Harmonics for Graphics Programmers",
-        "url": "https://gpfault.net/posts/sph.html",
+        "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+        "url": "https://clojure.org/about/documentary",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47749548\">Comments</a>",
-        "id": "64b62ad3b88a"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47798345\">Comments</a>",
+        "id": "b3942bf7af00"
       },
       {
-        "title": "Cal.com is going closed source",
-        "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
+        "title": "Android CLI: Build Android apps 3x faster using any agent",
+        "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47780456\">Comments</a>",
-        "id": "e7469ca4e3d1"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47797665\">Comments</a>",
+        "id": "aae2e5da8865"
       },
       {
-        "title": "God sleeps in the minerals",
-        "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
+        "title": "Show HN: Spice simulation → oscilloscope → verification with Claude Code",
+        "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=47778475\">Comments</a>",
-        "id": "1776f8419acf"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47801255\">Comments</a>",
+        "id": "7702ff7d8ebf"
       },
       {
-        "title": "全球暖化危及水稻产量",
-        "url": "https://www.solidot.org/story?sid=84057",
+        "title": "新研究再次证实 AI 有害大脑",
+        "url": "https://www.solidot.org/story?sid=84069",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "全球九成以上的大米产自亚洲，亚洲有逾十亿人口以大米为主食。历史数据显示，亚洲大米过去九千年很少能在年平均气温逾 28°C 或暖季最高气温逾 33°C 的地区茁壮成长，而全球暖化的速度比水稻能适应的速度快 5000 倍。根据发表在《Communications Earth &amp; Environm",
-        "id": "b4fe8a8b8daa"
+        "summary": "研究人员在预印本平台 ArXiv 上发表论文《AI assistance reduces persistence and hurts independent performance》，再次证实 AI 有害大脑。研究人员招募了 350 名美国人，任务是解决一些分数方程。半数参与者被随机分配到 AI 组",
+        "id": "7c7db4ffbd94"
       },
       {
-        "title": "美国国会新法案要求操作系统验证用户年龄",
-        "url": "https://www.solidot.org/story?sid=84056",
+        "title": "Mozilla 宣布开源可自托管 AI 客户端 Thunderbolt",
+        "url": "https://www.solidot.org/story?sid=84068",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "美国民主党议员 Josh Gottheimer 和共和党议员 Elise M. Stefanik 联合提出了一项新法案，要求操作系统开发商验证用户的年龄。法案已于 4 月 13 日递交到众议院能源和商业委员，其详细内容还没有公开，目前只知道法案的标题是“To require operating sy",
-        "id": "e210c11ccd0e"
+        "summary": "Mozilla 与德国 AI 基础设施公司 deepset 合作宣布开源可自托管 AI 客户端 Thunderbolt。MZLA Technologies Corporation CEO Ryan Sipes 表示，AI 太重要而不能外包，Thunderbolt 为机构组织提供了一种自主的 AI 客",
+        "id": "bf7dc73a7d68"
       },
       {
-        "title": "斯坦福报告凸显了 AI 业内人士和公众之间的分歧",
-        "url": "https://www.solidot.org/story?sid=84055",
+        "title": "Linux Mint 宣布采用更长的开发周期",
+        "url": "https://www.solidot.org/story?sid=84067",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "斯坦福大学 HAI 研究院本周一发表了年度报告 AI Index。报告凸显了 AI 业内人士和公众之间日益扩大的分歧。报告援引皮尤研究中心上月发布的一份报告：只有 10% 的美国人对 AI 在日常生活中的日益普及感到兴奋而非担忧，但 56% 的 AI 专家认为 AI 将在未来 20 年对美国产生积极",
-        "id": "7db47a3e265a"
+        "summary": "基于 Ubuntu 的发行版 Linux Mint 正式宣布放慢发布周期。Ubuntu 是每半年发布一个新版本，Linux Mint 此前采用的发布周期类似。项目联合创始人 Clem Lefebvre 指出，每六个月发布一个新版本，此外还包括 LMDE，他们花在测试、修 bug 和发布上的时间远多于",
+        "id": "526ff84f81e3"
       },
       {
-        "title": "俄罗斯流行应用被发现会检测是否安装 VPN",
-        "url": "https://www.solidot.org/story?sid=84054",
+        "title": "人类的噪音在伤害动物，我们会学会安静吗？",
+        "url": "https://www.solidot.org/story?sid=84066",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "RKS Global 的专家发现，30 款俄罗斯最流行 Android 应用​有 22 款能检测 VPN，其中 19 款会将 VPN 状态发送至服务器。这些应用包括：Yandex Browser、Yandex Maps、VKontakte、My MTS、Sberbank Online、T-Bank、",
-        "id": "cf8ba573ed12"
+        "summary": "人类一直在制造噪音，而动物并不喜欢。动物需要时刻注意周围的声音，警惕捕食者接近或者发现求偶者。无处不在的人造噪音增加了动物彼此之间的沟通难度。旧金山公园 Presidio 的历史录音显示，在 1960 年代麻雀有三种不同的“方言”，但到了 2010 年代，由于交通噪音麻雀主要使用其中音调更高的“方言",
+        "id": "458dbd68c0a5"
       },
       {
-        "title": "安娜的档案被勒令向 Spotify 等赔偿 3.22 亿美元",
-        "url": "https://www.solidot.org/story?sid=84053",
+        "title": "帝企鹅因气候变化导致数量减少被列为濒危",
+        "url": "https://www.solidot.org/story?sid=84065",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "纽约南区法官 Jed Rakoff 作出缺席判决，勒令影子图书馆安娜的档案（Anna's Archive）向 Spotify 以及唱片公司环球音乐、索尼音乐和华纳唱片赔偿 3.22 亿美元，其中 Spotify 获得 3 亿美元赔偿。安娜的档案的运营者没有现身法庭为其辩护，也不太可能支付赔偿金。这起",
-        "id": "8215a4c70f2f"
+        "summary": "世界自然保护联盟（IUCN）发布公报，南极洲两个最具代表性的物种——帝企鹅和南极毛皮海狮因数量快速、急剧减少，已被列入濒危物种红色名录濒危等级。IUCN 将物种生存状况划分为 9 个等级：灭绝、野外灭绝、极危、濒危、易危、近危、无危、数据缺乏、未予评估。IUCN 公报指出，根据卫星图像，2009 年",
+        "id": "095898b745b8"
       },
       {
-        "title": "互联网档案馆存档数千音乐会录音带",
-        "url": "https://www.solidot.org/story?sid=84052",
+        "title": "抹香鲸的发声沟通方式与人类相似",
+        "url": "https://www.solidot.org/story?sid=84064",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "芝加哥音乐粉丝 Aadam Jacobs 自 1980 年代起录制他参加的演唱会，至今积累了逾万盘磁带。现年 59 岁的 Jacobs 知道磁带会随着时间推移而损坏，因此他同意互联网档案馆的志愿者将这些磁带数字化。互联网档案馆已经上传了 2477 盘音乐会磁带，其中包括相当罕见的 1989 年涅盘乐",
-        "id": "92e2292d76c6"
+        "summary": "人类与抹香鲸可能没有共同之处，但根据发表在《Proceedings B》上的一项研究，抹香鲸的发声沟通方式与人类语言有着惊人的相似性。抹香鲸不仅有着某种形式的“字母表”，在发声中形成元音，且元音的结构与人类语言采用了相同的方法。抹香鲸通过一系列“咔嗒”声进行交流，对咔嗒声的分析发现，抹香鲸能通过长短",
+        "id": "c379776571a7"
       },
       {
-        "title": "美国最完美的约会日期是 10 月 8 日",
-        "url": "https://www.solidot.org/story?sid=84051",
+        "title": "中国手游如何征服世界",
+        "url": "https://www.solidot.org/story?sid=84063",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "在 2000 年上映的电影《特工佳丽（Miss Congeniality）》中，桑德拉·布洛克扮演的女主角被问到完美的约会日期时回答，“April 25th, because it's not too hot, not too cold. All you need is a light jacket",
-        "id": "938e9572578c"
+        "summary": "AppMagic 的数据显示，2026 年 2 月全世界收入最高的 15 款手游中有 7 款来自中国，这些游戏的内购在一个月内产生了 6.68 亿美元的收入。Playrix、King、Roblox Corporation 和 Supercell 等西方公司仍然能跻身全球收入最高的 10 大手游发行商",
+        "id": "390ab2e4bdb8"
       },
       {
-        "title": "英国首相表示社媒平台应停止无限滚动",
-        "url": "https://www.solidot.org/story?sid=84050",
+        "title": "IPv6 普及度突破 50%",
+        "url": "https://www.solidot.org/story?sid=84062",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "在澳大利亚等国之后，英国也在考虑限制儿童使用社交媒体，它正在测试禁令、宵禁和应用使用时间限制等措施观察这些措施对儿童睡眠、家庭生活和学业的影响。英国首相 Keir Starmer 表示社媒平台应移除针对年轻用户的让人上瘾的无限滚动功能。他接受 BBC 采访时称社媒公司设计的算法旨在让用户上瘾，家长正",
-        "id": "0b1835dd8608"
+        "summary": "根据 Google 的统计，全球的 IPv6 普及度最近一段时间突破了 50%。按国别统计，中国只有 4.66%，美国 54.61%，加拿大 40.91%，俄罗斯 47.67%，印度 74.87%。然而 Cloudflare 的数据与 Google 有显著差异，Cloudflare 统计的是 HTT",
+        "id": "21500dcd9f0b"
+      },
+      {
+        "title": "城市漫步指南：在沿海宜居小城，过一段不赶时间的日子",
+        "url": "https://sspai.com/post/108070",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "前言工作的疲惫和生活中琐事积压，让我产生了换个环境去旅居的念头，最近在积极的考察一些比较宜居的城市。四月初趁着出差的机会来到了福建和广西，边应付公司的事物边考察当地的宜居城市。我先去了厦门，之后从南宁 ...<a href=\"https://sspai.com/post/108070\" target",
+        "id": "9643ceae4b3b"
+      },
+      {
+        "title": "众测 | 让通勤路上的你「重装简行」：邀你一同体验 tomtoc T77 双肩包",
+        "url": "https://sspai.com/post/108694",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "当代城市工作者的出行场景正变得越来越复合。人们希望在一个背包里装下工作所需的电脑与数码设备，同时塞入下班健身的衣物，甚至直接背着它开启一趟两三天的短途差旅。但要在同一个背包上同时实现「出色的设备保护」 ...<a href=\"https://sspai.com/post/108694\" target",
+        "id": "3e6e6756f2bd"
+      },
+      {
+        "title": "从画质玄学到改机热潮：浅谈拍立得的前世今生",
+        "url": "https://sspai.com/post/108630",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "这份坚守，无关情怀的浪漫，而在于技术的胜利。<a href=\"https://sspai.com/post/108630\" target=\"_blank\">查看全文</a>",
+        "id": "88f39aa1c811"
+      },
+      {
+        "title": "译文｜Tahoe 的图标令人难评",
+        "url": "https://sspai.com/post/105394",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "Apple 成功地在一个操作系统版本中集齐了图标设计中的常见错误。<a href=\"https://sspai.com/post/105394\" target=\"_blank\">查看全文</a>",
+        "id": "9df93649cae8"
       },
       {
         "title": "派早报：Keychron 推出轻量化鼠标 G3、微软推出新模型等",
@@ -834,42 +870,6 @@
         "category": "tech",
         "summary": "什么 Liquid Glass？我只喜欢 Windows Aero。<a href=\"https://sspai.com/post/108656\" target=\"_blank\">查看全文</a>",
         "id": "75a3ee1f33b0"
-      },
-      {
-        "title": "从一夜无眠到夜夜香甜：睡个好觉并不难",
-        "url": "https://sspai.com/post/107146",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "我想与你分享AI无法真正共情的人生大事：睡眠。<a href=\"https://sspai.com/post/107146\" target=\"_blank\">查看全文</a>",
-        "id": "c6dff4d821b5"
-      },
-      {
-        "title": "派早报：拓竹 X2D 正式发布、微软再次上调 Surface 全线产品定价等",
-        "url": "https://sspai.com/post/108653",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "索尼发布发布 Inzone M10S II 游戏显示器及系列音频外设，三星发布 2026 款 Micro RGB 电视等。<a href=\"https://sspai.com/post/108653\" target=\"_blank\">查看全文</a>",
-        "id": "1a0b17927cc6"
-      },
-      {
-        "title": "社区速递 137 | 派友挑战不沉迷手机的周末、未来视野显示器与 MT6000 路由器",
-        "url": "https://sspai.com/post/108632",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/108632\" target",
-        "id": "44bb25484c5f"
-      },
-      {
-        "title": "想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修」",
-        "url": "https://sspai.com/post/108005",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/108005\" target",
-        "id": "acfe0bf845df"
       },
       {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
@@ -910,31 +910,31 @@
     ],
     "crypto": [
       {
-        "title": "Bitcoin should prepare now, even if quantum is a 'lab experiment’: Adam Back",
-        "url": "https://cointelegraph.com/news/bitcoiners-should-prepare-quantum-now-adam-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQyYTYtNzViZi03NmU2LWE3MTYtYzEwODZhYWI0ZTNkLmpwZw==.jpg",
+        "title": "Bitcoin eyes $90K as whales absorb 20x daily BTC supply in 30 days",
+        "url": "https://cointelegraph.com/news/bitcoin-eyes-dollar90k-as-whales-absorb-20x-daily-btc-supply-in-30-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDk3MzEtZTZhMi03MDBlLTlkNTAtMzU4ODFiNDRjYmYxLmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin should prepare now, even if quantum is a 'lab experiment’: Adam Back\" ",
-        "id": "f479e909c7a4"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin eyes $90K as whales absorb 20x daily BTC supply in 30 days\" class=\"typ",
+        "id": "99a49bb0fb58"
       },
       {
-        "title": "Ether open interest sees 26% increase as markets rally: Are traders into ETH again?",
-        "url": "https://cointelegraph.com/news/ether-open-interest-sees-26percent-increase-as-markets-rally-are-traders-into-eth-again?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkyZmItMWNiMi03MzgyLWJjMjctOTcwNDMzMzIzODlmLmpwZw==.jpg",
+        "title": "Bitcoin liquidations top $283M after short squeeze sends BTC price above $75K",
+        "url": "https://cointelegraph.com/news/bitcoin-liquidations-top-dollar283m-after-short-squeeze-sends-btc-price-above-dollar75k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDk3NWItZjU3Ni03MzI4LTkwYWYtMDRiMDM1ZTI2ZDY4LmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether open interest sees 26% increase as markets rally: Are traders into ETH a",
-        "id": "cd42cd2ce8db"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin liquidations top $283M after short squeeze sends BTC price above $75K\"",
+        "id": "dcdf46b63f6b"
       },
       {
-        "title": "Crypto PAC Fellowship discloses $11M from Cantor Fitzgerald and Anchorage Digital",
-        "url": "https://cointelegraph.com/news/crypto-pac-fellowship-discloses-11m-from-cantor-fitzgerald-and-anchorage-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkyZGQtOGY3My03NTZkLWI3MmUtODQ1NDhkMzhlMzBlLmpwZw==.jpg",
+        "title": "Bitcoin funding rate stays negative even as BTC price trades above $75K: What gives?",
+        "url": "https://cointelegraph.com/news/bitcoin-funding-rate-stays-negative-even-as-btc-price-trades-above-75k-what-gives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDk4MGQtYzQ5MC03NDI5LWFkZGEtNjQ5YzMxOGIyZDM3LmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC Fellowship discloses $11M from Cantor Fitzgerald and Anchorage Digi",
-        "id": "8025079bc82f"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin funding rate stays negative even as BTC price trades above $75K: What ",
+        "id": "66e3a6fd44d6"
       },
       {
         "title": "Here’s what happened in crypto today",
@@ -946,112 +946,112 @@
         "id": "772e97788bfd"
       },
       {
-        "title": "Bitcoin traders cash out 63K BTC profit as price rallied above $76K: Will the market rebound?",
-        "url": "https://cointelegraph.com/news/bitcoin-traders-cash-out-63k-btc-profits-as-price-rallied-above-dollar76k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkxNzctNjM3Ni03NmExLWJjY2UtMTNkOGRiODRhMGU5LmpwZw==.jpg",
+        "title": "Key Ethereum researcher Josh Stark leaves the Ethereum Foundation",
+        "url": "https://cointelegraph.com/news/key-ethereum-developer-josh-stark-leaves-the-ethereum-foundation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzczMmQtOGNhMS03OTgyLTlmZTYtMGNjNWUxNmI1NzFhLmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin traders cash out 63K BTC profit as price rallied above $76K: Will the ",
-        "id": "863416672bc9"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Key Ethereum researcher Josh Stark leaves the Ethereum Foundation\" class=\"type",
+        "id": "84b0eae65bc3"
       },
       {
-        "title": "Bitnomial launches Injective futures in US, with eyes on ETF eligibility",
-        "url": "https://cointelegraph.com/news/injective-futures-go-live-on-cftc-regulated-us-exchange-opening-etf-pathway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkyZTItNjA2OC03YTQwLWE2NDMtZmY0YzkwNjg4NjNiLmpwZw==.jpg",
+        "title": "After Kalshi appeal, prediction markets fight could head to US Supreme Court",
+        "url": "https://cointelegraph.com/news/prediction-markets-legal-fight-supreme-court-kalshi-appeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDk4MDktMmRhMi03ZWRhLWJlNmMtYTI0YWQyNjZjZThhLmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitnomial launches Injective futures in US, with eyes on ETF eligibility\" clas",
-        "id": "046549420c17"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"After Kalshi appeal, prediction markets fight could head to US Supreme Court\" ",
+        "id": "a78fb2fdfb9d"
       },
       {
-        "title": "Kalshi to create ‘portal for parents‘ on prediction markets: Report",
-        "url": "https://cointelegraph.com/news/kalshi-parents-monitoring-minors-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkyYjUtYmU1YS03YWFiLWEzZjEtNTg4ODZmMDQ1OGZjLmpwZw==.jpg",
+        "title": "HIVE plans $75M raise to fund AI infrastructure push",
+        "url": "https://cointelegraph.com/news/hive-plans-75m-raise-to-fund-ai-infrastructure-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDk3ZDAtYzM2ZS03MTc2LWFhZmYtMmRmZjg1MDU5M2M3LmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi to create ‘portal for parents‘ on prediction markets: Report\" class=\"ty",
-        "id": "5409a347d6f2"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HIVE plans $75M raise to fund AI infrastructure push\" class=\"type:primaryImage",
+        "id": "506d48977e78"
       },
       {
-        "title": "Bitwise debuts Avalanche ETP offering AVAX exposure and yield",
-        "url": "https://cointelegraph.com/news/bitwise-launches-avalanche-etp-with-staking-feature?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkyN2YtMzRkYi03ODQ0LWFmNzMtZTA5ZjNmMDAxNWNmLmpwZw==.jpg",
+        "title": "Public crypto miners sold more BTC in Q1 2026 than all of 2025: Report",
+        "url": "https://cointelegraph.com/news/publicly-mining-sold-btc-q1-2026-all-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDk3N2UtNTJlNy03NjU1LTgwYzEtODQ5NDhiYzM4ODFiLmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitwise debuts Avalanche ETP offering AVAX exposure and yield\" class=\"type:pri",
-        "id": "bb539a3a3cb8"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Public crypto miners sold more BTC in Q1 2026 than all of 2025: Report\" class=",
+        "id": "c90be9c0113a"
       },
       {
-        "title": "Google's Latest AI Update Makes Industrial Robots Way Smarter—Here's How",
-        "url": "https://decrypt.co/364521/google-ai-update-makes-industrial-robots-way-smarter",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-ai-robots-gID_7.jpg@png",
+        "title": "Quantum Proposal Won’t Save Satoshi’s Bitcoin, Says Cardano Founder Hoskinson",
+        "url": "https://decrypt.co/364676/cardano-charles-hoskinson-bitcoin-quantum-debate",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/CharlesHoskinson-DecryptStyle3-scaled-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "The new Google Gemini Robotics AI model gives robots improved spatial reasoning and task planning abilities for industrial applications.",
-        "id": "4b818af68d7d"
+        "summary": "Cardano founder Charles Hoskinson says \"it's not possible\" to save all vulnerable Bitcoin from quantum computing under the current proposal.",
+        "id": "f4d6609617b2"
       },
       {
-        "title": "Will Maine Governor Janet Mills Sign Nation's First AI Data Center Ban Into Law?",
-        "url": "https://decrypt.co/364518/will-maine-governor-janet-mills-sign-first-ai-data-center-ban",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-18-gID_7.png@png",
+        "title": "Ethereum Foundation Helps Expose North Korean Workers That Infiltrated Crypto Firms",
+        "url": "https://decrypt.co/364671/ethereum-foundation-helps-expose-north-korean-workers-crypto-firms",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Maine's moratorium on AI data centers would last for over a year. Will the governor, embroiled in a tough Senate primary, sign it into law?",
-        "id": "724710234eb0"
+        "summary": "The Ethereum Foundation reported that a six-month program helped expose around 100 DPRK IT workers across 53 crypto projects.",
+        "id": "f6a14111b8a2"
       },
       {
-        "title": "You Switched to Claude Over Surveillance Fears. Now It Wants Your Passport",
-        "url": "https://decrypt.co/364509/claude-anthropic-government-id-kyc-privacy",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png@png",
+        "title": "OpenAI Super App Takes Shape: Codex Gets Computer Use, Browser, and Image Gen",
+        "url": "https://decrypt.co/364670/codex-computer-use-browser-image-gen-openai-super-app",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Anthropic quietly rolled out government ID and selfie verification for Claude—a first among major AI chatbots, and a peculiar pivot for a company whos",
-        "id": "ee7905cf3ec8"
+        "summary": "OpenAI's Codex desktop app now controls your Mac, runs its own browser, and generates images. The update pushes Codex further into territory occupied ",
+        "id": "e89e2965e341"
       },
       {
-        "title": "World Liberty Wants WLFI Locked Beyond Trump's Second Term—Investors Aren't Thrilled",
-        "url": "https://decrypt.co/364504/world-liberty-wants-wlfi-locked-beyond-trump-second-term",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/trump-decrypt-style-01-gID_7.png@png",
+        "title": "Russian Crypto Exchange Grinex Halts Trading, Alleging $13M Exploit by 'Western Special Services'",
+        "url": "https://decrypt.co/364656/russian-crypto-exchange-grinex-halts-trading-13m-exploit",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "World Liberty Financial's early supporters vented frustrations after the Trump-backed crypto venture released a four-year vesting schedule.",
-        "id": "3c57ee0f2b54"
+        "summary": "Russian crypto exchange Grinex paused trading services after a $13 million exploit it says was conducted by \"foreign special services.\"",
+        "id": "2a65ecaa0348"
       },
       {
-        "title": "'Killing Satoshi': $70M Bitcoin Film Starring Casey Affleck Will Make Heavy Use of AI",
-        "url": "https://decrypt.co/364505/killing-satoshi-70m-bitcoin-film-starring-casey-affleck-will-make-heavy-use-of-ai",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/satoshi-nakamoto-decrypt-style-01-gID_7.jpg@png",
+        "title": "Federal AI Use Soars, But Bottlenecks Threaten Momentum Amid Public Skepticism: Brookings",
+        "url": "https://decrypt.co/364659/federal-ai-use-soars-bottlenecks-threaten-momentum-skepticism",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "A $70 million feature film focusing on Bitcoin and the hunt for creator Satoshi Nakamoto will lean heavily on AI tools.",
-        "id": "77a7637c21fd"
+        "summary": "The United States government has rapidly adopted AI tools in recent years, but skepticism towards both AI and agencies alike is only growing.",
+        "id": "0413217d4679"
       },
       {
-        "title": "Free Qwen Is Dead: Alibaba Shuts Down Qwen Code Free Tier",
-        "url": "https://decrypt.co/364501/alibaba-shuts-down-free-tier-qwen-code",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-qwen-gID_7.png@png",
+        "title": "Suspicious Polymarket Trader Made $320K on Last-Minute 2025 Biden Pardons",
+        "url": "https://decrypt.co/364660/suspicious-polymarket-trader-320k-2025-biden-pardons",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-joe-biden-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Alibaba shut down Qwen Code's free tier today, following MiniMax's license bait-and-switch. The idea that Chinese labs are the \"open-source good guys\"",
-        "id": "62a659fc0df9"
+        "summary": "Two linked wallets flawlessly bet on several pardons made by former President Joe Biden during his final minutes in office.",
+        "id": "74d9a0a39e2f"
       },
       {
-        "title": "Try a LattAI? Starbucks Debuts ChatGPT App for AI Drink Suggestions",
-        "url": "https://decrypt.co/364491/starbucks-debuts-chatgpt-app-ai-drink-suggestions",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-starbucks-gID_7.png@png",
+        "title": "Your AI Chats Can Be Used Against You in Court—Law Firms Are Scrambling",
+        "url": "https://decrypt.co/364653/your-ai-chats-against-you-court-law-firms-scrambling",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Starbucks’ ChatGPT integration lets customers describe their mood or upload photos to receive AI-generated drink picks.",
-        "id": "f129f9f0bc73"
+        "summary": "Two months after a New York federal judge ruled AI conversations can be seized by prosecutors, more than a dozen major law firms have issued warnings ",
+        "id": "eb8e54805cd6"
       },
       {
-        "title": "Anthropic Preps Opus 4.7 and Full-Stack AI Studio—While Sitting on Something Much Scarier",
-        "url": "https://decrypt.co/364483/anthropic-opus-47-full-stack-ai-studio-mythos",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
+        "title": "Stack BTC CEO Steps Down as Farage-Linked Bitcoin Venture Reshuffles Leadership",
+        "url": "https://decrypt.co/364619/stack-btc-ceo-steps-down-as-farage-linked-bitcoin-venture-reshuffles-leadership",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/nigel-farage-decrypt-style-01-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Leaked models, a new design tool, and an unreleaseable cyber weapon walk into a press cycle.",
-        "id": "1e846e0210c5"
+        "summary": "Reform UK leader Nigel Farage announced his backing of the company following its relaunch under the Stack BTC name in March.",
+        "id": "ce8fedd89d06"
       },
       {
         "title": "比特币突破 80000 美元",
