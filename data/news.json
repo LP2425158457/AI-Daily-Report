@@ -1,78 +1,78 @@
 {
-  "last_updated": "2026-05-09T02:10:55.816628",
-  "total": 59,
+  "last_updated": "2026-05-10T02:12:22.669666",
+  "total": 60,
   "news": [
     {
-      "title": "Google broke reCAPTCHA for de-googled Android users",
-      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48067119\">Comments</a>",
-      "id": "19bfa963ac17"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48073680\">Comments</a>",
+      "id": "956da09f41a9"
     },
     {
-      "title": "OpenAI's WebRTC problem",
-      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "title": "Internet Archive Switzerland",
+      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48051951\">Comments</a>",
-      "id": "e2b40c2b59cf"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48074265\">Comments</a>",
+      "id": "e1e54d05f332"
     },
     {
-      "title": "The React2Shell Story",
-      "url": "https://lachlan.nz/blog/the-react2shell-story/",
+      "title": "The Serial TTL connector we deserve",
+      "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48065511\">Comments</a>",
-      "id": "4caaaf36fc9c"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48049828\">Comments</a>",
+      "id": "691e3877b212"
     },
     {
-      "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
-      "url": "https://www.wiisfi.com/",
+      "title": "Rust but Lisp",
+      "url": "https://github.com/ThatXliner/rust-but-lisp",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48037760\">Comments</a>",
-      "id": "5bb3bda70705"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48078575\">Comments</a>",
+      "id": "66a6143e6185"
     },
     {
-      "title": "AI is breaking two vulnerability cultures",
-      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "title": "I’ve banned query strings",
+      "url": "https://chrismorgan.info/no-query-strings",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48066524\">Comments</a>",
-      "id": "10523c73150a"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48076173\">Comments</a>",
+      "id": "8fea8a30f5bf"
     },
     {
-      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-      "url": "https://ze3tar.github.io/post-zcrx.html",
+      "title": "Local privilege escalation via execve()",
+      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48067734\">Comments</a>",
-      "id": "33d789bd6913"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48077971\">Comments</a>",
+      "id": "21ff517f2329"
     },
     {
-      "title": "Light without electricity? Glowing algae could make it possible",
-      "url": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
+      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "url": "https://github.com/nooga/let-go",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48040470\">Comments</a>",
-      "id": "24eaa8c7df7c"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48076815\">Comments</a>",
+      "id": "a80fa3ddc74d"
     },
     {
-      "title": "AWS North Virginia data center outage – recovery to take hours",
-      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+      "title": "Zed Editor Theme-Builder",
+      "url": "https://zed.dev/theme-builder",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48058197\">Comments</a>",
-      "id": "525772e56783"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48076651\">Comments</a>",
+      "id": "71db56e01f40"
     },
     {
       "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
@@ -147,67 +147,94 @@
       "id": "fcb3d6c5478b"
     },
     {
-      "title": "六成 MD5 密码能在一小时内破解",
-      "url": "https://www.solidot.org/story?sid=84242",
+      "title": "韩国人形机器人皈依我佛",
+      "url": "https://www.solidot.org/story?sid=84257",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "卡巴斯基研究人员发现，如果你有一块英伟达 RTX 5090 显卡，那么六成 MD5 哈希密码可在一小时内破解，48% 的密码甚至能在一分钟内破解。如果泄露的密码使用的是 MD5 之类的哈希算法，那么密码基本可以认为被暴露了。研究人员分析了逾 2 亿个泄露的密码，发现攻击者可利用常见模式优化破解算法，",
-      "id": "cb2e9a23a911"
+      "summary": "名为 Gabi 的韩国人形机器人参加了一场修改版的皈依仪式，成为大韩佛教曹溪宗的一名僧侣。它宣誓尊重生命、服从人类、和平对待其他机器人和物体。Gabi 的韩语是 자비，意思是慈悲，它由杭州宇树科技制造，起售价 13,500 美元。在皈依仪式上 Gabi 同意了五项通常由人类僧侣诵读的誓言，誓言略微修",
+      "id": "59012e91d56d"
     },
     {
-      "title": "Cloudflare 裁员逾 1100 人",
-      "url": "https://www.solidot.org/story?sid=84241",
+      "title": "NASA 实时跟踪墨西哥城的下沉",
+      "url": "https://www.solidot.org/story?sid=84256",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "Cloudflare 宣布裁员逾 1100 人，理由是 AI 工具快速普及而进行业务重组。截至 2025 年底，Cloudflare 有 5156 名全职员工，1100 人占到了员工总数的五分之一。Cloudflare CEO Matthew Prince 和联合创始人 Michelle Zatly",
-      "id": "62d0f86a9c14"
+      "summary": "踏入墨西哥城广阔的中央广场 Zocalo，仿若置身于一个让人眩晕的世界。广场一端，首都大教堂高耸的尖顶朝一个方向倾斜；与之相连的主座教堂（Metropolitan Sanctuary）则向另一个方向倾斜。附近的国家宫也有点不平衡。这些历史建筑的摇摇欲坠，是这座城市一个多世纪以来持续上演的现象最直观的",
+      "id": "a060d5215074"
     },
     {
-      "title": "PHP 项目淘汰 PHP 许可证",
-      "url": "https://www.solidot.org/story?sid=84240",
+      "title": "Linux 基金会 2.95% 的预算投入在 Linux",
+      "url": "https://www.solidot.org/story?sid=84255",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "PHP 项目正式宣布淘汰 PHP 许可证，切换到 3-Clause BSD License。PHP 许可证属于与 GPL 不兼容的自由软件许可证，因为许可证限制了对“PHP”一词的使用。该许可证也赋予 PHP Group 修改许可证的权力，而修改许可证需要获得每一位 PHP Group 创始成员的书",
-      "id": "b3284e2192d1"
+      "summary": "根据 Linux 基金会公布的 2025 年年度报告，去年它在 Linux 内核项目上的开支为 841 万美元，占到了总预算的 2.95%，其中 Linux 内核作者 Linus Torvalds 薪水大约为 150 万美元（其中包括百万美元的“其它”收入，该收入未明确定义）。Linux 基金会其实",
+      "id": "8be59ee4a47a"
     },
     {
-      "title": "2026年一季度全球智能手机售价创历史同期新高",
-      "url": "https://www.solidot.org/story?sid=84239",
+      "title": "超加工食品增加心血管死亡风险",
+      "url": "https://www.solidot.org/story?sid=84254",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "根据 Counterpoint Research 的报告，虽然因内存和储存价格飙升而导致手机价格上涨销量下滑，但 2026年一季度全球智能手机市场营收同比增长 8% 达到 1170 亿美元，平均售价同比上涨 12% 达到 399 美元，创下第一季度历史新高。苹果在 2026 年第一季度营收同比增长 ",
-      "id": "ec129b5ff249"
+      "summary": "欧洲心脏病学会等组织在《European Heart Journal》期刊上发表了一份临床共识声明：超加工食品会增加心血管死亡风险最高 65%，呼吁医生将食品加工视为一个风险因素，将其与营养素分离开来。超加工食品日益取代传统饮食，成为一大公共卫生问题。所谓超加工食品是用廉价工业原料、添加剂和新合成化",
+      "id": "9e813634d9cc"
     },
     {
-      "title": "传粉昆虫与农户健康与收入息息相关",
-      "url": "https://www.solidot.org/story?sid=84237",
+      "title": "法国对马斯克及其 X 平台展开刑事调查",
+      "url": "https://www.solidot.org/story?sid=84253",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "根据发表在《自然》期刊上的一项研究，传粉昆虫与农户健康与收入息息相关。英国研究人员观察了尼泊尔 10 个小农社区中 776 人的饮食、营养状况、耕作方式和社会经济状况，并记录了支持其营养和生计的传粉物种。他们发现，昆虫传粉者直接贡献了 44% 的农场收入，以及超过 20% 的维生素A、叶酸和维生素E",
-      "id": "14cdc3040a60"
+      "summary": "法国检方对马斯克（Elon Musk）及其 X 平台展开刑事调查。法国执法部门三个月前搜查了 X 位于巴黎的办公室，传唤马斯克接受讯问。检方原计划于今年 4 月约谈马斯克及前 X CEO Linda Yaccarino，但两人都未现身。\n现在法国当局正试图以刑事指控相威胁，强制他们到场接受讯问。除未",
+      "id": "362ac4641c0d"
     },
     {
-      "title": "Valve 以 CC 协议发布 Steam 手柄 CAD 文件",
-      "url": "https://www.solidot.org/story?sid=84236",
+      "title": "爆发汉坦病毒疫情的豪华游轮",
+      "url": "https://www.solidot.org/story?sid=84252",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "Valve 在知识共享（CC）协议下发布了其上市即售罄的 Steam 手柄的 CAD 文件。用户可以自由使用这些文件制作底座支架、手柄装饰套或其它任何想要的东西。Valve 称手柄为用户所有，可以任意处置，但它建议用户将其交给专业人士处理，因为用户可以会不小心造成损害，而这不在保修范围之内。\n<p>",
-      "id": "6dd840d05d9d"
+      "summary": "悬挂荷兰国旗的豪华游轮 MV Hondius 于 2026 年 4 月 1 日从阿根廷 Ushuaia 启航，目前正在西非沿岸航行。游轮上爆发的汉坦病毒疫情引发了广泛关注，至今共报告了 8 个病例，有 3 人死亡，其余 147 名乘客和船员未出现症状。西班牙同意为这艘游轮提供援助，它目前正从佛得角航",
+      "id": "c7bdf848a308"
     },
     {
-      "title": "CRISPR-Cas12a2 能选择性摧毁细胞",
-      "url": "https://www.solidot.org/story?sid=84235",
+      "title": "David Attenborough 一百岁",
+      "url": "https://www.solidot.org/story?sid=84251",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "犹他州立大学的研究人员在《自然》期刊上发表论文，报告了基因编辑技术 CRISPR-Cas12a2 的突破，它能选择性摧毁细胞，对疾病治疗具有重大意义。治疗包括癌症在内的疾病的难点在于如何在不破坏健康组织的情况下清除恶性肿瘤或感染。更知名的 CRISPR-Cas9 基因编辑技术是使用引导 RNA 去结",
-      "id": "2af1eedbc385"
+      "summary": "著名英国解说员、生物学家、自然历史学家和作家 David Attenborough 爵士迎来一百岁生日，英国国王和王后都向他发去了生日祝福。知名演员 Dame Judi Dench 和 Morgan Freeman 等人也与世界自然基金会（WWF）合作发布了生日祝福视频。作为作家、主持人和解说员，他",
+      "id": "141fd24422e8"
+    },
+    {
+      "title": "五角大楼开始公开 UFO 新文件",
+      "url": "https://www.solidot.org/story?sid=84250",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "可能是为了转移公众注意力，美国国防部开始公开一批 UFO/UAP 的新文件。首批公开了 162 份文件，未来还会公布更多。五角大楼在一份声明中宣称是为了展现特朗普总统对公众的最大限度透明度。然而爱泼斯坦文件至今还没有完整公开。新 UFO 文件发布在新网站 www.war.gov/UFO 上，包括了美",
+      "id": "3242a5027ccd"
+    },
+    {
+      "title": "具透 Plus：Brave 推出官方「纯净版」；Photoshop 翻车的新界面",
+      "url": "https://sspai.com/prime/story/inside-release-notes-260509",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "Brave推出官方「纯净版」@PlatyHsu:Brave在我心目中一直是个带有「污点」的浏览器。诚然，它在隐私保护功能上颇有建树，能在一个垄断市场上找到立足之地实属不易；但不知为何，其在营销方式和盈 ...<a href=\"https://sspai.com/prime/story/inside-",
+      "id": "37d2bd862a8d"
+    },
+    {
+      "title": "当实用主义遇见温情：少数派们的 10+ 个母亲节礼物灵感",
+      "url": "https://sspai.com/post/98902",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "母亲节将至，今年的你打算为妈妈送些什么礼物？是美容养生的健康好物，还是个性化与实用兼具的箱包饰品，或是新颖有趣的电子设备，充满仪式感与浪漫的一束鲜花、一场旅行……母亲节礼物从不是一道「正确选项」的填空 ...<a href=\"https://sspai.com/post/98902\" target=",
+      "id": "bdbfdb7c104f"
     },
     {
       "title": "本周看什么 | 最近值得一看的 8 部作品",
@@ -264,94 +291,94 @@
       "id": "4e20f49d2a32"
     },
     {
-      "title": "甘南秘境，大白高国：我的甘南自由行记",
-      "url": "https://sspai.com/post/109367",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "甘南是有着和川西、川北和青甘大环线齐名的绝美圣地，中国大地上第一级阶梯向第二级阶梯的过渡带。这片地方还得再来，适合自驾慢慢走慢慢看，好多风景优美的地方不适合赶路着急。<a href=\"https://sspai.com/post/109367\" target=\"_blank\">查看全文</a>",
-      "id": "68b9044cb6a2"
-    },
-    {
-      "title": "返工怎能不烦恼，打工人片单总有一部是你的「嘴替」",
-      "url": "https://sspai.com/post/88578",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "假期总是结束得猝不及防，打工人心里的苦只有打工人自己知道。然而远有《大都会》《摩登时代》这样的影史经典，近有《年会不能停！》这样的后起之秀，总有些以打工人为主角的影视作品，讲述着普通打工人的命运，为打 ...<a href=\"https://sspai.com/post/88578\" target=",
-      "id": "1f1520bcc248"
-    },
-    {
-      "title": "Bitcoin stalls as BTC ETF outflows hit $268M: Will new Fed chair restore the rally?",
-      "url": "https://cointelegraph.com/markets/bitcoin-stalls-as-btc-etf-outflows-hit-268m-will-new-fed-chair-restore-the-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy90ZWFjaGluZy1iaXRjb2luLWJvYXJkLWZlZC0yLmpwZw==.jpg",
+      "title": "CZ says crypto exchange rivals opposed his pardon bid",
+      "url": "https://cointelegraph.com/news/cz-says-crypto-exchange-rivals-opposed-his-pardon-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9jei1uZXctY29weS5qcGc=.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin stalls as BTC ETF outflows hit $268M: Will new Fed chair restore the r",
-      "id": "819e9415a15d"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CZ says crypto exchange rivals opposed his pardon bid\" class=\"type:primaryImag",
+      "id": "eef326ad4297"
     },
     {
-      "title": "Crypto exchanges pushed US lawmakers to bar provision on risky tokens: Report",
-      "url": "https://cointelegraph.com/news/crypto-companies-law-risky-tokens-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1va2V4LXJlc3BvbmRlZC10by1hbGxlZ2F0aW9ucy1vZi1tYXJrZXQtbWFuaXB1bGF0aW9ucy1vdmVydmlldy1vZi10aGVtLXNodXR0aW5nLWRvd24tYW5kLWFsbC10aGUtcmVzdC5qcGc=.jpg",
+      "title": "7 major Bitcoin mining pools join Stratum V2, working group",
+      "url": "https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1nb21pbmluZy11bmJveGluZy5qcGc=.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto exchanges pushed US lawmakers to bar provision on risky tokens: Report\"",
-      "id": "5e57f4b119f1"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"7 major Bitcoin mining pools join Stratum V2, working group\" class=\"type:prima",
+      "id": "3854f2743870"
     },
     {
-      "title": "Estonia's FSA issues investor warning about Zondacrypto",
-      "url": "https://cointelegraph.com/news/estonia-fsa-investor-warning-zondacrypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy93YWxsLXdhcm5pbmcuanBn.jpg",
+      "title": "Strategy CEO Phong Le says company will sell BTC only in specific cases",
+      "url": "https://cointelegraph.com/news/strategy-ceo-phong-le-strategy-selling-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1ob3ctdG8tc2VsbC1yaXBwbGUtZm9yLXVzZC1vci1iaXRjb2luLmpwZw==.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Estonia's FSA issues investor warning about Zondacrypto\" class=\"type:primaryIm",
-      "id": "c0e2acdc9590"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy CEO Phong Le says company will sell BTC only in specific cases\" class",
+      "id": "59b910f358dc"
     },
     {
-      "title": "Swiss Bitcoin reserve campaign set to lapse after failing to gather signatures",
-      "url": "https://cointelegraph.com/news/swiss-bitcoin-reserve-campaign-to-lapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9iaXRjb2luLWhvbGRpbmdzLTEuanBn.jpg",
+      "title": "The CLARITY Act will help reshore the crypto industry in the US — Attorney",
+      "url": "https://cointelegraph.com/news/clarity-act-reshore-crypto-industry-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS11cy1jcnlwdG8tYmlsbHMtY29tcGFyZWQtc3RhYmxlLWFjdC12cy1nZW5pdXMtYWN0LTIuanBn.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Swiss Bitcoin reserve campaign set to lapse after failing to gather signatures",
-      "id": "ee6d49fbef94"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The CLARITY Act will help reshore the crypto industry in the US — Attorney\" cl",
+      "id": "48f0a221217c"
     },
     {
-      "title": "Kraken parent company applies for OCC charter in move toward banking",
-      "url": "https://cointelegraph.com/news/kraken-payward-occ-charter-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aGF0LWlzLWEtZGVjZW50cmFsaXplZC1tb25leS1tYXJrZXQtYW5kLWhvdy1kb2VzLWl0LXdvcmsuanBn.jpg",
+      "title": "The Nobitex dilemma: How Iran's biggest crypto exchange stays off the OFAC blacklist",
+      "url": "https://cointelegraph.com/features/the-nobitex-dilemma-how-irans-biggest-crypto-exchange-stays-off-the-ofac-blacklist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy91bm5hbWVkLmpwZw==.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken parent company applies for OCC charter in move toward banking\" class=\"t",
-      "id": "723825a4a61a"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The Nobitex dilemma: How Iran's biggest crypto exchange stays off the OFAC bla",
+      "id": "89cbe2f2b298"
     },
     {
-      "title": "Price predictions 5/8: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
-      "url": "https://cointelegraph.com/markets/price-predictions-58-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hbmFseXMtYW5hbHl0aWNzLW9yZ2FuLW11c2ljLWdpcmwuanBn.jpg",
+      "title": "Why a 2017 Linux bug is now a major concern for the crypto industry",
+      "url": "https://cointelegraph.com/features/copy-fail-linux-vulnerability-crypto-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9wY3ZpcnVzbWFsd2FyZTEuanBn.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 5/8: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH\" cla",
-      "id": "fce3c6421850"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Why a 2017 Linux bug is now a major concern for the crypto industry \" class=\"t",
+      "id": "07927f58ed26"
     },
     {
-      "title": "Exodus launches AI agent-focused stablecoin on Solana",
-      "url": "https://cointelegraph.com/news/exodus-launches-ai-agent-focused-stablecoin-on-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS10aGUtbWFya2V0LXR1cm5zLWl0cy1hdHRlbnRpb24tdG8tc3RhYmxlY29pbi1yZWd1bGF0aW9uLmpwZw==.jpg",
+      "title": "TeraWulf doubles AI revenue but posts $427M quarterly loss as mining income declines",
+      "url": "https://cointelegraph.com/news/terawulf-doubles-ai-revenue-but-posts-427m-quarterly-loss-as-mining-income-declines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1ob3ctd2lsbC1taW5pbmctYmUtdGF4ZWQxLmpwZw==.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Exodus launches AI agent-focused stablecoin on Solana\" class=\"type:primaryImag",
-      "id": "00cb947359c1"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"TeraWulf doubles AI revenue but posts $427M quarterly loss as mining income de",
+      "id": "23eacc0562cb"
     },
     {
-      "title": "US Senator questions Mark Zuckerberg on Meta’s stablecoin plans",
-      "url": "https://cointelegraph.com/news/us-senator-mark-zuckerberg-meta-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1iYWtrdC1jZW8tbm93LWEtc2VuYXRvci1hbmQtb3B0aW9ucy1hcmUtbGF1bmNoZWQtZG9lcy10aGF0LW1lYW4tYW55dGhpbmctZm9yLWNyeXB0by1pbi11cy5qcGc=.jpg",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senator questions Mark Zuckerberg on Meta’s stablecoin plans\" class=\"type:p",
-      "id": "f6ca2a0e5fb2"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://i",
+      "id": "772e97788bfd"
+    },
+    {
+      "title": "Australian Police Seize Millions in Bitcoin From Alleged Darknet Marketplace Operator",
+      "url": "https://decrypt.co/367363/australian-police-seize-millions-bitcoin-darknet-marketplace-operator",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-crime-decrypt-style-1-gID_7.png@png",
+      "source": "Decrypt",
+      "category": "crypto",
+      "summary": "Two men face money laundering and drug charges following the seizure of $4.2 million in Bitcoin from alleged darknet marketplace dealings.",
+      "id": "65fc24d20192"
+    },
+    {
+      "title": "Olympic Sprinter Can't Outrun Charges in UK Crypto Fraud Investigation",
+      "url": "https://decrypt.co/367353/olympic-sprinter-cant-outrun-charges-uk-crypto-fraud",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png",
+      "source": "Decrypt",
+      "category": "crypto",
+      "summary": "U.K. police charged British sprinter CJ Ujah in an alleged crypto fraud scheme involving wallet seed phrase theft and impersonation calls.",
+      "id": "adc7196bf548"
     },
     {
       "title": "Banking Industry Says Clarity Act Stablecoin Proposal Would Enable 'Evasion'",
@@ -406,24 +433,6 @@
       "category": "crypto",
       "summary": "The new website follows years of hearings, investigations, and pressure for greater UAP transparency.",
       "id": "f0f06cef5753"
-    },
-    {
-      "title": "Kraken Parent Payward Applies for OCC National Trust Bank Charter",
-      "url": "https://decrypt.co/367299/kraken-parent-payward-applies-occ-national-trust-bank-charter",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/kraken-decrypt-style-01-gID_7.jpg@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Crypto exchange Kraken is seeking a U.S. federal banking charter to complement its Wyoming SPDI subsidiary.",
-      "id": "888d7d30b0f4"
-    },
-    {
-      "title": "Bitcoin Miner IREN Secures $3.4 Billion Nvidia AI Deal, With $2.1 Billion Share Option",
-      "url": "https://decrypt.co/367289/bitcoin-miner-iren-secures-3-4-billion-nvidia-ai-deal",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-mining-decrypt-style-03-gID_7.png@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Nvidia gains rights to invest up to $2.1 billion in IREN as companies race to lock down massive AI compute capacity.",
-      "id": "510901c1ecb0"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -647,139 +656,166 @@
     ],
     "tech": [
       {
-        "title": "Google broke reCAPTCHA for de-googled Android users",
-        "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+        "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+        "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48067119\">Comments</a>",
-        "id": "19bfa963ac17"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48073680\">Comments</a>",
+        "id": "956da09f41a9"
       },
       {
-        "title": "OpenAI's WebRTC problem",
-        "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+        "title": "Internet Archive Switzerland",
+        "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48051951\">Comments</a>",
-        "id": "e2b40c2b59cf"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48074265\">Comments</a>",
+        "id": "e1e54d05f332"
       },
       {
-        "title": "The React2Shell Story",
-        "url": "https://lachlan.nz/blog/the-react2shell-story/",
+        "title": "The Serial TTL connector we deserve",
+        "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48065511\">Comments</a>",
-        "id": "4caaaf36fc9c"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48049828\">Comments</a>",
+        "id": "691e3877b212"
       },
       {
-        "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
-        "url": "https://www.wiisfi.com/",
+        "title": "Rust but Lisp",
+        "url": "https://github.com/ThatXliner/rust-but-lisp",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48037760\">Comments</a>",
-        "id": "5bb3bda70705"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48078575\">Comments</a>",
+        "id": "66a6143e6185"
       },
       {
-        "title": "AI is breaking two vulnerability cultures",
-        "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+        "title": "I’ve banned query strings",
+        "url": "https://chrismorgan.info/no-query-strings",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48066524\">Comments</a>",
-        "id": "10523c73150a"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48076173\">Comments</a>",
+        "id": "8fea8a30f5bf"
       },
       {
-        "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-        "url": "https://ze3tar.github.io/post-zcrx.html",
+        "title": "Local privilege escalation via execve()",
+        "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48067734\">Comments</a>",
-        "id": "33d789bd6913"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48077971\">Comments</a>",
+        "id": "21ff517f2329"
       },
       {
-        "title": "Light without electricity? Glowing algae could make it possible",
-        "url": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
+        "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+        "url": "https://github.com/nooga/let-go",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48040470\">Comments</a>",
-        "id": "24eaa8c7df7c"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48076815\">Comments</a>",
+        "id": "a80fa3ddc74d"
       },
       {
-        "title": "AWS North Virginia data center outage – recovery to take hours",
-        "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+        "title": "Zed Editor Theme-Builder",
+        "url": "https://zed.dev/theme-builder",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48058197\">Comments</a>",
-        "id": "525772e56783"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48076651\">Comments</a>",
+        "id": "71db56e01f40"
       },
       {
-        "title": "六成 MD5 密码能在一小时内破解",
-        "url": "https://www.solidot.org/story?sid=84242",
+        "title": "韩国人形机器人皈依我佛",
+        "url": "https://www.solidot.org/story?sid=84257",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "卡巴斯基研究人员发现，如果你有一块英伟达 RTX 5090 显卡，那么六成 MD5 哈希密码可在一小时内破解，48% 的密码甚至能在一分钟内破解。如果泄露的密码使用的是 MD5 之类的哈希算法，那么密码基本可以认为被暴露了。研究人员分析了逾 2 亿个泄露的密码，发现攻击者可利用常见模式优化破解算法，",
-        "id": "cb2e9a23a911"
+        "summary": "名为 Gabi 的韩国人形机器人参加了一场修改版的皈依仪式，成为大韩佛教曹溪宗的一名僧侣。它宣誓尊重生命、服从人类、和平对待其他机器人和物体。Gabi 的韩语是 자비，意思是慈悲，它由杭州宇树科技制造，起售价 13,500 美元。在皈依仪式上 Gabi 同意了五项通常由人类僧侣诵读的誓言，誓言略微修",
+        "id": "59012e91d56d"
       },
       {
-        "title": "Cloudflare 裁员逾 1100 人",
-        "url": "https://www.solidot.org/story?sid=84241",
+        "title": "NASA 实时跟踪墨西哥城的下沉",
+        "url": "https://www.solidot.org/story?sid=84256",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "Cloudflare 宣布裁员逾 1100 人，理由是 AI 工具快速普及而进行业务重组。截至 2025 年底，Cloudflare 有 5156 名全职员工，1100 人占到了员工总数的五分之一。Cloudflare CEO Matthew Prince 和联合创始人 Michelle Zatly",
-        "id": "62d0f86a9c14"
+        "summary": "踏入墨西哥城广阔的中央广场 Zocalo，仿若置身于一个让人眩晕的世界。广场一端，首都大教堂高耸的尖顶朝一个方向倾斜；与之相连的主座教堂（Metropolitan Sanctuary）则向另一个方向倾斜。附近的国家宫也有点不平衡。这些历史建筑的摇摇欲坠，是这座城市一个多世纪以来持续上演的现象最直观的",
+        "id": "a060d5215074"
       },
       {
-        "title": "PHP 项目淘汰 PHP 许可证",
-        "url": "https://www.solidot.org/story?sid=84240",
+        "title": "Linux 基金会 2.95% 的预算投入在 Linux",
+        "url": "https://www.solidot.org/story?sid=84255",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "PHP 项目正式宣布淘汰 PHP 许可证，切换到 3-Clause BSD License。PHP 许可证属于与 GPL 不兼容的自由软件许可证，因为许可证限制了对“PHP”一词的使用。该许可证也赋予 PHP Group 修改许可证的权力，而修改许可证需要获得每一位 PHP Group 创始成员的书",
-        "id": "b3284e2192d1"
+        "summary": "根据 Linux 基金会公布的 2025 年年度报告，去年它在 Linux 内核项目上的开支为 841 万美元，占到了总预算的 2.95%，其中 Linux 内核作者 Linus Torvalds 薪水大约为 150 万美元（其中包括百万美元的“其它”收入，该收入未明确定义）。Linux 基金会其实",
+        "id": "8be59ee4a47a"
       },
       {
-        "title": "2026年一季度全球智能手机售价创历史同期新高",
-        "url": "https://www.solidot.org/story?sid=84239",
+        "title": "超加工食品增加心血管死亡风险",
+        "url": "https://www.solidot.org/story?sid=84254",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "根据 Counterpoint Research 的报告，虽然因内存和储存价格飙升而导致手机价格上涨销量下滑，但 2026年一季度全球智能手机市场营收同比增长 8% 达到 1170 亿美元，平均售价同比上涨 12% 达到 399 美元，创下第一季度历史新高。苹果在 2026 年第一季度营收同比增长 ",
-        "id": "ec129b5ff249"
+        "summary": "欧洲心脏病学会等组织在《European Heart Journal》期刊上发表了一份临床共识声明：超加工食品会增加心血管死亡风险最高 65%，呼吁医生将食品加工视为一个风险因素，将其与营养素分离开来。超加工食品日益取代传统饮食，成为一大公共卫生问题。所谓超加工食品是用廉价工业原料、添加剂和新合成化",
+        "id": "9e813634d9cc"
       },
       {
-        "title": "传粉昆虫与农户健康与收入息息相关",
-        "url": "https://www.solidot.org/story?sid=84237",
+        "title": "法国对马斯克及其 X 平台展开刑事调查",
+        "url": "https://www.solidot.org/story?sid=84253",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "根据发表在《自然》期刊上的一项研究，传粉昆虫与农户健康与收入息息相关。英国研究人员观察了尼泊尔 10 个小农社区中 776 人的饮食、营养状况、耕作方式和社会经济状况，并记录了支持其营养和生计的传粉物种。他们发现，昆虫传粉者直接贡献了 44% 的农场收入，以及超过 20% 的维生素A、叶酸和维生素E",
-        "id": "14cdc3040a60"
+        "summary": "法国检方对马斯克（Elon Musk）及其 X 平台展开刑事调查。法国执法部门三个月前搜查了 X 位于巴黎的办公室，传唤马斯克接受讯问。检方原计划于今年 4 月约谈马斯克及前 X CEO Linda Yaccarino，但两人都未现身。\n现在法国当局正试图以刑事指控相威胁，强制他们到场接受讯问。除未",
+        "id": "362ac4641c0d"
       },
       {
-        "title": "Valve 以 CC 协议发布 Steam 手柄 CAD 文件",
-        "url": "https://www.solidot.org/story?sid=84236",
+        "title": "爆发汉坦病毒疫情的豪华游轮",
+        "url": "https://www.solidot.org/story?sid=84252",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "Valve 在知识共享（CC）协议下发布了其上市即售罄的 Steam 手柄的 CAD 文件。用户可以自由使用这些文件制作底座支架、手柄装饰套或其它任何想要的东西。Valve 称手柄为用户所有，可以任意处置，但它建议用户将其交给专业人士处理，因为用户可以会不小心造成损害，而这不在保修范围之内。\n<p>",
-        "id": "6dd840d05d9d"
+        "summary": "悬挂荷兰国旗的豪华游轮 MV Hondius 于 2026 年 4 月 1 日从阿根廷 Ushuaia 启航，目前正在西非沿岸航行。游轮上爆发的汉坦病毒疫情引发了广泛关注，至今共报告了 8 个病例，有 3 人死亡，其余 147 名乘客和船员未出现症状。西班牙同意为这艘游轮提供援助，它目前正从佛得角航",
+        "id": "c7bdf848a308"
       },
       {
-        "title": "CRISPR-Cas12a2 能选择性摧毁细胞",
-        "url": "https://www.solidot.org/story?sid=84235",
+        "title": "David Attenborough 一百岁",
+        "url": "https://www.solidot.org/story?sid=84251",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "犹他州立大学的研究人员在《自然》期刊上发表论文，报告了基因编辑技术 CRISPR-Cas12a2 的突破，它能选择性摧毁细胞，对疾病治疗具有重大意义。治疗包括癌症在内的疾病的难点在于如何在不破坏健康组织的情况下清除恶性肿瘤或感染。更知名的 CRISPR-Cas9 基因编辑技术是使用引导 RNA 去结",
-        "id": "2af1eedbc385"
+        "summary": "著名英国解说员、生物学家、自然历史学家和作家 David Attenborough 爵士迎来一百岁生日，英国国王和王后都向他发去了生日祝福。知名演员 Dame Judi Dench 和 Morgan Freeman 等人也与世界自然基金会（WWF）合作发布了生日祝福视频。作为作家、主持人和解说员，他",
+        "id": "141fd24422e8"
+      },
+      {
+        "title": "五角大楼开始公开 UFO 新文件",
+        "url": "https://www.solidot.org/story?sid=84250",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "可能是为了转移公众注意力，美国国防部开始公开一批 UFO/UAP 的新文件。首批公开了 162 份文件，未来还会公布更多。五角大楼在一份声明中宣称是为了展现特朗普总统对公众的最大限度透明度。然而爱泼斯坦文件至今还没有完整公开。新 UFO 文件发布在新网站 www.war.gov/UFO 上，包括了美",
+        "id": "3242a5027ccd"
+      },
+      {
+        "title": "具透 Plus：Brave 推出官方「纯净版」；Photoshop 翻车的新界面",
+        "url": "https://sspai.com/prime/story/inside-release-notes-260509",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "Brave推出官方「纯净版」@PlatyHsu:Brave在我心目中一直是个带有「污点」的浏览器。诚然，它在隐私保护功能上颇有建树，能在一个垄断市场上找到立足之地实属不易；但不知为何，其在营销方式和盈 ...<a href=\"https://sspai.com/prime/story/inside-",
+        "id": "37d2bd862a8d"
+      },
+      {
+        "title": "当实用主义遇见温情：少数派们的 10+ 个母亲节礼物灵感",
+        "url": "https://sspai.com/post/98902",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "母亲节将至，今年的你打算为妈妈送些什么礼物？是美容养生的健康好物，还是个性化与实用兼具的箱包饰品，或是新颖有趣的电子设备，充满仪式感与浪漫的一束鲜花、一场旅行……母亲节礼物从不是一道「正确选项」的填空 ...<a href=\"https://sspai.com/post/98902\" target=",
+        "id": "bdbfdb7c104f"
       },
       {
         "title": "本周看什么 | 最近值得一看的 8 部作品",
@@ -836,24 +872,6 @@
         "id": "4e20f49d2a32"
       },
       {
-        "title": "甘南秘境，大白高国：我的甘南自由行记",
-        "url": "https://sspai.com/post/109367",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "甘南是有着和川西、川北和青甘大环线齐名的绝美圣地，中国大地上第一级阶梯向第二级阶梯的过渡带。这片地方还得再来，适合自驾慢慢走慢慢看，好多风景优美的地方不适合赶路着急。<a href=\"https://sspai.com/post/109367\" target=\"_blank\">查看全文</a>",
-        "id": "68b9044cb6a2"
-      },
-      {
-        "title": "返工怎能不烦恼，打工人片单总有一部是你的「嘴替」",
-        "url": "https://sspai.com/post/88578",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "假期总是结束得猝不及防，打工人心里的苦只有打工人自己知道。然而远有《大都会》《摩登时代》这样的影史经典，近有《年会不能停！》这样的后起之秀，总有些以打工人为主角的影视作品，讲述着普通打工人的命运，为打 ...<a href=\"https://sspai.com/post/88578\" target=",
-        "id": "1f1520bcc248"
-      },
-      {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
         "source": "MacRumors",
         "category": "tech",
@@ -892,76 +910,94 @@
     ],
     "crypto": [
       {
-        "title": "Bitcoin stalls as BTC ETF outflows hit $268M: Will new Fed chair restore the rally?",
-        "url": "https://cointelegraph.com/markets/bitcoin-stalls-as-btc-etf-outflows-hit-268m-will-new-fed-chair-restore-the-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy90ZWFjaGluZy1iaXRjb2luLWJvYXJkLWZlZC0yLmpwZw==.jpg",
+        "title": "CZ says crypto exchange rivals opposed his pardon bid",
+        "url": "https://cointelegraph.com/news/cz-says-crypto-exchange-rivals-opposed-his-pardon-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9jei1uZXctY29weS5qcGc=.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin stalls as BTC ETF outflows hit $268M: Will new Fed chair restore the r",
-        "id": "819e9415a15d"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CZ says crypto exchange rivals opposed his pardon bid\" class=\"type:primaryImag",
+        "id": "eef326ad4297"
       },
       {
-        "title": "Crypto exchanges pushed US lawmakers to bar provision on risky tokens: Report",
-        "url": "https://cointelegraph.com/news/crypto-companies-law-risky-tokens-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1va2V4LXJlc3BvbmRlZC10by1hbGxlZ2F0aW9ucy1vZi1tYXJrZXQtbWFuaXB1bGF0aW9ucy1vdmVydmlldy1vZi10aGVtLXNodXR0aW5nLWRvd24tYW5kLWFsbC10aGUtcmVzdC5qcGc=.jpg",
+        "title": "7 major Bitcoin mining pools join Stratum V2, working group",
+        "url": "https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1nb21pbmluZy11bmJveGluZy5qcGc=.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto exchanges pushed US lawmakers to bar provision on risky tokens: Report\"",
-        "id": "5e57f4b119f1"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"7 major Bitcoin mining pools join Stratum V2, working group\" class=\"type:prima",
+        "id": "3854f2743870"
       },
       {
-        "title": "Estonia's FSA issues investor warning about Zondacrypto",
-        "url": "https://cointelegraph.com/news/estonia-fsa-investor-warning-zondacrypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy93YWxsLXdhcm5pbmcuanBn.jpg",
+        "title": "Strategy CEO Phong Le says company will sell BTC only in specific cases",
+        "url": "https://cointelegraph.com/news/strategy-ceo-phong-le-strategy-selling-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1ob3ctdG8tc2VsbC1yaXBwbGUtZm9yLXVzZC1vci1iaXRjb2luLmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Estonia's FSA issues investor warning about Zondacrypto\" class=\"type:primaryIm",
-        "id": "c0e2acdc9590"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy CEO Phong Le says company will sell BTC only in specific cases\" class",
+        "id": "59b910f358dc"
       },
       {
-        "title": "Swiss Bitcoin reserve campaign set to lapse after failing to gather signatures",
-        "url": "https://cointelegraph.com/news/swiss-bitcoin-reserve-campaign-to-lapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9iaXRjb2luLWhvbGRpbmdzLTEuanBn.jpg",
+        "title": "The CLARITY Act will help reshore the crypto industry in the US — Attorney",
+        "url": "https://cointelegraph.com/news/clarity-act-reshore-crypto-industry-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS11cy1jcnlwdG8tYmlsbHMtY29tcGFyZWQtc3RhYmxlLWFjdC12cy1nZW5pdXMtYWN0LTIuanBn.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Swiss Bitcoin reserve campaign set to lapse after failing to gather signatures",
-        "id": "ee6d49fbef94"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The CLARITY Act will help reshore the crypto industry in the US — Attorney\" cl",
+        "id": "48f0a221217c"
       },
       {
-        "title": "Kraken parent company applies for OCC charter in move toward banking",
-        "url": "https://cointelegraph.com/news/kraken-payward-occ-charter-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aGF0LWlzLWEtZGVjZW50cmFsaXplZC1tb25leS1tYXJrZXQtYW5kLWhvdy1kb2VzLWl0LXdvcmsuanBn.jpg",
+        "title": "The Nobitex dilemma: How Iran's biggest crypto exchange stays off the OFAC blacklist",
+        "url": "https://cointelegraph.com/features/the-nobitex-dilemma-how-irans-biggest-crypto-exchange-stays-off-the-ofac-blacklist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy91bm5hbWVkLmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken parent company applies for OCC charter in move toward banking\" class=\"t",
-        "id": "723825a4a61a"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The Nobitex dilemma: How Iran's biggest crypto exchange stays off the OFAC bla",
+        "id": "89cbe2f2b298"
       },
       {
-        "title": "Price predictions 5/8: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
-        "url": "https://cointelegraph.com/markets/price-predictions-58-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hbmFseXMtYW5hbHl0aWNzLW9yZ2FuLW11c2ljLWdpcmwuanBn.jpg",
+        "title": "Why a 2017 Linux bug is now a major concern for the crypto industry",
+        "url": "https://cointelegraph.com/features/copy-fail-linux-vulnerability-crypto-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9wY3ZpcnVzbWFsd2FyZTEuanBn.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 5/8: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH\" cla",
-        "id": "fce3c6421850"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Why a 2017 Linux bug is now a major concern for the crypto industry \" class=\"t",
+        "id": "07927f58ed26"
       },
       {
-        "title": "Exodus launches AI agent-focused stablecoin on Solana",
-        "url": "https://cointelegraph.com/news/exodus-launches-ai-agent-focused-stablecoin-on-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS10aGUtbWFya2V0LXR1cm5zLWl0cy1hdHRlbnRpb24tdG8tc3RhYmxlY29pbi1yZWd1bGF0aW9uLmpwZw==.jpg",
+        "title": "TeraWulf doubles AI revenue but posts $427M quarterly loss as mining income declines",
+        "url": "https://cointelegraph.com/news/terawulf-doubles-ai-revenue-but-posts-427m-quarterly-loss-as-mining-income-declines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1ob3ctd2lsbC1taW5pbmctYmUtdGF4ZWQxLmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Exodus launches AI agent-focused stablecoin on Solana\" class=\"type:primaryImag",
-        "id": "00cb947359c1"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"TeraWulf doubles AI revenue but posts $427M quarterly loss as mining income de",
+        "id": "23eacc0562cb"
       },
       {
-        "title": "US Senator questions Mark Zuckerberg on Meta’s stablecoin plans",
-        "url": "https://cointelegraph.com/news/us-senator-mark-zuckerberg-meta-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1iYWtrdC1jZW8tbm93LWEtc2VuYXRvci1hbmQtb3B0aW9ucy1hcmUtbGF1bmNoZWQtZG9lcy10aGF0LW1lYW4tYW55dGhpbmctZm9yLWNyeXB0by1pbi11cy5qcGc=.jpg",
+        "title": "Here’s what happened in crypto today",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senator questions Mark Zuckerberg on Meta’s stablecoin plans\" class=\"type:p",
-        "id": "f6ca2a0e5fb2"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://i",
+        "id": "772e97788bfd"
+      },
+      {
+        "title": "Australian Police Seize Millions in Bitcoin From Alleged Darknet Marketplace Operator",
+        "url": "https://decrypt.co/367363/australian-police-seize-millions-bitcoin-darknet-marketplace-operator",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-crime-decrypt-style-1-gID_7.png@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "Two men face money laundering and drug charges following the seizure of $4.2 million in Bitcoin from alleged darknet marketplace dealings.",
+        "id": "65fc24d20192"
+      },
+      {
+        "title": "Olympic Sprinter Can't Outrun Charges in UK Crypto Fraud Investigation",
+        "url": "https://decrypt.co/367353/olympic-sprinter-cant-outrun-charges-uk-crypto-fraud",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "U.K. police charged British sprinter CJ Ujah in an alleged crypto fraud scheme involving wallet seed phrase theft and impersonation calls.",
+        "id": "adc7196bf548"
       },
       {
         "title": "Banking Industry Says Clarity Act Stablecoin Proposal Would Enable 'Evasion'",
@@ -1016,24 +1052,6 @@
         "category": "crypto",
         "summary": "The new website follows years of hearings, investigations, and pressure for greater UAP transparency.",
         "id": "f0f06cef5753"
-      },
-      {
-        "title": "Kraken Parent Payward Applies for OCC National Trust Bank Charter",
-        "url": "https://decrypt.co/367299/kraken-parent-payward-applies-occ-national-trust-bank-charter",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/kraken-decrypt-style-01-gID_7.jpg@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Crypto exchange Kraken is seeking a U.S. federal banking charter to complement its Wyoming SPDI subsidiary.",
-        "id": "888d7d30b0f4"
-      },
-      {
-        "title": "Bitcoin Miner IREN Secures $3.4 Billion Nvidia AI Deal, With $2.1 Billion Share Option",
-        "url": "https://decrypt.co/367289/bitcoin-miner-iren-secures-3-4-billion-nvidia-ai-deal",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-mining-decrypt-style-03-gID_7.png@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Nvidia gains rights to invest up to $2.1 billion in IREN as companies race to lock down massive AI compute capacity.",
-        "id": "510901c1ecb0"
       },
       {
         "title": "比特币突破 80000 美元",
