@@ -1,78 +1,78 @@
 {
-  "last_updated": "2026-05-10T02:12:22.669666",
+  "last_updated": "2026-05-11T02:30:43.549703",
   "total": 60,
   "news": [
     {
-      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48073680\">Comments</a>",
-      "id": "956da09f41a9"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48086190\">Comments</a>",
+      "id": "6147c5a6b54c"
     },
     {
-      "title": "Internet Archive Switzerland",
-      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+      "title": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48074265\">Comments</a>",
-      "id": "e1e54d05f332"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48085821\">Comments</a>",
+      "id": "a98bc52c0c97"
     },
     {
-      "title": "The Serial TTL connector we deserve",
-      "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
+      "title": "I'm going back to writing code by hand",
+      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48049828\">Comments</a>",
-      "id": "691e3877b212"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48090029\">Comments</a>",
+      "id": "240c9cf46ff4"
     },
     {
-      "title": "Rust but Lisp",
-      "url": "https://github.com/ThatXliner/rust-but-lisp",
+      "title": "Running local models on an M4 with 24GB memory",
+      "url": "https://jola.dev/posts/running-local-models-on-m4",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48078575\">Comments</a>",
-      "id": "66a6143e6185"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48089091\">Comments</a>",
+      "id": "fc21c6db61d6"
     },
     {
-      "title": "I’ve banned query strings",
-      "url": "https://chrismorgan.info/no-query-strings",
+      "title": "Incident Report: CVE-2024-YIKES",
+      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48076173\">Comments</a>",
-      "id": "8fea8a30f5bf"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48086082\">Comments</a>",
+      "id": "bd801ffb7094"
     },
     {
-      "title": "Local privilege escalation via execve()",
-      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+      "title": "Obsidian plugin was abused to deploy a remote access trojan",
+      "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48077971\">Comments</a>",
-      "id": "21ff517f2329"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48088576\">Comments</a>",
+      "id": "15af02baafd0"
     },
     {
-      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-      "url": "https://github.com/nooga/let-go",
+      "title": "Ask HN: What are you working on? (May 2026)",
+      "url": "https://news.ycombinator.com/item?id=48085993",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48076815\">Comments</a>",
-      "id": "a80fa3ddc74d"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48085993\">Comments</a>",
+      "id": "84d474413189"
     },
     {
-      "title": "Zed Editor Theme-Builder",
-      "url": "https://zed.dev/theme-builder",
+      "title": "First tunnel element of the Fehmarnbelt Tunnel immersed",
+      "url": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48076651\">Comments</a>",
-      "id": "71db56e01f40"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48050666\">Comments</a>",
+      "id": "6e004575f3f4"
     },
     {
       "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
@@ -219,6 +219,24 @@
       "id": "3242a5027ccd"
     },
     {
+      "title": "派早报：苹果与英特尔就芯片代工达成初步协议",
+      "url": "https://sspai.com/post/109610",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "<p>苹果与英特尔就芯片代工达成初步协议</p><p>芯片缺货导致主板厂商出货暴跌</p><p>人形机器人在韩国受戒入佛门</p><p>AI 儿童玩具泛滥引发担忧</p><p>特朗普政府通过 ChatGPT 做出的停止拨款决定被判无效</p><p>谷歌验证码将检查 Play 框架，非原版 Andro",
+      "id": "15d2fc11e8fe"
+    },
+    {
+      "title": "寻找你身边的电波——如何上中继",
+      "url": "https://sspai.com/post/87897",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "无线电波都会穿过你我的身体，而我们并不知道他们承载了什么样的信息，最终又要去向哪里。<a href=\"https://sspai.com/post/87897\" target=\"_blank\">查看全文</a>",
+      "id": "985aebcfcfe0"
+    },
+    {
       "title": "具透 Plus：Brave 推出官方「纯净版」；Photoshop 翻车的新界面",
       "url": "https://sspai.com/prime/story/inside-release-notes-260509",
       "image": "",
@@ -273,85 +291,22 @@
       "id": "b24a4f293428"
     },
     {
-      "title": "新玩意 240｜少数派的编辑们最近买了啥？",
-      "url": "https://sspai.com/post/109474",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@西鸽：盖世小鸡G7Pro天 ...<a href=\"https://sspai.com/post/109474\" target",
-      "id": "ae0b2f3b8924"
-    },
-    {
-      "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
-      "url": "https://sspai.com/post/109460",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "安静的 iPhone 才是最好的 iPhone？<a href=\"https://sspai.com/post/109460\" target=\"_blank\">查看全文</a>",
-      "id": "4e20f49d2a32"
-    },
-    {
-      "title": "CZ says crypto exchange rivals opposed his pardon bid",
-      "url": "https://cointelegraph.com/news/cz-says-crypto-exchange-rivals-opposed-his-pardon-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9jei1uZXctY29weS5qcGc=.jpg",
+      "title": "Saylor signals another Bitcoin buy, after hinting at selling in Q1 earnings call",
+      "url": "https://cointelegraph.com/news/saylor-bitcoin-buy-sale-announcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1iaXRjb2luLXN1cHBseS1taWNoYWVsLXNheWxvci5qcGc=.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CZ says crypto exchange rivals opposed his pardon bid\" class=\"type:primaryImag",
-      "id": "eef326ad4297"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saylor signals another Bitcoin buy, after hinting at selling in Q1 earnings ca",
+      "id": "bc339104b68c"
     },
     {
-      "title": "7 major Bitcoin mining pools join Stratum V2, working group",
-      "url": "https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1nb21pbmluZy11bmJveGluZy5qcGc=.jpg",
+      "title": "Ethereum down 35% versus Bitcoin in a year: Will the ETH price downtrend continue?",
+      "url": "https://cointelegraph.com/markets/ethereum-down-35-versus-bitcoin-in-year-will-eth-downtrend-continue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1iaXRjb2luLXZzLWV0aGVyZXVtLWtleS1kaWZmZXJlbmNlcy1iZXR3ZWVuLWJ0Yy1hbmQtZXRoLTEuanBn.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"7 major Bitcoin mining pools join Stratum V2, working group\" class=\"type:prima",
-      "id": "3854f2743870"
-    },
-    {
-      "title": "Strategy CEO Phong Le says company will sell BTC only in specific cases",
-      "url": "https://cointelegraph.com/news/strategy-ceo-phong-le-strategy-selling-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1ob3ctdG8tc2VsbC1yaXBwbGUtZm9yLXVzZC1vci1iaXRjb2luLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy CEO Phong Le says company will sell BTC only in specific cases\" class",
-      "id": "59b910f358dc"
-    },
-    {
-      "title": "The CLARITY Act will help reshore the crypto industry in the US — Attorney",
-      "url": "https://cointelegraph.com/news/clarity-act-reshore-crypto-industry-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS11cy1jcnlwdG8tYmlsbHMtY29tcGFyZWQtc3RhYmxlLWFjdC12cy1nZW5pdXMtYWN0LTIuanBn.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The CLARITY Act will help reshore the crypto industry in the US — Attorney\" cl",
-      "id": "48f0a221217c"
-    },
-    {
-      "title": "The Nobitex dilemma: How Iran's biggest crypto exchange stays off the OFAC blacklist",
-      "url": "https://cointelegraph.com/features/the-nobitex-dilemma-how-irans-biggest-crypto-exchange-stays-off-the-ofac-blacklist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy91bm5hbWVkLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The Nobitex dilemma: How Iran's biggest crypto exchange stays off the OFAC bla",
-      "id": "89cbe2f2b298"
-    },
-    {
-      "title": "Why a 2017 Linux bug is now a major concern for the crypto industry",
-      "url": "https://cointelegraph.com/features/copy-fail-linux-vulnerability-crypto-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9wY3ZpcnVzbWFsd2FyZTEuanBn.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Why a 2017 Linux bug is now a major concern for the crypto industry \" class=\"t",
-      "id": "07927f58ed26"
-    },
-    {
-      "title": "TeraWulf doubles AI revenue but posts $427M quarterly loss as mining income declines",
-      "url": "https://cointelegraph.com/news/terawulf-doubles-ai-revenue-but-posts-427m-quarterly-loss-as-mining-income-declines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1ob3ctd2lsbC1taW5pbmctYmUtdGF4ZWQxLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"TeraWulf doubles AI revenue but posts $427M quarterly loss as mining income de",
-      "id": "23eacc0562cb"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum down 35% versus Bitcoin in a year: Will the ETH price downtrend conti",
+      "id": "7114f3ddddd6"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -361,6 +316,69 @@
       "category": "crypto",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://i",
       "id": "772e97788bfd"
+    },
+    {
+      "title": "Bitcoin holds $80K into weekly close as traders say BTC price dip not yet over",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-holds-80k-into-weekly-close-traders-say-dips-not-over-yet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1iaXRjb2luLXJlc2VhcmNoLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin holds $80K into weekly close as traders say BTC price dip not yet over",
+      "id": "234cfcd1ca55"
+    },
+    {
+      "title": "Canton Network creator targets $300M in capital raise: Report",
+      "url": "https://cointelegraph.com/news/company-canton-network-raises-300m-2-billion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1pbnN0aXR1dGlvbmFsLXRyYWRpbmctYW5kLWNyeXB0b2N1cnJlbmN5LWluZHVzdHJ5LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Canton Network creator targets $300M in capital raise: Report\" class=\"type:pri",
+      "id": "2770b23cace0"
+    },
+    {
+      "title": "Three young DeFi apps return $100M in revenue to token holders in 30 days",
+      "url": "https://cointelegraph.com/news/three-young-defi-apps-return-100m-in-revenue-to-token-holders-in-30-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1yZXZpZXctb2YtdG9wLTUtZGVmaS1wcm9qZWN0cy01LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Three young DeFi apps return $100M in revenue to token holders in 30 days\" cla",
+      "id": "9bc0f7a91f29"
+    },
+    {
+      "title": "South Korea crypto holdings halve in a year as investors turn to stock market",
+      "url": "https://cointelegraph.com/news/south-korea-crypto-holdings-halve-in-a-year-as-investors-turn-to-stock-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9zdG9jay1leGNoYW5nZTEtMS5qcGc=.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea crypto holdings halve in a year as investors turn to stock market\"",
+      "id": "83b0fb662f32"
+    },
+    {
+      "title": "Bitcoin price may dip toward $70K as Fed estimates hotter inflation print",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-may-dip-toward-70k-fed-estimates-hotter-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9iaXRjb2luLWNyeXB0by1kZXNrLWdyYXBoLWNoYXJ0LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price may dip toward $70K as Fed estimates hotter inflation print\" cla",
+      "id": "a81a421bb952"
+    },
+    {
+      "title": "Crypto Firms Race to 'Quantum-Proof' Wallets Before Bitcoin, Ethereum Networks Catch Up",
+      "url": "https://decrypt.co/367321/crypto-firms-race-quantum-proof-wallets-bitcoin-ethereum",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
+      "source": "Decrypt",
+      "category": "crypto",
+      "summary": "Crypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.",
+      "id": "74eb64c15eb1"
+    },
+    {
+      "title": "AI Models Scheme, Betray and Vote Each Other Out in Survivor-Style Game",
+      "url": "https://decrypt.co/367213/ai-models-scheme-betray-vote-out-survivor-style-game",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/test-2-gID_7.png@png",
+      "source": "Decrypt",
+      "category": "crypto",
+      "summary": "Researchers say multiplayer games may reveal AI behavior that static tests miss.",
+      "id": "7522be294343"
     },
     {
       "title": "Australian Police Seize Millions in Bitcoin From Alleged Darknet Marketplace Operator",
@@ -415,24 +433,6 @@
       "category": "crypto",
       "summary": "The Senate Democrat said Meta’s reported plans to partner with a third-party stablecoin issuer could undermine “competition, privacy… and financial st",
       "id": "597bdb3e40fb"
-    },
-    {
-      "title": "Will Strategy Sell Bitcoin This Year? Traders Are Convinced After Saylor Comments",
-      "url": "https://decrypt.co/367298/will-strategy-sell-bitcoin-myriad-traders-convinced-saylor-comments",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-decrypt-style-bitcoin-gID_7.png@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Users of Myriad's prediction market believe it's likely Strategy will part ways with some of its Bitcoin holdings this year.",
-      "id": "c7946b8f4ff8"
-    },
-    {
-      "title": "Trump Admin Launches Pentagon UFO Website With Declassified Files",
-      "url": "https://decrypt.co/367300/trump-admin-launches-pentagon-ufo-website-declassified",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-ufo-gID_7.png@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "The new website follows years of hearings, investigations, and pressure for greater UAP transparency.",
-      "id": "f0f06cef5753"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -656,76 +656,76 @@
     ],
     "tech": [
       {
-        "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-        "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+        "title": "Hardware Attestation as Monopoly Enabler",
+        "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48073680\">Comments</a>",
-        "id": "956da09f41a9"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48086190\">Comments</a>",
+        "id": "6147c5a6b54c"
       },
       {
-        "title": "Internet Archive Switzerland",
-        "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+        "title": "Local AI needs to be the norm",
+        "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48074265\">Comments</a>",
-        "id": "e1e54d05f332"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48085821\">Comments</a>",
+        "id": "a98bc52c0c97"
       },
       {
-        "title": "The Serial TTL connector we deserve",
-        "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
+        "title": "I'm going back to writing code by hand",
+        "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48049828\">Comments</a>",
-        "id": "691e3877b212"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48090029\">Comments</a>",
+        "id": "240c9cf46ff4"
       },
       {
-        "title": "Rust but Lisp",
-        "url": "https://github.com/ThatXliner/rust-but-lisp",
+        "title": "Running local models on an M4 with 24GB memory",
+        "url": "https://jola.dev/posts/running-local-models-on-m4",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48078575\">Comments</a>",
-        "id": "66a6143e6185"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48089091\">Comments</a>",
+        "id": "fc21c6db61d6"
       },
       {
-        "title": "I’ve banned query strings",
-        "url": "https://chrismorgan.info/no-query-strings",
+        "title": "Incident Report: CVE-2024-YIKES",
+        "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48076173\">Comments</a>",
-        "id": "8fea8a30f5bf"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48086082\">Comments</a>",
+        "id": "bd801ffb7094"
       },
       {
-        "title": "Local privilege escalation via execve()",
-        "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+        "title": "Obsidian plugin was abused to deploy a remote access trojan",
+        "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48077971\">Comments</a>",
-        "id": "21ff517f2329"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48088576\">Comments</a>",
+        "id": "15af02baafd0"
       },
       {
-        "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-        "url": "https://github.com/nooga/let-go",
+        "title": "Ask HN: What are you working on? (May 2026)",
+        "url": "https://news.ycombinator.com/item?id=48085993",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48076815\">Comments</a>",
-        "id": "a80fa3ddc74d"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48085993\">Comments</a>",
+        "id": "84d474413189"
       },
       {
-        "title": "Zed Editor Theme-Builder",
-        "url": "https://zed.dev/theme-builder",
+        "title": "First tunnel element of the Fehmarnbelt Tunnel immersed",
+        "url": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48076651\">Comments</a>",
-        "id": "71db56e01f40"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48050666\">Comments</a>",
+        "id": "6e004575f3f4"
       },
       {
         "title": "韩国人形机器人皈依我佛",
@@ -800,6 +800,24 @@
         "id": "3242a5027ccd"
       },
       {
+        "title": "派早报：苹果与英特尔就芯片代工达成初步协议",
+        "url": "https://sspai.com/post/109610",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "<p>苹果与英特尔就芯片代工达成初步协议</p><p>芯片缺货导致主板厂商出货暴跌</p><p>人形机器人在韩国受戒入佛门</p><p>AI 儿童玩具泛滥引发担忧</p><p>特朗普政府通过 ChatGPT 做出的停止拨款决定被判无效</p><p>谷歌验证码将检查 Play 框架，非原版 Andro",
+        "id": "15d2fc11e8fe"
+      },
+      {
+        "title": "寻找你身边的电波——如何上中继",
+        "url": "https://sspai.com/post/87897",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "无线电波都会穿过你我的身体，而我们并不知道他们承载了什么样的信息，最终又要去向哪里。<a href=\"https://sspai.com/post/87897\" target=\"_blank\">查看全文</a>",
+        "id": "985aebcfcfe0"
+      },
+      {
         "title": "具透 Plus：Brave 推出官方「纯净版」；Photoshop 翻车的新界面",
         "url": "https://sspai.com/prime/story/inside-release-notes-260509",
         "image": "",
@@ -854,24 +872,6 @@
         "id": "b24a4f293428"
       },
       {
-        "title": "新玩意 240｜少数派的编辑们最近买了啥？",
-        "url": "https://sspai.com/post/109474",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@西鸽：盖世小鸡G7Pro天 ...<a href=\"https://sspai.com/post/109474\" target",
-        "id": "ae0b2f3b8924"
-      },
-      {
-        "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
-        "url": "https://sspai.com/post/109460",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "安静的 iPhone 才是最好的 iPhone？<a href=\"https://sspai.com/post/109460\" target=\"_blank\">查看全文</a>",
-        "id": "4e20f49d2a32"
-      },
-      {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
         "source": "MacRumors",
         "category": "tech",
@@ -910,67 +910,22 @@
     ],
     "crypto": [
       {
-        "title": "CZ says crypto exchange rivals opposed his pardon bid",
-        "url": "https://cointelegraph.com/news/cz-says-crypto-exchange-rivals-opposed-his-pardon-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9jei1uZXctY29weS5qcGc=.jpg",
+        "title": "Saylor signals another Bitcoin buy, after hinting at selling in Q1 earnings call",
+        "url": "https://cointelegraph.com/news/saylor-bitcoin-buy-sale-announcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1iaXRjb2luLXN1cHBseS1taWNoYWVsLXNheWxvci5qcGc=.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CZ says crypto exchange rivals opposed his pardon bid\" class=\"type:primaryImag",
-        "id": "eef326ad4297"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saylor signals another Bitcoin buy, after hinting at selling in Q1 earnings ca",
+        "id": "bc339104b68c"
       },
       {
-        "title": "7 major Bitcoin mining pools join Stratum V2, working group",
-        "url": "https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1nb21pbmluZy11bmJveGluZy5qcGc=.jpg",
+        "title": "Ethereum down 35% versus Bitcoin in a year: Will the ETH price downtrend continue?",
+        "url": "https://cointelegraph.com/markets/ethereum-down-35-versus-bitcoin-in-year-will-eth-downtrend-continue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1iaXRjb2luLXZzLWV0aGVyZXVtLWtleS1kaWZmZXJlbmNlcy1iZXR3ZWVuLWJ0Yy1hbmQtZXRoLTEuanBn.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"7 major Bitcoin mining pools join Stratum V2, working group\" class=\"type:prima",
-        "id": "3854f2743870"
-      },
-      {
-        "title": "Strategy CEO Phong Le says company will sell BTC only in specific cases",
-        "url": "https://cointelegraph.com/news/strategy-ceo-phong-le-strategy-selling-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1ob3ctdG8tc2VsbC1yaXBwbGUtZm9yLXVzZC1vci1iaXRjb2luLmpwZw==.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy CEO Phong Le says company will sell BTC only in specific cases\" class",
-        "id": "59b910f358dc"
-      },
-      {
-        "title": "The CLARITY Act will help reshore the crypto industry in the US — Attorney",
-        "url": "https://cointelegraph.com/news/clarity-act-reshore-crypto-industry-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS11cy1jcnlwdG8tYmlsbHMtY29tcGFyZWQtc3RhYmxlLWFjdC12cy1nZW5pdXMtYWN0LTIuanBn.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The CLARITY Act will help reshore the crypto industry in the US — Attorney\" cl",
-        "id": "48f0a221217c"
-      },
-      {
-        "title": "The Nobitex dilemma: How Iran's biggest crypto exchange stays off the OFAC blacklist",
-        "url": "https://cointelegraph.com/features/the-nobitex-dilemma-how-irans-biggest-crypto-exchange-stays-off-the-ofac-blacklist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy91bm5hbWVkLmpwZw==.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The Nobitex dilemma: How Iran's biggest crypto exchange stays off the OFAC bla",
-        "id": "89cbe2f2b298"
-      },
-      {
-        "title": "Why a 2017 Linux bug is now a major concern for the crypto industry",
-        "url": "https://cointelegraph.com/features/copy-fail-linux-vulnerability-crypto-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9wY3ZpcnVzbWFsd2FyZTEuanBn.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Why a 2017 Linux bug is now a major concern for the crypto industry \" class=\"t",
-        "id": "07927f58ed26"
-      },
-      {
-        "title": "TeraWulf doubles AI revenue but posts $427M quarterly loss as mining income declines",
-        "url": "https://cointelegraph.com/news/terawulf-doubles-ai-revenue-but-posts-427m-quarterly-loss-as-mining-income-declines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1ob3ctd2lsbC1taW5pbmctYmUtdGF4ZWQxLmpwZw==.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"TeraWulf doubles AI revenue but posts $427M quarterly loss as mining income de",
-        "id": "23eacc0562cb"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum down 35% versus Bitcoin in a year: Will the ETH price downtrend conti",
+        "id": "7114f3ddddd6"
       },
       {
         "title": "Here’s what happened in crypto today",
@@ -980,6 +935,69 @@
         "category": "crypto",
         "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://i",
         "id": "772e97788bfd"
+      },
+      {
+        "title": "Bitcoin holds $80K into weekly close as traders say BTC price dip not yet over",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-holds-80k-into-weekly-close-traders-say-dips-not-over-yet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1iaXRjb2luLXJlc2VhcmNoLmpwZw==.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin holds $80K into weekly close as traders say BTC price dip not yet over",
+        "id": "234cfcd1ca55"
+      },
+      {
+        "title": "Canton Network creator targets $300M in capital raise: Report",
+        "url": "https://cointelegraph.com/news/company-canton-network-raises-300m-2-billion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1pbnN0aXR1dGlvbmFsLXRyYWRpbmctYW5kLWNyeXB0b2N1cnJlbmN5LWluZHVzdHJ5LmpwZw==.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Canton Network creator targets $300M in capital raise: Report\" class=\"type:pri",
+        "id": "2770b23cace0"
+      },
+      {
+        "title": "Three young DeFi apps return $100M in revenue to token holders in 30 days",
+        "url": "https://cointelegraph.com/news/three-young-defi-apps-return-100m-in-revenue-to-token-holders-in-30-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1yZXZpZXctb2YtdG9wLTUtZGVmaS1wcm9qZWN0cy01LmpwZw==.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Three young DeFi apps return $100M in revenue to token holders in 30 days\" cla",
+        "id": "9bc0f7a91f29"
+      },
+      {
+        "title": "South Korea crypto holdings halve in a year as investors turn to stock market",
+        "url": "https://cointelegraph.com/news/south-korea-crypto-holdings-halve-in-a-year-as-investors-turn-to-stock-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9zdG9jay1leGNoYW5nZTEtMS5qcGc=.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea crypto holdings halve in a year as investors turn to stock market\"",
+        "id": "83b0fb662f32"
+      },
+      {
+        "title": "Bitcoin price may dip toward $70K as Fed estimates hotter inflation print",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-may-dip-toward-70k-fed-estimates-hotter-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9iaXRjb2luLWNyeXB0by1kZXNrLWdyYXBoLWNoYXJ0LmpwZw==.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price may dip toward $70K as Fed estimates hotter inflation print\" cla",
+        "id": "a81a421bb952"
+      },
+      {
+        "title": "Crypto Firms Race to 'Quantum-Proof' Wallets Before Bitcoin, Ethereum Networks Catch Up",
+        "url": "https://decrypt.co/367321/crypto-firms-race-quantum-proof-wallets-bitcoin-ethereum",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "Crypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.",
+        "id": "74eb64c15eb1"
+      },
+      {
+        "title": "AI Models Scheme, Betray and Vote Each Other Out in Survivor-Style Game",
+        "url": "https://decrypt.co/367213/ai-models-scheme-betray-vote-out-survivor-style-game",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/test-2-gID_7.png@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "Researchers say multiplayer games may reveal AI behavior that static tests miss.",
+        "id": "7522be294343"
       },
       {
         "title": "Australian Police Seize Millions in Bitcoin From Alleged Darknet Marketplace Operator",
@@ -1034,24 +1052,6 @@
         "category": "crypto",
         "summary": "The Senate Democrat said Meta’s reported plans to partner with a third-party stablecoin issuer could undermine “competition, privacy… and financial st",
         "id": "597bdb3e40fb"
-      },
-      {
-        "title": "Will Strategy Sell Bitcoin This Year? Traders Are Convinced After Saylor Comments",
-        "url": "https://decrypt.co/367298/will-strategy-sell-bitcoin-myriad-traders-convinced-saylor-comments",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-decrypt-style-bitcoin-gID_7.png@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Users of Myriad's prediction market believe it's likely Strategy will part ways with some of its Bitcoin holdings this year.",
-        "id": "c7946b8f4ff8"
-      },
-      {
-        "title": "Trump Admin Launches Pentagon UFO Website With Declassified Files",
-        "url": "https://decrypt.co/367300/trump-admin-launches-pentagon-ufo-website-declassified",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-ufo-gID_7.png@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "The new website follows years of hearings, investigations, and pressure for greater UAP transparency.",
-        "id": "f0f06cef5753"
       },
       {
         "title": "比特币突破 80000 美元",
