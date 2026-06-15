@@ -1,78 +1,69 @@
 {
-  "last_updated": "2026-06-14T02:53:54.910481",
-  "total": 60,
+  "last_updated": "2026-06-15T02:58:41.518358",
+  "total": 59,
   "news": [
     {
-      "title": "Noise infusion banned from statistical products published by Census Bureau",
-      "url": "https://desfontain.es/blog/banning-noise.html",
+      "title": "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
+      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48517377\">Comments</a>",
-      "id": "72c7db0acdc3"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48533848\">Comments</a>",
+      "id": "6602efce89d7"
     },
     {
-      "title": "GLM 5.2 Is Out",
-      "url": "https://twitter.com/jietang/status/2065784751345287314",
+      "title": "Write for One Person",
+      "url": "https://wizardzines.com/comics/write-for-one-person/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48518684\">Comments</a>",
-      "id": "54f5d7a33e4e"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48507039\">Comments</a>",
+      "id": "aae77ab70bbf"
     },
     {
-      "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
-      "url": "https://juniperspring.org/posts/honda-evil-valet/",
+      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+      "url": "https://github.com/tamnd/kage",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48523080\">Comments</a>",
-      "id": "b96ee3447715"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48529990\">Comments</a>",
+      "id": "b79ceb205b3e"
     },
     {
-      "title": "Every Frame Perfect",
-      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "title": "Firewood Splitting Simulator",
+      "url": "https://screen.toys/firewood/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48516251\">Comments</a>",
-      "id": "3df719ca2f21"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48471638\">Comments</a>",
+      "id": "954b040d2a71"
     },
     {
-      "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
-      "url": "https://blog.pyodide.org/posts/314-release/",
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48462759\">Comments</a>",
-      "id": "0788cd165af1"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48528371\">Comments</a>",
+      "id": "56c84a5658d6"
     },
     {
-      "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
-      "url": "https://github.com/kekcleader/FreeOberon",
+      "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+      "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48490927\">Comments</a>",
-      "id": "d546c9dd3f96"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48534628\">Comments</a>",
+      "id": "1bb19e056856"
     },
     {
-      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
-      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+      "title": "Why Your CPU Is Fast but Your Program Is Slow: Understanding the Memory Wall",
+      "url": "https://prawns.dev/blogs/memory-wall",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48517199\">Comments</a>",
-      "id": "f189aff761cf"
-    },
-    {
-      "title": "A whale necropolis has been found",
-      "url": "https://www.nature.com/articles/d41586-026-01581-x",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48481546\">Comments</a>",
-      "id": "abec577a45a7"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48491773\">Comments</a>",
+      "id": "ca4dffda14c6"
     },
     {
       "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
@@ -147,6 +138,51 @@
       "id": "c5f5ddc1d7a4"
     },
     {
+      "title": "本田思域容易遭到“邪恶女佣攻击”",
+      "url": "https://www.solidot.org/story?sid=84576",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "邪恶女佣攻击（Evil maid attack）是对无人值守设备的一种攻击方式，具有物理访问权限的攻击者，用某种无法检测的手段对设备进行更改，以便后续访问该设备或设备中的数据。本田思域也很容易面临类似的攻击，比如邪恶的酒店代客泊车员。研究人员发现，本田汽车使用的 Android 软件包使用了公开的 ",
+      "id": "bcda9bfa9e61"
+    },
+    {
+      "title": "科学家再生受损膝关节软骨逆转关节炎",
+      "url": "https://www.solidot.org/story?sid=84575",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "骨关节炎是最常见的关节炎类型，美国有五分之一成年人患有骨关节炎。它会逐渐破坏关节软骨，导致疼痛、僵硬和肿胀。现有疗法主要是缓解疼痛，病情严重则需进行关节置换手术。尚无药物能减缓、阻止或逆转关节炎。名为 15-PGDH 的蛋白质与软骨的衰老相关，研究人员对比了年轻和年长小鼠的软骨，发现 15-PGDH",
+      "id": "70f6cd627850"
+    },
+    {
+      "title": "印度工人训练将会替代他们的 AI 机器人",
+      "url": "https://www.solidot.org/story?sid=84574",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "家庭主妇 Nagireddy Sriramyachandra 头上绑着智能手机，拍摄自己切芒果的视频，以训练 AI 机器人在未来能做家务。她每录制一小时视频能赚到 250 卢比。看似普普通通的视频对科技巨头而言却弥足珍贵，能帮助机器学习如何在现实世界里像人一样行动。这位 25 岁的年轻女性是印度越来",
+      "id": "3a99a0261cc7"
+    },
+    {
+      "title": "研究发现果糖相比葡萄糖发送了较弱的饱腹信号",
+      "url": "https://www.solidot.org/story?sid=84573",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "研究人员发现，果糖和葡萄糖虽然热量相同，但它们的肠脑信号通路不同，这种差异可能影响我们对食物和饮料的偏好。研究人员通过小鼠实验发现了一条果糖与大脑沟通的专用肠脑信号通路，发现果糖抑制饥饿相关神经元活性的效果远不如葡萄糖。现代饮食富含果糖，被普遍认为推动了肥胖率持续上升。对小鼠神经活动的观察发现，果糖",
+      "id": "17954b5ed49c"
+    },
+    {
+      "title": "英国警官被控使用 AI 伪造证据",
+      "url": "https://www.solidot.org/story?sid=84572",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "英国警方对一名涉嫌在多个案件使用 AI 伪造证据的警官展开刑事调查。由于调查正在进行之中，警方没有披露更多信息。德比郡警方表示，这名警官已被调离一线岗位，等待调查结果。该警官被指控妨碍司法公正，尚未被逮捕。这是英国首例警官在刑事案件中被控滥用 AI 技术。\n<p></p>",
+      "id": "c19262dbf8e3"
+    },
+    {
       "title": "为什么轨道数据中心比硅谷认为的更困难？",
       "url": "https://www.solidot.org/story?sid=84571",
       "image": "",
@@ -170,53 +206,26 @@
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "Google 起诉了了一家提供“诈骗即服务”的中国组织 Outsider Enterprise。该组织在 Telegram 上运营，向想要搞诈骗活动的人提供一整套模板，如使用 Google Gemini 创建模仿 Google、YouTube，以及纽约 E-ZPass 等政府机构网站的教程。Andr",
+      "summary": "Google 起诉了一家提供“诈骗即服务”的中国组织 Outsider Enterprise。该组织在 Telegram 上运营，向想要搞诈骗活动的人提供一整套模板，如使用 Google Gemini 创建模仿 Google、YouTube，以及纽约 E-ZPass 等政府机构网站的教程。Andro",
       "id": "26ce5c652691"
     },
     {
-      "title": "因美政府命令 Anthropic 下线 Fable 5 和 Mythos 5 模型",
-      "url": "https://www.solidot.org/story?sid=84568",
+      "title": "派早报：Fable 5 和 Mythos 5 模型因美国商务部禁令下线",
+      "url": "https://sspai.com/post/111045",
       "image": "",
-      "source": "Solidot",
+      "source": "少数派",
       "category": "tech",
-      "summary": "Anthropic 周五发表声明，它收到美国政府的命令，政府以国家安全理由下令禁止外国公民访问其最先进的 AI 模型。该指令适用于所有外国公民，无论他们是身处美国境内还是境外，Anthropic 的外籍员工也包含在内。为确保合格，它只能对所有用户暂停访问 Fable 5 和 Mythos 5 模型。",
-      "id": "cb627ad626e0"
+      "summary": "<p>Fable 5 和 Mythos 5 模型因美国商务部禁令下线</p><p>SpaceX 挂牌，市值达 2.1 万亿美元</p><p>《广告引证内容执法指南》出台</p><p>华为推出 HarmonyOS 7</p><p>英伟达开始接受中国客户下单 Vera CPU</p><p>大疆与影石在美",
+      "id": "676fcf14f1b1"
     },
     {
-      "title": "/e/OS 4.0 释出",
-      "url": "https://www.solidot.org/story?sid=84567",
+      "title": "TDS REVIEW｜韶音 OpenDots 2 / Air 耳夹式开放真无线耳机体验",
+      "url": "https://sspai.com/post/110761",
       "image": "",
-      "source": "Solidot",
+      "source": "少数派",
       "category": "tech",
-      "summary": "注重隐私的开源移动操作系统 /e/OS 释出了 4.0 版本。/e/OS 是移除了 Google 应用的 LineageOS 分支，由法国非营利组织 e Foundation 开发。/e/OS 4.0 的变化包括：全新设计的启动器 Blisslauncher；个性化壁纸；将存储在 Google 中的",
-      "id": "f7b32c90d2b8"
-    },
-    {
-      "title": "Arch Linux 逾四百 AUR 包被植入恶意程序",
-      "url": "https://www.solidot.org/story?sid=84566",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "Arch Linux 项目的用户软件仓库 Arch User Repository(AUR)遭遇了大规模恶意攻击，逾四百 AUR 包被植入恶意程序。Arch Linux 维护者从昨天开始一直在重置/删除所有恶意内容，封禁受影响账号。此次攻击只影响用户软件仓库——由用户贡献的软件包，而不是官方 Arc",
-      "id": "8aeff2154804"
-    },
-    {
-      "title": "AI 智能体试图扫描 DN42 时把主人搞破产",
-      "url": "https://www.solidot.org/story?sid=84565",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "一个 AI Agent 试图加入 DN42 爱好者网络执行网络扫描。DN42 是一个去中心化网络，使用了运行在现代互联网骨干网上的技术如 BGP 和递归 DNS。其参与者都是对互联网骨干网技术感兴趣的人，甚至是打算在真正注册 ASN 之前先进行练习的人。该 AI Agent 在参与社区的互动时透露其",
-      "id": "a0e0b73db5e5"
-    },
-    {
-      "title": "中国的癌症医疗旅游业",
-      "url": "https://www.solidot.org/story?sid=84564",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "泰国和韩国等国以整容和试管婴儿等医疗服务闻名，而中国正试图通过提供先进的癌症疗法吸引全世界的医疗游客。患者出国就医主要是两大原因：先进疗法的可得性，以及价格。CAR-T 疗法是肿瘤学领域最有前景的突破性疗法之一，但大部分国家或者无法提供，或者价格太高。该疗法首要先从患者血液中采集 T 细胞，然后在实",
-      "id": "b8b596bdd532"
+      "summary": "一代上的好几处优势这次依然保持得不错。<a href=\"https://sspai.com/post/110761\" target=\"_blank\">查看全文</a>",
+      "id": "4c4851d9649c"
     },
     {
       "title": "具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能",
@@ -273,22 +282,67 @@
       "id": "b3a99bea674c"
     },
     {
-      "title": "家庭饮品 DIY 指南（一）：工欲善其事，必先利其器",
-      "url": "https://sspai.com/prime/story/home-made-beverages-1",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "前言其实开始喝咖啡以后，就对各种饮品的制作自然而然的来了兴趣，经过几年的积累，略有心得，感觉可以拿来跟大家分享一下。这次的主题家庭饮品DIY。通过简单的设备、物料以及简单的制作方法，教大家如何在家做饮 ...<a href=\"https://sspai.com/prime/story/home-ma",
-      "id": "c95150fc8030"
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://i",
+      "id": "772e97788bfd"
     },
     {
-      "title": "618 相机存储卡选购全攻略（2026）",
-      "url": "https://sspai.com/post/110334",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "希望这篇攻略，能帮各位摄影玩家精准避坑，在今年 618 选到适配自己设备、稳定耐用、性价比拉满的存储卡。<a href=\"https://sspai.com/post/110334\" target=\"_blank\">查看全文</a>",
-      "id": "8e48cf78697f"
+      "title": "StanChart looks for 3 signs of BTC bottom, including Strategy’s Monday news",
+      "url": "https://cointelegraph.com/news/stanchart-looks-for-3-signs-of-btc-bottom-including-strategys-monday-news?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aHktc2F5bG9ycy1zdHJhdGVneS1rZWVwcy1idXlpbmctYml0Y29pbi10aGUtbG9uZy10ZXJtLWJldC1leHBsYWluZWQtMi5qcGc=.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"StanChart looks for 3 signs of BTC bottom, including Strategy’s Monday news\" c",
+      "id": "b38c36f7b400"
+    },
+    {
+      "title": "Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead",
+      "url": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1jcnlwdG9jdXJyZW5jeS12cy1xdWFudHVtLWNvbXB1dGluZy5qcGc=.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku l",
+      "id": "5b3efe9bca7d"
+    },
+    {
+      "title": "Humanity Protocol’s $36M hack tied to suspected North Korean hackers: Quantstamp",
+      "url": "https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS10aGlyZC1wYXJ0aWVzLW11c3Qtc3RvcC1sb3NpbmctY3J5cHRvLXRvLWhhY2tlcnMuanBn.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Humanity Protocol’s $36M hack tied to suspected North Korean hackers: Quantsta",
+      "id": "8c80a4b14af3"
+    },
+    {
+      "title": "Bitcoin nears $65K as Trump says Hormuz will 'open to all' in Sunday Iran peace deal",
+      "url": "https://cointelegraph.com/markets/bitcoin-nears-65k-as-trump-says-hormuz-will-open-to-all-in-sunday-iran-peace-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy90cnVtcC1iaXRjb2luLWdyZWVuLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin nears $65K as Trump says Hormuz will 'open to all' in Sunday Iran peac",
+      "id": "43cb2ef65d3e"
+    },
+    {
+      "title": "Trump says Iran peace deal to be signed Sunday, contradicting Tehran",
+      "url": "https://cointelegraph.com/news/trump-says-iran-peace-deal-to-be-signed-sunday-contradicting-tehran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy90cnVtcDEuanBn.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump says Iran peace deal to be signed Sunday, contradicting Tehran\" class=\"t",
+      "id": "0d1e9c258698"
+    },
+    {
+      "title": "Amazon warning triggered US crackdown on Anthropic AI models: Reports",
+      "url": "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9iZXdhcmUtb2YtZmFibGUtMy5qcGc=.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Amazon warning triggered US crackdown on Anthropic AI models: Reports\" class=\"",
+      "id": "b01aa86e8fe1"
     },
     {
       "title": "Anthropic's Mythos AI finds no more 'serious' bugs in Zcash: Wilcox",
@@ -300,67 +354,22 @@
       "id": "c0af7079f985"
     },
     {
-      "title": "Bitcoin sales are necessary for Strategy's digital credit business, Saylor says",
-      "url": "https://cointelegraph.com/news/saylor-strategys-bitcoin-sale-defend-digital-credit-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aG8taXMtbWljaGFlbC1qLXNheWxvci11cy1mbGFnLmpwZw==.jpg",
-      "source": "CoinTelegraph",
+      "title": "Reve 2.0 Review: The Best AI Image Generator for Layout Control",
+      "url": "https://decrypt.co/371033/reve-2-review-best-ai-image-generator-layout-control",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/image14-gID_7.png@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin sales are necessary for Strategy's digital credit business, Saylor say",
-      "id": "93bf09c600f5"
+      "summary": "The startup that beat Midjourney at a penny per image is back with a 4K model that plans pictures like code—and refuses far less than its rivals",
+      "id": "7dddba1e9fee"
     },
     {
-      "title": "Morpho's $175M raise shows where crypto VC money is flowing",
-      "url": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9jcnlwdG8tZmlhdC1tb25leS1kb2xsYXIyLmpwZw==.jpg",
-      "source": "CoinTelegraph",
+      "title": "Pokémon Card Sales Are Surging on Crypto Platforms—Just Don't Call It Gambling",
+      "url": "https://decrypt.co/370978/pokemon-cards-surging-crypto-platforms-gambling",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/pokemon-decrypt-style-03-gID_7.jpg@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Morpho's $175M raise shows where crypto VC money is flowing\" class=\"type:prima",
-      "id": "6e1dbc831861"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://i",
-      "id": "772e97788bfd"
-    },
-    {
-      "title": "ETH futures flash bearish signal, but stakers’ resilience points to underlying strength",
-      "url": "https://cointelegraph.com/markets/eth-futures-flash-bearish-signal-but-stakers-resilience-points-to-underlying-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xNzU0NDQtZXRoZXItcHJpY2UtdXB0aWNrLWNib2UtYnp4LWV4Y2hhbmdlLTIxc2hhcmVzLXNwb3QtZXRoZXItZXRmLXN0YWtpbmcuanBn.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ETH futures flash bearish signal, but stakers’ resilience points to underlying",
-      "id": "2871a3bda714"
-    },
-    {
-      "title": "Anthropic suspends access to Fable 5, Mythos 5, citing US directive",
-      "url": "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9kZW5pYWwtYWlycGxhbmUuanBn.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anthropic suspends access to Fable 5, Mythos 5, citing US directive\" class=\"ty",
-      "id": "f970e7859f10"
-    },
-    {
-      "title": "Major crypto exchanges cancel SpaceX IPO allocations, promising refunds",
-      "url": "https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1kZWZpLXByb2plY3RzLXNob3VsZC1lbmQtdXAtaW4tZGVjZW50cmFsaXplZC1nb3Zlcm5hbmNlLXNwYWNleC1pcG8uanBn.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Major crypto exchanges cancel SpaceX IPO allocations, promising refunds\" class",
-      "id": "18ea1c1b2ee7"
-    },
-    {
-      "title": "Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research",
-      "url": "https://cointelegraph.com/markets/bitcoins-calm-top-challenges-old-bottom-targets-what-traders-need-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0yNTMwOTAtc3Vja2Vycy1yYWxseS13aHktYml0Y29pbi1hbmFseXN0cy1zYXktYnRjLXByaWNlLW11c3QtaG9sZC03MGsuanBn.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research\" class=",
-      "id": "c711ac5e9834"
+      "summary": "Tokenized Pokémon card sales have skyrocketed over the past year, fueled by a wave of speculation and so-called gacha machines.",
+      "id": "6e8904cbc188"
     },
     {
       "title": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models",
@@ -415,24 +424,6 @@
       "category": "crypto",
       "summary": "Kimi Work lets an AI agent loose on your local files, your browser, and your schedule—without routing everything through the cloud.",
       "id": "657b7bdfb2f0"
-    },
-    {
-      "title": "Americans Fear Job Losses Due to AI But Hope for Cancer, Alzheimer’s Cures: Anthropic Survey",
-      "url": "https://decrypt.co/370951/americans-fear-job-losses-ai-hope-cancer-alzheimers-cures-anthropic",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-12-gID_7.png@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Anthropic's AI survey showed Americans are afraid of job losses, hopeful for health breakthroughs, and distrustful of firms behind the tech.",
-      "id": "07c8cea04515"
-    },
-    {
-      "title": "Crypto Firms Scrap Tokenized SpaceX Share Offerings as SPCX Surges After IPO",
-      "url": "https://decrypt.co/370948/crypto-firms-scrap-tokenized-spacex-share-offerings-spcx-surges-ipo",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Elon-Musk-decrypt-style-02-gID_7.png@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Participants were refunded and did not receive shares in the record-breaking SpaceX IPO from Elon Musk's rocket company.",
-      "id": "98c39259dc46"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -656,76 +647,112 @@
     ],
     "tech": [
       {
-        "title": "Noise infusion banned from statistical products published by Census Bureau",
-        "url": "https://desfontain.es/blog/banning-noise.html",
+        "title": "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
+        "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48517377\">Comments</a>",
-        "id": "72c7db0acdc3"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48533848\">Comments</a>",
+        "id": "6602efce89d7"
       },
       {
-        "title": "GLM 5.2 Is Out",
-        "url": "https://twitter.com/jietang/status/2065784751345287314",
+        "title": "Write for One Person",
+        "url": "https://wizardzines.com/comics/write-for-one-person/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48518684\">Comments</a>",
-        "id": "54f5d7a33e4e"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48507039\">Comments</a>",
+        "id": "aae77ab70bbf"
       },
       {
-        "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
-        "url": "https://juniperspring.org/posts/honda-evil-valet/",
+        "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+        "url": "https://github.com/tamnd/kage",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48523080\">Comments</a>",
-        "id": "b96ee3447715"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48529990\">Comments</a>",
+        "id": "b79ceb205b3e"
       },
       {
-        "title": "Every Frame Perfect",
-        "url": "https://tonsky.me/blog/every-frame-perfect/",
+        "title": "Firewood Splitting Simulator",
+        "url": "https://screen.toys/firewood/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48516251\">Comments</a>",
-        "id": "3df719ca2f21"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48471638\">Comments</a>",
+        "id": "954b040d2a71"
       },
       {
-        "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
-        "url": "https://blog.pyodide.org/posts/314-release/",
+        "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+        "url": "https://github.com/nex-agi/Nex-N2/issues/4",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48462759\">Comments</a>",
-        "id": "0788cd165af1"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48528371\">Comments</a>",
+        "id": "56c84a5658d6"
       },
       {
-        "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
-        "url": "https://github.com/kekcleader/FreeOberon",
+        "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+        "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48490927\">Comments</a>",
-        "id": "d546c9dd3f96"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48534628\">Comments</a>",
+        "id": "1bb19e056856"
       },
       {
-        "title": "Treating pancreatic tumours may have revealed cancer's master switch",
-        "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+        "title": "Why Your CPU Is Fast but Your Program Is Slow: Understanding the Memory Wall",
+        "url": "https://prawns.dev/blogs/memory-wall",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48517199\">Comments</a>",
-        "id": "f189aff761cf"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48491773\">Comments</a>",
+        "id": "ca4dffda14c6"
       },
       {
-        "title": "A whale necropolis has been found",
-        "url": "https://www.nature.com/articles/d41586-026-01581-x",
+        "title": "本田思域容易遭到“邪恶女佣攻击”",
+        "url": "https://www.solidot.org/story?sid=84576",
         "image": "",
-        "source": "Hacker News",
+        "source": "Solidot",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48481546\">Comments</a>",
-        "id": "abec577a45a7"
+        "summary": "邪恶女佣攻击（Evil maid attack）是对无人值守设备的一种攻击方式，具有物理访问权限的攻击者，用某种无法检测的手段对设备进行更改，以便后续访问该设备或设备中的数据。本田思域也很容易面临类似的攻击，比如邪恶的酒店代客泊车员。研究人员发现，本田汽车使用的 Android 软件包使用了公开的 ",
+        "id": "bcda9bfa9e61"
+      },
+      {
+        "title": "科学家再生受损膝关节软骨逆转关节炎",
+        "url": "https://www.solidot.org/story?sid=84575",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "骨关节炎是最常见的关节炎类型，美国有五分之一成年人患有骨关节炎。它会逐渐破坏关节软骨，导致疼痛、僵硬和肿胀。现有疗法主要是缓解疼痛，病情严重则需进行关节置换手术。尚无药物能减缓、阻止或逆转关节炎。名为 15-PGDH 的蛋白质与软骨的衰老相关，研究人员对比了年轻和年长小鼠的软骨，发现 15-PGDH",
+        "id": "70f6cd627850"
+      },
+      {
+        "title": "印度工人训练将会替代他们的 AI 机器人",
+        "url": "https://www.solidot.org/story?sid=84574",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "家庭主妇 Nagireddy Sriramyachandra 头上绑着智能手机，拍摄自己切芒果的视频，以训练 AI 机器人在未来能做家务。她每录制一小时视频能赚到 250 卢比。看似普普通通的视频对科技巨头而言却弥足珍贵，能帮助机器学习如何在现实世界里像人一样行动。这位 25 岁的年轻女性是印度越来",
+        "id": "3a99a0261cc7"
+      },
+      {
+        "title": "研究发现果糖相比葡萄糖发送了较弱的饱腹信号",
+        "url": "https://www.solidot.org/story?sid=84573",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "研究人员发现，果糖和葡萄糖虽然热量相同，但它们的肠脑信号通路不同，这种差异可能影响我们对食物和饮料的偏好。研究人员通过小鼠实验发现了一条果糖与大脑沟通的专用肠脑信号通路，发现果糖抑制饥饿相关神经元活性的效果远不如葡萄糖。现代饮食富含果糖，被普遍认为推动了肥胖率持续上升。对小鼠神经活动的观察发现，果糖",
+        "id": "17954b5ed49c"
+      },
+      {
+        "title": "英国警官被控使用 AI 伪造证据",
+        "url": "https://www.solidot.org/story?sid=84572",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "英国警方对一名涉嫌在多个案件使用 AI 伪造证据的警官展开刑事调查。由于调查正在进行之中，警方没有披露更多信息。德比郡警方表示，这名警官已被调离一线岗位，等待调查结果。该警官被指控妨碍司法公正，尚未被逮捕。这是英国首例警官在刑事案件中被控滥用 AI 技术。\n<p></p>",
+        "id": "c19262dbf8e3"
       },
       {
         "title": "为什么轨道数据中心比硅谷认为的更困难？",
@@ -751,53 +778,26 @@
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "Google 起诉了了一家提供“诈骗即服务”的中国组织 Outsider Enterprise。该组织在 Telegram 上运营，向想要搞诈骗活动的人提供一整套模板，如使用 Google Gemini 创建模仿 Google、YouTube，以及纽约 E-ZPass 等政府机构网站的教程。Andr",
+        "summary": "Google 起诉了一家提供“诈骗即服务”的中国组织 Outsider Enterprise。该组织在 Telegram 上运营，向想要搞诈骗活动的人提供一整套模板，如使用 Google Gemini 创建模仿 Google、YouTube，以及纽约 E-ZPass 等政府机构网站的教程。Andro",
         "id": "26ce5c652691"
       },
       {
-        "title": "因美政府命令 Anthropic 下线 Fable 5 和 Mythos 5 模型",
-        "url": "https://www.solidot.org/story?sid=84568",
+        "title": "派早报：Fable 5 和 Mythos 5 模型因美国商务部禁令下线",
+        "url": "https://sspai.com/post/111045",
         "image": "",
-        "source": "Solidot",
+        "source": "少数派",
         "category": "tech",
-        "summary": "Anthropic 周五发表声明，它收到美国政府的命令，政府以国家安全理由下令禁止外国公民访问其最先进的 AI 模型。该指令适用于所有外国公民，无论他们是身处美国境内还是境外，Anthropic 的外籍员工也包含在内。为确保合格，它只能对所有用户暂停访问 Fable 5 和 Mythos 5 模型。",
-        "id": "cb627ad626e0"
+        "summary": "<p>Fable 5 和 Mythos 5 模型因美国商务部禁令下线</p><p>SpaceX 挂牌，市值达 2.1 万亿美元</p><p>《广告引证内容执法指南》出台</p><p>华为推出 HarmonyOS 7</p><p>英伟达开始接受中国客户下单 Vera CPU</p><p>大疆与影石在美",
+        "id": "676fcf14f1b1"
       },
       {
-        "title": "/e/OS 4.0 释出",
-        "url": "https://www.solidot.org/story?sid=84567",
+        "title": "TDS REVIEW｜韶音 OpenDots 2 / Air 耳夹式开放真无线耳机体验",
+        "url": "https://sspai.com/post/110761",
         "image": "",
-        "source": "Solidot",
+        "source": "少数派",
         "category": "tech",
-        "summary": "注重隐私的开源移动操作系统 /e/OS 释出了 4.0 版本。/e/OS 是移除了 Google 应用的 LineageOS 分支，由法国非营利组织 e Foundation 开发。/e/OS 4.0 的变化包括：全新设计的启动器 Blisslauncher；个性化壁纸；将存储在 Google 中的",
-        "id": "f7b32c90d2b8"
-      },
-      {
-        "title": "Arch Linux 逾四百 AUR 包被植入恶意程序",
-        "url": "https://www.solidot.org/story?sid=84566",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "Arch Linux 项目的用户软件仓库 Arch User Repository(AUR)遭遇了大规模恶意攻击，逾四百 AUR 包被植入恶意程序。Arch Linux 维护者从昨天开始一直在重置/删除所有恶意内容，封禁受影响账号。此次攻击只影响用户软件仓库——由用户贡献的软件包，而不是官方 Arc",
-        "id": "8aeff2154804"
-      },
-      {
-        "title": "AI 智能体试图扫描 DN42 时把主人搞破产",
-        "url": "https://www.solidot.org/story?sid=84565",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "一个 AI Agent 试图加入 DN42 爱好者网络执行网络扫描。DN42 是一个去中心化网络，使用了运行在现代互联网骨干网上的技术如 BGP 和递归 DNS。其参与者都是对互联网骨干网技术感兴趣的人，甚至是打算在真正注册 ASN 之前先进行练习的人。该 AI Agent 在参与社区的互动时透露其",
-        "id": "a0e0b73db5e5"
-      },
-      {
-        "title": "中国的癌症医疗旅游业",
-        "url": "https://www.solidot.org/story?sid=84564",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "泰国和韩国等国以整容和试管婴儿等医疗服务闻名，而中国正试图通过提供先进的癌症疗法吸引全世界的医疗游客。患者出国就医主要是两大原因：先进疗法的可得性，以及价格。CAR-T 疗法是肿瘤学领域最有前景的突破性疗法之一，但大部分国家或者无法提供，或者价格太高。该疗法首要先从患者血液中采集 T 细胞，然后在实",
-        "id": "b8b596bdd532"
+        "summary": "一代上的好几处优势这次依然保持得不错。<a href=\"https://sspai.com/post/110761\" target=\"_blank\">查看全文</a>",
+        "id": "4c4851d9649c"
       },
       {
         "title": "具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能",
@@ -854,24 +854,6 @@
         "id": "b3a99bea674c"
       },
       {
-        "title": "家庭饮品 DIY 指南（一）：工欲善其事，必先利其器",
-        "url": "https://sspai.com/prime/story/home-made-beverages-1",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "前言其实开始喝咖啡以后，就对各种饮品的制作自然而然的来了兴趣，经过几年的积累，略有心得，感觉可以拿来跟大家分享一下。这次的主题家庭饮品DIY。通过简单的设备、物料以及简单的制作方法，教大家如何在家做饮 ...<a href=\"https://sspai.com/prime/story/home-ma",
-        "id": "c95150fc8030"
-      },
-      {
-        "title": "618 相机存储卡选购全攻略（2026）",
-        "url": "https://sspai.com/post/110334",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "希望这篇攻略，能帮各位摄影玩家精准避坑，在今年 618 选到适配自己设备、稳定耐用、性价比拉满的存储卡。<a href=\"https://sspai.com/post/110334\" target=\"_blank\">查看全文</a>",
-        "id": "8e48cf78697f"
-      },
-      {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
         "source": "MacRumors",
         "category": "tech",
@@ -910,33 +892,6 @@
     ],
     "crypto": [
       {
-        "title": "Anthropic's Mythos AI finds no more 'serious' bugs in Zcash: Wilcox",
-        "url": "https://cointelegraph.com/news/anthropic-mythos-audit-no-serious-bugs-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1ob3ctY29vcmRpbmF0ZWQtcHVtcC1hbmQtZHVtcC1zY2hlbWVzLXN0aWxsLXRocml2ZS16Y2FzaC5qcGc=.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anthropic's Mythos AI finds no more 'serious' bugs in Zcash: Wilcox\" class=\"ty",
-        "id": "c0af7079f985"
-      },
-      {
-        "title": "Bitcoin sales are necessary for Strategy's digital credit business, Saylor says",
-        "url": "https://cointelegraph.com/news/saylor-strategys-bitcoin-sale-defend-digital-credit-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aG8taXMtbWljaGFlbC1qLXNheWxvci11cy1mbGFnLmpwZw==.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin sales are necessary for Strategy's digital credit business, Saylor say",
-        "id": "93bf09c600f5"
-      },
-      {
-        "title": "Morpho's $175M raise shows where crypto VC money is flowing",
-        "url": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9jcnlwdG8tZmlhdC1tb25leS1kb2xsYXIyLmpwZw==.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Morpho's $175M raise shows where crypto VC money is flowing\" class=\"type:prima",
-        "id": "6e1dbc831861"
-      },
-      {
         "title": "Here’s what happened in crypto today",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg",
@@ -946,40 +901,85 @@
         "id": "772e97788bfd"
       },
       {
-        "title": "ETH futures flash bearish signal, but stakers’ resilience points to underlying strength",
-        "url": "https://cointelegraph.com/markets/eth-futures-flash-bearish-signal-but-stakers-resilience-points-to-underlying-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xNzU0NDQtZXRoZXItcHJpY2UtdXB0aWNrLWNib2UtYnp4LWV4Y2hhbmdlLTIxc2hhcmVzLXNwb3QtZXRoZXItZXRmLXN0YWtpbmcuanBn.jpg",
+        "title": "StanChart looks for 3 signs of BTC bottom, including Strategy’s Monday news",
+        "url": "https://cointelegraph.com/news/stanchart-looks-for-3-signs-of-btc-bottom-including-strategys-monday-news?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aHktc2F5bG9ycy1zdHJhdGVneS1rZWVwcy1idXlpbmctYml0Y29pbi10aGUtbG9uZy10ZXJtLWJldC1leHBsYWluZWQtMi5qcGc=.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ETH futures flash bearish signal, but stakers’ resilience points to underlying",
-        "id": "2871a3bda714"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"StanChart looks for 3 signs of BTC bottom, including Strategy’s Monday news\" c",
+        "id": "b38c36f7b400"
       },
       {
-        "title": "Anthropic suspends access to Fable 5, Mythos 5, citing US directive",
-        "url": "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9kZW5pYWwtYWlycGxhbmUuanBn.jpg",
+        "title": "Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead",
+        "url": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1jcnlwdG9jdXJyZW5jeS12cy1xdWFudHVtLWNvbXB1dGluZy5qcGc=.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anthropic suspends access to Fable 5, Mythos 5, citing US directive\" class=\"ty",
-        "id": "f970e7859f10"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku l",
+        "id": "5b3efe9bca7d"
       },
       {
-        "title": "Major crypto exchanges cancel SpaceX IPO allocations, promising refunds",
-        "url": "https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1kZWZpLXByb2plY3RzLXNob3VsZC1lbmQtdXAtaW4tZGVjZW50cmFsaXplZC1nb3Zlcm5hbmNlLXNwYWNleC1pcG8uanBn.jpg",
+        "title": "Humanity Protocol’s $36M hack tied to suspected North Korean hackers: Quantstamp",
+        "url": "https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS10aGlyZC1wYXJ0aWVzLW11c3Qtc3RvcC1sb3NpbmctY3J5cHRvLXRvLWhhY2tlcnMuanBn.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Major crypto exchanges cancel SpaceX IPO allocations, promising refunds\" class",
-        "id": "18ea1c1b2ee7"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Humanity Protocol’s $36M hack tied to suspected North Korean hackers: Quantsta",
+        "id": "8c80a4b14af3"
       },
       {
-        "title": "Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research",
-        "url": "https://cointelegraph.com/markets/bitcoins-calm-top-challenges-old-bottom-targets-what-traders-need-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0yNTMwOTAtc3Vja2Vycy1yYWxseS13aHktYml0Y29pbi1hbmFseXN0cy1zYXktYnRjLXByaWNlLW11c3QtaG9sZC03MGsuanBn.jpg",
+        "title": "Bitcoin nears $65K as Trump says Hormuz will 'open to all' in Sunday Iran peace deal",
+        "url": "https://cointelegraph.com/markets/bitcoin-nears-65k-as-trump-says-hormuz-will-open-to-all-in-sunday-iran-peace-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy90cnVtcC1iaXRjb2luLWdyZWVuLmpwZw==.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research\" class=",
-        "id": "c711ac5e9834"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin nears $65K as Trump says Hormuz will 'open to all' in Sunday Iran peac",
+        "id": "43cb2ef65d3e"
+      },
+      {
+        "title": "Trump says Iran peace deal to be signed Sunday, contradicting Tehran",
+        "url": "https://cointelegraph.com/news/trump-says-iran-peace-deal-to-be-signed-sunday-contradicting-tehran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy90cnVtcDEuanBn.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump says Iran peace deal to be signed Sunday, contradicting Tehran\" class=\"t",
+        "id": "0d1e9c258698"
+      },
+      {
+        "title": "Amazon warning triggered US crackdown on Anthropic AI models: Reports",
+        "url": "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9iZXdhcmUtb2YtZmFibGUtMy5qcGc=.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Amazon warning triggered US crackdown on Anthropic AI models: Reports\" class=\"",
+        "id": "b01aa86e8fe1"
+      },
+      {
+        "title": "Anthropic's Mythos AI finds no more 'serious' bugs in Zcash: Wilcox",
+        "url": "https://cointelegraph.com/news/anthropic-mythos-audit-no-serious-bugs-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1ob3ctY29vcmRpbmF0ZWQtcHVtcC1hbmQtZHVtcC1zY2hlbWVzLXN0aWxsLXRocml2ZS16Y2FzaC5qcGc=.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anthropic's Mythos AI finds no more 'serious' bugs in Zcash: Wilcox\" class=\"ty",
+        "id": "c0af7079f985"
+      },
+      {
+        "title": "Reve 2.0 Review: The Best AI Image Generator for Layout Control",
+        "url": "https://decrypt.co/371033/reve-2-review-best-ai-image-generator-layout-control",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/image14-gID_7.png@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "The startup that beat Midjourney at a penny per image is back with a 4K model that plans pictures like code—and refuses far less than its rivals",
+        "id": "7dddba1e9fee"
+      },
+      {
+        "title": "Pokémon Card Sales Are Surging on Crypto Platforms—Just Don't Call It Gambling",
+        "url": "https://decrypt.co/370978/pokemon-cards-surging-crypto-platforms-gambling",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/pokemon-decrypt-style-03-gID_7.jpg@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "Tokenized Pokémon card sales have skyrocketed over the past year, fueled by a wave of speculation and so-called gacha machines.",
+        "id": "6e8904cbc188"
       },
       {
         "title": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models",
@@ -1034,24 +1034,6 @@
         "category": "crypto",
         "summary": "Kimi Work lets an AI agent loose on your local files, your browser, and your schedule—without routing everything through the cloud.",
         "id": "657b7bdfb2f0"
-      },
-      {
-        "title": "Americans Fear Job Losses Due to AI But Hope for Cancer, Alzheimer’s Cures: Anthropic Survey",
-        "url": "https://decrypt.co/370951/americans-fear-job-losses-ai-hope-cancer-alzheimers-cures-anthropic",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-12-gID_7.png@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Anthropic's AI survey showed Americans are afraid of job losses, hopeful for health breakthroughs, and distrustful of firms behind the tech.",
-        "id": "07c8cea04515"
-      },
-      {
-        "title": "Crypto Firms Scrap Tokenized SpaceX Share Offerings as SPCX Surges After IPO",
-        "url": "https://decrypt.co/370948/crypto-firms-scrap-tokenized-spacex-share-offerings-spcx-surges-ipo",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Elon-Musk-decrypt-style-02-gID_7.png@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Participants were refunded and did not receive shares in the record-breaking SpaceX IPO from Elon Musk's rocket company.",
-        "id": "98c39259dc46"
       },
       {
         "title": "比特币突破 80000 美元",
