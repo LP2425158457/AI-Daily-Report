@@ -1,78 +1,96 @@
 {
-  "last_updated": "2026-06-26T02:40:08.398238",
-  "total": 59,
+  "last_updated": "2026-06-27T02:32:26.898250",
+  "total": 60,
   "news": [
     {
-      "title": "Om Malik has died",
-      "url": "https://om.co/2026/06/24/1966-2026/",
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48678852\">Comments</a>",
-      "id": "a15fff5318b1"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48689028\">Comments</a>",
+      "id": "5c36a5b377e4"
     },
     {
-      "title": "AI children's books, body horror edition",
-      "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48681250\">Comments</a>",
-      "id": "3f047b342a8c"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48692946\">Comments</a>",
+      "id": "32835b752764"
     },
     {
-      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+      "url": "https://github.com/Tessil/hopscotch-map",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48676795\">Comments</a>",
-      "id": "ec482359601b"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48692090\">Comments</a>",
+      "id": "f15b0f0de5ab"
     },
     {
-      "title": "An entire Herculaneum scroll has been read for the first time",
-      "url": "https://scrollprize.org/firstscroll",
+      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48675179\">Comments</a>",
-      "id": "7baa51ed4121"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48642510\">Comments</a>",
+      "id": "e6e2fa164399"
     },
     {
-      "title": "The 'papers, please' era of the internet will decimate your privacy",
-      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48679608\">Comments</a>",
-      "id": "51bf17206af6"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48690101\">Comments</a>",
+      "id": "0e9a8a99a980"
     },
     {
-      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
-      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "title": "Show HN: Hacker News on a Train Station Style Flip Board",
+      "url": "https://popflame.quickish.space/hn-flipboard/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48681220\">Comments</a>",
-      "id": "269d4182730c"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48693912\">Comments</a>",
+      "id": "75e9b509fe98"
     },
     {
-      "title": "A data race that doesn't compile",
-      "url": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
+      "title": "AI in mathematics is forcing big questions",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48681361\">Comments</a>",
-      "id": "1f96a86e3ba3"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48692883\">Comments</a>",
+      "id": "b3ccd1e48524"
     },
     {
-      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
-      "url": "https://gchandbook.org/",
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48680370\">Comments</a>",
-      "id": "aa36da9986ab"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48692058\">Comments</a>",
+      "id": "8bf6d96c9962"
+    },
+    {
+      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+      "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "id": "ced526fefbaa"
+    },
+    {
+      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+      "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperat",
+      "id": "c8d8543f6483"
     },
     {
       "title": "Repositioning retail for the AI era",
@@ -129,85 +147,112 @@
       "id": "29fc65fc1e34"
     },
     {
-      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
-      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away f",
-      "id": "627432b43c14"
-    },
-    {
-      "title": "The emergence of the web data infrastructure layer for AI",
-      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, tho",
-      "id": "b88cd6f9f490"
-    },
-    {
-      "title": "LastPass 再次披露用户数据泄漏",
-      "url": "https://www.solidot.org/story?sid=84681",
+      "title": "从赞美美德到歌颂堕落",
+      "url": "https://www.solidot.org/story?sid=84690",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "密码管理器 LastPass 再次披露了用户数据泄漏事故，这一次是它的外部合作伙伴 Klue 导致的，黑客访问了客户信息和支持案例数据。LastPass 称，被访问的数据包括客户姓名、电话号码、电子邮件地址和实际地址，以及支持案例数据和销售相关数据。它表示在获悉数据泄漏之后，它立即撤回了员工对 Kl",
-      "id": "f1428497e65a"
+      "summary": "英国伦敦大学玛丽皇后学院的研究人员分析了 1960-2023 年间发行的逾 38 万首歌曲的歌词后发现，流行音乐中使用的情感语言和道德语言发生了显著变化。表达关怀和体面等道德美德的词语随时间推移变得越来越少见，而与伤害、欺骗、颠覆和堕落相关的语言逐渐增多。研究人员指出，“音乐不仅仅是娱乐。它是社会讲",
+      "id": "ab393e0ca823"
     },
     {
-      "title": "卵巢绝经后可能转变为具有免疫功能的器官",
-      "url": "https://www.solidot.org/story?sid=84679",
+      "title": "大型猿类笑声节奏与人类相似，存在了 1500 万年",
+      "url": "https://www.solidot.org/story?sid=84689",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "生殖专家曾认为，女性绝经后，卵巢会像阑尾一样变得无用。在对 50-75 岁女性的卵巢进行检查时，研究人员发现该器官的细胞会随着年龄增长产生不同的蛋白质。为了更深入研究卵巢的年龄相关变化，研究人员转向了实验小鼠。尽管小鼠不会出现雌激素急剧下降等人类更年期特有特征，但这些动物在 2 年生命周期的后期，卵",
-      "id": "e9778b8de25c"
+      "summary": "根据发表在《Communications Biology》期刊上的一项研究，大猿的笑声节奏可能与现代人类相似，而这一现象已持续了至少 1500 万年。研究结果还表明，在大猿的演化过程中，笑声变得更快、变化更多，且越来越受到所处情境的影响。所有大猿（人科动物）都会笑，包括与人类亲缘关系较近的物种，如倭",
+      "id": "6fceb189dac4"
     },
     {
-      "title": "中国科学家研发出降低镉吸收能力的水稻",
-      "url": "https://www.solidot.org/story?sid=84678",
+      "title": "每小时走五分钟有助于抵消久坐的危害",
+      "url": "https://www.solidot.org/story?sid=84688",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "镉不是植物生长的必要元素，但其通过土壤—水稻—食物链进入人体长期摄入后，会引发肾功能损伤、癌症、骨质疏松等严重健康问题。OsNramp5 是水稻中负责从根部往茎部运输镉的关键转运蛋白，但也同时负责锰离子等植物生长必需的金属离子的运输，敲除 OsNramp5 可以有效降低镉的运输，但也会造成其他必要金",
-      "id": "059e0ddd4a15"
+      "summary": "久坐是一种健康风险，但对久坐行为的干预需要考虑可行性和有效性。根据发表在《British Journal of Sports Medicine》期刊上的一项研究，研究人员评估了每隔 30 分钟、60 分钟或 120 分钟就站起来步行 5 分钟的干预措施。有 19342 名成年人参与了研究，其中 11",
+      "id": "d2639f5dd0e9"
     },
     {
-      "title": "OpenAI 宣布了专用于推理的自研 AI 芯片 Jalapeño",
-      "url": "https://www.solidot.org/story?sid=84677",
+      "title": "美光与其大客户签署了长达五年的供货协议",
+      "url": "https://www.solidot.org/story?sid=84687",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "OpenAI 宣布了首款自研芯片 Jalapeño，由 OpenAI 与博通公司合作设计和制造，专门用于 AI 推理。OpenAI 没有披露技术方面的细节，只是称初步测试显示每瓦性能显著优于目前最先进的同类产品。OpenAI 与博通是在去年 10 月正式宣布合作，OpenAI 声称利用其模型加速了芯",
-      "id": "6d456cc176bc"
+      "summary": "美光 CEO Sanjay Mehrotra 在最新的财报电话会议上披露，该公司与 16 家大客户签署了“战略客户协议”，大部分协议涵盖的时间从 2026 年一直持续到 2030 年，客户承诺购买一定数量的产品，支付价格处于设有最低和最高价格的定价区间内。这意味着如果内存价格进一步上涨，客户基本不会",
+      "id": "b77662fe0bf5"
     },
     {
-      "title": "英国维基百科员工寻求成立工会",
-      "url": "https://www.solidot.org/story?sid=84676",
+      "title": "晚上刷手机与眼疾风险增加相关",
+      "url": "https://www.solidot.org/story?sid=84686",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "英国维基百科员工率先寻求成立工会。维基媒体基金会英国员工于 6 月 24 日星期三致函管理层，请求由 Communication Workers Union(CWU)下辖分支 United Tech and Allied Workers (UTAW) 代表他们的权利。员工呼吁维基基金会作为这家全球非",
-      "id": "0d119d4d81a0"
+      "summary": "上海交通大学医学院附属第一人民医院的一支研究团队利用了英国生物样本库（UK Biobank）的数据，最终纳入了 82826 名基线时无眼部疾病的参与者。这些参与者均连续 7 天佩戴了配有高分辨率光传感器的腕带式加速度计，以客观记录其个人光照暴露情况。研究结果显示，在晚间时段（晚上20:00至23:3",
+      "id": "47cd5a45e2e1"
     },
     {
-      "title": "微软称 8GB 内存对 Windows 11 足够用了",
-      "url": "https://www.solidot.org/story?sid=84675",
+      "title": "《Arma: Cold War Assault》重制版开源",
+      "url": "https://www.solidot.org/story?sid=84685",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "微软更新了 Surface 购买指南，声称 8GB 内存对 Windows 11 足够日常使用了，如浏览、视频串流、作业和生产力应用。它同时表示 16GB 或以上的内存才能解锁 Copilot+ PC 功能。由于内存短缺且价格翻了数倍，PC 厂商不得不开始提供 8GB 内存的设备，但 8GB 内存对",
-      "id": "07c59a37b737"
+      "summary": "Bohemia Interactive 在 GPL v3.0 许可证下公开了《Arma: Cold War Assault》重制版源代码，项目托管在 GitHub 上。《Arma: Cold War Assault》于 2001 年以《Operation Flashpoint: Cold War C",
+      "id": "50f7fee01c10"
     },
     {
-      "title": "白宫应用自动下载到政府配发手机上且无法卸载",
-      "url": "https://www.solidot.org/story?sid=84674",
+      "title": "微软再次延长 Windows 10 免费安全更新一年",
+      "url": "https://www.solidot.org/story?sid=84684",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "美国白宫今年五月宣布其白宫应用将自动下载到政府配发手机上。该应用无法卸载，即使政府雇员尝试卸载，应用也会很快重新安装。美国农业部、国务院和劳工部员工匿名接受采访时表示，这款应用出现在手机上时让他们感到不安，有人试图删除它，但失败了。“我把它删了，测试下，结果它立刻又出现了，”一位美国农业部雇员说。白",
-      "id": "a0833e40134f"
+      "summary": "Windows 10 于 2025 年 10 月 14 日结束支持，微软原本此后不再提供免费的安全更新，但 Windows 10 \n仍然有大量用户使用，软件巨人去年宣布将提供免费安全更新一年。如今还有几个月时间才到期，微软又将免费安全更新延长一年，Windows 10 用户不需要做任何事就能再享受一",
+      "id": "ea0790761961"
+    },
+    {
+      "title": "特朗普政府要求 OpenAI 分阶段发布新模型",
+      "url": "https://www.solidot.org/story?sid=84683",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "出于安全担忧特朗普政府要求 OpenAI 分阶段发布新的 GPT-5.6 模型。The Information 报道，新模型最初将提供给一小部分合作伙伴，政府将在预览期内“逐个批准客户的访问权限”。报道称，这一要求源于国家网络安全总监办公室和科技政策办公室之间的对话。\n<p></p>",
+      "id": "de6533f8f3c1"
+    },
+    {
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "url": "https://sspai.com/post/111562",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "📅本周新预告《克拉拉与太阳》首支预告6月23日，电影《克拉拉与太阳》发布了首支预告，将于10月23日在北美上映。塔伊加·维迪提执导，詹娜·奥尔特加、艾米·亚当斯主演，改编自石黑一雄的同名小说，人工智能 ...<a href=\"https://sspai.com/post/111562\" target",
+      "id": "a3475914c56e"
+    },
+    {
+      "title": "探索快捷指令的上限：用网页视图创建丰富界面与交互",
+      "url": "https://sspai.com/prime/story/create-webview-in-shortcuts",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "从锁屏按钮、锁屏小组件、负一屏小组件，到桌面小组件、控制中心、Siri、自动化触发……iPhone的快捷指令有着超级多的打开方式，我们也可以为自己写的或从网络上获取的实用快捷指令设置一种最顺手的。与之 ...<a href=\"https://sspai.com/prime/story/create-",
+      "id": "aedf208c6c00"
+    },
+    {
+      "title": "空调续命之外的清凉：这是我们的夏日降温「新」方案",
+      "url": "https://sspai.com/post/100319",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "当夏天的热浪席卷城市，北方在烈日下承受着如烤箱般的双面炙烤，南方在骄阳下忍受着如蒸笼般的闷湿高温，能够每天陪伴我们的「降温好物」成为必需。又是一年盛夏时，我们邀请了6位少数派作者，聊聊那些真正融入日常 ...<a href=\"https://sspai.com/post/100319\" target",
+      "id": "27250daedb82"
+    },
+    {
+      "title": "林檎越东瀛：苹果的日本之旅",
+      "url": "https://sspai.com/post/111297",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "当年「林檎渡东瀛」的试探，终演变成一场与亚洲产业命运相依的交响。<a href=\"https://sspai.com/post/111297\" target=\"_blank\">查看全文</a>",
+      "id": "d8ba58f37f8e"
     },
     {
       "title": "派早报：鸿蒙智行发布尊界 S800 Grand Design 典藏大观",
@@ -246,184 +291,148 @@
       "id": "9ddcfaffb7d4"
     },
     {
-      "title": "风暖鸟声碎，日高花影重：我的昆明与腾冲行记",
-      "url": "https://sspai.com/post/111349",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "云南气候实在是太好了，昆明海拔将近两千，每次出门都有一种凉爽感包裹全身。而腾冲太适合旅居了，既有中高端的酒店可供享受奢靡之风，也有历史文化供我们反思来时的路，更好的去面对未来，还有拿上衣服就可以随地大小泡的温泉，美哉！<a href=\"https://sspai.com/post/111349\" t",
-      "id": "e0e94f985025"
-    },
-    {
-      "title": "派早报：豆包推出专业版、GTA VI 开启预售等",
-      "url": "https://sspai.com/post/111476",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "OpenAI 发布 AI 推理芯片 Jalapeño、Goodram 推出 SD 存储卡 PRO S6B0 等。<a href=\"https://sspai.com/post/111476\" target=\"_blank\">查看全文</a>",
-      "id": "6e80c453d4c4"
-    },
-    {
-      "title": "TDS REVIEW | OPPO Enco Clip2 耳夹式开放真无线耳机体验",
-      "url": "https://sspai.com/post/111289",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "Enco Clip2 作为耳夹品类里定位相对中高端的产品，我们一起来看看它的表现吧。<a href=\"https://sspai.com/post/111289\" target=\"_blank\">查看全文</a>",
-      "id": "9cc23573fcbf"
-    },
-    {
-      "title": "从观众到志愿者：加入 TEDxShenzhen 需要做些什么？",
-      "url": "https://sspai.com/post/111428",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "前言今年是我加入TEDxShenzhen的第三年，经历了2024年和2025年的两次年度大会，我们迎来了2026年的纳新和年度大会筹备。今年纳新时，有几位朋友问我是如何加入Tedx的，刚好编辑也问我有 ...<a href=\"https://sspai.com/post/111428\" target",
-      "id": "d853d2540b93"
-    },
-    {
-      "title": "BitGo cuts 15% of staff to sharpen focus on AI, stablecoins",
-      "url": "https://cointelegraph.com/news/crypto-infrastructure-firm-bitgo-lays-off-15-of-staff?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/layoffs-fired-human-resource-hr-leaving-quit-box.jpg",
+      "title": "US senators urge CFTC probe Polymarket over ‘deceptive marketing’",
+      "url": "https://cointelegraph.com/news/us-senators-urge-cftc-probe-polymarket-over-report-deceptive-marketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/analys-analytics-bisiness-man-woman-up-city-takeoff-cftc.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "BitGo co-founder and CEO Mike Belshe says the layoffs are “a one-time action” and the company doesn’t see the need for further staff reductions.",
-      "id": "298d87e4d847"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US senators urge CFTC probe Polymarket over ‘deceptive marketing’\" class=\"type",
+      "id": "dd162ab22ba2"
     },
     {
-      "title": "Does Botanix’s failure prove Bitcoiners don’t care about DeFi?",
-      "url": "https://cointelegraph.com/features/does-botanixs-failure-prove-bitcoiners-dont-care-about-defi?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-quantum-computers-could-bring-lost-bitcoin-back-to-life-heres-how-1.jpg",
+      "title": "Old Ether wallets move 37,806 ETH as whale conviction faces key test at $1.5K",
+      "url": "https://cointelegraph.com/markets/old-ether-wallets-move-37806-eth-as-whale-conviction-faces-key-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-189124-ethereum-bulls-show-interest-as-traders-confidence-in-eth-s-1-8-k-level-improves.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "The failure of Botanix suggests that Bitcoiners still prefer Ethereum DeFi to Bitcoin L2s. How can Bitcoin L2s change to win hodlers over?",
-      "id": "baae02cee13a"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Old Ether wallets move 37,806 ETH as whale conviction faces key test at $1.5K\"",
+      "id": "dbdac28124bd"
     },
     {
-      "title": "Bitcoin bounces off new 2026 price lows: Will US stock weakness push BTC lower?",
-      "url": "https://cointelegraph.com/markets/bitcoin-bounces-off-new-2026-price-lows-will-us-stock-weakness-push-btc-lower?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/behind-bitcoins-1k-bounce.jpg",
+      "title": "Spain regulator rules out extension for non-MiCA compliant crypto companies",
+      "url": "https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/cryptocurrency-coin-pressure-machine-regulation-government-law-mica-1.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "Bitcoin’s trek into new 2026 lows continued as spot BTC ETF outflows, a bearish monthly options expiry and Strategy’s unrealized losses widened its ga",
-      "id": "70f11d9e2693"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Spain regulator rules out extension for non-MiCA compliant crypto companies\" c",
+      "id": "189cbe623865"
     },
     {
-      "title": "Bitcoin options traders hedge downside as uncertainty lingers, Anchorage says",
-      "url": "https://cointelegraph.com/news/bitcoin-options-traders-hedge-downside-as-uncertainty-lingers-anchorage-says?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sp-bitcoin-funding-stays-negative.png",
+      "title": "SEC, CFTC seek input on unified portfolio margin rules across securities and derivatives",
+      "url": "https://cointelegraph.com/news/sec-cftc-portfolio-margin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-big-executives-that-joined-crypto-cftc-sec.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "Anchorage Digital’s latest analysis shows Bitcoin options traders remain defensive as near-term uncertainty persists, though markets are not pricing a",
-      "id": "ba88852fea41"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC, CFTC seek input on unified portfolio margin rules across securities and d",
+      "id": "8bc710400bf2"
     },
     {
-      "title": "Bitcoin may fall lower but BTC power-law frames crash to $58K as ‘normal’",
-      "url": "https://cointelegraph.com/markets/key-bitcoin-price-levels-after-btc-power-law-says-58k-is-normal?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-238240-battle-between-bitcoin-bulls-and-bears-continues-in-2026-here-s-the-levels-to-wa.jpg",
+      "title": "Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position",
+      "url": "https://cointelegraph.com/markets/ethereum-whale-who-shorted-october-2025-crash-returns-with-a-197m-short-eth-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-184294-whales-and-sp-500-are-about-to-crush-ethereum-by-up-to-90-against-bitcoin-expert.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "Bitcoin’s drop to $58,000 lines up with the power-law model’s cycle lows, even though futures market data points to deeper lows for BTC price.",
-      "id": "b9daab7af035"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position\"",
+      "id": "20d833f5aeb5"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "title": "Crypto Biz: The cost of stacking sats",
+      "url": "https://cointelegraph.com/news/cryptoquant-strategy-bitcoin-cboe-perpetual-futures-chainlink-stablecoin-fx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/saylor-in-elevator.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and cry",
-      "id": "772e97788bfd"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: The cost of stacking sats\" class=\"type:primaryImage\" src=\"https://",
+      "id": "881373479fa4"
     },
     {
-      "title": "Half of UK wealth advisers say clients' crypto is ‘invisible’ to them: CoinShares survey",
-      "url": "https://cointelegraph.com/news/uk-wealth-advisors-clients-crypto-invisible-survey?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-the-uk-plans-to-regulate-crypto-like-traditional-finance.jpg",
+      "title": "US senators push to end CFTC ‘assault’ on state oversight of prediction markets",
+      "url": "https://cointelegraph.com/news/us-senators-cftc-assault-state-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-cftc-announces-contest-stablecoin.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "A CoinShares survey found than many EU-based wealth management companies had policies that restricted investments in digital assets or provided no gui",
-      "id": "3040c1c06e12"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US senators push to end CFTC ‘assault’ on state oversight of prediction market",
+      "id": "2d92ad65fa35"
     },
     {
-      "title": "Bitcoin drop to $58K brings out bears: Is BTC’s next stop below $50K?",
-      "url": "https://cointelegraph.com/markets/bitcoin-under-60k-activates-multiple-setups-with-54k-btc-price-target?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/bear-bang-reg-falling-bitcoin-1.jpg",
+      "title": "Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep bear market’",
+      "url": "https://cointelegraph.com/markets/bitcoin-sees-first-close-below-60k-since-q3-2024-with-tech-stocks-in-deep-bear-market-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/analysic-analytics-coat-of-arms-red-bear-bitcoin.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "Bitcoin’s crash to $58,000 confirmed a bear flag breakdown, setting a new price target of $54,000 or lower.",
-      "id": "d705aa31bd30"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep be",
+      "id": "2dbe092c22a5"
     },
     {
-      "title": "Anthropic Urges Congress to Crack Down on AI Distillation By Chinese Rivals",
-      "url": "https://decrypt.co/372130/anthropic-urges-congress-crack-down-ai-distillation-chinese-rivals",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-anthropic-dario-amodei-2-gID_7.png@png",
+      "title": "Wall Street's Next Tokenization Test: BlackRock-Backed Securitize's Market Debut",
+      "url": "https://decrypt.co/372249/wall-street-next-tokenization-test-blackrock-backed-securitize-ipo",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/nyse-decrypt-style-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Anthropic alleged that Alibaba-affiliated operators used nearly 25,000 fraudulent accounts to generate 28.8 million Claude exchanges.",
-      "id": "6016147b89cf"
+      "summary": "Securitize expects to begin trading next week under the ticker symbol “SECZ,” following the completion of a merger with a blank-check firm.",
+      "id": "e1d8694d0b50"
     },
     {
-      "title": "Polymarket to Refund Users After Scammers Swipe Millions in Website Exploit",
-      "url": "https://decrypt.co/372129/polymarket-refund-users-scammers-swipe-millions-website-exploit",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/polymarket-decrypt-style-gID_7.jpg@png",
+      "title": "Linux Foundation, Tech Giants Launch Akrites to Defend Open Source Against AI-Powered Attacks",
+      "url": "https://decrypt.co/372244/linux-foundation-tech-giants-akrites-defend-open-source-ai-attacks",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/08/ethereum-classic-labs-blockchain-security-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Hackers infiltrated Polymarket’s website via a compromised third-party vendor, the company said, swiping millions in crypto from users.",
-      "id": "42b765ce1e7a"
+      "summary": "A coalition of 19 organizations—including every major AI lab and Wall Street banks—just built the security team that open-source maintainers never had",
+      "id": "1759bc5ed3c4"
     },
     {
-      "title": "SBI Holdings Says $289 Million Bitbank Deal Will Make It Japan's Largest Crypto Exchange",
-      "url": "https://decrypt.co/372117/sbi-holdings-289-million-bitbank-deal-japan-largest-crypto-exchange",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-yen-decrypt-style-new-gID_7.jpg@png",
+      "title": "Senators Demand Answers From CFTC Over Alleged Polymarket Deceptive Advertising",
+      "url": "https://decrypt.co/372239/senators-demand-answers-cftc-polymarket-deceptive-advertising",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "SBI Holdings has agreed to a nearly $289 million deal to acquire crypto exchange Bitbank, pending regulatory approval.",
-      "id": "3a1effc747c4"
+      "summary": "Senators are seeking answers from the CFTC about recent allegations of deceptive marketing from Polymarket.",
+      "id": "b8f1ea068e4c"
     },
     {
-      "title": "Coinbase-Backed Ethereum Network Base Recovers After Block Production Issue",
-      "url": "https://decrypt.co/372110/coinbase-ethereum-network-base-recovers-block-production-issue",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/base-decrypt-style-gID_7.jpg@png",
+      "title": "OpenAI Rolls Out GPT-5.6—But Only for Some Users Due to Trump Admin",
+      "url": "https://decrypt.co/372238/openai-rolls-out-gpt-5-6-limited-access-trump-admin",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Ethereum layer-2 network Base was down for more than two hours as it ran into an issue with block production ahead of a planned upgrade.",
-      "id": "6c4a7637c14e"
+      "summary": "OpenAI introduced the GPT-5.6 family of AI models on Friday, but only limited users can access them for now thanks to the U.S. government.",
+      "id": "807f11419bad"
     },
     {
-      "title": "Story Protocol Rebrands as Data Network in AI Training Pivot After IP Token Falls 98%",
-      "url": "https://decrypt.co/372107/story-protocol-rebrands-data-network-ai-training-pivot",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png@png",
+      "title": "Spanish Regulator Says No Extensions for EU Crypto Deadline as Binance Remains Unlicensed",
+      "url": "https://decrypt.co/372230/spanish-regulator-no-extensions-eu-crypto-deadline-binance",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Intellectual property network Story Protocol has shifted its focus to a new opportunity in training data for artificial intelligence.",
-      "id": "82084ee72f1d"
+      "summary": "Crypto firms operating in the European Union will be forced to cease operations if they do not obtain a MiCA license by July 1.",
+      "id": "2ccb54cbc5b5"
     },
     {
-      "title": "CoinEx Denies 'Knowledge' of Aiding Sanctioned Iran Crypto Market in $3.8 Billion Disconnect",
-      "url": "https://decrypt.co/372104/coinex-denies-knowledge-aiding-sanctioned-iran-crypto-market",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/iran-bitcoin-decrypt-style-02-gID_7.jpg@png",
+      "title": "This AI Agent Survived 6,000 Hack Attempts—Here’s How",
+      "url": "https://decrypt.co/372221/ai-agent-openclaw-6000-hack-attempts",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "TRM Labs said it uncovered over $3.84 billion in crypto flows between CoinEx and a web of more than 60 sanctioned Iranian platforms.",
-      "id": "d60334a34f1a"
+      "summary": "Fernando Irarrázaval posted his OpenClaw assistant's inbox to Hacker News and watched Claude Opus 4.6 hold off thousands of attackers.",
+      "id": "4d31df5c2058"
     },
     {
-      "title": "AI Took Your Job? California Wants to Know",
-      "url": "https://decrypt.co/372100/ai-job-loss-california-public-dashboard",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-ai-jobs-gID_7.jpg@png",
+      "title": "Kalshi Scores FIFA World Cup Spotlight as Prediction Market Trading Surges to Record",
+      "url": "https://decrypt.co/372204/kalshi-scores-fifa-world-cup-spotlight-prediction-market-trading-record",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/soccer-football-decrypt-style-01-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "California launched the nation's first AI unemployment tracker as policymakers race to determine whether warnings of an AI-driven jobs shakeup are bec",
-      "id": "6f21027fbf23"
+      "summary": "As prediction markets notch record trading volumes, Kalshi is ramping up its marketing push through a high-profile FIFA World Cup deal.",
+      "id": "a1b8383fe292"
     },
     {
-      "title": "Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%",
-      "url": "https://decrypt.co/372091/traders-predict-more-pain-bitcoin-ethereum",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
+      "title": "Trump Administration Asks OpenAI to Limit GPT-5.6 Rollout: Reports",
+      "url": "https://decrypt.co/372195/trump-administration-asks-openai-to-limit-gpt-5-6-rollout-reports",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Bitcoin touched its lowest price in 21 months early Thursday—and prediction market users don't see the crypto carnage ceasing imminently.",
-      "id": "83a4ac5f5140"
+      "summary": "The reported request to OpenAI follows the Trump administration's move to limit access to Anthropic's Fable 5 and Mythos 5 AI models.",
+      "id": "77f7d06c018b"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -537,6 +546,24 @@
   "categories": {
     "ai": [
       {
+        "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+        "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+        "id": "ced526fefbaa"
+      },
+      {
+        "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+        "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperat",
+        "id": "c8d8543f6483"
+      },
+      {
         "title": "Repositioning retail for the AI era",
         "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
         "image": "",
@@ -591,24 +618,6 @@
         "id": "29fc65fc1e34"
       },
       {
-        "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
-        "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away f",
-        "id": "627432b43c14"
-      },
-      {
-        "title": "The emergence of the web data infrastructure layer for AI",
-        "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, tho",
-        "id": "b88cd6f9f490"
-      },
-      {
         "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
         "source": "OpenAI Blog",
         "category": "ai",
@@ -647,139 +656,184 @@
     ],
     "tech": [
       {
-        "title": "Om Malik has died",
-        "url": "https://om.co/2026/06/24/1966-2026/",
+        "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48678852\">Comments</a>",
-        "id": "a15fff5318b1"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48689028\">Comments</a>",
+        "id": "5c36a5b377e4"
       },
       {
-        "title": "AI children's books, body horror edition",
-        "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+        "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+        "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48681250\">Comments</a>",
-        "id": "3f047b342a8c"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48692946\">Comments</a>",
+        "id": "32835b752764"
       },
       {
-        "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+        "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+        "url": "https://github.com/Tessil/hopscotch-map",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48676795\">Comments</a>",
-        "id": "ec482359601b"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48692090\">Comments</a>",
+        "id": "f15b0f0de5ab"
       },
       {
-        "title": "An entire Herculaneum scroll has been read for the first time",
-        "url": "https://scrollprize.org/firstscroll",
+        "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+        "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48675179\">Comments</a>",
-        "id": "7baa51ed4121"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48642510\">Comments</a>",
+        "id": "e6e2fa164399"
       },
       {
-        "title": "The 'papers, please' era of the internet will decimate your privacy",
-        "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+        "title": "U.S. government will decide who gets to use GPT-5.6",
+        "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48679608\">Comments</a>",
-        "id": "51bf17206af6"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48690101\">Comments</a>",
+        "id": "0e9a8a99a980"
       },
       {
-        "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
-        "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+        "title": "Show HN: Hacker News on a Train Station Style Flip Board",
+        "url": "https://popflame.quickish.space/hn-flipboard/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48681220\">Comments</a>",
-        "id": "269d4182730c"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48693912\">Comments</a>",
+        "id": "75e9b509fe98"
       },
       {
-        "title": "A data race that doesn't compile",
-        "url": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
+        "title": "AI in mathematics is forcing big questions",
+        "url": "https://spectrum.ieee.org/ai-in-mathematics",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48681361\">Comments</a>",
-        "id": "1f96a86e3ba3"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48692883\">Comments</a>",
+        "id": "b3ccd1e48524"
       },
       {
-        "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
-        "url": "https://gchandbook.org/",
+        "title": "The gap between open weights LLMs and closed source LLMs",
+        "url": "https://blog.doubleword.ai/frontier-os-llm",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48680370\">Comments</a>",
-        "id": "aa36da9986ab"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48692058\">Comments</a>",
+        "id": "8bf6d96c9962"
       },
       {
-        "title": "LastPass 再次披露用户数据泄漏",
-        "url": "https://www.solidot.org/story?sid=84681",
+        "title": "从赞美美德到歌颂堕落",
+        "url": "https://www.solidot.org/story?sid=84690",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "密码管理器 LastPass 再次披露了用户数据泄漏事故，这一次是它的外部合作伙伴 Klue 导致的，黑客访问了客户信息和支持案例数据。LastPass 称，被访问的数据包括客户姓名、电话号码、电子邮件地址和实际地址，以及支持案例数据和销售相关数据。它表示在获悉数据泄漏之后，它立即撤回了员工对 Kl",
-        "id": "f1428497e65a"
+        "summary": "英国伦敦大学玛丽皇后学院的研究人员分析了 1960-2023 年间发行的逾 38 万首歌曲的歌词后发现，流行音乐中使用的情感语言和道德语言发生了显著变化。表达关怀和体面等道德美德的词语随时间推移变得越来越少见，而与伤害、欺骗、颠覆和堕落相关的语言逐渐增多。研究人员指出，“音乐不仅仅是娱乐。它是社会讲",
+        "id": "ab393e0ca823"
       },
       {
-        "title": "卵巢绝经后可能转变为具有免疫功能的器官",
-        "url": "https://www.solidot.org/story?sid=84679",
+        "title": "大型猿类笑声节奏与人类相似，存在了 1500 万年",
+        "url": "https://www.solidot.org/story?sid=84689",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "生殖专家曾认为，女性绝经后，卵巢会像阑尾一样变得无用。在对 50-75 岁女性的卵巢进行检查时，研究人员发现该器官的细胞会随着年龄增长产生不同的蛋白质。为了更深入研究卵巢的年龄相关变化，研究人员转向了实验小鼠。尽管小鼠不会出现雌激素急剧下降等人类更年期特有特征，但这些动物在 2 年生命周期的后期，卵",
-        "id": "e9778b8de25c"
+        "summary": "根据发表在《Communications Biology》期刊上的一项研究，大猿的笑声节奏可能与现代人类相似，而这一现象已持续了至少 1500 万年。研究结果还表明，在大猿的演化过程中，笑声变得更快、变化更多，且越来越受到所处情境的影响。所有大猿（人科动物）都会笑，包括与人类亲缘关系较近的物种，如倭",
+        "id": "6fceb189dac4"
       },
       {
-        "title": "中国科学家研发出降低镉吸收能力的水稻",
-        "url": "https://www.solidot.org/story?sid=84678",
+        "title": "每小时走五分钟有助于抵消久坐的危害",
+        "url": "https://www.solidot.org/story?sid=84688",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "镉不是植物生长的必要元素，但其通过土壤—水稻—食物链进入人体长期摄入后，会引发肾功能损伤、癌症、骨质疏松等严重健康问题。OsNramp5 是水稻中负责从根部往茎部运输镉的关键转运蛋白，但也同时负责锰离子等植物生长必需的金属离子的运输，敲除 OsNramp5 可以有效降低镉的运输，但也会造成其他必要金",
-        "id": "059e0ddd4a15"
+        "summary": "久坐是一种健康风险，但对久坐行为的干预需要考虑可行性和有效性。根据发表在《British Journal of Sports Medicine》期刊上的一项研究，研究人员评估了每隔 30 分钟、60 分钟或 120 分钟就站起来步行 5 分钟的干预措施。有 19342 名成年人参与了研究，其中 11",
+        "id": "d2639f5dd0e9"
       },
       {
-        "title": "OpenAI 宣布了专用于推理的自研 AI 芯片 Jalapeño",
-        "url": "https://www.solidot.org/story?sid=84677",
+        "title": "美光与其大客户签署了长达五年的供货协议",
+        "url": "https://www.solidot.org/story?sid=84687",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "OpenAI 宣布了首款自研芯片 Jalapeño，由 OpenAI 与博通公司合作设计和制造，专门用于 AI 推理。OpenAI 没有披露技术方面的细节，只是称初步测试显示每瓦性能显著优于目前最先进的同类产品。OpenAI 与博通是在去年 10 月正式宣布合作，OpenAI 声称利用其模型加速了芯",
-        "id": "6d456cc176bc"
+        "summary": "美光 CEO Sanjay Mehrotra 在最新的财报电话会议上披露，该公司与 16 家大客户签署了“战略客户协议”，大部分协议涵盖的时间从 2026 年一直持续到 2030 年，客户承诺购买一定数量的产品，支付价格处于设有最低和最高价格的定价区间内。这意味着如果内存价格进一步上涨，客户基本不会",
+        "id": "b77662fe0bf5"
       },
       {
-        "title": "英国维基百科员工寻求成立工会",
-        "url": "https://www.solidot.org/story?sid=84676",
+        "title": "晚上刷手机与眼疾风险增加相关",
+        "url": "https://www.solidot.org/story?sid=84686",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "英国维基百科员工率先寻求成立工会。维基媒体基金会英国员工于 6 月 24 日星期三致函管理层，请求由 Communication Workers Union(CWU)下辖分支 United Tech and Allied Workers (UTAW) 代表他们的权利。员工呼吁维基基金会作为这家全球非",
-        "id": "0d119d4d81a0"
+        "summary": "上海交通大学医学院附属第一人民医院的一支研究团队利用了英国生物样本库（UK Biobank）的数据，最终纳入了 82826 名基线时无眼部疾病的参与者。这些参与者均连续 7 天佩戴了配有高分辨率光传感器的腕带式加速度计，以客观记录其个人光照暴露情况。研究结果显示，在晚间时段（晚上20:00至23:3",
+        "id": "47cd5a45e2e1"
       },
       {
-        "title": "微软称 8GB 内存对 Windows 11 足够用了",
-        "url": "https://www.solidot.org/story?sid=84675",
+        "title": "《Arma: Cold War Assault》重制版开源",
+        "url": "https://www.solidot.org/story?sid=84685",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "微软更新了 Surface 购买指南，声称 8GB 内存对 Windows 11 足够日常使用了，如浏览、视频串流、作业和生产力应用。它同时表示 16GB 或以上的内存才能解锁 Copilot+ PC 功能。由于内存短缺且价格翻了数倍，PC 厂商不得不开始提供 8GB 内存的设备，但 8GB 内存对",
-        "id": "07c59a37b737"
+        "summary": "Bohemia Interactive 在 GPL v3.0 许可证下公开了《Arma: Cold War Assault》重制版源代码，项目托管在 GitHub 上。《Arma: Cold War Assault》于 2001 年以《Operation Flashpoint: Cold War C",
+        "id": "50f7fee01c10"
       },
       {
-        "title": "白宫应用自动下载到政府配发手机上且无法卸载",
-        "url": "https://www.solidot.org/story?sid=84674",
+        "title": "微软再次延长 Windows 10 免费安全更新一年",
+        "url": "https://www.solidot.org/story?sid=84684",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "美国白宫今年五月宣布其白宫应用将自动下载到政府配发手机上。该应用无法卸载，即使政府雇员尝试卸载，应用也会很快重新安装。美国农业部、国务院和劳工部员工匿名接受采访时表示，这款应用出现在手机上时让他们感到不安，有人试图删除它，但失败了。“我把它删了，测试下，结果它立刻又出现了，”一位美国农业部雇员说。白",
-        "id": "a0833e40134f"
+        "summary": "Windows 10 于 2025 年 10 月 14 日结束支持，微软原本此后不再提供免费的安全更新，但 Windows 10 \n仍然有大量用户使用，软件巨人去年宣布将提供免费安全更新一年。如今还有几个月时间才到期，微软又将免费安全更新延长一年，Windows 10 用户不需要做任何事就能再享受一",
+        "id": "ea0790761961"
+      },
+      {
+        "title": "特朗普政府要求 OpenAI 分阶段发布新模型",
+        "url": "https://www.solidot.org/story?sid=84683",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "出于安全担忧特朗普政府要求 OpenAI 分阶段发布新的 GPT-5.6 模型。The Information 报道，新模型最初将提供给一小部分合作伙伴，政府将在预览期内“逐个批准客户的访问权限”。报道称，这一要求源于国家网络安全总监办公室和科技政策办公室之间的对话。\n<p></p>",
+        "id": "de6533f8f3c1"
+      },
+      {
+        "title": "本周看什么 | 最近值得一看的 10 部作品",
+        "url": "https://sspai.com/post/111562",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "📅本周新预告《克拉拉与太阳》首支预告6月23日，电影《克拉拉与太阳》发布了首支预告，将于10月23日在北美上映。塔伊加·维迪提执导，詹娜·奥尔特加、艾米·亚当斯主演，改编自石黑一雄的同名小说，人工智能 ...<a href=\"https://sspai.com/post/111562\" target",
+        "id": "a3475914c56e"
+      },
+      {
+        "title": "探索快捷指令的上限：用网页视图创建丰富界面与交互",
+        "url": "https://sspai.com/prime/story/create-webview-in-shortcuts",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "从锁屏按钮、锁屏小组件、负一屏小组件，到桌面小组件、控制中心、Siri、自动化触发……iPhone的快捷指令有着超级多的打开方式，我们也可以为自己写的或从网络上获取的实用快捷指令设置一种最顺手的。与之 ...<a href=\"https://sspai.com/prime/story/create-",
+        "id": "aedf208c6c00"
+      },
+      {
+        "title": "空调续命之外的清凉：这是我们的夏日降温「新」方案",
+        "url": "https://sspai.com/post/100319",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "当夏天的热浪席卷城市，北方在烈日下承受着如烤箱般的双面炙烤，南方在骄阳下忍受着如蒸笼般的闷湿高温，能够每天陪伴我们的「降温好物」成为必需。又是一年盛夏时，我们邀请了6位少数派作者，聊聊那些真正融入日常 ...<a href=\"https://sspai.com/post/100319\" target",
+        "id": "27250daedb82"
+      },
+      {
+        "title": "林檎越东瀛：苹果的日本之旅",
+        "url": "https://sspai.com/post/111297",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "当年「林檎渡东瀛」的试探，终演变成一场与亚洲产业命运相依的交响。<a href=\"https://sspai.com/post/111297\" target=\"_blank\">查看全文</a>",
+        "id": "d8ba58f37f8e"
       },
       {
         "title": "派早报：鸿蒙智行发布尊界 S800 Grand Design 典藏大观",
@@ -816,42 +870,6 @@
         "category": "tech",
         "summary": "手机主屏幕的个性化，如今越发受到重视。遍观各大手机操作系统的更新，几乎都会提到主屏幕装扮方式的增加——从壁纸、时钟再到图标、挂件，几乎没有哪个角落是不能按自己喜好调整的。对比之下，手机背面反而成为了「 ...<a href=\"https://sspai.com/post/111483\" target",
         "id": "9ddcfaffb7d4"
-      },
-      {
-        "title": "风暖鸟声碎，日高花影重：我的昆明与腾冲行记",
-        "url": "https://sspai.com/post/111349",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "云南气候实在是太好了，昆明海拔将近两千，每次出门都有一种凉爽感包裹全身。而腾冲太适合旅居了，既有中高端的酒店可供享受奢靡之风，也有历史文化供我们反思来时的路，更好的去面对未来，还有拿上衣服就可以随地大小泡的温泉，美哉！<a href=\"https://sspai.com/post/111349\" t",
-        "id": "e0e94f985025"
-      },
-      {
-        "title": "派早报：豆包推出专业版、GTA VI 开启预售等",
-        "url": "https://sspai.com/post/111476",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "OpenAI 发布 AI 推理芯片 Jalapeño、Goodram 推出 SD 存储卡 PRO S6B0 等。<a href=\"https://sspai.com/post/111476\" target=\"_blank\">查看全文</a>",
-        "id": "6e80c453d4c4"
-      },
-      {
-        "title": "TDS REVIEW | OPPO Enco Clip2 耳夹式开放真无线耳机体验",
-        "url": "https://sspai.com/post/111289",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "Enco Clip2 作为耳夹品类里定位相对中高端的产品，我们一起来看看它的表现吧。<a href=\"https://sspai.com/post/111289\" target=\"_blank\">查看全文</a>",
-        "id": "9cc23573fcbf"
-      },
-      {
-        "title": "从观众到志愿者：加入 TEDxShenzhen 需要做些什么？",
-        "url": "https://sspai.com/post/111428",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "前言今年是我加入TEDxShenzhen的第三年，经历了2024年和2025年的两次年度大会，我们迎来了2026年的纳新和年度大会筹备。今年纳新时，有几位朋友问我是如何加入Tedx的，刚好编辑也问我有 ...<a href=\"https://sspai.com/post/111428\" target",
-        "id": "d853d2540b93"
       },
       {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
@@ -892,148 +910,148 @@
     ],
     "crypto": [
       {
-        "title": "BitGo cuts 15% of staff to sharpen focus on AI, stablecoins",
-        "url": "https://cointelegraph.com/news/crypto-infrastructure-firm-bitgo-lays-off-15-of-staff?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/layoffs-fired-human-resource-hr-leaving-quit-box.jpg",
+        "title": "US senators urge CFTC probe Polymarket over ‘deceptive marketing’",
+        "url": "https://cointelegraph.com/news/us-senators-urge-cftc-probe-polymarket-over-report-deceptive-marketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/analys-analytics-bisiness-man-woman-up-city-takeoff-cftc.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "BitGo co-founder and CEO Mike Belshe says the layoffs are “a one-time action” and the company doesn’t see the need for further staff reductions.",
-        "id": "298d87e4d847"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US senators urge CFTC probe Polymarket over ‘deceptive marketing’\" class=\"type",
+        "id": "dd162ab22ba2"
       },
       {
-        "title": "Does Botanix’s failure prove Bitcoiners don’t care about DeFi?",
-        "url": "https://cointelegraph.com/features/does-botanixs-failure-prove-bitcoiners-dont-care-about-defi?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-quantum-computers-could-bring-lost-bitcoin-back-to-life-heres-how-1.jpg",
+        "title": "Old Ether wallets move 37,806 ETH as whale conviction faces key test at $1.5K",
+        "url": "https://cointelegraph.com/markets/old-ether-wallets-move-37806-eth-as-whale-conviction-faces-key-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-189124-ethereum-bulls-show-interest-as-traders-confidence-in-eth-s-1-8-k-level-improves.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "The failure of Botanix suggests that Bitcoiners still prefer Ethereum DeFi to Bitcoin L2s. How can Bitcoin L2s change to win hodlers over?",
-        "id": "baae02cee13a"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Old Ether wallets move 37,806 ETH as whale conviction faces key test at $1.5K\"",
+        "id": "dbdac28124bd"
       },
       {
-        "title": "Bitcoin bounces off new 2026 price lows: Will US stock weakness push BTC lower?",
-        "url": "https://cointelegraph.com/markets/bitcoin-bounces-off-new-2026-price-lows-will-us-stock-weakness-push-btc-lower?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/behind-bitcoins-1k-bounce.jpg",
+        "title": "Spain regulator rules out extension for non-MiCA compliant crypto companies",
+        "url": "https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/cryptocurrency-coin-pressure-machine-regulation-government-law-mica-1.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "Bitcoin’s trek into new 2026 lows continued as spot BTC ETF outflows, a bearish monthly options expiry and Strategy’s unrealized losses widened its ga",
-        "id": "70f11d9e2693"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Spain regulator rules out extension for non-MiCA compliant crypto companies\" c",
+        "id": "189cbe623865"
       },
       {
-        "title": "Bitcoin options traders hedge downside as uncertainty lingers, Anchorage says",
-        "url": "https://cointelegraph.com/news/bitcoin-options-traders-hedge-downside-as-uncertainty-lingers-anchorage-says?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sp-bitcoin-funding-stays-negative.png",
+        "title": "SEC, CFTC seek input on unified portfolio margin rules across securities and derivatives",
+        "url": "https://cointelegraph.com/news/sec-cftc-portfolio-margin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-big-executives-that-joined-crypto-cftc-sec.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "Anchorage Digital’s latest analysis shows Bitcoin options traders remain defensive as near-term uncertainty persists, though markets are not pricing a",
-        "id": "ba88852fea41"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC, CFTC seek input on unified portfolio margin rules across securities and d",
+        "id": "8bc710400bf2"
       },
       {
-        "title": "Bitcoin may fall lower but BTC power-law frames crash to $58K as ‘normal’",
-        "url": "https://cointelegraph.com/markets/key-bitcoin-price-levels-after-btc-power-law-says-58k-is-normal?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-238240-battle-between-bitcoin-bulls-and-bears-continues-in-2026-here-s-the-levels-to-wa.jpg",
+        "title": "Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position",
+        "url": "https://cointelegraph.com/markets/ethereum-whale-who-shorted-october-2025-crash-returns-with-a-197m-short-eth-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-184294-whales-and-sp-500-are-about-to-crush-ethereum-by-up-to-90-against-bitcoin-expert.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "Bitcoin’s drop to $58,000 lines up with the power-law model’s cycle lows, even though futures market data points to deeper lows for BTC price.",
-        "id": "b9daab7af035"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position\"",
+        "id": "20d833f5aeb5"
       },
       {
-        "title": "Here’s what happened in crypto today",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+        "title": "Crypto Biz: The cost of stacking sats",
+        "url": "https://cointelegraph.com/news/cryptoquant-strategy-bitcoin-cboe-perpetual-futures-chainlink-stablecoin-fx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/saylor-in-elevator.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and cry",
-        "id": "772e97788bfd"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: The cost of stacking sats\" class=\"type:primaryImage\" src=\"https://",
+        "id": "881373479fa4"
       },
       {
-        "title": "Half of UK wealth advisers say clients' crypto is ‘invisible’ to them: CoinShares survey",
-        "url": "https://cointelegraph.com/news/uk-wealth-advisors-clients-crypto-invisible-survey?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-the-uk-plans-to-regulate-crypto-like-traditional-finance.jpg",
+        "title": "US senators push to end CFTC ‘assault’ on state oversight of prediction markets",
+        "url": "https://cointelegraph.com/news/us-senators-cftc-assault-state-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-cftc-announces-contest-stablecoin.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "A CoinShares survey found than many EU-based wealth management companies had policies that restricted investments in digital assets or provided no gui",
-        "id": "3040c1c06e12"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US senators push to end CFTC ‘assault’ on state oversight of prediction market",
+        "id": "2d92ad65fa35"
       },
       {
-        "title": "Bitcoin drop to $58K brings out bears: Is BTC’s next stop below $50K?",
-        "url": "https://cointelegraph.com/markets/bitcoin-under-60k-activates-multiple-setups-with-54k-btc-price-target?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/bear-bang-reg-falling-bitcoin-1.jpg",
+        "title": "Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep bear market’",
+        "url": "https://cointelegraph.com/markets/bitcoin-sees-first-close-below-60k-since-q3-2024-with-tech-stocks-in-deep-bear-market-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/analysic-analytics-coat-of-arms-red-bear-bitcoin.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "Bitcoin’s crash to $58,000 confirmed a bear flag breakdown, setting a new price target of $54,000 or lower.",
-        "id": "d705aa31bd30"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep be",
+        "id": "2dbe092c22a5"
       },
       {
-        "title": "Anthropic Urges Congress to Crack Down on AI Distillation By Chinese Rivals",
-        "url": "https://decrypt.co/372130/anthropic-urges-congress-crack-down-ai-distillation-chinese-rivals",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-anthropic-dario-amodei-2-gID_7.png@png",
+        "title": "Wall Street's Next Tokenization Test: BlackRock-Backed Securitize's Market Debut",
+        "url": "https://decrypt.co/372249/wall-street-next-tokenization-test-blackrock-backed-securitize-ipo",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/nyse-decrypt-style-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Anthropic alleged that Alibaba-affiliated operators used nearly 25,000 fraudulent accounts to generate 28.8 million Claude exchanges.",
-        "id": "6016147b89cf"
+        "summary": "Securitize expects to begin trading next week under the ticker symbol “SECZ,” following the completion of a merger with a blank-check firm.",
+        "id": "e1d8694d0b50"
       },
       {
-        "title": "Polymarket to Refund Users After Scammers Swipe Millions in Website Exploit",
-        "url": "https://decrypt.co/372129/polymarket-refund-users-scammers-swipe-millions-website-exploit",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/polymarket-decrypt-style-gID_7.jpg@png",
+        "title": "Linux Foundation, Tech Giants Launch Akrites to Defend Open Source Against AI-Powered Attacks",
+        "url": "https://decrypt.co/372244/linux-foundation-tech-giants-akrites-defend-open-source-ai-attacks",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/08/ethereum-classic-labs-blockchain-security-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Hackers infiltrated Polymarket’s website via a compromised third-party vendor, the company said, swiping millions in crypto from users.",
-        "id": "42b765ce1e7a"
+        "summary": "A coalition of 19 organizations—including every major AI lab and Wall Street banks—just built the security team that open-source maintainers never had",
+        "id": "1759bc5ed3c4"
       },
       {
-        "title": "SBI Holdings Says $289 Million Bitbank Deal Will Make It Japan's Largest Crypto Exchange",
-        "url": "https://decrypt.co/372117/sbi-holdings-289-million-bitbank-deal-japan-largest-crypto-exchange",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-yen-decrypt-style-new-gID_7.jpg@png",
+        "title": "Senators Demand Answers From CFTC Over Alleged Polymarket Deceptive Advertising",
+        "url": "https://decrypt.co/372239/senators-demand-answers-cftc-polymarket-deceptive-advertising",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "SBI Holdings has agreed to a nearly $289 million deal to acquire crypto exchange Bitbank, pending regulatory approval.",
-        "id": "3a1effc747c4"
+        "summary": "Senators are seeking answers from the CFTC about recent allegations of deceptive marketing from Polymarket.",
+        "id": "b8f1ea068e4c"
       },
       {
-        "title": "Coinbase-Backed Ethereum Network Base Recovers After Block Production Issue",
-        "url": "https://decrypt.co/372110/coinbase-ethereum-network-base-recovers-block-production-issue",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/base-decrypt-style-gID_7.jpg@png",
+        "title": "OpenAI Rolls Out GPT-5.6—But Only for Some Users Due to Trump Admin",
+        "url": "https://decrypt.co/372238/openai-rolls-out-gpt-5-6-limited-access-trump-admin",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Ethereum layer-2 network Base was down for more than two hours as it ran into an issue with block production ahead of a planned upgrade.",
-        "id": "6c4a7637c14e"
+        "summary": "OpenAI introduced the GPT-5.6 family of AI models on Friday, but only limited users can access them for now thanks to the U.S. government.",
+        "id": "807f11419bad"
       },
       {
-        "title": "Story Protocol Rebrands as Data Network in AI Training Pivot After IP Token Falls 98%",
-        "url": "https://decrypt.co/372107/story-protocol-rebrands-data-network-ai-training-pivot",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png@png",
+        "title": "Spanish Regulator Says No Extensions for EU Crypto Deadline as Binance Remains Unlicensed",
+        "url": "https://decrypt.co/372230/spanish-regulator-no-extensions-eu-crypto-deadline-binance",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Intellectual property network Story Protocol has shifted its focus to a new opportunity in training data for artificial intelligence.",
-        "id": "82084ee72f1d"
+        "summary": "Crypto firms operating in the European Union will be forced to cease operations if they do not obtain a MiCA license by July 1.",
+        "id": "2ccb54cbc5b5"
       },
       {
-        "title": "CoinEx Denies 'Knowledge' of Aiding Sanctioned Iran Crypto Market in $3.8 Billion Disconnect",
-        "url": "https://decrypt.co/372104/coinex-denies-knowledge-aiding-sanctioned-iran-crypto-market",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/iran-bitcoin-decrypt-style-02-gID_7.jpg@png",
+        "title": "This AI Agent Survived 6,000 Hack Attempts—Here’s How",
+        "url": "https://decrypt.co/372221/ai-agent-openclaw-6000-hack-attempts",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "TRM Labs said it uncovered over $3.84 billion in crypto flows between CoinEx and a web of more than 60 sanctioned Iranian platforms.",
-        "id": "d60334a34f1a"
+        "summary": "Fernando Irarrázaval posted his OpenClaw assistant's inbox to Hacker News and watched Claude Opus 4.6 hold off thousands of attackers.",
+        "id": "4d31df5c2058"
       },
       {
-        "title": "AI Took Your Job? California Wants to Know",
-        "url": "https://decrypt.co/372100/ai-job-loss-california-public-dashboard",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-ai-jobs-gID_7.jpg@png",
+        "title": "Kalshi Scores FIFA World Cup Spotlight as Prediction Market Trading Surges to Record",
+        "url": "https://decrypt.co/372204/kalshi-scores-fifa-world-cup-spotlight-prediction-market-trading-record",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/soccer-football-decrypt-style-01-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "California launched the nation's first AI unemployment tracker as policymakers race to determine whether warnings of an AI-driven jobs shakeup are bec",
-        "id": "6f21027fbf23"
+        "summary": "As prediction markets notch record trading volumes, Kalshi is ramping up its marketing push through a high-profile FIFA World Cup deal.",
+        "id": "a1b8383fe292"
       },
       {
-        "title": "Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%",
-        "url": "https://decrypt.co/372091/traders-predict-more-pain-bitcoin-ethereum",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
+        "title": "Trump Administration Asks OpenAI to Limit GPT-5.6 Rollout: Reports",
+        "url": "https://decrypt.co/372195/trump-administration-asks-openai-to-limit-gpt-5-6-rollout-reports",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Bitcoin touched its lowest price in 21 months early Thursday—and prediction market users don't see the crypto carnage ceasing imminently.",
-        "id": "83a4ac5f5140"
+        "summary": "The reported request to OpenAI follows the Trump administration's move to limit access to Anthropic's Fable 5 and Mythos 5 AI models.",
+        "id": "77f7d06c018b"
       },
       {
         "title": "比特币突破 80000 美元",
