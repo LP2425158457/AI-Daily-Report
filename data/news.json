@@ -1,78 +1,69 @@
 {
-  "last_updated": "2026-06-27T02:32:26.898250",
-  "total": 60,
+  "last_updated": "2026-06-28T02:45:23.288808",
+  "total": 59,
   "news": [
     {
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48689028\">Comments</a>",
-      "id": "5c36a5b377e4"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48703258\">Comments</a>",
+      "id": "89a298436912"
     },
     {
-      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+      "url": "https://decomp-academy.dev",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48692946\">Comments</a>",
-      "id": "32835b752764"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48703412\">Comments</a>",
+      "id": "60d100a70305"
     },
     {
-      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-      "url": "https://github.com/Tessil/hopscotch-map",
+      "title": "Choosing a Public DNS Resolver",
+      "url": "https://evilbit.de/dns-resolver-guide.html",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48692090\">Comments</a>",
-      "id": "f15b0f0de5ab"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48702273\">Comments</a>",
+      "id": "3bc05f59b580"
     },
     {
-      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "url": "https://github.com/bikini/exploitarium",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48642510\">Comments</a>",
-      "id": "e6e2fa164399"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48698617\">Comments</a>",
+      "id": "c021ef72cc02"
     },
     {
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48690101\">Comments</a>",
-      "id": "0e9a8a99a980"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48703759\">Comments</a>",
+      "id": "13e2e7451187"
     },
     {
-      "title": "Show HN: Hacker News on a Train Station Style Flip Board",
-      "url": "https://popflame.quickish.space/hn-flipboard/",
+      "title": "AI learns the “dark art” of RFIC design",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48693912\">Comments</a>",
-      "id": "75e9b509fe98"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48660021\">Comments</a>",
+      "id": "122244e5043e"
     },
     {
-      "title": "AI in mathematics is forcing big questions",
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "title": "Response to AI slop is from Robin Williams",
+      "url": "https://jayacunzo.com/blog/your-move-chief",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48692883\">Comments</a>",
-      "id": "b3ccd1e48524"
-    },
-    {
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "url": "https://blog.doubleword.ai/frontier-os-llm",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48692058\">Comments</a>",
-      "id": "8bf6d96c9962"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48703452\">Comments</a>",
+      "id": "9bd84a38af14"
     },
     {
       "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
@@ -147,6 +138,42 @@
       "id": "29fc65fc1e34"
     },
     {
+      "title": "AI 促使数学家思考数学对他们的意义",
+      "url": "https://www.solidot.org/story?sid=84695",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "几十年来计算加速了数学的进步。50 年前数学家利用计算机证明了四色定理，以一种人类几乎不可能实际验证的方式证明任何地图可以用不超过四种颜色着色。但在整个计算时代，人类数学家的作用仍然至关重要。人类凭借直觉提出猜想，凭借创造力和经验设计证明策略，最终验证证明是否正确。今天 AI 正在挑战这一模式。短短",
+      "id": "a34ff9568e11"
+    },
+    {
+      "title": "美国政府允许 Anthropic 将 Mythos 5 模型提供给少数客户使用",
+      "url": "https://www.solidot.org/story?sid=84694",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "在要求 OpenAI 分阶段发布其新模型之后，美国政府显然也对 Anthropic 提出了相同的要求。根据商务部长  Howard Lutnick 给 Anthropic 的信函，美国政府允许 Anthropic 重新发布其新模型 Mythos 5，但现阶段只提供给少数客户。Mythos 5 的访问",
+      "id": "dcb668a687f7"
+    },
+    {
+      "title": "BBC 关闭长波广播",
+      "url": "https://www.solidot.org/story?sid=84692",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "BBC 宣布于 6 月 27 日停播 Radio 4 长波广播，6 月 30 日关闭长波平台。BBC 将此归咎于维护过时技术的成本过高。Radio 4 长波设备使用的电子管早就停产，而 BBC 早在 1997 年就将相关信号塔出售给了私营公司，这些设备由私营公司运营。随着越来越多的人转向流媒体，维持",
+      "id": "bc1c8d8be42e"
+    },
+    {
+      "title": "空客被要求对 A380 的机翼进行紧急检查",
+      "url": "https://www.solidot.org/story?sid=84691",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "欧盟航空安全局（EASA）下令对阿联酋航空和澳洲航空运营的 16 架空客 A380 飞机进行紧急检查，此前部分  A380 飞机的机翼部件发现了裂纹。EASA 表示，裂纹是在此前对机翼翼梁结构的检查中发现的，它认定这些裂纹可能会降低机翼的结构完整性。为解决潜在安全隐患，空客必须进行额外的专项细查。1",
+      "id": "19a0dccaf5b4"
+    },
+    {
       "title": "从赞美美德到歌颂堕落",
       "url": "https://www.solidot.org/story?sid=84690",
       "image": "",
@@ -183,40 +210,13 @@
       "id": "b77662fe0bf5"
     },
     {
-      "title": "晚上刷手机与眼疾风险增加相关",
-      "url": "https://www.solidot.org/story?sid=84686",
+      "title": "俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼",
+      "url": "https://sspai.com/post/111347",
       "image": "",
-      "source": "Solidot",
+      "source": "少数派",
       "category": "tech",
-      "summary": "上海交通大学医学院附属第一人民医院的一支研究团队利用了英国生物样本库（UK Biobank）的数据，最终纳入了 82826 名基线时无眼部疾病的参与者。这些参与者均连续 7 天佩戴了配有高分辨率光传感器的腕带式加速度计，以客观记录其个人光照暴露情况。研究结果显示，在晚间时段（晚上20:00至23:3",
-      "id": "47cd5a45e2e1"
-    },
-    {
-      "title": "《Arma: Cold War Assault》重制版开源",
-      "url": "https://www.solidot.org/story?sid=84685",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "Bohemia Interactive 在 GPL v3.0 许可证下公开了《Arma: Cold War Assault》重制版源代码，项目托管在 GitHub 上。《Arma: Cold War Assault》于 2001 年以《Operation Flashpoint: Cold War C",
-      "id": "50f7fee01c10"
-    },
-    {
-      "title": "微软再次延长 Windows 10 免费安全更新一年",
-      "url": "https://www.solidot.org/story?sid=84684",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "Windows 10 于 2025 年 10 月 14 日结束支持，微软原本此后不再提供免费的安全更新，但 Windows 10 \n仍然有大量用户使用，软件巨人去年宣布将提供免费安全更新一年。如今还有几个月时间才到期，微软又将免费安全更新延长一年，Windows 10 用户不需要做任何事就能再享受一",
-      "id": "ea0790761961"
-    },
-    {
-      "title": "特朗普政府要求 OpenAI 分阶段发布新模型",
-      "url": "https://www.solidot.org/story?sid=84683",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "出于安全担忧特朗普政府要求 OpenAI 分阶段发布新的 GPT-5.6 模型。The Information 报道，新模型最初将提供给一小部分合作伙伴，政府将在预览期内“逐个批准客户的访问权限”。报道称，这一要求源于国家网络安全总监办公室和科技政策办公室之间的对话。\n<p></p>",
-      "id": "de6533f8f3c1"
+      "summary": "在莫斯科的时代折叠与彼得堡的文化巡礼之间，发现俄罗斯的不同面貌。<a href=\"https://sspai.com/post/111347\" target=\"_blank\">查看全文</a>",
+      "id": "c2f2a6e8f220"
     },
     {
       "title": "本周看什么 | 最近值得一看的 10 部作品",
@@ -282,85 +282,94 @@
       "id": "e2fa2a4c41f6"
     },
     {
-      "title": "把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验",
-      "url": "https://sspai.com/post/111483",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "手机主屏幕的个性化，如今越发受到重视。遍观各大手机操作系统的更新，几乎都会提到主屏幕装扮方式的增加——从壁纸、时钟再到图标、挂件，几乎没有哪个角落是不能按自己喜好调整的。对比之下，手机背面反而成为了「 ...<a href=\"https://sspai.com/post/111483\" target",
-      "id": "9ddcfaffb7d4"
-    },
-    {
-      "title": "US senators urge CFTC probe Polymarket over ‘deceptive marketing’",
-      "url": "https://cointelegraph.com/news/us-senators-urge-cftc-probe-polymarket-over-report-deceptive-marketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/analys-analytics-bisiness-man-woman-up-city-takeoff-cftc.jpg",
+      "title": "Fidelity rebuts claims Bitcoin becomes less secure after halvings",
+      "url": "https://cointelegraph.com/news/fidelity-bitcoin-long-term-security-halvings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-btc-halving-is-in-80-days-is-it-priced-in.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US senators urge CFTC probe Polymarket over ‘deceptive marketing’\" class=\"type",
-      "id": "dd162ab22ba2"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fidelity rebuts claims Bitcoin becomes less secure after halvings\" class=\"type",
+      "id": "fd8b50fe5f50"
     },
     {
-      "title": "Old Ether wallets move 37,806 ETH as whale conviction faces key test at $1.5K",
-      "url": "https://cointelegraph.com/markets/old-ether-wallets-move-37806-eth-as-whale-conviction-faces-key-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-189124-ethereum-bulls-show-interest-as-traders-confidence-in-eth-s-1-8-k-level-improves.jpg",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Old Ether wallets move 37,806 ETH as whale conviction faces key test at $1.5K\"",
-      "id": "dbdac28124bd"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s",
+      "id": "772e97788bfd"
     },
     {
-      "title": "Spain regulator rules out extension for non-MiCA compliant crypto companies",
-      "url": "https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/cryptocurrency-coin-pressure-machine-regulation-government-law-mica-1.jpg",
+      "title": "Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss",
+      "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-capitulation-risk-as-50k-btc-moves-at-a-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-247810-bitcoin-bulls-blitz-dollar69k-as-retail-traders-pressure-short-positioning.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Spain regulator rules out extension for non-MiCA compliant crypto companies\" c",
-      "id": "189cbe623865"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss\" class=\"type:",
+      "id": "82d406276011"
     },
     {
-      "title": "SEC, CFTC seek input on unified portfolio margin rules across securities and derivatives",
-      "url": "https://cointelegraph.com/news/sec-cftc-portfolio-margin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-big-executives-that-joined-crypto-cftc-sec.jpg",
+      "title": "DCG-backed Yuma launches fund offering institutional exposure to Bittensor",
+      "url": "https://cointelegraph.com/news/yuma-bittensor-fund-institutional-tao-decentralized-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/the-decentralized-ai-of-the-future.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC, CFTC seek input on unified portfolio margin rules across securities and d",
-      "id": "8bc710400bf2"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DCG-backed Yuma launches fund offering institutional exposure to Bittensor\" cl",
+      "id": "238eeb5c1a78"
     },
     {
-      "title": "Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position",
-      "url": "https://cointelegraph.com/markets/ethereum-whale-who-shorted-october-2025-crash-returns-with-a-197m-short-eth-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-184294-whales-and-sp-500-are-about-to-crush-ethereum-by-up-to-90-against-bitcoin-expert.jpg",
+      "title": "Coinbase, Circle underperform Big Tech as crypto stock slump deepens",
+      "url": "https://cointelegraph.com/news/crypto-stocks-underperform-tech-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/red-rain-coins.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position\"",
-      "id": "20d833f5aeb5"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase, Circle underperform Big Tech as crypto stock slump deepens\" class=\"t",
+      "id": "178489f04459"
     },
     {
-      "title": "Crypto Biz: The cost of stacking sats",
-      "url": "https://cointelegraph.com/news/cryptoquant-strategy-bitcoin-cboe-perpetual-futures-chainlink-stablecoin-fx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/saylor-in-elevator.png",
+      "title": "SecondFi targets two-week recovery after Cardano wallet exploit",
+      "url": "https://cointelegraph.com/news/secondfi-two-week-recovery-cardano-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-spotlight-for-crypto-recovery.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: The cost of stacking sats\" class=\"type:primaryImage\" src=\"https://",
-      "id": "881373479fa4"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" SecondFi targets two-week recovery after Cardano wallet exploit\" class=\"type:",
+      "id": "238b0dcdd108"
     },
     {
-      "title": "US senators push to end CFTC ‘assault’ on state oversight of prediction markets",
-      "url": "https://cointelegraph.com/news/us-senators-cftc-assault-state-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-cftc-announces-contest-stablecoin.jpg",
+      "title": "EU lawmakers urge assessing DeFi, staking, NFT regulation",
+      "url": "https://cointelegraph.com/news/eu-lawmakers-assessing-defi-staking-nft-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-regulate-crypto-asset-market2.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US senators push to end CFTC ‘assault’ on state oversight of prediction market",
-      "id": "2d92ad65fa35"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU lawmakers urge assessing DeFi, staking, NFT regulation\" class=\"type:primary",
+      "id": "2568025d3802"
     },
     {
-      "title": "Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep bear market’",
-      "url": "https://cointelegraph.com/markets/bitcoin-sees-first-close-below-60k-since-q3-2024-with-tech-stocks-in-deep-bear-market-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/analysic-analytics-coat-of-arms-red-bear-bitcoin.jpg",
+      "title": "Securitize expects to raise $400M ahead of public debut",
+      "url": "https://cointelegraph.com/news/securitize-expects-to-raise-400m-ahead-of-public-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-types-of-consensus-mechanisms-in-blockchain-1.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep be",
-      "id": "2dbe092c22a5"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize expects to raise $400M ahead of public debut\" class=\"type:primaryIm",
+      "id": "a0b2800fd576"
+    },
+    {
+      "title": "The Stablecoin Founder Map Doesn't Match the Stablecoin Volume Map",
+      "url": "https://decrypt.co/371967/stablecoin-founder-map-doesnt-match-stablecoin-volume-map",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png",
+      "source": "Decrypt",
+      "category": "crypto",
+      "summary": "Emerging markets drive most real-world stablecoin usage, yet founder concentration and venture funding remain U.S.- and Europe-centric.",
+      "id": "c0986054dfbe"
+    },
+    {
+      "title": "Billionaire Jeremy Grantham Dismisses Bitcoin, Says Crypto Will Fade 'With a Whimper'",
+      "url": "https://decrypt.co/372205/billionaire-jeremy-grantham-dismisses-bitcoin-crypto",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png@png",
+      "source": "Decrypt",
+      "category": "crypto",
+      "summary": "The seasoned investor has little faith in Bitcoin's staying power, expecting crypto to quietly fade away over time.",
+      "id": "1827cc825088"
     },
     {
       "title": "Wall Street's Next Tokenization Test: BlackRock-Backed Securitize's Market Debut",
@@ -415,24 +424,6 @@
       "category": "crypto",
       "summary": "Fernando Irarrázaval posted his OpenClaw assistant's inbox to Hacker News and watched Claude Opus 4.6 hold off thousands of attackers.",
       "id": "4d31df5c2058"
-    },
-    {
-      "title": "Kalshi Scores FIFA World Cup Spotlight as Prediction Market Trading Surges to Record",
-      "url": "https://decrypt.co/372204/kalshi-scores-fifa-world-cup-spotlight-prediction-market-trading-record",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/soccer-football-decrypt-style-01-gID_7.jpg@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "As prediction markets notch record trading volumes, Kalshi is ramping up its marketing push through a high-profile FIFA World Cup deal.",
-      "id": "a1b8383fe292"
-    },
-    {
-      "title": "Trump Administration Asks OpenAI to Limit GPT-5.6 Rollout: Reports",
-      "url": "https://decrypt.co/372195/trump-administration-asks-openai-to-limit-gpt-5-6-rollout-reports",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "The reported request to OpenAI follows the Trump administration's move to limit access to Anthropic's Fable 5 and Mythos 5 AI models.",
-      "id": "77f7d06c018b"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -656,76 +647,103 @@
     ],
     "tech": [
       {
-        "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-        "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+        "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+        "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48689028\">Comments</a>",
-        "id": "5c36a5b377e4"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48703258\">Comments</a>",
+        "id": "89a298436912"
       },
       {
-        "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-        "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+        "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+        "url": "https://decomp-academy.dev",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48692946\">Comments</a>",
-        "id": "32835b752764"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48703412\">Comments</a>",
+        "id": "60d100a70305"
       },
       {
-        "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-        "url": "https://github.com/Tessil/hopscotch-map",
+        "title": "Choosing a Public DNS Resolver",
+        "url": "https://evilbit.de/dns-resolver-guide.html",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48692090\">Comments</a>",
-        "id": "f15b0f0de5ab"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48702273\">Comments</a>",
+        "id": "3bc05f59b580"
       },
       {
-        "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-        "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+        "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+        "url": "https://github.com/bikini/exploitarium",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48642510\">Comments</a>",
-        "id": "e6e2fa164399"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48698617\">Comments</a>",
+        "id": "c021ef72cc02"
       },
       {
-        "title": "U.S. government will decide who gets to use GPT-5.6",
-        "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+        "title": "Marfa Public Radio Puts You to Sleep",
+        "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48690101\">Comments</a>",
-        "id": "0e9a8a99a980"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48703759\">Comments</a>",
+        "id": "13e2e7451187"
       },
       {
-        "title": "Show HN: Hacker News on a Train Station Style Flip Board",
-        "url": "https://popflame.quickish.space/hn-flipboard/",
+        "title": "AI learns the “dark art” of RFIC design",
+        "url": "https://spectrum.ieee.org/ai-radio-chip-design",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48693912\">Comments</a>",
-        "id": "75e9b509fe98"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48660021\">Comments</a>",
+        "id": "122244e5043e"
       },
       {
-        "title": "AI in mathematics is forcing big questions",
-        "url": "https://spectrum.ieee.org/ai-in-mathematics",
+        "title": "Response to AI slop is from Robin Williams",
+        "url": "https://jayacunzo.com/blog/your-move-chief",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48692883\">Comments</a>",
-        "id": "b3ccd1e48524"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48703452\">Comments</a>",
+        "id": "9bd84a38af14"
       },
       {
-        "title": "The gap between open weights LLMs and closed source LLMs",
-        "url": "https://blog.doubleword.ai/frontier-os-llm",
+        "title": "AI 促使数学家思考数学对他们的意义",
+        "url": "https://www.solidot.org/story?sid=84695",
         "image": "",
-        "source": "Hacker News",
+        "source": "Solidot",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48692058\">Comments</a>",
-        "id": "8bf6d96c9962"
+        "summary": "几十年来计算加速了数学的进步。50 年前数学家利用计算机证明了四色定理，以一种人类几乎不可能实际验证的方式证明任何地图可以用不超过四种颜色着色。但在整个计算时代，人类数学家的作用仍然至关重要。人类凭借直觉提出猜想，凭借创造力和经验设计证明策略，最终验证证明是否正确。今天 AI 正在挑战这一模式。短短",
+        "id": "a34ff9568e11"
+      },
+      {
+        "title": "美国政府允许 Anthropic 将 Mythos 5 模型提供给少数客户使用",
+        "url": "https://www.solidot.org/story?sid=84694",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "在要求 OpenAI 分阶段发布其新模型之后，美国政府显然也对 Anthropic 提出了相同的要求。根据商务部长  Howard Lutnick 给 Anthropic 的信函，美国政府允许 Anthropic 重新发布其新模型 Mythos 5，但现阶段只提供给少数客户。Mythos 5 的访问",
+        "id": "dcb668a687f7"
+      },
+      {
+        "title": "BBC 关闭长波广播",
+        "url": "https://www.solidot.org/story?sid=84692",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "BBC 宣布于 6 月 27 日停播 Radio 4 长波广播，6 月 30 日关闭长波平台。BBC 将此归咎于维护过时技术的成本过高。Radio 4 长波设备使用的电子管早就停产，而 BBC 早在 1997 年就将相关信号塔出售给了私营公司，这些设备由私营公司运营。随着越来越多的人转向流媒体，维持",
+        "id": "bc1c8d8be42e"
+      },
+      {
+        "title": "空客被要求对 A380 的机翼进行紧急检查",
+        "url": "https://www.solidot.org/story?sid=84691",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "欧盟航空安全局（EASA）下令对阿联酋航空和澳洲航空运营的 16 架空客 A380 飞机进行紧急检查，此前部分  A380 飞机的机翼部件发现了裂纹。EASA 表示，裂纹是在此前对机翼翼梁结构的检查中发现的，它认定这些裂纹可能会降低机翼的结构完整性。为解决潜在安全隐患，空客必须进行额外的专项细查。1",
+        "id": "19a0dccaf5b4"
       },
       {
         "title": "从赞美美德到歌颂堕落",
@@ -764,40 +782,13 @@
         "id": "b77662fe0bf5"
       },
       {
-        "title": "晚上刷手机与眼疾风险增加相关",
-        "url": "https://www.solidot.org/story?sid=84686",
+        "title": "俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼",
+        "url": "https://sspai.com/post/111347",
         "image": "",
-        "source": "Solidot",
+        "source": "少数派",
         "category": "tech",
-        "summary": "上海交通大学医学院附属第一人民医院的一支研究团队利用了英国生物样本库（UK Biobank）的数据，最终纳入了 82826 名基线时无眼部疾病的参与者。这些参与者均连续 7 天佩戴了配有高分辨率光传感器的腕带式加速度计，以客观记录其个人光照暴露情况。研究结果显示，在晚间时段（晚上20:00至23:3",
-        "id": "47cd5a45e2e1"
-      },
-      {
-        "title": "《Arma: Cold War Assault》重制版开源",
-        "url": "https://www.solidot.org/story?sid=84685",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "Bohemia Interactive 在 GPL v3.0 许可证下公开了《Arma: Cold War Assault》重制版源代码，项目托管在 GitHub 上。《Arma: Cold War Assault》于 2001 年以《Operation Flashpoint: Cold War C",
-        "id": "50f7fee01c10"
-      },
-      {
-        "title": "微软再次延长 Windows 10 免费安全更新一年",
-        "url": "https://www.solidot.org/story?sid=84684",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "Windows 10 于 2025 年 10 月 14 日结束支持，微软原本此后不再提供免费的安全更新，但 Windows 10 \n仍然有大量用户使用，软件巨人去年宣布将提供免费安全更新一年。如今还有几个月时间才到期，微软又将免费安全更新延长一年，Windows 10 用户不需要做任何事就能再享受一",
-        "id": "ea0790761961"
-      },
-      {
-        "title": "特朗普政府要求 OpenAI 分阶段发布新模型",
-        "url": "https://www.solidot.org/story?sid=84683",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "出于安全担忧特朗普政府要求 OpenAI 分阶段发布新的 GPT-5.6 模型。The Information 报道，新模型最初将提供给一小部分合作伙伴，政府将在预览期内“逐个批准客户的访问权限”。报道称，这一要求源于国家网络安全总监办公室和科技政策办公室之间的对话。\n<p></p>",
-        "id": "de6533f8f3c1"
+        "summary": "在莫斯科的时代折叠与彼得堡的文化巡礼之间，发现俄罗斯的不同面貌。<a href=\"https://sspai.com/post/111347\" target=\"_blank\">查看全文</a>",
+        "id": "c2f2a6e8f220"
       },
       {
         "title": "本周看什么 | 最近值得一看的 10 部作品",
@@ -863,15 +854,6 @@
         "id": "e2fa2a4c41f6"
       },
       {
-        "title": "把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验",
-        "url": "https://sspai.com/post/111483",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "手机主屏幕的个性化，如今越发受到重视。遍观各大手机操作系统的更新，几乎都会提到主屏幕装扮方式的增加——从壁纸、时钟再到图标、挂件，几乎没有哪个角落是不能按自己喜好调整的。对比之下，手机背面反而成为了「 ...<a href=\"https://sspai.com/post/111483\" target",
-        "id": "9ddcfaffb7d4"
-      },
-      {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
         "source": "MacRumors",
         "category": "tech",
@@ -910,76 +892,94 @@
     ],
     "crypto": [
       {
-        "title": "US senators urge CFTC probe Polymarket over ‘deceptive marketing’",
-        "url": "https://cointelegraph.com/news/us-senators-urge-cftc-probe-polymarket-over-report-deceptive-marketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/analys-analytics-bisiness-man-woman-up-city-takeoff-cftc.jpg",
+        "title": "Fidelity rebuts claims Bitcoin becomes less secure after halvings",
+        "url": "https://cointelegraph.com/news/fidelity-bitcoin-long-term-security-halvings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-btc-halving-is-in-80-days-is-it-priced-in.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US senators urge CFTC probe Polymarket over ‘deceptive marketing’\" class=\"type",
-        "id": "dd162ab22ba2"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fidelity rebuts claims Bitcoin becomes less secure after halvings\" class=\"type",
+        "id": "fd8b50fe5f50"
       },
       {
-        "title": "Old Ether wallets move 37,806 ETH as whale conviction faces key test at $1.5K",
-        "url": "https://cointelegraph.com/markets/old-ether-wallets-move-37806-eth-as-whale-conviction-faces-key-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-189124-ethereum-bulls-show-interest-as-traders-confidence-in-eth-s-1-8-k-level-improves.jpg",
+        "title": "Here’s what happened in crypto today",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Old Ether wallets move 37,806 ETH as whale conviction faces key test at $1.5K\"",
-        "id": "dbdac28124bd"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s",
+        "id": "772e97788bfd"
       },
       {
-        "title": "Spain regulator rules out extension for non-MiCA compliant crypto companies",
-        "url": "https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/cryptocurrency-coin-pressure-machine-regulation-government-law-mica-1.jpg",
+        "title": "Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss",
+        "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-capitulation-risk-as-50k-btc-moves-at-a-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-247810-bitcoin-bulls-blitz-dollar69k-as-retail-traders-pressure-short-positioning.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Spain regulator rules out extension for non-MiCA compliant crypto companies\" c",
-        "id": "189cbe623865"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss\" class=\"type:",
+        "id": "82d406276011"
       },
       {
-        "title": "SEC, CFTC seek input on unified portfolio margin rules across securities and derivatives",
-        "url": "https://cointelegraph.com/news/sec-cftc-portfolio-margin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-big-executives-that-joined-crypto-cftc-sec.jpg",
+        "title": "DCG-backed Yuma launches fund offering institutional exposure to Bittensor",
+        "url": "https://cointelegraph.com/news/yuma-bittensor-fund-institutional-tao-decentralized-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/the-decentralized-ai-of-the-future.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC, CFTC seek input on unified portfolio margin rules across securities and d",
-        "id": "8bc710400bf2"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DCG-backed Yuma launches fund offering institutional exposure to Bittensor\" cl",
+        "id": "238eeb5c1a78"
       },
       {
-        "title": "Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position",
-        "url": "https://cointelegraph.com/markets/ethereum-whale-who-shorted-october-2025-crash-returns-with-a-197m-short-eth-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-184294-whales-and-sp-500-are-about-to-crush-ethereum-by-up-to-90-against-bitcoin-expert.jpg",
+        "title": "Coinbase, Circle underperform Big Tech as crypto stock slump deepens",
+        "url": "https://cointelegraph.com/news/crypto-stocks-underperform-tech-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/red-rain-coins.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position\"",
-        "id": "20d833f5aeb5"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase, Circle underperform Big Tech as crypto stock slump deepens\" class=\"t",
+        "id": "178489f04459"
       },
       {
-        "title": "Crypto Biz: The cost of stacking sats",
-        "url": "https://cointelegraph.com/news/cryptoquant-strategy-bitcoin-cboe-perpetual-futures-chainlink-stablecoin-fx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/saylor-in-elevator.png",
+        "title": "SecondFi targets two-week recovery after Cardano wallet exploit",
+        "url": "https://cointelegraph.com/news/secondfi-two-week-recovery-cardano-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-spotlight-for-crypto-recovery.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: The cost of stacking sats\" class=\"type:primaryImage\" src=\"https://",
-        "id": "881373479fa4"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" SecondFi targets two-week recovery after Cardano wallet exploit\" class=\"type:",
+        "id": "238b0dcdd108"
       },
       {
-        "title": "US senators push to end CFTC ‘assault’ on state oversight of prediction markets",
-        "url": "https://cointelegraph.com/news/us-senators-cftc-assault-state-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-cftc-announces-contest-stablecoin.jpg",
+        "title": "EU lawmakers urge assessing DeFi, staking, NFT regulation",
+        "url": "https://cointelegraph.com/news/eu-lawmakers-assessing-defi-staking-nft-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-regulate-crypto-asset-market2.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US senators push to end CFTC ‘assault’ on state oversight of prediction market",
-        "id": "2d92ad65fa35"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU lawmakers urge assessing DeFi, staking, NFT regulation\" class=\"type:primary",
+        "id": "2568025d3802"
       },
       {
-        "title": "Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep bear market’",
-        "url": "https://cointelegraph.com/markets/bitcoin-sees-first-close-below-60k-since-q3-2024-with-tech-stocks-in-deep-bear-market-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/analysic-analytics-coat-of-arms-red-bear-bitcoin.jpg",
+        "title": "Securitize expects to raise $400M ahead of public debut",
+        "url": "https://cointelegraph.com/news/securitize-expects-to-raise-400m-ahead-of-public-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-types-of-consensus-mechanisms-in-blockchain-1.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep be",
-        "id": "2dbe092c22a5"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize expects to raise $400M ahead of public debut\" class=\"type:primaryIm",
+        "id": "a0b2800fd576"
+      },
+      {
+        "title": "The Stablecoin Founder Map Doesn't Match the Stablecoin Volume Map",
+        "url": "https://decrypt.co/371967/stablecoin-founder-map-doesnt-match-stablecoin-volume-map",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "Emerging markets drive most real-world stablecoin usage, yet founder concentration and venture funding remain U.S.- and Europe-centric.",
+        "id": "c0986054dfbe"
+      },
+      {
+        "title": "Billionaire Jeremy Grantham Dismisses Bitcoin, Says Crypto Will Fade 'With a Whimper'",
+        "url": "https://decrypt.co/372205/billionaire-jeremy-grantham-dismisses-bitcoin-crypto",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "The seasoned investor has little faith in Bitcoin's staying power, expecting crypto to quietly fade away over time.",
+        "id": "1827cc825088"
       },
       {
         "title": "Wall Street's Next Tokenization Test: BlackRock-Backed Securitize's Market Debut",
@@ -1034,24 +1034,6 @@
         "category": "crypto",
         "summary": "Fernando Irarrázaval posted his OpenClaw assistant's inbox to Hacker News and watched Claude Opus 4.6 hold off thousands of attackers.",
         "id": "4d31df5c2058"
-      },
-      {
-        "title": "Kalshi Scores FIFA World Cup Spotlight as Prediction Market Trading Surges to Record",
-        "url": "https://decrypt.co/372204/kalshi-scores-fifa-world-cup-spotlight-prediction-market-trading-record",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/soccer-football-decrypt-style-01-gID_7.jpg@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "As prediction markets notch record trading volumes, Kalshi is ramping up its marketing push through a high-profile FIFA World Cup deal.",
-        "id": "a1b8383fe292"
-      },
-      {
-        "title": "Trump Administration Asks OpenAI to Limit GPT-5.6 Rollout: Reports",
-        "url": "https://decrypt.co/372195/trump-administration-asks-openai-to-limit-gpt-5-6-rollout-reports",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "The reported request to OpenAI follows the Trump administration's move to limit access to Anthropic's Fable 5 and Mythos 5 AI models.",
-        "id": "77f7d06c018b"
       },
       {
         "title": "比特币突破 80000 美元",
