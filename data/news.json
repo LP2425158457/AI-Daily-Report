@@ -1,69 +1,78 @@
 {
-  "last_updated": "2026-06-28T02:45:23.288808",
-  "total": 59,
+  "last_updated": "2026-06-29T02:45:54.865214",
+  "total": 60,
   "news": [
     {
-      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48703258\">Comments</a>",
-      "id": "89a298436912"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48709670\">Comments</a>",
+      "id": "f90661e7dda3"
     },
     {
-      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
-      "url": "https://decomp-academy.dev",
+      "title": "Historical memory prices 1960-2026",
+      "url": "https://dam.stanford.edu/memory-prices.html",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48703412\">Comments</a>",
-      "id": "60d100a70305"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48710092\">Comments</a>",
+      "id": "d4c6e378dbd3"
     },
     {
-      "title": "Choosing a Public DNS Resolver",
-      "url": "https://evilbit.de/dns-resolver-guide.html",
+      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+      "url": "https://pudding.cool/2026/06/menu-story/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48702273\">Comments</a>",
-      "id": "3bc05f59b580"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48707763\">Comments</a>",
+      "id": "7729438bab79"
     },
     {
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "url": "https://github.com/bikini/exploitarium",
+      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+      "url": "https://arxiv.org/abs/2401.07013",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48698617\">Comments</a>",
-      "id": "c021ef72cc02"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48712420\">Comments</a>",
+      "id": "e51260d5c21b"
     },
     {
-      "title": "Marfa Public Radio Puts You to Sleep",
-      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48703759\">Comments</a>",
-      "id": "13e2e7451187"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48708941\">Comments</a>",
+      "id": "03f8e9ca811d"
     },
     {
-      "title": "AI learns the “dark art” of RFIC design",
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "title": "Deciphering Basmala",
+      "url": "https://blog.plover.com/lang/bismillah.html",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48660021\">Comments</a>",
-      "id": "122244e5043e"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48657131\">Comments</a>",
+      "id": "550cac3195f6"
     },
     {
-      "title": "Response to AI slop is from Robin Williams",
-      "url": "https://jayacunzo.com/blog/your-move-chief",
+      "title": "Better Images of AI",
+      "url": "https://betterimagesofai.org/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48703452\">Comments</a>",
-      "id": "9bd84a38af14"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48713051\">Comments</a>",
+      "id": "6a5956b4f114"
+    },
+    {
+      "title": "AI boom risks global financial crash, warn central bankers",
+      "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48713697\">Comments</a>",
+      "id": "35a9179d5bf9"
     },
     {
       "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
@@ -138,6 +147,42 @@
       "id": "29fc65fc1e34"
     },
     {
+      "title": "科学家再次尝试编辑人类胚胎",
+      "url": "https://www.solidot.org/story?sid=84699",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "继哥伦比亚大学 Dieter Egli 团队之后，第二个科研团队报告称，利用高精度基因编辑技术改造了人类胚胎 DNA。多名科研人员表示，该实验的成功，让关于胚胎基因编辑的伦理讨论变得更加紧迫。这一次英国剑桥大学的 Kathy Niakan 带领研究人员使用单碱基编辑技术敲除了编码 NANOG 蛋白的",
+      "id": "6a0dd04f89e7"
+    },
+    {
+      "title": "马克斯普朗克的两篇论文被撤稿",
+      "url": "https://www.solidot.org/story?sid=84698",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "1918 年诺贝尔物理学家得主马克斯普朗克（Max Planck）的两篇论文在 2011 年被撤下。两篇论文于 1940 年代发表在德国期刊《Naturwissenschaften》上，如今隶属于 Springer Nature 集团，《Naturwissenschaften》撤稿的理由是侵犯版权。",
+      "id": "53566b3e4906"
+    },
+    {
+      "title": "法国本周的热浪超过对 2050 年的可怕想象",
+      "url": "https://www.solidot.org/story?sid=84697",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "2014 年世界气象组织 (WMO) 协调组织了一场活动，其中包括预测 2050 年的天气。法国主持人 ïvelyne Dhéliat 的预测是到 2050 年该国最高气温将达到 43 摄氏度。本周法国的热浪将这一预测提前 24 年实现，且超过了预测。法国周三 43 个地点有 19 个地点超过了对 ",
+      "id": "9f1a923dbbeb"
+    },
+    {
+      "title": "韩国计划训练所有军人熟练操作无人机",
+      "url": "https://www.solidot.org/story?sid=84696",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "韩国计划训练所有军人像使用枪支一样熟练操作无人机。国防部长官安圭伯表示，目标是通过训练士兵像使用“第二件个人武器”一样使用无人机，让无人机成为所有部队的“通用作战工具”。韩国还计划为军事单位配备更多廉价且可消耗的无人机，用于侦察和打击任务，部署更多反无人机激光武器和微波武器。很多国家都在效仿乌克兰训",
+      "id": "c7fdfb07de3e"
+    },
+    {
       "title": "AI 促使数学家思考数学对他们的意义",
       "url": "https://www.solidot.org/story?sid=84695",
       "image": "",
@@ -174,40 +219,22 @@
       "id": "19a0dccaf5b4"
     },
     {
-      "title": "从赞美美德到歌颂堕落",
-      "url": "https://www.solidot.org/story?sid=84690",
+      "title": "派早报：微软改口称 8GB 足够运行 Windows 11",
+      "url": "https://sspai.com/post/111639",
       "image": "",
-      "source": "Solidot",
+      "source": "少数派",
       "category": "tech",
-      "summary": "英国伦敦大学玛丽皇后学院的研究人员分析了 1960-2023 年间发行的逾 38 万首歌曲的歌词后发现，流行音乐中使用的情感语言和道德语言发生了显著变化。表达关怀和体面等道德美德的词语随时间推移变得越来越少见，而与伤害、欺骗、颠覆和堕落相关的语言逐渐增多。研究人员指出，“音乐不仅仅是娱乐。它是社会讲",
-      "id": "ab393e0ca823"
+      "summary": "<p>微软改口称 8GB 足够运行 Windows 11</p><p>OpenAI 发布 GPT 5.6，称需美国政府批准提供对象</p><p>Notion Mail 宣布关闭</p><p>央视报道网络测评乱象</p><p>苹果、奥迪前员工推出豪华电瓶车</p><p>俄罗斯主流应用被苹果下架，克宫呼",
+      "id": "d0fcfd26b728"
     },
     {
-      "title": "大型猿类笑声节奏与人类相似，存在了 1500 万年",
-      "url": "https://www.solidot.org/story?sid=84689",
+      "title": "兜兜转转四款笔记软件，我终于为思考找到了安身之所",
+      "url": "https://sspai.com/post/110935",
       "image": "",
-      "source": "Solidot",
+      "source": "少数派",
       "category": "tech",
-      "summary": "根据发表在《Communications Biology》期刊上的一项研究，大猿的笑声节奏可能与现代人类相似，而这一现象已持续了至少 1500 万年。研究结果还表明，在大猿的演化过程中，笑声变得更快、变化更多，且越来越受到所处情境的影响。所有大猿（人科动物）都会笑，包括与人类亲缘关系较近的物种，如倭",
-      "id": "6fceb189dac4"
-    },
-    {
-      "title": "每小时走五分钟有助于抵消久坐的危害",
-      "url": "https://www.solidot.org/story?sid=84688",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "久坐是一种健康风险，但对久坐行为的干预需要考虑可行性和有效性。根据发表在《British Journal of Sports Medicine》期刊上的一项研究，研究人员评估了每隔 30 分钟、60 分钟或 120 分钟就站起来步行 5 分钟的干预措施。有 19342 名成年人参与了研究，其中 11",
-      "id": "d2639f5dd0e9"
-    },
-    {
-      "title": "美光与其大客户签署了长达五年的供货协议",
-      "url": "https://www.solidot.org/story?sid=84687",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "美光 CEO Sanjay Mehrotra 在最新的财报电话会议上披露，该公司与 16 家大客户签署了“战略客户协议”，大部分协议涵盖的时间从 2026 年一直持续到 2030 年，客户承诺购买一定数量的产品，支付价格处于设有最低和最高价格的定价区间内。这意味着如果内存价格进一步上涨，客户基本不会",
-      "id": "b77662fe0bf5"
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/110935\" target",
+      "id": "f848728df4a2"
     },
     {
       "title": "俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼",
@@ -264,31 +291,22 @@
       "id": "f0e1761c04fe"
     },
     {
-      "title": "新玩意 245｜少数派的编辑们最近买了啥？",
-      "url": "https://sspai.com/post/111518",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@克莱德：GoogleSta ...<a href=\"https://sspai.com/post/111518\" target",
-      "id": "01f3dd5ebb3e"
-    },
-    {
-      "title": "给记忆一个归处：我为什么开始使用 Apple 手记",
-      "url": "https://sspai.com/post/111421",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "《手记》是Apple在iOS17.2中推出的原生日记应用，它可以帮助用户更轻松地记录生活、保存回忆、培养反思与感恩等习惯。今年以来，我频繁地使用手记这款应用。不过，我开始使用它的契机并不是为了写日记， ...<a href=\"https://sspai.com/post/111421\" target",
-      "id": "e2fa2a4c41f6"
-    },
-    {
-      "title": "Fidelity rebuts claims Bitcoin becomes less secure after halvings",
-      "url": "https://cointelegraph.com/news/fidelity-bitcoin-long-term-security-halvings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-btc-halving-is-in-80-days-is-it-priced-in.jpg",
+      "title": "Bullish Bitcoin RSI divergence has analysts calling for 2022-style bear market bottom",
+      "url": "https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-sees-analysis-call-2022-bottom-repeat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/bear-bang-reg-falling-bitcoin.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fidelity rebuts claims Bitcoin becomes less secure after halvings\" class=\"type",
-      "id": "fd8b50fe5f50"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bullish Bitcoin RSI divergence has analysts calling for 2022-style bear market",
+      "id": "8538b44436d3"
+    },
+    {
+      "title": "Binance booted from EU, EthLabs rises up to save Ethereum: Hodler's Digest June 14-28",
+      "url": "https://cointelegraph.com/features/hodlers-digest-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/img2666.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance booted from EU, EthLabs rises up to save Ethereum: Hodler's Digest Jun",
+      "id": "4498e82b4b6a"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -300,58 +318,58 @@
       "id": "772e97788bfd"
     },
     {
-      "title": "Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss",
-      "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-capitulation-risk-as-50k-btc-moves-at-a-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-247810-bitcoin-bulls-blitz-dollar69k-as-retail-traders-pressure-short-positioning.jpg",
+      "title": "BIS warns stablecoins risk fragmenting global financial system",
+      "url": "https://cointelegraph.com/news/bis-warns-stablecoins-risk-fragmenting-global-financial-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-world-bank-initiatives-bis.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss\" class=\"type:",
-      "id": "82d406276011"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BIS warns stablecoins risk fragmenting global financial system\" class=\"type:pr",
+      "id": "68aa0d3c7a6a"
     },
     {
-      "title": "DCG-backed Yuma launches fund offering institutional exposure to Bittensor",
-      "url": "https://cointelegraph.com/news/yuma-bittensor-fund-institutional-tao-decentralized-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/the-decentralized-ai-of-the-future.jpg",
+      "title": "Will Bitcoin price recover in July?",
+      "url": "https://cointelegraph.com/markets/will-bitcoin-price-recover-in-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-197722-bitcoin-price-trending-back-new-highs-before-july-analysis.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DCG-backed Yuma launches fund offering institutional exposure to Bittensor\" cl",
-      "id": "238eeb5c1a78"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Will Bitcoin price recover in July? \" class=\"type:primaryImage\" src=\"https://s",
+      "id": "bee37e6410ee"
     },
     {
-      "title": "Coinbase, Circle underperform Big Tech as crypto stock slump deepens",
-      "url": "https://cointelegraph.com/news/crypto-stocks-underperform-tech-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/red-rain-coins.jpg",
+      "title": "EU watchdog EBA details big crypto fines as landmark laws bite",
+      "url": "https://cointelegraph.com/news/eu-watchdog-eba-details-big-crypto-fines-as-landmark-laws-bite?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-patent-approve-crypto-eu-binance.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase, Circle underperform Big Tech as crypto stock slump deepens\" class=\"t",
-      "id": "178489f04459"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU watchdog EBA details big crypto fines as landmark laws bite\" class=\"type:pr",
+      "id": "dd053d6e7d06"
     },
     {
-      "title": "SecondFi targets two-week recovery after Cardano wallet exploit",
-      "url": "https://cointelegraph.com/news/secondfi-two-week-recovery-cardano-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-spotlight-for-crypto-recovery.jpg",
+      "title": "Binance posts over $400M in weekly net outflows as MiCA deadline nears",
+      "url": "https://cointelegraph.com/news/binance-400m-weekly-net-outflows-mica-deadline-nears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-integration-of-cefi-and-defi-through-binance-bridge2-1.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" SecondFi targets two-week recovery after Cardano wallet exploit\" class=\"type:",
-      "id": "238b0dcdd108"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance posts over $400M in weekly net outflows as MiCA deadline nears\" class=",
+      "id": "e069a3d37072"
     },
     {
-      "title": "EU lawmakers urge assessing DeFi, staking, NFT regulation",
-      "url": "https://cointelegraph.com/news/eu-lawmakers-assessing-defi-staking-nft-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-regulate-crypto-asset-market2.jpg",
+      "title": "Grayscale's Pandl hopes Strategy sells $3B in Bitcoin to restore confidence",
+      "url": "https://cointelegraph.com/news/grayscales-pandl-strategy-sells-3b-bitcoin-confidence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-saylors-strategy-keeps-buying-bitcoin-the-long-term-bet-explained-3.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU lawmakers urge assessing DeFi, staking, NFT regulation\" class=\"type:primary",
-      "id": "2568025d3802"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Grayscale's Pandl hopes Strategy sells $3B in Bitcoin to restore confidence\" c",
+      "id": "1da603d91c24"
     },
     {
-      "title": "Securitize expects to raise $400M ahead of public debut",
-      "url": "https://cointelegraph.com/news/securitize-expects-to-raise-400m-ahead-of-public-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-types-of-consensus-mechanisms-in-blockchain-1.jpg",
-      "source": "CoinTelegraph",
+      "title": "The Future Cyberpunk Imagined Is Here: How Much Did It Get Right?",
+      "url": "https://decrypt.co/372248/future-cyberpunk-imagined-here",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-cyberpunk2-gID_7.png@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize expects to raise $400M ahead of public debut\" class=\"type:primaryIm",
-      "id": "a0b2800fd576"
+      "summary": "From AI to brain implants, cyberpunk got more right than many people realize. Its biggest prediction, however, wasn't the technology.",
+      "id": "7b69d76158e0"
     },
     {
       "title": "The Stablecoin Founder Map Doesn't Match the Stablecoin Volume Map",
@@ -415,15 +433,6 @@
       "category": "crypto",
       "summary": "Crypto firms operating in the European Union will be forced to cease operations if they do not obtain a MiCA license by July 1.",
       "id": "2ccb54cbc5b5"
-    },
-    {
-      "title": "This AI Agent Survived 6,000 Hack Attempts—Here’s How",
-      "url": "https://decrypt.co/372221/ai-agent-openclaw-6000-hack-attempts",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Fernando Irarrázaval posted his OpenClaw assistant's inbox to Hacker News and watched Claude Opus 4.6 hold off thousands of attackers.",
-      "id": "4d31df5c2058"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -647,67 +656,112 @@
     ],
     "tech": [
       {
-        "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-        "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+        "title": "GLM 5.2 beats Claude in our benchmarks",
+        "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48703258\">Comments</a>",
-        "id": "89a298436912"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48709670\">Comments</a>",
+        "id": "f90661e7dda3"
       },
       {
-        "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
-        "url": "https://decomp-academy.dev",
+        "title": "Historical memory prices 1960-2026",
+        "url": "https://dam.stanford.edu/memory-prices.html",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48703412\">Comments</a>",
-        "id": "60d100a70305"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48710092\">Comments</a>",
+        "id": "d4c6e378dbd3"
       },
       {
-        "title": "Choosing a Public DNS Resolver",
-        "url": "https://evilbit.de/dns-resolver-guide.html",
+        "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+        "url": "https://pudding.cool/2026/06/menu-story/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48702273\">Comments</a>",
-        "id": "3bc05f59b580"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48707763\">Comments</a>",
+        "id": "7729438bab79"
       },
       {
-        "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-        "url": "https://github.com/bikini/exploitarium",
+        "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+        "url": "https://arxiv.org/abs/2401.07013",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48698617\">Comments</a>",
-        "id": "c021ef72cc02"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48712420\">Comments</a>",
+        "id": "e51260d5c21b"
       },
       {
-        "title": "Marfa Public Radio Puts You to Sleep",
-        "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+        "title": "I used Claude Code to get a second opinion on my MRI",
+        "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48703759\">Comments</a>",
-        "id": "13e2e7451187"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48708941\">Comments</a>",
+        "id": "03f8e9ca811d"
       },
       {
-        "title": "AI learns the “dark art” of RFIC design",
-        "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+        "title": "Deciphering Basmala",
+        "url": "https://blog.plover.com/lang/bismillah.html",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48660021\">Comments</a>",
-        "id": "122244e5043e"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48657131\">Comments</a>",
+        "id": "550cac3195f6"
       },
       {
-        "title": "Response to AI slop is from Robin Williams",
-        "url": "https://jayacunzo.com/blog/your-move-chief",
+        "title": "Better Images of AI",
+        "url": "https://betterimagesofai.org/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48703452\">Comments</a>",
-        "id": "9bd84a38af14"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48713051\">Comments</a>",
+        "id": "6a5956b4f114"
+      },
+      {
+        "title": "AI boom risks global financial crash, warn central bankers",
+        "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48713697\">Comments</a>",
+        "id": "35a9179d5bf9"
+      },
+      {
+        "title": "科学家再次尝试编辑人类胚胎",
+        "url": "https://www.solidot.org/story?sid=84699",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "继哥伦比亚大学 Dieter Egli 团队之后，第二个科研团队报告称，利用高精度基因编辑技术改造了人类胚胎 DNA。多名科研人员表示，该实验的成功，让关于胚胎基因编辑的伦理讨论变得更加紧迫。这一次英国剑桥大学的 Kathy Niakan 带领研究人员使用单碱基编辑技术敲除了编码 NANOG 蛋白的",
+        "id": "6a0dd04f89e7"
+      },
+      {
+        "title": "马克斯普朗克的两篇论文被撤稿",
+        "url": "https://www.solidot.org/story?sid=84698",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "1918 年诺贝尔物理学家得主马克斯普朗克（Max Planck）的两篇论文在 2011 年被撤下。两篇论文于 1940 年代发表在德国期刊《Naturwissenschaften》上，如今隶属于 Springer Nature 集团，《Naturwissenschaften》撤稿的理由是侵犯版权。",
+        "id": "53566b3e4906"
+      },
+      {
+        "title": "法国本周的热浪超过对 2050 年的可怕想象",
+        "url": "https://www.solidot.org/story?sid=84697",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "2014 年世界气象组织 (WMO) 协调组织了一场活动，其中包括预测 2050 年的天气。法国主持人 ïvelyne Dhéliat 的预测是到 2050 年该国最高气温将达到 43 摄氏度。本周法国的热浪将这一预测提前 24 年实现，且超过了预测。法国周三 43 个地点有 19 个地点超过了对 ",
+        "id": "9f1a923dbbeb"
+      },
+      {
+        "title": "韩国计划训练所有军人熟练操作无人机",
+        "url": "https://www.solidot.org/story?sid=84696",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "韩国计划训练所有军人像使用枪支一样熟练操作无人机。国防部长官安圭伯表示，目标是通过训练士兵像使用“第二件个人武器”一样使用无人机，让无人机成为所有部队的“通用作战工具”。韩国还计划为军事单位配备更多廉价且可消耗的无人机，用于侦察和打击任务，部署更多反无人机激光武器和微波武器。很多国家都在效仿乌克兰训",
+        "id": "c7fdfb07de3e"
       },
       {
         "title": "AI 促使数学家思考数学对他们的意义",
@@ -746,40 +800,22 @@
         "id": "19a0dccaf5b4"
       },
       {
-        "title": "从赞美美德到歌颂堕落",
-        "url": "https://www.solidot.org/story?sid=84690",
+        "title": "派早报：微软改口称 8GB 足够运行 Windows 11",
+        "url": "https://sspai.com/post/111639",
         "image": "",
-        "source": "Solidot",
+        "source": "少数派",
         "category": "tech",
-        "summary": "英国伦敦大学玛丽皇后学院的研究人员分析了 1960-2023 年间发行的逾 38 万首歌曲的歌词后发现，流行音乐中使用的情感语言和道德语言发生了显著变化。表达关怀和体面等道德美德的词语随时间推移变得越来越少见，而与伤害、欺骗、颠覆和堕落相关的语言逐渐增多。研究人员指出，“音乐不仅仅是娱乐。它是社会讲",
-        "id": "ab393e0ca823"
+        "summary": "<p>微软改口称 8GB 足够运行 Windows 11</p><p>OpenAI 发布 GPT 5.6，称需美国政府批准提供对象</p><p>Notion Mail 宣布关闭</p><p>央视报道网络测评乱象</p><p>苹果、奥迪前员工推出豪华电瓶车</p><p>俄罗斯主流应用被苹果下架，克宫呼",
+        "id": "d0fcfd26b728"
       },
       {
-        "title": "大型猿类笑声节奏与人类相似，存在了 1500 万年",
-        "url": "https://www.solidot.org/story?sid=84689",
+        "title": "兜兜转转四款笔记软件，我终于为思考找到了安身之所",
+        "url": "https://sspai.com/post/110935",
         "image": "",
-        "source": "Solidot",
+        "source": "少数派",
         "category": "tech",
-        "summary": "根据发表在《Communications Biology》期刊上的一项研究，大猿的笑声节奏可能与现代人类相似，而这一现象已持续了至少 1500 万年。研究结果还表明，在大猿的演化过程中，笑声变得更快、变化更多，且越来越受到所处情境的影响。所有大猿（人科动物）都会笑，包括与人类亲缘关系较近的物种，如倭",
-        "id": "6fceb189dac4"
-      },
-      {
-        "title": "每小时走五分钟有助于抵消久坐的危害",
-        "url": "https://www.solidot.org/story?sid=84688",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "久坐是一种健康风险，但对久坐行为的干预需要考虑可行性和有效性。根据发表在《British Journal of Sports Medicine》期刊上的一项研究，研究人员评估了每隔 30 分钟、60 分钟或 120 分钟就站起来步行 5 分钟的干预措施。有 19342 名成年人参与了研究，其中 11",
-        "id": "d2639f5dd0e9"
-      },
-      {
-        "title": "美光与其大客户签署了长达五年的供货协议",
-        "url": "https://www.solidot.org/story?sid=84687",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "美光 CEO Sanjay Mehrotra 在最新的财报电话会议上披露，该公司与 16 家大客户签署了“战略客户协议”，大部分协议涵盖的时间从 2026 年一直持续到 2030 年，客户承诺购买一定数量的产品，支付价格处于设有最低和最高价格的定价区间内。这意味着如果内存价格进一步上涨，客户基本不会",
-        "id": "b77662fe0bf5"
+        "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/110935\" target",
+        "id": "f848728df4a2"
       },
       {
         "title": "俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼",
@@ -836,24 +872,6 @@
         "id": "f0e1761c04fe"
       },
       {
-        "title": "新玩意 245｜少数派的编辑们最近买了啥？",
-        "url": "https://sspai.com/post/111518",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@克莱德：GoogleSta ...<a href=\"https://sspai.com/post/111518\" target",
-        "id": "01f3dd5ebb3e"
-      },
-      {
-        "title": "给记忆一个归处：我为什么开始使用 Apple 手记",
-        "url": "https://sspai.com/post/111421",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "《手记》是Apple在iOS17.2中推出的原生日记应用，它可以帮助用户更轻松地记录生活、保存回忆、培养反思与感恩等习惯。今年以来，我频繁地使用手记这款应用。不过，我开始使用它的契机并不是为了写日记， ...<a href=\"https://sspai.com/post/111421\" target",
-        "id": "e2fa2a4c41f6"
-      },
-      {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
         "source": "MacRumors",
         "category": "tech",
@@ -892,13 +910,22 @@
     ],
     "crypto": [
       {
-        "title": "Fidelity rebuts claims Bitcoin becomes less secure after halvings",
-        "url": "https://cointelegraph.com/news/fidelity-bitcoin-long-term-security-halvings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-btc-halving-is-in-80-days-is-it-priced-in.jpg",
+        "title": "Bullish Bitcoin RSI divergence has analysts calling for 2022-style bear market bottom",
+        "url": "https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-sees-analysis-call-2022-bottom-repeat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/bear-bang-reg-falling-bitcoin.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fidelity rebuts claims Bitcoin becomes less secure after halvings\" class=\"type",
-        "id": "fd8b50fe5f50"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bullish Bitcoin RSI divergence has analysts calling for 2022-style bear market",
+        "id": "8538b44436d3"
+      },
+      {
+        "title": "Binance booted from EU, EthLabs rises up to save Ethereum: Hodler's Digest June 14-28",
+        "url": "https://cointelegraph.com/features/hodlers-digest-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/img2666.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance booted from EU, EthLabs rises up to save Ethereum: Hodler's Digest Jun",
+        "id": "4498e82b4b6a"
       },
       {
         "title": "Here’s what happened in crypto today",
@@ -910,58 +937,58 @@
         "id": "772e97788bfd"
       },
       {
-        "title": "Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss",
-        "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-capitulation-risk-as-50k-btc-moves-at-a-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-247810-bitcoin-bulls-blitz-dollar69k-as-retail-traders-pressure-short-positioning.jpg",
+        "title": "BIS warns stablecoins risk fragmenting global financial system",
+        "url": "https://cointelegraph.com/news/bis-warns-stablecoins-risk-fragmenting-global-financial-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-world-bank-initiatives-bis.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss\" class=\"type:",
-        "id": "82d406276011"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BIS warns stablecoins risk fragmenting global financial system\" class=\"type:pr",
+        "id": "68aa0d3c7a6a"
       },
       {
-        "title": "DCG-backed Yuma launches fund offering institutional exposure to Bittensor",
-        "url": "https://cointelegraph.com/news/yuma-bittensor-fund-institutional-tao-decentralized-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/the-decentralized-ai-of-the-future.jpg",
+        "title": "Will Bitcoin price recover in July?",
+        "url": "https://cointelegraph.com/markets/will-bitcoin-price-recover-in-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-197722-bitcoin-price-trending-back-new-highs-before-july-analysis.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DCG-backed Yuma launches fund offering institutional exposure to Bittensor\" cl",
-        "id": "238eeb5c1a78"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Will Bitcoin price recover in July? \" class=\"type:primaryImage\" src=\"https://s",
+        "id": "bee37e6410ee"
       },
       {
-        "title": "Coinbase, Circle underperform Big Tech as crypto stock slump deepens",
-        "url": "https://cointelegraph.com/news/crypto-stocks-underperform-tech-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/red-rain-coins.jpg",
+        "title": "EU watchdog EBA details big crypto fines as landmark laws bite",
+        "url": "https://cointelegraph.com/news/eu-watchdog-eba-details-big-crypto-fines-as-landmark-laws-bite?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-patent-approve-crypto-eu-binance.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase, Circle underperform Big Tech as crypto stock slump deepens\" class=\"t",
-        "id": "178489f04459"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU watchdog EBA details big crypto fines as landmark laws bite\" class=\"type:pr",
+        "id": "dd053d6e7d06"
       },
       {
-        "title": "SecondFi targets two-week recovery after Cardano wallet exploit",
-        "url": "https://cointelegraph.com/news/secondfi-two-week-recovery-cardano-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-spotlight-for-crypto-recovery.jpg",
+        "title": "Binance posts over $400M in weekly net outflows as MiCA deadline nears",
+        "url": "https://cointelegraph.com/news/binance-400m-weekly-net-outflows-mica-deadline-nears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-integration-of-cefi-and-defi-through-binance-bridge2-1.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" SecondFi targets two-week recovery after Cardano wallet exploit\" class=\"type:",
-        "id": "238b0dcdd108"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance posts over $400M in weekly net outflows as MiCA deadline nears\" class=",
+        "id": "e069a3d37072"
       },
       {
-        "title": "EU lawmakers urge assessing DeFi, staking, NFT regulation",
-        "url": "https://cointelegraph.com/news/eu-lawmakers-assessing-defi-staking-nft-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-regulate-crypto-asset-market2.jpg",
+        "title": "Grayscale's Pandl hopes Strategy sells $3B in Bitcoin to restore confidence",
+        "url": "https://cointelegraph.com/news/grayscales-pandl-strategy-sells-3b-bitcoin-confidence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-saylors-strategy-keeps-buying-bitcoin-the-long-term-bet-explained-3.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU lawmakers urge assessing DeFi, staking, NFT regulation\" class=\"type:primary",
-        "id": "2568025d3802"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Grayscale's Pandl hopes Strategy sells $3B in Bitcoin to restore confidence\" c",
+        "id": "1da603d91c24"
       },
       {
-        "title": "Securitize expects to raise $400M ahead of public debut",
-        "url": "https://cointelegraph.com/news/securitize-expects-to-raise-400m-ahead-of-public-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-types-of-consensus-mechanisms-in-blockchain-1.jpg",
-        "source": "CoinTelegraph",
+        "title": "The Future Cyberpunk Imagined Is Here: How Much Did It Get Right?",
+        "url": "https://decrypt.co/372248/future-cyberpunk-imagined-here",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-cyberpunk2-gID_7.png@png",
+        "source": "Decrypt",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize expects to raise $400M ahead of public debut\" class=\"type:primaryIm",
-        "id": "a0b2800fd576"
+        "summary": "From AI to brain implants, cyberpunk got more right than many people realize. Its biggest prediction, however, wasn't the technology.",
+        "id": "7b69d76158e0"
       },
       {
         "title": "The Stablecoin Founder Map Doesn't Match the Stablecoin Volume Map",
@@ -1025,15 +1052,6 @@
         "category": "crypto",
         "summary": "Crypto firms operating in the European Union will be forced to cease operations if they do not obtain a MiCA license by July 1.",
         "id": "2ccb54cbc5b5"
-      },
-      {
-        "title": "This AI Agent Survived 6,000 Hack Attempts—Here’s How",
-        "url": "https://decrypt.co/372221/ai-agent-openclaw-6000-hack-attempts",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Fernando Irarrázaval posted his OpenClaw assistant's inbox to Hacker News and watched Claude Opus 4.6 hold off thousands of attackers.",
-        "id": "4d31df5c2058"
       },
       {
         "title": "比特币突破 80000 美元",
