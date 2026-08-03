@@ -1,69 +1,78 @@
 {
-  "last_updated": "2026-08-02T02:02:26.331332",
-  "total": 58,
+  "last_updated": "2026-08-03T02:04:52.557554",
+  "total": 59,
   "news": [
     {
-      "title": "Seedance 2.5",
-      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+      "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49138302\">Comments</a>",
-      "id": "80facdc927bd"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49149746\">Comments</a>",
+      "id": "84b75355448f"
     },
     {
-      "title": "Go 1.27 Interactive Tour",
-      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+      "url": "https://github.com/johnsonjh/cpm386",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49140218\">Comments</a>",
-      "id": "311ca6bae863"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49149898\">Comments</a>",
+      "id": "89f87edebe1e"
     },
     {
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "title": "Karpathy’s Pelican",
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49139102\">Comments</a>",
-      "id": "1a0a94ef87fb"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49140998\">Comments</a>",
+      "id": "0d52a996786f"
     },
     {
-      "title": "Postmortem for Kernel Soundness Bug #14576",
-      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "url": "https://mattbeton.com/blog/bitnet-6502.html",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49137060\">Comments</a>",
-      "id": "1cdfd92772dc"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49122655\">Comments</a>",
+      "id": "d3cacec3b42d"
     },
     {
-      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
-      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+      "title": "Show HN: Isopolis – isometric pixel map of SF",
+      "url": "https://sf.isopolis.city/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49139711\">Comments</a>",
-      "id": "51c50ead68e4"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49149966\">Comments</a>",
+      "id": "41230b25ad8a"
     },
     {
-      "title": "Unraveling the mysteries of habit formation",
-      "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "url": "https://github.com/wie-project/kakehashi",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49139383\">Comments</a>",
-      "id": "cb2f38c0da69"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49145937\">Comments</a>",
+      "id": "ef8ddc280680"
     },
     {
-      "title": "But can your calculator run Linux?",
-      "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+      "title": "Note-Taking and Personal Knowledge Management",
+      "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49137713\">Comments</a>",
-      "id": "bffede1a7f0e"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49084324\">Comments</a>",
+      "id": "664fa637ad68"
+    },
+    {
+      "title": "Show HN: ssh ssh.place",
+      "url": "https://ssh.place",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49149805\">Comments</a>",
+      "id": "a1ee8295b425"
     },
     {
       "title": "The Download: Montana’s new experimental drug rules",
@@ -138,6 +147,33 @@
       "id": "aee7a4f81164"
     },
     {
+      "title": "系外行星大气中发现半重水",
+      "url": "https://www.solidot.org/story?sid=84987",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "韦伯望远镜（JWST）正以前所未有的红外线敏感度揭开宇宙面纱，除了探究早期宇宙，更开启了系外行星大气研究的新时代，而在所有观测目标中，最吸引人的莫过于生命不可或缺的关键要素——水。天文学家利用韦伯望远镜的数据，对距离地球约 700 光年的系外行星 WASP-39b 进行大气模型分析，并首度在其大气中",
+      "id": "e6cae9294519"
+    },
+    {
+      "title": "维基基金会雇佣了反工会律所",
+      "url": "https://www.solidot.org/story?sid=84986",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "维基媒体基金会于 7 月 27 日以美国科技公司的典型做法拒绝自愿认可员工工会，声明中充斥着典型的反工会言论，声称它的 342 名美国员工对加入工会持有不同的看法，它坚持要求由美国国家劳工关系委员会（NLRB）裁决维基员工组织工会的权利，其目的被认为是拖延进程、阻挠投票，以便让反工会人士有时间对基金",
+      "id": "b1394bba8375"
+    },
+    {
+      "title": "Steam 用户中使用 Linux 比例超过 4%",
+      "url": "https://www.solidot.org/story?sid=84985",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "Valve 公布了 2026 年 7 月的 Steam 硬件和软件调查，Steam 用户中使用 Linux 比例从 3 月的 5.33%、4 月的 4.52%、5 月的 3.99% 以及 6 月的 3.69% 之后再次超过 4% 达到 4.01%。Windows 操作系统的比例占 93.67%，OS",
+      "id": "2e6a4dd24e41"
+    },
+    {
       "title": "腾讯投资最高的 3A 游戏《最后的哨兵》陷入困境",
       "url": "https://www.solidot.org/story?sid=84984",
       "image": "",
@@ -174,31 +210,22 @@
       "id": "8e6854d7f75a"
     },
     {
-      "title": "Arch Linux 关闭 AUR 孤儿包的领养和修改功能",
-      "url": "https://www.solidot.org/story?sid=84979",
+      "title": "派早报：DeepSeek V4 Flash 正式版发布",
+      "url": "https://sspai.com/post/113014",
       "image": "",
-      "source": "Solidot",
+      "source": "少数派",
       "category": "tech",
-      "summary": "前一段时间未知身份的攻击者创建了一系列新账号，然后通过这些账号接管无人维护的 Arch User Repository(AUR)孤儿包，植入恶意代码，推送恶意更新。Arch Linux DevOps 团队现在宣布关闭 AUR 孤儿包的领养和修改功能。AUR 中有逾 107,000 个软件包，其中近 ",
-      "id": "9c50ec04fc65"
+      "summary": "<p>DeepSeek V4 Flash 正式版发布</p><p>特朗普向科技公司频繁索要捐款</p><p>马斯克称从未讨论过出售特斯拉中国业务</p><p>国补调整后终端销售承压</p><p>风投机构重新涌入中国科技领域</p><p>统计显示实体光盘并不能保证游戏长期可玩</p><p>看看就行的简",
+      "id": "12b0e64417ba"
     },
     {
-      "title": "Windows 游戏模拟器 CrossOver 宣布原生 Apple Silicon 支持",
-      "url": "https://www.solidot.org/story?sid=84978",
+      "title": "从拉萨到雅鲁藏布江大峡谷，我的春日西藏游记",
+      "url": "https://sspai.com/post/112843",
       "image": "",
-      "source": "Solidot",
+      "source": "少数派",
       "category": "tech",
-      "summary": "sroorz 写道：<i>\n在初代 Apple Silicon 发布六年后，CrossOver 宣布推出原生 Apple Silicon 支持，并发布了首个预览版。该软件旨在在 macOS 上运行 Windows 游戏和软件。\n\n苹果于 2020 年推出 Apple Silicon，并内置 Rose",
-      "id": "a1d36e94655d"
-    },
-    {
-      "title": "Google 为 Chrome 开发不重启打补丁功能",
-      "url": "https://www.solidot.org/story?sid=84977",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "Google 官方博客称，LLM 正在解锁自动化漏洞发现的能力，使得漏洞发现的速度以及数量都远超过去，因此需要采用新的方法应对这一新形势。它的一项应对之策是开发名为动态补丁（dynamic patching）的新功能。该功能可以在大多数情况下让 Chrome 浏览器无需重启就打上安全补丁。利用 Ch",
-      "id": "f3ef894c02db"
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/112843\" target",
+      "id": "8d2a6a2ab57e"
     },
     {
       "title": "「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账",
@@ -255,22 +282,67 @@
       "id": "c043cb863332"
     },
     {
-      "title": "App+1 | 免费、多功能的远程控制新选择：网易 UU 远程",
-      "url": "https://sspai.com/post/112405",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "从远程桌面到终端、端口映射和云电脑，网易 UU 远程帮你一站式搞定。<a href=\"https://sspai.com/post/112405\" target=\"_blank\">查看全文</a>",
-      "id": "a4bc56b13a5c"
+      "title": "Suspected 4th Coldcard attack wave sweeps 389 Bitcoin: Galaxy’s Thorn",
+      "url": "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hacker-man-cyberpunk-pupeeteer-bitcoin.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Suspected 4th Coldcard attack wave sweeps 389 Bitcoin: Galaxy’s Thorn\" class=\"",
+      "id": "f321e152940e"
     },
     {
-      "title": "在流媒体时代，搭建一个专属于自己的「音乐探索系统」",
-      "url": "https://sspai.com/post/112656",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/112656\" target",
-      "id": "509107a377ba"
+      "title": "Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2",
+      "url": "https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/1-august.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler",
+      "id": "fe0ac0cc99c0"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s",
+      "id": "772e97788bfd"
+    },
+    {
+      "title": "Strategy leaves preferred STRC dividend at 12% as price still below par",
+      "url": "https://cointelegraph.com/news/strategy-leaves-preferred-strc-dividend-at-12-price-still-below-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-michael-saylor-got-wrecked-but-bitcoin-investors-neednt-panic.png",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy leaves preferred STRC dividend at 12% as price still below par\" class",
+      "id": "a0f3296cbdfd"
+    },
+    {
+      "title": "BNB Chain pursues legal action after ex-employee’s memecoin launch",
+      "url": "https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-social-engineering-attack-bnb-chain.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BNB Chain pursues legal action after ex-employee’s memecoin launch\" class=\"typ",
+      "id": "340fab83aa6d"
+    },
+    {
+      "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
+      "url": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-on-bitcoin.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC\" class=\"type:p",
+      "id": "3a50e569ac4b"
+    },
+    {
+      "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
+      "url": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-segwit-explained2-1.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant\" class=\"typ",
+      "id": "7272d814b72c"
     },
     {
       "title": "Onchain, in court: What happened in crypto legal news this week",
@@ -282,67 +354,22 @@
       "id": "770db3ead269"
     },
     {
-      "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
-      "url": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-atm-ban.png",
-      "source": "CoinTelegraph",
+      "title": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
+      "url": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker1-gID_7.png@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Minnesota crypto ATM ban goes into effect after reported $1M losses\" class=\"ty",
-      "id": "25525d8dc1d4"
+      "summary": "Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly 1,367 BTC across 4,585 addresses.",
+      "id": "a174b53d6c6b"
     },
     {
-      "title": "Crypto PAC pours another $1M into Michigan House race",
-      "url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-votes-us.png",
-      "source": "CoinTelegraph",
+      "title": "What’s the Deal With Meta’s ‘Pervert Glasses’?",
+      "url": "https://decrypt.co/374808/whats-the-deal-with-meta-pervert-glasses",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Ray-Ban-Meta-Smart-Glasses1-gID_7.jpg@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC pours another $1M into Michigan House race\" class=\"type:primaryImag",
-      "id": "ce0f14d3990e"
-    },
-    {
-      "title": "Russia expands crypto mining ban to Moscow through 2032",
-      "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-china-mining-ban.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia expands crypto mining ban to Moscow through 2032\" class=\"type:primaryIm",
-      "id": "e791c33a2bec"
-    },
-    {
-      "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
-      "url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hand-coin-laptop-hack-bitcoin.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis\" class=\"typ",
-      "id": "2d4c0ac85a3a"
-    },
-    {
-      "title": "Bitcoin ETFs end July in the green despite late-month selling",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cmc-verified-info-deadline-1.png",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs end July in the green despite late-month selling\" class=\"type:pri",
-      "id": "16f43472c718"
-    },
-    {
-      "title": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
-      "url": "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bank-of-italy-and-crypto-recap.png",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bank of Italy finds no consistent cost advantage for stablecoin remittances\" c",
-      "id": "f20c10e65d5a"
-    },
-    {
-      "title": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
-      "url": "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-pumpfun-firing.png",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pump.fun laid off workers before they received millions in PUMP tokens: Report",
-      "id": "bf97365fd06e"
+      "summary": "Lawsuits, privacy complaints, secret recordings, and government investigations have put Meta’s AI glasses under scrutiny.",
+      "id": "af355a000502"
     },
     {
       "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'",
@@ -397,24 +424,6 @@
       "category": "crypto",
       "summary": "The latest attestation offers a snapshot of the assets backing the world's largest stablecoin, including U.S. Treasuries, repo agreements, and more th",
       "id": "9ab6c872a10e"
-    },
-    {
-      "title": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
-      "url": "https://decrypt.co/374791/circle-new-york-trust-charter-stablecoin-issuer",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/circle-logo-decrypt-style-01-gID_7.png@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "The approval comes weeks after Circle won federal approval to establish a national trust bank, adding another license as the USDC issuer expands.",
-      "id": "0816c738db29"
-    },
-    {
-      "title": "US Treasury Sanctions Iranian Firms Taking Bitcoin for Hormuz Passage",
-      "url": "https://decrypt.co/374789/us-treasury-sanctions-iranian-firms-taking-bitcoin-for-hormuz-passage",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/iran-bitcoin-decrypt-style-02-gID_7.jpg@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "OFAC sanctioned two Iranian firms including Hormuz Safe, which “accepts payment in Bitcoin and other digital assets.”",
-      "id": "61228b6c775a"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -638,67 +647,103 @@
     ],
     "tech": [
       {
-        "title": "Seedance 2.5",
-        "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+        "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+        "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49138302\">Comments</a>",
-        "id": "80facdc927bd"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49149746\">Comments</a>",
+        "id": "84b75355448f"
       },
       {
-        "title": "Go 1.27 Interactive Tour",
-        "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+        "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+        "url": "https://github.com/johnsonjh/cpm386",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49140218\">Comments</a>",
-        "id": "311ca6bae863"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49149898\">Comments</a>",
+        "id": "89f87edebe1e"
       },
       {
-        "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+        "title": "Karpathy’s Pelican",
+        "url": "https://twitter.com/karpathy/status/2083749667410727319",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49139102\">Comments</a>",
-        "id": "1a0a94ef87fb"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49140998\">Comments</a>",
+        "id": "0d52a996786f"
       },
       {
-        "title": "Postmortem for Kernel Soundness Bug #14576",
-        "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+        "title": "Autoregressive Language Model on the 6502 Processor",
+        "url": "https://mattbeton.com/blog/bitnet-6502.html",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49137060\">Comments</a>",
-        "id": "1cdfd92772dc"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49122655\">Comments</a>",
+        "id": "d3cacec3b42d"
       },
       {
-        "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
-        "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+        "title": "Show HN: Isopolis – isometric pixel map of SF",
+        "url": "https://sf.isopolis.city/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49139711\">Comments</a>",
-        "id": "51c50ead68e4"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49149966\">Comments</a>",
+        "id": "41230b25ad8a"
       },
       {
-        "title": "Unraveling the mysteries of habit formation",
-        "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+        "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+        "url": "https://github.com/wie-project/kakehashi",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49139383\">Comments</a>",
-        "id": "cb2f38c0da69"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49145937\">Comments</a>",
+        "id": "ef8ddc280680"
       },
       {
-        "title": "But can your calculator run Linux?",
-        "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+        "title": "Note-Taking and Personal Knowledge Management",
+        "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49137713\">Comments</a>",
-        "id": "bffede1a7f0e"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49084324\">Comments</a>",
+        "id": "664fa637ad68"
+      },
+      {
+        "title": "Show HN: ssh ssh.place",
+        "url": "https://ssh.place",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49149805\">Comments</a>",
+        "id": "a1ee8295b425"
+      },
+      {
+        "title": "系外行星大气中发现半重水",
+        "url": "https://www.solidot.org/story?sid=84987",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "韦伯望远镜（JWST）正以前所未有的红外线敏感度揭开宇宙面纱，除了探究早期宇宙，更开启了系外行星大气研究的新时代，而在所有观测目标中，最吸引人的莫过于生命不可或缺的关键要素——水。天文学家利用韦伯望远镜的数据，对距离地球约 700 光年的系外行星 WASP-39b 进行大气模型分析，并首度在其大气中",
+        "id": "e6cae9294519"
+      },
+      {
+        "title": "维基基金会雇佣了反工会律所",
+        "url": "https://www.solidot.org/story?sid=84986",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "维基媒体基金会于 7 月 27 日以美国科技公司的典型做法拒绝自愿认可员工工会，声明中充斥着典型的反工会言论，声称它的 342 名美国员工对加入工会持有不同的看法，它坚持要求由美国国家劳工关系委员会（NLRB）裁决维基员工组织工会的权利，其目的被认为是拖延进程、阻挠投票，以便让反工会人士有时间对基金",
+        "id": "b1394bba8375"
+      },
+      {
+        "title": "Steam 用户中使用 Linux 比例超过 4%",
+        "url": "https://www.solidot.org/story?sid=84985",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "Valve 公布了 2026 年 7 月的 Steam 硬件和软件调查，Steam 用户中使用 Linux 比例从 3 月的 5.33%、4 月的 4.52%、5 月的 3.99% 以及 6 月的 3.69% 之后再次超过 4% 达到 4.01%。Windows 操作系统的比例占 93.67%，OS",
+        "id": "2e6a4dd24e41"
       },
       {
         "title": "腾讯投资最高的 3A 游戏《最后的哨兵》陷入困境",
@@ -737,31 +782,22 @@
         "id": "8e6854d7f75a"
       },
       {
-        "title": "Arch Linux 关闭 AUR 孤儿包的领养和修改功能",
-        "url": "https://www.solidot.org/story?sid=84979",
+        "title": "派早报：DeepSeek V4 Flash 正式版发布",
+        "url": "https://sspai.com/post/113014",
         "image": "",
-        "source": "Solidot",
+        "source": "少数派",
         "category": "tech",
-        "summary": "前一段时间未知身份的攻击者创建了一系列新账号，然后通过这些账号接管无人维护的 Arch User Repository(AUR)孤儿包，植入恶意代码，推送恶意更新。Arch Linux DevOps 团队现在宣布关闭 AUR 孤儿包的领养和修改功能。AUR 中有逾 107,000 个软件包，其中近 ",
-        "id": "9c50ec04fc65"
+        "summary": "<p>DeepSeek V4 Flash 正式版发布</p><p>特朗普向科技公司频繁索要捐款</p><p>马斯克称从未讨论过出售特斯拉中国业务</p><p>国补调整后终端销售承压</p><p>风投机构重新涌入中国科技领域</p><p>统计显示实体光盘并不能保证游戏长期可玩</p><p>看看就行的简",
+        "id": "12b0e64417ba"
       },
       {
-        "title": "Windows 游戏模拟器 CrossOver 宣布原生 Apple Silicon 支持",
-        "url": "https://www.solidot.org/story?sid=84978",
+        "title": "从拉萨到雅鲁藏布江大峡谷，我的春日西藏游记",
+        "url": "https://sspai.com/post/112843",
         "image": "",
-        "source": "Solidot",
+        "source": "少数派",
         "category": "tech",
-        "summary": "sroorz 写道：<i>\n在初代 Apple Silicon 发布六年后，CrossOver 宣布推出原生 Apple Silicon 支持，并发布了首个预览版。该软件旨在在 macOS 上运行 Windows 游戏和软件。\n\n苹果于 2020 年推出 Apple Silicon，并内置 Rose",
-        "id": "a1d36e94655d"
-      },
-      {
-        "title": "Google 为 Chrome 开发不重启打补丁功能",
-        "url": "https://www.solidot.org/story?sid=84977",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "Google 官方博客称，LLM 正在解锁自动化漏洞发现的能力，使得漏洞发现的速度以及数量都远超过去，因此需要采用新的方法应对这一新形势。它的一项应对之策是开发名为动态补丁（dynamic patching）的新功能。该功能可以在大多数情况下让 Chrome 浏览器无需重启就打上安全补丁。利用 Ch",
-        "id": "f3ef894c02db"
+        "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/112843\" target",
+        "id": "8d2a6a2ab57e"
       },
       {
         "title": "「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账",
@@ -818,24 +854,6 @@
         "id": "c043cb863332"
       },
       {
-        "title": "App+1 | 免费、多功能的远程控制新选择：网易 UU 远程",
-        "url": "https://sspai.com/post/112405",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "从远程桌面到终端、端口映射和云电脑，网易 UU 远程帮你一站式搞定。<a href=\"https://sspai.com/post/112405\" target=\"_blank\">查看全文</a>",
-        "id": "a4bc56b13a5c"
-      },
-      {
-        "title": "在流媒体时代，搭建一个专属于自己的「音乐探索系统」",
-        "url": "https://sspai.com/post/112656",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/112656\" target",
-        "id": "509107a377ba"
-      },
-      {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
         "source": "MacRumors",
         "category": "tech",
@@ -874,6 +892,69 @@
     ],
     "crypto": [
       {
+        "title": "Suspected 4th Coldcard attack wave sweeps 389 Bitcoin: Galaxy’s Thorn",
+        "url": "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hacker-man-cyberpunk-pupeeteer-bitcoin.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Suspected 4th Coldcard attack wave sweeps 389 Bitcoin: Galaxy’s Thorn\" class=\"",
+        "id": "f321e152940e"
+      },
+      {
+        "title": "Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2",
+        "url": "https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/1-august.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler",
+        "id": "fe0ac0cc99c0"
+      },
+      {
+        "title": "Here’s what happened in crypto today",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s",
+        "id": "772e97788bfd"
+      },
+      {
+        "title": "Strategy leaves preferred STRC dividend at 12% as price still below par",
+        "url": "https://cointelegraph.com/news/strategy-leaves-preferred-strc-dividend-at-12-price-still-below-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-michael-saylor-got-wrecked-but-bitcoin-investors-neednt-panic.png",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy leaves preferred STRC dividend at 12% as price still below par\" class",
+        "id": "a0f3296cbdfd"
+      },
+      {
+        "title": "BNB Chain pursues legal action after ex-employee’s memecoin launch",
+        "url": "https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-social-engineering-attack-bnb-chain.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BNB Chain pursues legal action after ex-employee’s memecoin launch\" class=\"typ",
+        "id": "340fab83aa6d"
+      },
+      {
+        "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
+        "url": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-on-bitcoin.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC\" class=\"type:p",
+        "id": "3a50e569ac4b"
+      },
+      {
+        "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
+        "url": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-segwit-explained2-1.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant\" class=\"typ",
+        "id": "7272d814b72c"
+      },
+      {
         "title": "Onchain, in court: What happened in crypto legal news this week",
         "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "image": "https://s3-images.ctmedia.io/media/article-covers/hi-5-key-highlights-of-the-secs-lawsuit-against-binance.jpg",
@@ -883,67 +964,22 @@
         "id": "770db3ead269"
       },
       {
-        "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
-        "url": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-atm-ban.png",
-        "source": "CoinTelegraph",
+        "title": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
+        "url": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker1-gID_7.png@png",
+        "source": "Decrypt",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Minnesota crypto ATM ban goes into effect after reported $1M losses\" class=\"ty",
-        "id": "25525d8dc1d4"
+        "summary": "Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly 1,367 BTC across 4,585 addresses.",
+        "id": "a174b53d6c6b"
       },
       {
-        "title": "Crypto PAC pours another $1M into Michigan House race",
-        "url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-votes-us.png",
-        "source": "CoinTelegraph",
+        "title": "What’s the Deal With Meta’s ‘Pervert Glasses’?",
+        "url": "https://decrypt.co/374808/whats-the-deal-with-meta-pervert-glasses",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Ray-Ban-Meta-Smart-Glasses1-gID_7.jpg@png",
+        "source": "Decrypt",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC pours another $1M into Michigan House race\" class=\"type:primaryImag",
-        "id": "ce0f14d3990e"
-      },
-      {
-        "title": "Russia expands crypto mining ban to Moscow through 2032",
-        "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-china-mining-ban.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia expands crypto mining ban to Moscow through 2032\" class=\"type:primaryIm",
-        "id": "e791c33a2bec"
-      },
-      {
-        "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
-        "url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hand-coin-laptop-hack-bitcoin.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis\" class=\"typ",
-        "id": "2d4c0ac85a3a"
-      },
-      {
-        "title": "Bitcoin ETFs end July in the green despite late-month selling",
-        "url": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cmc-verified-info-deadline-1.png",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs end July in the green despite late-month selling\" class=\"type:pri",
-        "id": "16f43472c718"
-      },
-      {
-        "title": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
-        "url": "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bank-of-italy-and-crypto-recap.png",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bank of Italy finds no consistent cost advantage for stablecoin remittances\" c",
-        "id": "f20c10e65d5a"
-      },
-      {
-        "title": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
-        "url": "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-pumpfun-firing.png",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pump.fun laid off workers before they received millions in PUMP tokens: Report",
-        "id": "bf97365fd06e"
+        "summary": "Lawsuits, privacy complaints, secret recordings, and government investigations have put Meta’s AI glasses under scrutiny.",
+        "id": "af355a000502"
       },
       {
         "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'",
@@ -998,24 +1034,6 @@
         "category": "crypto",
         "summary": "The latest attestation offers a snapshot of the assets backing the world's largest stablecoin, including U.S. Treasuries, repo agreements, and more th",
         "id": "9ab6c872a10e"
-      },
-      {
-        "title": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
-        "url": "https://decrypt.co/374791/circle-new-york-trust-charter-stablecoin-issuer",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/circle-logo-decrypt-style-01-gID_7.png@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "The approval comes weeks after Circle won federal approval to establish a national trust bank, adding another license as the USDC issuer expands.",
-        "id": "0816c738db29"
-      },
-      {
-        "title": "US Treasury Sanctions Iranian Firms Taking Bitcoin for Hormuz Passage",
-        "url": "https://decrypt.co/374789/us-treasury-sanctions-iranian-firms-taking-bitcoin-for-hormuz-passage",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/iran-bitcoin-decrypt-style-02-gID_7.jpg@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "OFAC sanctioned two Iranian firms including Hormuz Safe, which “accepts payment in Bitcoin and other digital assets.”",
-        "id": "61228b6c775a"
       },
       {
         "title": "比特币突破 80000 美元",
