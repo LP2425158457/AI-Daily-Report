@@ -1,78 +1,78 @@
 {
-  "last_updated": "2026-08-15T00:48:14.684067",
+  "last_updated": "2026-08-16T00:51:16.795632",
   "total": 59,
   "news": [
     {
-      "title": "Qwen 3.8 27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49299605\">Comments</a>",
-      "id": "fa22c46be1f2"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49311651\">Comments</a>",
+      "id": "1039344bcf5d"
     },
     {
-      "title": "Going Dark, and the era of law enforcement hacking",
-      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49304447\">Comments</a>",
-      "id": "7762e863f989"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49314235\">Comments</a>",
+      "id": "40b24ba8a03a"
     },
     {
-      "title": "RISC-V: They should have known better",
+      "title": "Abdominal fat predicts heart disease risk better than BMI",
+      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49314403\">Comments</a>",
+      "id": "fb2635eb2677"
+    },
+    {
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49313367\">Comments</a>",
+      "id": "ddffd1e41aa1"
+    },
+    {
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49310682\">Comments</a>",
+      "id": "71ad64336157"
+    },
+    {
+      "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+      "url": "https://sugartrack-beta.vercel.app/",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49314884\">Comments</a>",
+      "id": "b7475c5397b2"
+    },
+    {
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49312845\">Comments</a>",
+      "id": "9cbfa783320f"
+    },
+    {
+      "title": "RISC-V: They Should Have Known Better",
       "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49305492\">Comments</a>",
-      "id": "dd8b6e310323"
-    },
-    {
-      "title": "The case for overhauling American science",
-      "url": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49305708\">Comments</a>",
-      "id": "e2f14034d079"
-    },
-    {
-      "title": "Why does Opus 5 feel worse to work with?",
-      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49296740\">Comments</a>",
-      "id": "ffd5e2dde90c"
-    },
-    {
-      "title": "RustDesk now supports true unattended remote access on Wayland",
-      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49300759\">Comments</a>",
-      "id": "a109be7f02de"
-    },
-    {
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49300314\">Comments</a>",
-      "id": "ea50dd0c2593"
-    },
-    {
-      "title": "Super Mario Derivations",
-      "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49215682\">Comments</a>",
-      "id": "24a12e65526b"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49298035\">Comments</a>",
+      "id": "057e86d1b345"
     },
     {
       "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
@@ -147,6 +147,42 @@
       "id": "b29a3e4098b2"
     },
     {
+      "title": "俄罗斯导弹使用了英伟达的 Jetson Orin",
+      "url": "https://www.solidot.org/story?sid=85104",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "俄罗斯新型 S-71“Monochrome”巡航航空被发现使用了英伟达的 Jetson Orin 计算模块。俄罗斯使用的是 2023 年推出的 Jetson Orin NX 16GB 模块，而英伟达则在 2022 年初就退出了俄罗斯市场，这意味俄罗斯是通过其它渠道获得英伟达芯片的。英伟达表示，Jet",
+      "id": "dbdfc861c7fc"
+    },
+    {
+      "title": "年轻美国人日益不信任 AI 及 AI 公司高管",
+      "url": "https://www.solidot.org/story?sid=85103",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "对 1088 名年龄在 18-34 岁美国人的调查发现，绝大多数受访者表示不信任投资 AI 的大公司高管，包括 Elon Musk、Sam Altman 和 Mark Zuckerberg。45% 的受访者认为 AI 会对其职业生涯产生负面影响，只有 10% 的人认为 AI 会对他们有帮助。年轻人对",
+      "id": "5195828b7981"
+    },
+    {
+      "title": "身陷剽窃丑闻的前剑桥大学教授死亡",
+      "url": "https://www.solidot.org/story?sid=85102",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "身陷剽窃丑闻的前剑桥大学教授 Jason Arday 在伦敦死亡，年仅 41 岁。Jason Arday 于 2023 年获剑桥大学任命为教育社会学教授，成为该校历史上最年轻的黑人教授。2026 年初，他被曝出论文抄袭和学术不端，被指抄袭行为明目张胆。他此前做出的大量虚假陈述也引起广泛关注。他声称自",
+      "id": "8faab7e9a01e"
+    },
+    {
+      "title": "法国宪法委员会否决青少年社媒禁令",
+      "url": "https://www.solidot.org/story?sid=85101",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "法国宪法委员会否决了禁止 15 岁以下儿童使用社媒的法案，裁定该法律过度限制了言论自由，且缺乏足够的年龄验证隐私保护措施。总统马克龙(Emmanuel Macron)要求政府修改法案，目标是在 2027 年春季前推出修订版本。宪法委员会认为，一方面有争议的条款过度侵犯言论和通信自由；另一方面未能提供",
+      "id": "aaede3c554c2"
+    },
+    {
       "title": "GLP-1 减肥药将五年糖尿病风险降低 26%",
       "url": "https://www.solidot.org/story?sid=85100",
       "image": "",
@@ -174,40 +210,13 @@
       "id": "ec0014297561"
     },
     {
-      "title": "uBlock Origin 放弃与 Facebook 的猫鼠游戏",
-      "url": "https://www.solidot.org/story?sid=85096",
+      "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
+      "url": "https://sspai.com/post/111974",
       "image": "",
-      "source": "Solidot",
+      "source": "少数派",
       "category": "tech",
-      "summary": "恼人的 Facebook 广告一直是广告屏蔽工具过滤的对象，而 Meta 的工程师也不断迭代广告技术以绕过广告屏蔽工具的过滤。这种猫鼠游戏持续了如此长时间以至于广告屏蔽工具的开发者都受不了，流行广告屏蔽扩展 uBlock Origin 的开发者宣布他们放弃继续反制 Facebook 的广告技术。一位",
-      "id": "4ef3e78b8bf4"
-    },
-    {
-      "title": "苹果与阿里巴巴合作为中国市场训练专用大模型",
-      "url": "https://www.solidot.org/story?sid=85095",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "苹果与阿里巴巴合作为中国市场训练了一个大模型。此前苹果倾向于使用中国合作伙伴的模型为在中国销售的 iPhone&nbsp; 等设备提供生成式 AI 功能。苹果的 AI 功能 Apple Intelligence 预计将在未来几个月通过 iOS 更新在中国推出。苹果推出专为中国市场定制的 AI 模型，",
-      "id": "0da893f21044"
-    },
-    {
-      "title": "YouTube 要求新内容创作者一年至少 8000 小时观看量才能获得收入",
-      "url": "https://www.solidot.org/story?sid=85094",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "YouTube 宣布新内容创作者需要达到更高的门槛才能开始通过广告和订阅获得收入。想要通过 YouTube 平台获利的创作者，需要过去一年内至少获得 8000 小时的有效观看时长，或者在过去 90 天内获得 2000 万次的 Shorts 有效短视频观看量。此前创作者只需要过去一年内有 1000 名",
-      "id": "3e54d7d9ad9a"
-    },
-    {
-      "title": "VLC 因 Microsoft Defender 而启动缓慢",
-      "url": "https://www.solidot.org/story?sid=85093",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "《Braid》和《The Witness》作者 Jonathan Blow 在社媒上称，在 Windows 上使用 VLC 启动播放一个 MP3 文件需要 33 秒钟，他因此改用了微软官方的 Microsoft Media Player，批评开源软件问题太多。此事引发了广泛讨论。VLC 官方回应称，",
-      "id": "9f42c7769f42"
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/111974\" target",
+      "id": "0150bcf21147"
     },
     {
       "title": "本周看什么 | 最近值得一看的 9 部作品",
@@ -273,13 +282,67 @@
       "id": "71ef71bdba11"
     },
     {
-      "title": "TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验",
-      "url": "https://sspai.com/post/113338",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "SQ1TW2NC 的声音素质、编码配置和降噪综合能力，应该都算是在国内同价位甚至更低价位主流新产品面前不太拿得出手的水平，没有特别明显的功能层面的长板，但你会发现即使如此，它依然有一些点值得国内品牌学习。<a href=\"https://sspai.com/post/113338\" target=\"",
-      "id": "19a9c094ab27"
+      "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
+      "url": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bond-follow-up-bybit-2.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup\" class=\"type:prim",
+      "id": "79b2825dba18"
+    },
+    {
+      "title": "Tokenized stock holders more than double as monthly volume surges",
+      "url": "https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/blockchain-waterfall-rwa.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tokenized stock holders more than double as monthly volume surges\" class=\"type",
+      "id": "a6412bb9461e"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s",
+      "id": "772e97788bfd"
+    },
+    {
+      "title": "Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen",
+      "url": "https://cointelegraph.com/magazine/bitcoin-1m-by-2030-is-mathematically-impossible-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/interview-markus-thielen.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen \" cl",
+      "id": "c1da8b8a6f3f"
+    },
+    {
+      "title": "Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says",
+      "url": "https://cointelegraph.com/markets/bitcoin-bottom-october-altcoins-basically-dead-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/analytics-red-market-falling-drop-bitcoin-2.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says\"",
+      "id": "0e1ade5b24fb"
+    },
+    {
+      "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
+      "url": "https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-paying-the-price-kalshi-banned-politician-for-insider-trading-2.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi ordered to stop broad range of prediction markets in Washington\" class=",
+      "id": "9a6563836441"
+    },
+    {
+      "title": "Galaxy lowers CLARITY Act odds to 10%",
+      "url": "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-senate-infrastructure-bill-doom-and-gloom-for-memecoin-trump.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Galaxy lowers CLARITY Act odds to 10%\" class=\"type:primaryImage\" src=\"https://",
+      "id": "7e0fa1423b0e"
     },
     {
       "title": "Gen Z favors ETFs and trades less than older cohorts: Binance",
@@ -291,67 +354,31 @@
       "id": "3e917ef4b36d"
     },
     {
-      "title": "Ireland plans industry standards for illicit crypto use",
-      "url": "https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/irish-dance-crypto.jpg",
-      "source": "CoinTelegraph",
+      "title": "Apple Turns to Alibaba to Help Build AI Model for China",
+      "url": "https://decrypt.co/375724/apple-alibaba-build-ai-model-china",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ireland plans industry standards for illicit crypto use\" class=\"type:primaryIm",
-      "id": "726f772600aa"
+      "summary": "Apple is pairing its in-house model with Alibaba’s Qwen as it prepares to bring Apple Intelligence to Chinese iPhones.",
+      "id": "7068900e4fbc"
     },
     {
-      "title": "Dartmouth endowment’s crypto exposure drops by $2M amid falling prices",
-      "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/studentcoinman.jpg",
-      "source": "CoinTelegraph",
+      "title": "Meta Patents Cameras That Recognize Faces and Log Your Actions",
+      "url": "https://decrypt.co/375698/meta-patents-cameras-recognize-faces-log-actions",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Ray-Ban-Meta-Smart-Glasses1-gID_7.jpg@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dartmouth endowment’s crypto exposure drops by $2M amid falling prices\" class=",
-      "id": "94b6af39856d"
+      "summary": "The filing would turn raw footage into labeled clips of who did what, without anyone opting in.",
+      "id": "6c95bccb18ad"
     },
     {
-      "title": "Kraken parent Payward revenue rises 17% as trading volume falls in Q2",
-      "url": "https://cointelegraph.com/news/kraken-parent-payward-revenue-rises-as-trading-volume-falls-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-5-ways-to-make-money-with-cryptocurrency-ai.png",
-      "source": "CoinTelegraph",
+      "title": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin",
+      "url": "https://decrypt.co/375726/trump-world-liberty-bank-charter-usd1-stablecoin",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Trump-Coin-decrypt-style-01-gID_7.png@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken parent Payward revenue rises 17% as trading volume falls in Q2\" class=\"",
-      "id": "17bbd6a7a9f1"
-    },
-    {
-      "title": "UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win",
-      "url": "https://cointelegraph.com/news/uk-investigation-nigel-farage-crypto-donations-by-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-j-crypto-donations-in-politics-uk.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-elec",
-      "id": "7b4e2f80b600"
-    },
-    {
-      "title": "Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
-      "url": "https://cointelegraph.com/news/israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-21-is-betting-on-10-cryptos-not-just-bitcoin-and-ethereum-zz.png",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading\" cla",
-      "id": "2affd64689c0"
-    },
-    {
-      "title": "Crypto Biz: Bitcoin’s $116M self-custody wake-up call",
-      "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-self-custody-etf-inflows-strategy-riot-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/coma-crypto-market-falling-bitcoin-1.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Bitcoin’s $116M self-custody wake-up call\" class=\"type:primaryImag",
-      "id": "ddbeff14a5e2"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s",
-      "id": "772e97788bfd"
+      "summary": "The proposed World Liberty Trust Company would take over issuance of the USD1 stablecoin from BitGo.",
+      "id": "54ae16b80fe4"
     },
     {
       "title": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
@@ -397,33 +424,6 @@
       "category": "crypto",
       "summary": "Galaxy Research says the lull likely means vulnerable holders migrated, or were already emptied.",
       "id": "4623a1ab8570"
-    },
-    {
-      "title": "Israel’s Largest Bank Will Give Bitcoin Trading Another Try",
-      "url": "https://decrypt.co/375665/israel-largest-bank-leumi-bitcoin-trading",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Israel-Flag-DecryptStyle-gID_7.jpg@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Bank Leumi's 2022 attempt died at the Bank of Israel. A softer regulatory line and Galaxy's custody stack now give it another shot in early 2027.",
-      "id": "dc6a5624c760"
-    },
-    {
-      "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
-      "url": "https://decrypt.co/375655/bitcoin-miner-sells-btc-ai-pivot-hyperscale",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-mining-decrypt-style-04-gID_7.png@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Bitcoin miner Hyperscale sold most of its Bitcoin but said it plans to rebuild its holdings through mining and future purchases.",
-      "id": "9905f2b87db5"
-    },
-    {
-      "title": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
-      "url": "https://decrypt.co/375653/fake-linkedin-crypto-job-scams-have-cost-11-8m-singapore",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/malware-decrypt-style-02-gID_7.jpg@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Malware planted during a bogus coding assessment harvested a session token, bypassing multi-factor authentication to reach a code repository.",
-      "id": "7686f76cdefb"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -647,76 +647,112 @@
     ],
     "tech": [
       {
-        "title": "Qwen 3.8 27B",
-        "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+        "title": "Semaglutide linked to lower predicted dementia risk",
+        "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49299605\">Comments</a>",
-        "id": "fa22c46be1f2"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49311651\">Comments</a>",
+        "id": "1039344bcf5d"
       },
       {
-        "title": "Going Dark, and the era of law enforcement hacking",
-        "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+        "title": "Cultivating a state of mind where new ideas are born (2023)",
+        "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49304447\">Comments</a>",
-        "id": "7762e863f989"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49314235\">Comments</a>",
+        "id": "40b24ba8a03a"
       },
       {
-        "title": "RISC-V: They should have known better",
+        "title": "Abdominal fat predicts heart disease risk better than BMI",
+        "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49314403\">Comments</a>",
+        "id": "fb2635eb2677"
+      },
+      {
+        "title": "AI in drug discovery – what it is, where we stand and the path forward",
+        "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49313367\">Comments</a>",
+        "id": "ddffd1e41aa1"
+      },
+      {
+        "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+        "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49310682\">Comments</a>",
+        "id": "71ad64336157"
+      },
+      {
+        "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+        "url": "https://sugartrack-beta.vercel.app/",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49314884\">Comments</a>",
+        "id": "b7475c5397b2"
+      },
+      {
+        "title": "AI has access to a vastly larger working memory than the human brain",
+        "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49312845\">Comments</a>",
+        "id": "9cbfa783320f"
+      },
+      {
+        "title": "RISC-V: They Should Have Known Better",
         "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49305492\">Comments</a>",
-        "id": "dd8b6e310323"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49298035\">Comments</a>",
+        "id": "057e86d1b345"
       },
       {
-        "title": "The case for overhauling American science",
-        "url": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
+        "title": "俄罗斯导弹使用了英伟达的 Jetson Orin",
+        "url": "https://www.solidot.org/story?sid=85104",
         "image": "",
-        "source": "Hacker News",
+        "source": "Solidot",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49305708\">Comments</a>",
-        "id": "e2f14034d079"
+        "summary": "俄罗斯新型 S-71“Monochrome”巡航航空被发现使用了英伟达的 Jetson Orin 计算模块。俄罗斯使用的是 2023 年推出的 Jetson Orin NX 16GB 模块，而英伟达则在 2022 年初就退出了俄罗斯市场，这意味俄罗斯是通过其它渠道获得英伟达芯片的。英伟达表示，Jet",
+        "id": "dbdfc861c7fc"
       },
       {
-        "title": "Why does Opus 5 feel worse to work with?",
-        "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+        "title": "年轻美国人日益不信任 AI 及 AI 公司高管",
+        "url": "https://www.solidot.org/story?sid=85103",
         "image": "",
-        "source": "Hacker News",
+        "source": "Solidot",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49296740\">Comments</a>",
-        "id": "ffd5e2dde90c"
+        "summary": "对 1088 名年龄在 18-34 岁美国人的调查发现，绝大多数受访者表示不信任投资 AI 的大公司高管，包括 Elon Musk、Sam Altman 和 Mark Zuckerberg。45% 的受访者认为 AI 会对其职业生涯产生负面影响，只有 10% 的人认为 AI 会对他们有帮助。年轻人对",
+        "id": "5195828b7981"
       },
       {
-        "title": "RustDesk now supports true unattended remote access on Wayland",
-        "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+        "title": "身陷剽窃丑闻的前剑桥大学教授死亡",
+        "url": "https://www.solidot.org/story?sid=85102",
         "image": "",
-        "source": "Hacker News",
+        "source": "Solidot",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49300759\">Comments</a>",
-        "id": "a109be7f02de"
+        "summary": "身陷剽窃丑闻的前剑桥大学教授 Jason Arday 在伦敦死亡，年仅 41 岁。Jason Arday 于 2023 年获剑桥大学任命为教育社会学教授，成为该校历史上最年轻的黑人教授。2026 年初，他被曝出论文抄袭和学术不端，被指抄袭行为明目张胆。他此前做出的大量虚假陈述也引起广泛关注。他声称自",
+        "id": "8faab7e9a01e"
       },
       {
-        "title": "Google is making private AI practical with homomorphic encryption",
-        "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+        "title": "法国宪法委员会否决青少年社媒禁令",
+        "url": "https://www.solidot.org/story?sid=85101",
         "image": "",
-        "source": "Hacker News",
+        "source": "Solidot",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49300314\">Comments</a>",
-        "id": "ea50dd0c2593"
-      },
-      {
-        "title": "Super Mario Derivations",
-        "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
-        "image": "",
-        "source": "Hacker News",
-        "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49215682\">Comments</a>",
-        "id": "24a12e65526b"
+        "summary": "法国宪法委员会否决了禁止 15 岁以下儿童使用社媒的法案，裁定该法律过度限制了言论自由，且缺乏足够的年龄验证隐私保护措施。总统马克龙(Emmanuel Macron)要求政府修改法案，目标是在 2027 年春季前推出修订版本。宪法委员会认为，一方面有争议的条款过度侵犯言论和通信自由；另一方面未能提供",
+        "id": "aaede3c554c2"
       },
       {
         "title": "GLP-1 减肥药将五年糖尿病风险降低 26%",
@@ -746,40 +782,13 @@
         "id": "ec0014297561"
       },
       {
-        "title": "uBlock Origin 放弃与 Facebook 的猫鼠游戏",
-        "url": "https://www.solidot.org/story?sid=85096",
+        "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
+        "url": "https://sspai.com/post/111974",
         "image": "",
-        "source": "Solidot",
+        "source": "少数派",
         "category": "tech",
-        "summary": "恼人的 Facebook 广告一直是广告屏蔽工具过滤的对象，而 Meta 的工程师也不断迭代广告技术以绕过广告屏蔽工具的过滤。这种猫鼠游戏持续了如此长时间以至于广告屏蔽工具的开发者都受不了，流行广告屏蔽扩展 uBlock Origin 的开发者宣布他们放弃继续反制 Facebook 的广告技术。一位",
-        "id": "4ef3e78b8bf4"
-      },
-      {
-        "title": "苹果与阿里巴巴合作为中国市场训练专用大模型",
-        "url": "https://www.solidot.org/story?sid=85095",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "苹果与阿里巴巴合作为中国市场训练了一个大模型。此前苹果倾向于使用中国合作伙伴的模型为在中国销售的 iPhone&nbsp; 等设备提供生成式 AI 功能。苹果的 AI 功能 Apple Intelligence 预计将在未来几个月通过 iOS 更新在中国推出。苹果推出专为中国市场定制的 AI 模型，",
-        "id": "0da893f21044"
-      },
-      {
-        "title": "YouTube 要求新内容创作者一年至少 8000 小时观看量才能获得收入",
-        "url": "https://www.solidot.org/story?sid=85094",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "YouTube 宣布新内容创作者需要达到更高的门槛才能开始通过广告和订阅获得收入。想要通过 YouTube 平台获利的创作者，需要过去一年内至少获得 8000 小时的有效观看时长，或者在过去 90 天内获得 2000 万次的 Shorts 有效短视频观看量。此前创作者只需要过去一年内有 1000 名",
-        "id": "3e54d7d9ad9a"
-      },
-      {
-        "title": "VLC 因 Microsoft Defender 而启动缓慢",
-        "url": "https://www.solidot.org/story?sid=85093",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "《Braid》和《The Witness》作者 Jonathan Blow 在社媒上称，在 Windows 上使用 VLC 启动播放一个 MP3 文件需要 33 秒钟，他因此改用了微软官方的 Microsoft Media Player，批评开源软件问题太多。此事引发了广泛讨论。VLC 官方回应称，",
-        "id": "9f42c7769f42"
+        "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/111974\" target",
+        "id": "0150bcf21147"
       },
       {
         "title": "本周看什么 | 最近值得一看的 9 部作品",
@@ -845,15 +854,6 @@
         "id": "71ef71bdba11"
       },
       {
-        "title": "TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验",
-        "url": "https://sspai.com/post/113338",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "SQ1TW2NC 的声音素质、编码配置和降噪综合能力，应该都算是在国内同价位甚至更低价位主流新产品面前不太拿得出手的水平，没有特别明显的功能层面的长板，但你会发现即使如此，它依然有一些点值得国内品牌学习。<a href=\"https://sspai.com/post/113338\" target=\"",
-        "id": "19a9c094ab27"
-      },
-      {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
         "source": "MacRumors",
         "category": "tech",
@@ -892,67 +892,22 @@
     ],
     "crypto": [
       {
-        "title": "Gen Z favors ETFs and trades less than older cohorts: Binance",
-        "url": "https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cryptocurrency-can-actually-make-a-difference-by-helping-people-binance.png",
+        "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
+        "url": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bond-follow-up-bybit-2.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gen Z favors ETFs and trades less than older cohorts: Binance\" class=\"type:pri",
-        "id": "3e917ef4b36d"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup\" class=\"type:prim",
+        "id": "79b2825dba18"
       },
       {
-        "title": "Ireland plans industry standards for illicit crypto use",
-        "url": "https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/irish-dance-crypto.jpg",
+        "title": "Tokenized stock holders more than double as monthly volume surges",
+        "url": "https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/blockchain-waterfall-rwa.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ireland plans industry standards for illicit crypto use\" class=\"type:primaryIm",
-        "id": "726f772600aa"
-      },
-      {
-        "title": "Dartmouth endowment’s crypto exposure drops by $2M amid falling prices",
-        "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/studentcoinman.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dartmouth endowment’s crypto exposure drops by $2M amid falling prices\" class=",
-        "id": "94b6af39856d"
-      },
-      {
-        "title": "Kraken parent Payward revenue rises 17% as trading volume falls in Q2",
-        "url": "https://cointelegraph.com/news/kraken-parent-payward-revenue-rises-as-trading-volume-falls-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-5-ways-to-make-money-with-cryptocurrency-ai.png",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken parent Payward revenue rises 17% as trading volume falls in Q2\" class=\"",
-        "id": "17bbd6a7a9f1"
-      },
-      {
-        "title": "UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win",
-        "url": "https://cointelegraph.com/news/uk-investigation-nigel-farage-crypto-donations-by-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-j-crypto-donations-in-politics-uk.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-elec",
-        "id": "7b4e2f80b600"
-      },
-      {
-        "title": "Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
-        "url": "https://cointelegraph.com/news/israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-21-is-betting-on-10-cryptos-not-just-bitcoin-and-ethereum-zz.png",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading\" cla",
-        "id": "2affd64689c0"
-      },
-      {
-        "title": "Crypto Biz: Bitcoin’s $116M self-custody wake-up call",
-        "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-self-custody-etf-inflows-strategy-riot-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/coma-crypto-market-falling-bitcoin-1.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Bitcoin’s $116M self-custody wake-up call\" class=\"type:primaryImag",
-        "id": "ddbeff14a5e2"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tokenized stock holders more than double as monthly volume surges\" class=\"type",
+        "id": "a6412bb9461e"
       },
       {
         "title": "Here’s what happened in crypto today",
@@ -962,6 +917,78 @@
         "category": "crypto",
         "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s",
         "id": "772e97788bfd"
+      },
+      {
+        "title": "Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen",
+        "url": "https://cointelegraph.com/magazine/bitcoin-1m-by-2030-is-mathematically-impossible-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/interview-markus-thielen.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen \" cl",
+        "id": "c1da8b8a6f3f"
+      },
+      {
+        "title": "Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says",
+        "url": "https://cointelegraph.com/markets/bitcoin-bottom-october-altcoins-basically-dead-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/analytics-red-market-falling-drop-bitcoin-2.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says\"",
+        "id": "0e1ade5b24fb"
+      },
+      {
+        "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
+        "url": "https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-paying-the-price-kalshi-banned-politician-for-insider-trading-2.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi ordered to stop broad range of prediction markets in Washington\" class=",
+        "id": "9a6563836441"
+      },
+      {
+        "title": "Galaxy lowers CLARITY Act odds to 10%",
+        "url": "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-senate-infrastructure-bill-doom-and-gloom-for-memecoin-trump.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Galaxy lowers CLARITY Act odds to 10%\" class=\"type:primaryImage\" src=\"https://",
+        "id": "7e0fa1423b0e"
+      },
+      {
+        "title": "Gen Z favors ETFs and trades less than older cohorts: Binance",
+        "url": "https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cryptocurrency-can-actually-make-a-difference-by-helping-people-binance.png",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gen Z favors ETFs and trades less than older cohorts: Binance\" class=\"type:pri",
+        "id": "3e917ef4b36d"
+      },
+      {
+        "title": "Apple Turns to Alibaba to Help Build AI Model for China",
+        "url": "https://decrypt.co/375724/apple-alibaba-build-ai-model-china",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "Apple is pairing its in-house model with Alibaba’s Qwen as it prepares to bring Apple Intelligence to Chinese iPhones.",
+        "id": "7068900e4fbc"
+      },
+      {
+        "title": "Meta Patents Cameras That Recognize Faces and Log Your Actions",
+        "url": "https://decrypt.co/375698/meta-patents-cameras-recognize-faces-log-actions",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Ray-Ban-Meta-Smart-Glasses1-gID_7.jpg@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "The filing would turn raw footage into labeled clips of who did what, without anyone opting in.",
+        "id": "6c95bccb18ad"
+      },
+      {
+        "title": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin",
+        "url": "https://decrypt.co/375726/trump-world-liberty-bank-charter-usd1-stablecoin",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Trump-Coin-decrypt-style-01-gID_7.png@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "The proposed World Liberty Trust Company would take over issuance of the USD1 stablecoin from BitGo.",
+        "id": "54ae16b80fe4"
       },
       {
         "title": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
@@ -1007,33 +1034,6 @@
         "category": "crypto",
         "summary": "Galaxy Research says the lull likely means vulnerable holders migrated, or were already emptied.",
         "id": "4623a1ab8570"
-      },
-      {
-        "title": "Israel’s Largest Bank Will Give Bitcoin Trading Another Try",
-        "url": "https://decrypt.co/375665/israel-largest-bank-leumi-bitcoin-trading",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Israel-Flag-DecryptStyle-gID_7.jpg@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Bank Leumi's 2022 attempt died at the Bank of Israel. A softer regulatory line and Galaxy's custody stack now give it another shot in early 2027.",
-        "id": "dc6a5624c760"
-      },
-      {
-        "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
-        "url": "https://decrypt.co/375655/bitcoin-miner-sells-btc-ai-pivot-hyperscale",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-mining-decrypt-style-04-gID_7.png@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Bitcoin miner Hyperscale sold most of its Bitcoin but said it plans to rebuild its holdings through mining and future purchases.",
-        "id": "9905f2b87db5"
-      },
-      {
-        "title": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
-        "url": "https://decrypt.co/375653/fake-linkedin-crypto-job-scams-have-cost-11-8m-singapore",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/malware-decrypt-style-02-gID_7.jpg@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Malware planted during a bogus coding assessment harvested a session token, bypassing multi-factor authentication to reach a code repository.",
-        "id": "7686f76cdefb"
       },
       {
         "title": "比特币突破 80000 美元",
