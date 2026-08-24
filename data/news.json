@@ -1,51 +1,78 @@
 {
-  "last_updated": "2026-08-23T00:52:28.654072",
-  "total": 57,
+  "last_updated": "2026-08-24T00:50:58.363516",
+  "total": 60,
   "news": [
     {
-      "title": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "title": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49404380\">Comments</a>",
-      "id": "0bcd39fa0e88"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49413320\">Comments</a>",
+      "id": "fe17f10a57b8"
     },
     {
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "title": "How I find problems to solve as a staff engineer",
+      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49402232\">Comments</a>",
-      "id": "b304cadaa14d"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49411643\">Comments</a>",
+      "id": "cea8eda227b5"
     },
     {
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "url": "https://quantumi.sh/public/labs.html",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49400408\">Comments</a>",
-      "id": "cfcbc99a6125"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49411102\">Comments</a>",
+      "id": "6495b127927d"
     },
     {
-      "title": "Hister – A private, full content search index that you control",
-      "url": "https://hister.org/",
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49351802\">Comments</a>",
-      "id": "b907b34f5bd7"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49411717\">Comments</a>",
+      "id": "f88c0ddb2e0b"
     },
     {
-      "title": "NetBSD and my life (2005)",
-      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "title": "AI Chip Architectures",
+      "url": "https://www.jepeake.com/ai-chip-architectures",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49402781\">Comments</a>",
-      "id": "e4622fbab5b3"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49405657\">Comments</a>",
+      "id": "e8c41a9236dd"
+    },
+    {
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49410932\">Comments</a>",
+      "id": "a3c331cecbea"
+    },
+    {
+      "title": "What Is a Harness?",
+      "url": "https://earendil.com/posts/what-is-a-harness/",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49409092\">Comments</a>",
+      "id": "fba6bf795b98"
+    },
+    {
+      "title": "How Complex Systems Fail (1998)",
+      "url": "https://how.complexsystems.fail/",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49409473\">Comments</a>",
+      "id": "6d269d4d9a69"
     },
     {
       "title": "The Download: threats from space mirrors and credit for AI drugs",
@@ -120,6 +147,42 @@
       "id": "28b4ad2ac1e8"
     },
     {
+      "title": "机器人短跑超越人类，但刹住是问题",
+      "url": "https://www.solidot.org/story?sid=85169",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "为期五天的世界人形机器人运动会于周六在北京开幕。运动会共设 51 个项目，包括 30 项体育竞技和 21 项场景化竞赛。超过 40% 的项目要求机器人完全自主运行。在 8 月 22 日的首日赛事中，两台机器人跑出了比人类百米世界纪录(9.58秒)保持者博尔特(Usain Bolt)更快的成绩，相比去",
+      "id": "11e9d67a27af"
+    },
+    {
+      "title": "卡巴斯基发现第一种针对汽车的 Android 恶意程序",
+      "url": "https://www.solidot.org/story?sid=85168",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "俄罗斯安全公司卡巴斯基的研究人员报告他们发现第一种针对汽车的 Android 恶意程序。恶意程序通过基于 Android 的兜风出行汽车主机（head unit）固件的内置更新程序传播，被认为与 MoYu Group 黑客组织有关，该组织与 BADBOX 僵尸网络有关联。卡巴斯基称它已经通知了兜风出",
+      "id": "4c33a95eae93"
+    },
+    {
+      "title": "柳树和杨树释放出的化合物会恶化城市空气质量",
+      "url": "https://www.solidot.org/story?sid=85167",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "数百万棵垂柳和白杨树将北京装缀成一个绿色的大都市。然而根据《Science Advances》上发表的一项研究，柳树和杨树释放出的化合物是城市空气污染的重要来源。广州暨南大学的研究人员最初想要了解人类活动对臭氧污染的影响，结果意外发现城市植被是臭氧的重要来源。植物会释放出挥发性有机化合物，作为植物光",
+      "id": "96d6de86b6ef"
+    },
+    {
+      "title": "波兰加密货币交易所 CEO 在 2022 年失踪，4 年后他的继任者也失踪了",
+      "url": "https://www.solidot.org/story?sid=85166",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "Nicole Suszek 最后一次收到哥哥 Sylwester 的电话语音留言是在 2022 年，在留言中 Sylwester 急迫的请求她给他寄去比特币，否则以后就永远见不到面了。Sylwester 从此杳无音信，家人认为他已经遇害。Sylwester 是东欧和中欧最大加密货币交易所 Zonda",
+      "id": "be06371e0366"
+    },
+    {
       "title": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同",
       "url": "https://www.solidot.org/story?sid=85165",
       "image": "",
@@ -156,40 +219,31 @@
       "id": "63007244beff"
     },
     {
-      "title": "中国要求政府部门提前停用 Windows 10 政府版改用 Linux",
-      "url": "https://www.solidot.org/story?sid=85161",
+      "title": "派早报：九家车企召回近 430 万辆不易识别应急拉手汽车",
+      "url": "https://sspai.com/post/113767",
       "image": "",
-      "source": "Solidot",
+      "source": "少数派",
       "category": "tech",
-      "summary": "彭博社报道，中国政府下令部分机构提前停止使用 Windows 10 中国政府版，改用国产 Linux 发行版。为维护数字主权，中国已不再信任美国公司的软件。微软回应彭博社的询问时表示它没有发现影响该 Windows 系统的安全事件。Windows 10 中国政府版由微软和中国电子科技集团的合资企业神",
-      "id": "4283797a18fe"
+      "summary": "<p>九家车企召回近 430 万辆不易识别应急拉手汽车</p><p>英伟达达成 70 亿美元合作，研发顶级开放权重模型</p><p>高院发布著作权新司法解释，网络转载不允许先转后付</p><p>买家利用仅退款漏洞倒卖 13 万元火鸡面被刑拘</p><p>国际加紧制定统一月球时间</p><p>个人消费",
+      "id": "222d85021175"
     },
     {
-      "title": "中国准备发射嫦娥七号，前往月球南极寻找水冰",
-      "url": "https://www.solidot.org/story?sid=85160",
+      "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
+      "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
       "image": "",
-      "source": "Solidot",
+      "source": "少数派",
       "category": "tech",
-      "summary": "中国准备发射嫦娥七号，它将尝试首次直接在月球南极着陆，搜寻阴影区的陨石坑去寻找水冰。嫦娥七号使用的运载火箭为长征五号，计划从海南文昌航天发射场发射，发射窗口为 2026 年 8 月 24 日上午。嫦娥七号由一个轨道器和一个着陆器组成，而着陆器搭载了漫游的巡视器和飞跃器，其中飞跃器具备重复起飞着陆、月",
-      "id": "9dfcee6d6223"
+      "summary": "手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ...<a href=\"https://sspai.com/prime/story/surface",
+      "id": "788428f5122a"
     },
     {
-      "title": "微软隐藏 OneDrive Photos，但该应用并未删除",
-      "url": "https://www.solidot.org/story?sid=85159",
+      "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
+      "url": "https://sspai.com/post/113002",
       "image": "",
-      "source": "Solidot",
+      "source": "少数派",
       "category": "tech",
-      "summary": "微软最近被发现悄悄向 Windows 11 用户推送了一款新的照片应用 OneDrive Photos，与 OneDrive 位于同一文件夹内，无法单独卸载。事情曝光之后，微软表示这是一次意外，他们原本无意如此大范围的推送 OneDrive Photos。为了减少对用户的“曝光”，微软在开始菜单应用",
-      "id": "913cd8ea8b2d"
-    },
-    {
-      "title": "微软调查部分用户在安装 Windows 11 八月安全更新后遭遇游戏崩溃的报告",
-      "url": "https://www.solidot.org/story?sid=85158",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "微软正在调查部分用户在安装 Windows 11 八月例行安全更新后遭遇游戏崩溃的报告。根据发布在 Release Health 上的声明，受影响的游戏可能会失去响应、意外关闭、引发“EXCEPTION_ACCESS_VIOLATION”错误或触发设备意外重启。不是所有游戏都受到影响，微软列出的受影",
-      "id": "236521d5b5bd"
+      "summary": "打破生态壁垒，让好的设备发挥出它应有的价值，这就是 WinAirCast 的初衷。我们希望为 Windows 用户提供一款稳定、低延迟且现代化的音频串流工具。<a href=\"https://sspai.com/post/113002\" target=\"_blank\">查看全文</a>",
+      "id": "90f2f4e50bdf"
     },
     {
       "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
@@ -237,31 +291,22 @@
       "id": "c284d24a99ae"
     },
     {
-      "title": "十年阅读历程，这是我的阅读工具推荐",
-      "url": "https://sspai.com/post/113567",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "从2017年开始，我养成了读书的习惯，到今年年底刚好完成十年的阅读之旅。在这十年里，我累计阅读的书籍有六百余本。在阅读的过程中，我使用了/曾经使用非常多的应用和服务，来辅助阅读、记录书单、整理笔记等。 ...<a href=\"https://sspai.com/post/113567\" target",
-      "id": "6b04d418b107"
+      "title": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/ray-dalio-replacement.png",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest\" class=",
+      "id": "8f23f4de1366"
     },
     {
-      "title": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测",
-      "url": "https://sspai.com/post/113497",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "在 R9 身上，我竟依稀能感到夏普正在谋求一种仰望星空和脚踏实地间的精妙平衡。<a href=\"https://sspai.com/post/113497\" target=\"_blank\">查看全文</a>",
-      "id": "85009c07c685"
-    },
-    {
-      "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
-      "url": "https://sspai.com/post/113638",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "哈浮 VERSA 飞行口袋云台相机发布，OpenAI 回应少量 Codex 用户调用 GPT-5.6 系列 AI 模型误删文件问题等。<a href=\"https://sspai.com/post/113638\" target=\"_blank\">查看全文</a>",
-      "id": "244bee555879"
+      "title": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
+      "url": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-future-of-public-finance-will-be-crypto-assets-for-liquid-democracy.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fed study finds crypto investors driven by beliefs, easily swayed by returns\" ",
+      "id": "c4287fd3d7a2"
     },
     {
       "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
@@ -318,22 +363,22 @@
       "id": "84b51d63946b"
     },
     {
-      "title": "Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot",
-      "url": "https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/regulations-eu-europe-crypto.png",
-      "source": "CoinTelegraph",
+      "title": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
+      "url": "https://decrypt.co/376295/religious-books-amazon-ai-written-study",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/amazon-logo-1-gID_7.png@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot",
-      "id": "c2ed017b7237"
+      "summary": "Witchcraft books had the highest rate of likely AI-generated content at 78%, according to an Originality.ai analysis of more than 2,000 titles.",
+      "id": "e30be2c56884"
     },
     {
-      "title": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
-      "url": "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-stocks-and-crypto-correlation-is-at-all-time-high-1.jpg",
-      "source": "CoinTelegraph",
+      "title": "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
+      "url": "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-robots-decrypt-style-01-gID_7.png@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump\" ",
-      "id": "f98a435eff48"
+      "summary": "The breakthrough could come from AI models that help robots understand and interact with the physical world, though widespread adoption may still be y",
+      "id": "02d2ca8d84fd"
     },
     {
       "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
@@ -388,24 +433,6 @@
       "category": "crypto",
       "summary": "Solana has activated the first reduction in its block timing since launch, speeding up transactions on the network.",
       "id": "cd2e58eb41c9"
-    },
-    {
-      "title": "Washington Goes All-In on Crypto: Trump Pushes Clarity, SEC Rules, and CFTC Warnings",
-      "url": "https://decrypt.co/376204/washington-crypto-trump-clarity-sec-rules-cftc-warnings",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Trump urged executives to pass a \"fair version\" of the Clarity Act, the CFTC warned it would write its own rules if the bill stalls, and the SEC abrup",
-      "id": "577e6d1ce542"
-    },
-    {
-      "title": "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
-      "url": "https://decrypt.co/376230/strategy-profit-bitcoin-holdings-btc-rallies",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "The Bitcoin treasury giant is sitting on roughly $1.4 billion in unrealized gains after Bitcoin climbed above its average acquisition price.",
-      "id": "6cdb8b2697de"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -629,49 +656,112 @@
     ],
     "tech": [
       {
-        "title": "NanoGPT Speedrun Frontier",
-        "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+        "title": "Everything I own, owned",
+        "url": "https://schlarp.com/posts/everything-i-own-owned/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49404380\">Comments</a>",
-        "id": "0bcd39fa0e88"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49413320\">Comments</a>",
+        "id": "fe17f10a57b8"
       },
       {
-        "title": "Why your local LLM feels dumber than it is",
-        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+        "title": "How I find problems to solve as a staff engineer",
+        "url": "https://lalitm.com/post/find-problems-staff-engineer/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49402232\">Comments</a>",
-        "id": "b304cadaa14d"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49411643\">Comments</a>",
+        "id": "cea8eda227b5"
       },
       {
-        "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-        "url": "https://quantumi.sh/public/labs.html",
+        "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+        "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49400408\">Comments</a>",
-        "id": "cfcbc99a6125"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49411102\">Comments</a>",
+        "id": "6495b127927d"
       },
       {
-        "title": "Hister – A private, full content search index that you control",
-        "url": "https://hister.org/",
+        "title": "Google Workspace thinks my domain is an email provider (2025)",
+        "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49351802\">Comments</a>",
-        "id": "b907b34f5bd7"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49411717\">Comments</a>",
+        "id": "f88c0ddb2e0b"
       },
       {
-        "title": "NetBSD and my life (2005)",
-        "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+        "title": "AI Chip Architectures",
+        "url": "https://www.jepeake.com/ai-chip-architectures",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49402781\">Comments</a>",
-        "id": "e4622fbab5b3"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49405657\">Comments</a>",
+        "id": "e8c41a9236dd"
+      },
+      {
+        "title": "My agent.md to improve LLM-assisted code quality",
+        "url": "https://fabiensanglard.net/agent.md/index.html",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49410932\">Comments</a>",
+        "id": "a3c331cecbea"
+      },
+      {
+        "title": "What Is a Harness?",
+        "url": "https://earendil.com/posts/what-is-a-harness/",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49409092\">Comments</a>",
+        "id": "fba6bf795b98"
+      },
+      {
+        "title": "How Complex Systems Fail (1998)",
+        "url": "https://how.complexsystems.fail/",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49409473\">Comments</a>",
+        "id": "6d269d4d9a69"
+      },
+      {
+        "title": "机器人短跑超越人类，但刹住是问题",
+        "url": "https://www.solidot.org/story?sid=85169",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "为期五天的世界人形机器人运动会于周六在北京开幕。运动会共设 51 个项目，包括 30 项体育竞技和 21 项场景化竞赛。超过 40% 的项目要求机器人完全自主运行。在 8 月 22 日的首日赛事中，两台机器人跑出了比人类百米世界纪录(9.58秒)保持者博尔特(Usain Bolt)更快的成绩，相比去",
+        "id": "11e9d67a27af"
+      },
+      {
+        "title": "卡巴斯基发现第一种针对汽车的 Android 恶意程序",
+        "url": "https://www.solidot.org/story?sid=85168",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "俄罗斯安全公司卡巴斯基的研究人员报告他们发现第一种针对汽车的 Android 恶意程序。恶意程序通过基于 Android 的兜风出行汽车主机（head unit）固件的内置更新程序传播，被认为与 MoYu Group 黑客组织有关，该组织与 BADBOX 僵尸网络有关联。卡巴斯基称它已经通知了兜风出",
+        "id": "4c33a95eae93"
+      },
+      {
+        "title": "柳树和杨树释放出的化合物会恶化城市空气质量",
+        "url": "https://www.solidot.org/story?sid=85167",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "数百万棵垂柳和白杨树将北京装缀成一个绿色的大都市。然而根据《Science Advances》上发表的一项研究，柳树和杨树释放出的化合物是城市空气污染的重要来源。广州暨南大学的研究人员最初想要了解人类活动对臭氧污染的影响，结果意外发现城市植被是臭氧的重要来源。植物会释放出挥发性有机化合物，作为植物光",
+        "id": "96d6de86b6ef"
+      },
+      {
+        "title": "波兰加密货币交易所 CEO 在 2022 年失踪，4 年后他的继任者也失踪了",
+        "url": "https://www.solidot.org/story?sid=85166",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "Nicole Suszek 最后一次收到哥哥 Sylwester 的电话语音留言是在 2022 年，在留言中 Sylwester 急迫的请求她给他寄去比特币，否则以后就永远见不到面了。Sylwester 从此杳无音信，家人认为他已经遇害。Sylwester 是东欧和中欧最大加密货币交易所 Zonda",
+        "id": "be06371e0366"
       },
       {
         "title": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同",
@@ -710,40 +800,31 @@
         "id": "63007244beff"
       },
       {
-        "title": "中国要求政府部门提前停用 Windows 10 政府版改用 Linux",
-        "url": "https://www.solidot.org/story?sid=85161",
+        "title": "派早报：九家车企召回近 430 万辆不易识别应急拉手汽车",
+        "url": "https://sspai.com/post/113767",
         "image": "",
-        "source": "Solidot",
+        "source": "少数派",
         "category": "tech",
-        "summary": "彭博社报道，中国政府下令部分机构提前停止使用 Windows 10 中国政府版，改用国产 Linux 发行版。为维护数字主权，中国已不再信任美国公司的软件。微软回应彭博社的询问时表示它没有发现影响该 Windows 系统的安全事件。Windows 10 中国政府版由微软和中国电子科技集团的合资企业神",
-        "id": "4283797a18fe"
+        "summary": "<p>九家车企召回近 430 万辆不易识别应急拉手汽车</p><p>英伟达达成 70 亿美元合作，研发顶级开放权重模型</p><p>高院发布著作权新司法解释，网络转载不允许先转后付</p><p>买家利用仅退款漏洞倒卖 13 万元火鸡面被刑拘</p><p>国际加紧制定统一月球时间</p><p>个人消费",
+        "id": "222d85021175"
       },
       {
-        "title": "中国准备发射嫦娥七号，前往月球南极寻找水冰",
-        "url": "https://www.solidot.org/story?sid=85160",
+        "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
+        "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
         "image": "",
-        "source": "Solidot",
+        "source": "少数派",
         "category": "tech",
-        "summary": "中国准备发射嫦娥七号，它将尝试首次直接在月球南极着陆，搜寻阴影区的陨石坑去寻找水冰。嫦娥七号使用的运载火箭为长征五号，计划从海南文昌航天发射场发射，发射窗口为 2026 年 8 月 24 日上午。嫦娥七号由一个轨道器和一个着陆器组成，而着陆器搭载了漫游的巡视器和飞跃器，其中飞跃器具备重复起飞着陆、月",
-        "id": "9dfcee6d6223"
+        "summary": "手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ...<a href=\"https://sspai.com/prime/story/surface",
+        "id": "788428f5122a"
       },
       {
-        "title": "微软隐藏 OneDrive Photos，但该应用并未删除",
-        "url": "https://www.solidot.org/story?sid=85159",
+        "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
+        "url": "https://sspai.com/post/113002",
         "image": "",
-        "source": "Solidot",
+        "source": "少数派",
         "category": "tech",
-        "summary": "微软最近被发现悄悄向 Windows 11 用户推送了一款新的照片应用 OneDrive Photos，与 OneDrive 位于同一文件夹内，无法单独卸载。事情曝光之后，微软表示这是一次意外，他们原本无意如此大范围的推送 OneDrive Photos。为了减少对用户的“曝光”，微软在开始菜单应用",
-        "id": "913cd8ea8b2d"
-      },
-      {
-        "title": "微软调查部分用户在安装 Windows 11 八月安全更新后遭遇游戏崩溃的报告",
-        "url": "https://www.solidot.org/story?sid=85158",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "微软正在调查部分用户在安装 Windows 11 八月例行安全更新后遭遇游戏崩溃的报告。根据发布在 Release Health 上的声明，受影响的游戏可能会失去响应、意外关闭、引发“EXCEPTION_ACCESS_VIOLATION”错误或触发设备意外重启。不是所有游戏都受到影响，微软列出的受影",
-        "id": "236521d5b5bd"
+        "summary": "打破生态壁垒，让好的设备发挥出它应有的价值，这就是 WinAirCast 的初衷。我们希望为 Windows 用户提供一款稳定、低延迟且现代化的音频串流工具。<a href=\"https://sspai.com/post/113002\" target=\"_blank\">查看全文</a>",
+        "id": "90f2f4e50bdf"
       },
       {
         "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
@@ -791,33 +872,6 @@
         "id": "c284d24a99ae"
       },
       {
-        "title": "十年阅读历程，这是我的阅读工具推荐",
-        "url": "https://sspai.com/post/113567",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "从2017年开始，我养成了读书的习惯，到今年年底刚好完成十年的阅读之旅。在这十年里，我累计阅读的书籍有六百余本。在阅读的过程中，我使用了/曾经使用非常多的应用和服务，来辅助阅读、记录书单、整理笔记等。 ...<a href=\"https://sspai.com/post/113567\" target",
-        "id": "6b04d418b107"
-      },
-      {
-        "title": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测",
-        "url": "https://sspai.com/post/113497",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "在 R9 身上，我竟依稀能感到夏普正在谋求一种仰望星空和脚踏实地间的精妙平衡。<a href=\"https://sspai.com/post/113497\" target=\"_blank\">查看全文</a>",
-        "id": "85009c07c685"
-      },
-      {
-        "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
-        "url": "https://sspai.com/post/113638",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "哈浮 VERSA 飞行口袋云台相机发布，OpenAI 回应少量 Codex 用户调用 GPT-5.6 系列 AI 模型误删文件问题等。<a href=\"https://sspai.com/post/113638\" target=\"_blank\">查看全文</a>",
-        "id": "244bee555879"
-      },
-      {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
         "source": "MacRumors",
         "category": "tech",
@@ -855,6 +909,24 @@
       }
     ],
     "crypto": [
+      {
+        "title": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
+        "url": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/ray-dalio-replacement.png",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest\" class=",
+        "id": "8f23f4de1366"
+      },
+      {
+        "title": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
+        "url": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-future-of-public-finance-will-be-crypto-assets-for-liquid-democracy.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fed study finds crypto investors driven by beliefs, easily swayed by returns\" ",
+        "id": "c4287fd3d7a2"
+      },
       {
         "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
         "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -910,22 +982,22 @@
         "id": "84b51d63946b"
       },
       {
-        "title": "Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot",
-        "url": "https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/regulations-eu-europe-crypto.png",
-        "source": "CoinTelegraph",
+        "title": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
+        "url": "https://decrypt.co/376295/religious-books-amazon-ai-written-study",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/amazon-logo-1-gID_7.png@png",
+        "source": "Decrypt",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot",
-        "id": "c2ed017b7237"
+        "summary": "Witchcraft books had the highest rate of likely AI-generated content at 78%, according to an Originality.ai analysis of more than 2,000 titles.",
+        "id": "e30be2c56884"
       },
       {
-        "title": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
-        "url": "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/hi-stocks-and-crypto-correlation-is-at-all-time-high-1.jpg",
-        "source": "CoinTelegraph",
+        "title": "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
+        "url": "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-robots-decrypt-style-01-gID_7.png@png",
+        "source": "Decrypt",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump\" ",
-        "id": "f98a435eff48"
+        "summary": "The breakthrough could come from AI models that help robots understand and interact with the physical world, though widespread adoption may still be y",
+        "id": "02d2ca8d84fd"
       },
       {
         "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
@@ -980,24 +1052,6 @@
         "category": "crypto",
         "summary": "Solana has activated the first reduction in its block timing since launch, speeding up transactions on the network.",
         "id": "cd2e58eb41c9"
-      },
-      {
-        "title": "Washington Goes All-In on Crypto: Trump Pushes Clarity, SEC Rules, and CFTC Warnings",
-        "url": "https://decrypt.co/376204/washington-crypto-trump-clarity-sec-rules-cftc-warnings",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Trump urged executives to pass a \"fair version\" of the Clarity Act, the CFTC warned it would write its own rules if the bill stalls, and the SEC abrup",
-        "id": "577e6d1ce542"
-      },
-      {
-        "title": "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
-        "url": "https://decrypt.co/376230/strategy-profit-bitcoin-holdings-btc-rallies",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "The Bitcoin treasury giant is sitting on roughly $1.4 billion in unrealized gains after Bitcoin climbed above its average acquisition price.",
-        "id": "6cdb8b2697de"
       },
       {
         "title": "比特币突破 80000 美元",
