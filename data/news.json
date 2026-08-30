@@ -1,69 +1,78 @@
 {
-  "last_updated": "2026-08-29T05:00:49.074991",
-  "total": 59,
+  "last_updated": "2026-08-30T02:50:24.631822",
+  "total": 60,
   "news": [
     {
-      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-      "url": "https://github.com/Lakr233/vphone-cli",
+      "title": "Bug Blindness",
+      "url": "https://danluu.com/bug-blind/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49485267\">Comments</a>",
-      "id": "29733056e445"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49494520\">Comments</a>",
+      "id": "9166baed05af"
     },
     {
-      "title": "GUIs should be fully keyboard-driven",
-      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "title": "FreeCORE TrueNAS Core – Continued",
+      "url": "https://freecore.org/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49479837\">Comments</a>",
-      "id": "e9a5f07f13da"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49494856\">Comments</a>",
+      "id": "263561cadcdb"
     },
     {
-      "title": "TurboKV: Insanely fast Rust key-value store",
-      "url": "https://github.com/kingroryg/turbokv",
+      "title": "Hy4 preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49486334\">Comments</a>",
-      "id": "86f110ce5ea4"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49492632\">Comments</a>",
+      "id": "2b021b6d6e1a"
     },
     {
-      "title": "9th Circuit sides with states in Kalshi gambling fight",
-      "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+      "title": "RISC-V is now officially supported by CPython",
+      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49485452\">Comments</a>",
-      "id": "fed1d1b8818e"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49425252\">Comments</a>",
+      "id": "dbbceeb7cc20"
     },
     {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "url": "https://zackbartel.com/blog/2026/08/tether/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49486172\">Comments</a>",
-      "id": "e1de25ac2d1a"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49415386\">Comments</a>",
+      "id": "cf4fce4d8269"
     },
     {
-      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
-      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+      "title": "Nancy Grace Roman Space Telescope",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49485532\">Comments</a>",
-      "id": "6ddd60773e3f"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49490870\">Comments</a>",
+      "id": "9e3e40f0b001"
     },
     {
-      "title": "I accidentally turned LLM memory into program analysis",
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49485416\">Comments</a>",
-      "id": "1cf33cdfc22c"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49494182\">Comments</a>",
+      "id": "9a830001e781"
+    },
+    {
+      "title": "Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",
+      "url": "https://github.com/gbin/defragger",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49438865\">Comments</a>",
+      "id": "94e94e4b0562"
     },
     {
       "title": "The Download: a secretive antiaging drug and joining virtual power plants",
@@ -138,6 +147,60 @@
       "id": "2623b22bddcd"
     },
     {
+      "title": "Pixel 11 取消了对硬件 MTE 的支持",
+      "url": "https://www.solidot.org/story?sid=85233",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "Android 安全加固项目 GrapheneOS 发现，Google 新一代旗舰智能手机 Pixel 11 取消了对硬件 MTE（hardware memory tagging）的支持，导致该项目无法完成对 Pixel 11 的支持。MTE（Memory Tagging Extension）是 A",
+      "id": "891b2dd419eb"
+    },
+    {
+      "title": "女性在产后遭遇 PTSD",
+      "url": "https://www.solidot.org/story?sid=85231",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "东英吉利大学的一项研究认为，英国可能有数万女性在产后经历未诊断的 PTSD（创伤后应激障碍）。PTSD 可能在经历艰难的妊娠或分娩后出现，其症状包括闪回、噩梦、焦虑和持续的负面想法。最新数据显示，2021-2023 年间自杀是英国产后六周至一年内女性死亡的首要原因。研究人员称这些死亡只是冰山一角，有",
+      "id": "79f31d7bd2a7"
+    },
+    {
+      "title": "日韩上半年人口都出现增长",
+      "url": "https://www.solidot.org/story?sid=85230",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "韩国和日本两国今年上半年人口都恢复了增长：<br />\n韩国上半年累计出生人口为 14.5804 万人，同比增加 1.943 万人，增幅为 15.4%，出生人口规模为近7年同期之最，增加规模和增幅双双创下历史最高纪录。分析认为出生人数增加主要是因为婚姻登记数自疫后的 2023 年 5 月起呈现增加势",
+      "id": "81548711d1f7"
+    },
+    {
+      "title": "Debian 项目将允许以负责任的方式使用生成式 AI",
+      "url": "https://www.solidot.org/story?sid=85229",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "Debian 项目对是否允许使用 AI 进行了投票表决，投票采用孔多塞投票法，共有 9 个选项，最终结果是第 5 选项“负责任的使用生成式 AI”获胜。Debian 项目表示，它既不反对也不支持在软件、包、文档等的开发和维护中使用生成式 AI 工具。但项目也认识到，如果能负责任的使用 AI 工具，将",
+      "id": "ed400cf020a0"
+    },
+    {
+      "title": "人形机器人的跑步方式与人类不同",
+      "url": "https://www.solidot.org/story?sid=85228",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "北京人形机器人创新中心研发的通用人形机器人天工在世界人形机器人运动会上跑出了 100 米 8.64 秒的成绩，远超博尔特（Usain Bolt）于 2009 年创下的 100 米 9.58 秒的人类世界纪录。机器人的平均速度接近 42 公里/时。专家表示，这一成绩凸显了机器人的强大，也凸显了它们在决",
+      "id": "f02a9177f953"
+    },
+    {
+      "title": "程序员在公司厕所猝死，人社局以电脑没开不认定工伤",
+      "url": "https://www.solidot.org/story?sid=85227",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "39 岁的深圳程序员邢志（化名）于 2026 年 4 月 23 日 8 时 56 分驾车进入公司所在办公楼负 2 楼停车，9 时步行至电梯厅询问值班安保 2 楼卫生间位置，1 分钟后，其到达卫生间一直未出，直至 11 时 28 分被发现失去意识躺坐在马桶上。公司随即用 AED 进行急救并拨打 120",
+      "id": "a1fe82d0b535"
+    },
+    {
       "title": "澳大利亚有望在未来十年消灭宫颈癌",
       "url": "https://www.solidot.org/story?sid=85226",
       "image": "",
@@ -154,60 +217,6 @@
       "category": "tech",
       "summary": "一次性纸杯虽然主要是纸做的，但并非没有使用塑料，为提高防水性和结构完整性，纸杯内有一层薄塑料内衬，使用的材料可能是聚乙烯或可生物降解的聚乳酸。昆士兰大学的研究人员发现，一次性纸杯在接触热水时会释放大量的微米级和纳米级塑料物质。测量发现，聚乳酸内衬纸杯每毫升含有约 430 万个纳米颗粒，而聚乙烯内衬纸",
       "id": "730761127e43"
-    },
-    {
-      "title": "无人机拍下了引发中尼边境致命泥石流的冰川崩塌",
-      "url": "https://www.solidot.org/story?sid=85224",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "根据网友在小红书上发布、由 BBC 验证真实性的两则无人机拍摄视频，视频记录了喜马拉雅山脉蓝塘里壤峰冰川崩塌的瞬间，中尼边境的致命泥石流灾害正是由其引发的。蓝塘里壤峰海拔约 7200 米，冰川崩塌扬起的尘土直冲云霄。截至目前，尼泊尔报告其境内的死亡人数达到了 547 人，失踪外国游客 575 人——",
-      "id": "121bfb71ce5e"
-    },
-    {
-      "title": "美国将意大利安全托管服务商列入恐怖分子名单",
-      "url": "https://www.solidot.org/story?sid=85223",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "美国国务院和财政部周三将一家提供加密聊天和电子邮件、网站托管、安全视频会议和流媒体等服务的意大利组织 Autistici/Inventati 列入特别指定全球恐怖分子名单，这意味着美国公民与该组织进行的任何交易都是违法的。美国国务院列举的一个理由是该组织为极左翼组织如 Antifa 提供了数字基础设",
-      "id": "c868f2362670"
-    },
-    {
-      "title": "德国 Sovereign Tech 基金资助 Flatpak 逾 50 万欧元",
-      "url": "https://www.solidot.org/story?sid=85222",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "德国的 Sovereign Tech 基金将在未来两年资助 Flatpak 项目 508,640 欧元，帮助 Flatpak 打造更安全、更完善的沙盒平台。Flatpak 是 Red Hat 主导开发的 Linux 应用打包格式，类似 Canonical 主导的 Snap，它提供了一个沙盒环​​境，",
-      "id": "50afde14767a"
-    },
-    {
-      "title": "IBM 推出双指令集处理器",
-      "url": "https://www.solidot.org/story?sid=85221",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "IBM 在 Hot Chips 2026 上介绍了世界首款双指令集处理器。全球约七成交易量都通过 IBM Z 大型机完成，新处理器通过引入 Arm 生态系统，为大型机带来新一代的应用。该处理器采用 2 纳米工艺节点，包括 11 个主频超过 5.7 GHz 的高性能核心、面向交易过程中欺诈检测的 AI",
-      "id": "e186bc0a761f"
-    },
-    {
-      "title": "法国法庭认定辐射与空乘罹患乳腺癌相关",
-      "url": "https://www.solidot.org/story?sid=85220",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "法国法院首次认定宇宙辐射是一名空姐罹患乳腺癌的职业因素，其他相关因素包括被动吸烟和长年夜班工作。这一裁决可能会为类似诉讼打开大门，因为研究不断表明，长期高空飞行与辐射相关癌症暴露水平升高相关。59 岁的 Sophie Lainault 曾是法航的一名空姐，她一直寻求将自己的癌症认定为职业病，认为是由",
-      "id": "0c2fe22b9ac1"
-    },
-    {
-      "title": "Haiku R1/beta6 释出",
-      "url": "https://www.solidot.org/story?sid=85219",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "开源 BeOS 操作系统 Haiku 在发布第 5 个 beta 版本 2 年后释出了第 6 个 beta 版本。BeOS 操作系统在 2001 年被 Palm 收购后停止开发，Haiku 项目在这之后不久正式启动，2002 年发布了首个版本，2012 年发布 Haiku R1 Alpha 4.1，",
-      "id": "77e820e2bfa3"
     },
     {
       "title": "2026 烟灶选购指南",
@@ -282,6 +291,33 @@
       "id": "e431c874ece0"
     },
     {
+      "title": "Polygon discloses security flaws fixed in recent hard forks",
+      "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M17JHBKVPG032T0G1E4PGVX3/hi-quadrigacx-ceo-died-what-next.png",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Polygon discloses security flaws fixed in recent hard forks\" class=\"type:prima",
+      "id": "e7b57690b2d4"
+    },
+    {
+      "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
+      "url": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M17DHDVASPVRK9KZ8KYFMNK1/hi-how-binance-plans-to-bring-tokenized-us-stocks-3.png",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stellar tokenized RWA market more than quadruples to nearly $4B\" class=\"type:p",
+      "id": "110cd61aca4e"
+    },
+    {
+      "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+      "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M174Y6XQHY999NVSQCZY6B3V/hi-cryptocurrency-vs-stocks-breaking-news-1.png",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tokenized stock transfer volume jumps 415% in 30 days to $29.5B\" class=\"type:p",
+      "id": "ae2995e36cdf"
+    },
+    {
       "title": "Here’s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
@@ -289,6 +325,33 @@
       "category": "crypto",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s",
       "id": "772e97788bfd"
+    },
+    {
+      "title": "Trump-promoted brand touts GOLD before token collapse",
+      "url": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M16D9NH0P7JYVR3ND526E5F5/trumps-influence-on-crypto.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump-promoted brand touts GOLD before token collapse\" class=\"type:primaryImag",
+      "id": "370b11ca1d73"
+    },
+    {
+      "title": "Stablecoins not credible for payments at scale, BIS chief says",
+      "url": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M166CFV826H6EC9FT9NRRV7E/hi-stablecoin-has-been-listed-an-exchange-traded-note-in-europe.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoins not credible for payments at scale, BIS chief says\" class=\"type:pr",
+      "id": "c21b593c827b"
+    },
+    {
+      "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M162QNJPWZZW5MZ2NTH7GFQ2/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf3-1.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K\" class=\"type:prima",
+      "id": "99080be2ace3"
     },
     {
       "title": "Solana validators approve proposal to accelerate SOL disinflation",
@@ -300,58 +363,31 @@
       "id": "8c5071eef4e8"
     },
     {
-      "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
-      "url": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14JXJEKJGWZPA4CPWG622Q2/gamecredits-football4.jpg",
-      "source": "CoinTelegraph",
+      "title": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
+      "url": "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-bernie-sanders-gID_7.png@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs\" class=\"typ",
-      "id": "5303ddf652e9"
+      "summary": "The Vermont senator warned that the surveillance company's 120,000-plus AI cameras are pushing the US toward a \"surveillance state,\" adding a prominen",
+      "id": "a31b3d0eb62c"
     },
     {
-      "title": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
-      "url": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14HGFTCPWKB8SGHW3HW7DZ6/hi-what-is-a-masternode-and-ai.png",
-      "source": "CoinTelegraph",
+      "title": "Bitcoin's Oldest Coins Are Waking Up in 2026 at a Pace Rarely Seen",
+      "url": "https://decrypt.co/376866/bitcoin-oldest-coins-waking-up-2026",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending\" clas",
-      "id": "cc314e1fff16"
+      "summary": "Galaxy Research shows coins untouched for 10-plus years moving at an unusual pace in 2026, with six ancient wallets shifting $40 million in a single 1",
+      "id": "dd3a742e07ef"
     },
     {
-      "title": "Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints",
-      "url": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14FYEG846MR0X3M7RG3N9AD/hi-us-bitcoin-reserve-asset-bill-explained.jpg",
-      "source": "CoinTelegraph",
+      "title": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing",
+      "url": "https://decrypt.co/376864/bitgo-buys-nydig-institutional-trading-arm",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitgo-nyse-decrypt-style-gID_7.jpg@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints\" class",
-      "id": "b31f1f3c3ed9"
-    },
-    {
-      "title": "Crypto Biz: Bitcoin pumps, Wall Street does the paperwork",
-      "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-rally-crypto-stocks-circle-strategy-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14DS05X6DTJB5K7J056DP3A/hi-how-bitcoins-legal-victory-turned-it-into-wall-streets-favorite-crypto.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Bitcoin pumps, Wall Street does the paperwork\" class=\"type:primary",
-      "id": "46d154dcd477"
-    },
-    {
-      "title": "Who is legally liable when an AI agent goes rogue?",
-      "url": "https://cointelegraph.com/magazine/who-is-legally-liable-when-an-ai-agent-goes-rogue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/charlyn-ho-2.webp",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Who is legally liable when an AI agent goes rogue? \" class=\"type:primaryImage\"",
-      "id": "c45a086b6f9b"
-    },
-    {
-      "title": "Polish Olympic chief charged in Zondacrypto probe, justice minister says",
-      "url": "https://cointelegraph.com/news/polish-olympic-chief-charged-zondacrypto-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M142BY4XYSTFGAKG0DFRP8JS/arrest-crime-cop-hack-thief-arrested-police-asian-1.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Polish Olympic chief charged in Zondacrypto probe, justice minister says\" clas",
-      "id": "e889819a9d91"
+      "summary": "The roughly $42.5 million cash-and-stock deal adds derivatives, structured products and capital-markets capabilities, while letting NYDIG focus on its",
+      "id": "8ccd982588ab"
     },
     {
       "title": "Bitcoin Rally Stalls, But Long-Term Sentiment Remains Bullish",
@@ -397,33 +433,6 @@
       "category": "crypto",
       "summary": "The \"Double Disinflation\" proposal squeaked through by a razor-thin margin after Kraken nearly sank it, while a separate fee-burning measure failed.",
       "id": "0951c80d8d10"
-    },
-    {
-      "title": "Fed Chair Warsh Calls AI a 'Hinge Point in History'—4 Key Things He Said",
-      "url": "https://decrypt.co/376821/fed-chair-warsh-ai-hinge-point-4-key-things",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Fed Chair Warsh devoted a full section of his speech today at Jackson Hole to AI's weight on the economy. Here are the biggest takeaways.",
-      "id": "35c8fa79f76c"
-    },
-    {
-      "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
-      "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-charles-schwab-gID_7.png@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "The brokerage will expand Schwab Crypto trading to Solana, Avalanche, and Chainlink, but has not given a launch date for the three tokens.",
-      "id": "7799982bfde5"
-    },
-    {
-      "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
-      "url": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/strategy-microstrategy-learn-gID_7-pID_5.png@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Strategy’s co-founder Michael Saylor pioneered the Bitcoin treasury playbook. Here’s what you need to know.",
-      "id": "71521c08de73"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -647,67 +656,130 @@
     ],
     "tech": [
       {
-        "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-        "url": "https://github.com/Lakr233/vphone-cli",
+        "title": "Bug Blindness",
+        "url": "https://danluu.com/bug-blind/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49485267\">Comments</a>",
-        "id": "29733056e445"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49494520\">Comments</a>",
+        "id": "9166baed05af"
       },
       {
-        "title": "GUIs should be fully keyboard-driven",
-        "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+        "title": "FreeCORE TrueNAS Core – Continued",
+        "url": "https://freecore.org/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49479837\">Comments</a>",
-        "id": "e9a5f07f13da"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49494856\">Comments</a>",
+        "id": "263561cadcdb"
       },
       {
-        "title": "TurboKV: Insanely fast Rust key-value store",
-        "url": "https://github.com/kingroryg/turbokv",
+        "title": "Hy4 preview",
+        "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49486334\">Comments</a>",
-        "id": "86f110ce5ea4"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49492632\">Comments</a>",
+        "id": "2b021b6d6e1a"
       },
       {
-        "title": "9th Circuit sides with states in Kalshi gambling fight",
-        "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+        "title": "RISC-V is now officially supported by CPython",
+        "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49485452\">Comments</a>",
-        "id": "fed1d1b8818e"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49425252\">Comments</a>",
+        "id": "dbbceeb7cc20"
       },
       {
-        "title": "Our decision on Cursor following its acquisition by SpaceX",
-        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+        "title": "Tether: iMessage, SMS, etc. on Linux",
+        "url": "https://zackbartel.com/blog/2026/08/tether/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49486172\">Comments</a>",
-        "id": "e1de25ac2d1a"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49415386\">Comments</a>",
+        "id": "cf4fce4d8269"
       },
       {
-        "title": "Does the Sumerian King List Align with Paleoclimate Events?",
-        "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+        "title": "Nancy Grace Roman Space Telescope",
+        "url": "https://science.nasa.gov/mission/roman-space-telescope/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49485532\">Comments</a>",
-        "id": "6ddd60773e3f"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49490870\">Comments</a>",
+        "id": "9e3e40f0b001"
       },
       {
-        "title": "I accidentally turned LLM memory into program analysis",
-        "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+        "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+        "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49485416\">Comments</a>",
-        "id": "1cf33cdfc22c"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49494182\">Comments</a>",
+        "id": "9a830001e781"
+      },
+      {
+        "title": "Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",
+        "url": "https://github.com/gbin/defragger",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49438865\">Comments</a>",
+        "id": "94e94e4b0562"
+      },
+      {
+        "title": "Pixel 11 取消了对硬件 MTE 的支持",
+        "url": "https://www.solidot.org/story?sid=85233",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "Android 安全加固项目 GrapheneOS 发现，Google 新一代旗舰智能手机 Pixel 11 取消了对硬件 MTE（hardware memory tagging）的支持，导致该项目无法完成对 Pixel 11 的支持。MTE（Memory Tagging Extension）是 A",
+        "id": "891b2dd419eb"
+      },
+      {
+        "title": "女性在产后遭遇 PTSD",
+        "url": "https://www.solidot.org/story?sid=85231",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "东英吉利大学的一项研究认为，英国可能有数万女性在产后经历未诊断的 PTSD（创伤后应激障碍）。PTSD 可能在经历艰难的妊娠或分娩后出现，其症状包括闪回、噩梦、焦虑和持续的负面想法。最新数据显示，2021-2023 年间自杀是英国产后六周至一年内女性死亡的首要原因。研究人员称这些死亡只是冰山一角，有",
+        "id": "79f31d7bd2a7"
+      },
+      {
+        "title": "日韩上半年人口都出现增长",
+        "url": "https://www.solidot.org/story?sid=85230",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "韩国和日本两国今年上半年人口都恢复了增长：<br />\n韩国上半年累计出生人口为 14.5804 万人，同比增加 1.943 万人，增幅为 15.4%，出生人口规模为近7年同期之最，增加规模和增幅双双创下历史最高纪录。分析认为出生人数增加主要是因为婚姻登记数自疫后的 2023 年 5 月起呈现增加势",
+        "id": "81548711d1f7"
+      },
+      {
+        "title": "Debian 项目将允许以负责任的方式使用生成式 AI",
+        "url": "https://www.solidot.org/story?sid=85229",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "Debian 项目对是否允许使用 AI 进行了投票表决，投票采用孔多塞投票法，共有 9 个选项，最终结果是第 5 选项“负责任的使用生成式 AI”获胜。Debian 项目表示，它既不反对也不支持在软件、包、文档等的开发和维护中使用生成式 AI 工具。但项目也认识到，如果能负责任的使用 AI 工具，将",
+        "id": "ed400cf020a0"
+      },
+      {
+        "title": "人形机器人的跑步方式与人类不同",
+        "url": "https://www.solidot.org/story?sid=85228",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "北京人形机器人创新中心研发的通用人形机器人天工在世界人形机器人运动会上跑出了 100 米 8.64 秒的成绩，远超博尔特（Usain Bolt）于 2009 年创下的 100 米 9.58 秒的人类世界纪录。机器人的平均速度接近 42 公里/时。专家表示，这一成绩凸显了机器人的强大，也凸显了它们在决",
+        "id": "f02a9177f953"
+      },
+      {
+        "title": "程序员在公司厕所猝死，人社局以电脑没开不认定工伤",
+        "url": "https://www.solidot.org/story?sid=85227",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "39 岁的深圳程序员邢志（化名）于 2026 年 4 月 23 日 8 时 56 分驾车进入公司所在办公楼负 2 楼停车，9 时步行至电梯厅询问值班安保 2 楼卫生间位置，1 分钟后，其到达卫生间一直未出，直至 11 时 28 分被发现失去意识躺坐在马桶上。公司随即用 AED 进行急救并拨打 120",
+        "id": "a1fe82d0b535"
       },
       {
         "title": "澳大利亚有望在未来十年消灭宫颈癌",
@@ -726,60 +798,6 @@
         "category": "tech",
         "summary": "一次性纸杯虽然主要是纸做的，但并非没有使用塑料，为提高防水性和结构完整性，纸杯内有一层薄塑料内衬，使用的材料可能是聚乙烯或可生物降解的聚乳酸。昆士兰大学的研究人员发现，一次性纸杯在接触热水时会释放大量的微米级和纳米级塑料物质。测量发现，聚乳酸内衬纸杯每毫升含有约 430 万个纳米颗粒，而聚乙烯内衬纸",
         "id": "730761127e43"
-      },
-      {
-        "title": "无人机拍下了引发中尼边境致命泥石流的冰川崩塌",
-        "url": "https://www.solidot.org/story?sid=85224",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "根据网友在小红书上发布、由 BBC 验证真实性的两则无人机拍摄视频，视频记录了喜马拉雅山脉蓝塘里壤峰冰川崩塌的瞬间，中尼边境的致命泥石流灾害正是由其引发的。蓝塘里壤峰海拔约 7200 米，冰川崩塌扬起的尘土直冲云霄。截至目前，尼泊尔报告其境内的死亡人数达到了 547 人，失踪外国游客 575 人——",
-        "id": "121bfb71ce5e"
-      },
-      {
-        "title": "美国将意大利安全托管服务商列入恐怖分子名单",
-        "url": "https://www.solidot.org/story?sid=85223",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "美国国务院和财政部周三将一家提供加密聊天和电子邮件、网站托管、安全视频会议和流媒体等服务的意大利组织 Autistici/Inventati 列入特别指定全球恐怖分子名单，这意味着美国公民与该组织进行的任何交易都是违法的。美国国务院列举的一个理由是该组织为极左翼组织如 Antifa 提供了数字基础设",
-        "id": "c868f2362670"
-      },
-      {
-        "title": "德国 Sovereign Tech 基金资助 Flatpak 逾 50 万欧元",
-        "url": "https://www.solidot.org/story?sid=85222",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "德国的 Sovereign Tech 基金将在未来两年资助 Flatpak 项目 508,640 欧元，帮助 Flatpak 打造更安全、更完善的沙盒平台。Flatpak 是 Red Hat 主导开发的 Linux 应用打包格式，类似 Canonical 主导的 Snap，它提供了一个沙盒环​​境，",
-        "id": "50afde14767a"
-      },
-      {
-        "title": "IBM 推出双指令集处理器",
-        "url": "https://www.solidot.org/story?sid=85221",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "IBM 在 Hot Chips 2026 上介绍了世界首款双指令集处理器。全球约七成交易量都通过 IBM Z 大型机完成，新处理器通过引入 Arm 生态系统，为大型机带来新一代的应用。该处理器采用 2 纳米工艺节点，包括 11 个主频超过 5.7 GHz 的高性能核心、面向交易过程中欺诈检测的 AI",
-        "id": "e186bc0a761f"
-      },
-      {
-        "title": "法国法庭认定辐射与空乘罹患乳腺癌相关",
-        "url": "https://www.solidot.org/story?sid=85220",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "法国法院首次认定宇宙辐射是一名空姐罹患乳腺癌的职业因素，其他相关因素包括被动吸烟和长年夜班工作。这一裁决可能会为类似诉讼打开大门，因为研究不断表明，长期高空飞行与辐射相关癌症暴露水平升高相关。59 岁的 Sophie Lainault 曾是法航的一名空姐，她一直寻求将自己的癌症认定为职业病，认为是由",
-        "id": "0c2fe22b9ac1"
-      },
-      {
-        "title": "Haiku R1/beta6 释出",
-        "url": "https://www.solidot.org/story?sid=85219",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "开源 BeOS 操作系统 Haiku 在发布第 5 个 beta 版本 2 年后释出了第 6 个 beta 版本。BeOS 操作系统在 2001 年被 Palm 收购后停止开发，Haiku 项目在这之后不久正式启动，2002 年发布了首个版本，2012 年发布 Haiku R1 Alpha 4.1，",
-        "id": "77e820e2bfa3"
       },
       {
         "title": "2026 烟灶选购指南",
@@ -892,6 +910,33 @@
     ],
     "crypto": [
       {
+        "title": "Polygon discloses security flaws fixed in recent hard forks",
+        "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M17JHBKVPG032T0G1E4PGVX3/hi-quadrigacx-ceo-died-what-next.png",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Polygon discloses security flaws fixed in recent hard forks\" class=\"type:prima",
+        "id": "e7b57690b2d4"
+      },
+      {
+        "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
+        "url": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M17DHDVASPVRK9KZ8KYFMNK1/hi-how-binance-plans-to-bring-tokenized-us-stocks-3.png",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stellar tokenized RWA market more than quadruples to nearly $4B\" class=\"type:p",
+        "id": "110cd61aca4e"
+      },
+      {
+        "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+        "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M174Y6XQHY999NVSQCZY6B3V/hi-cryptocurrency-vs-stocks-breaking-news-1.png",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tokenized stock transfer volume jumps 415% in 30 days to $29.5B\" class=\"type:p",
+        "id": "ae2995e36cdf"
+      },
+      {
         "title": "Here’s what happened in crypto today",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
@@ -899,6 +944,33 @@
         "category": "crypto",
         "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s",
         "id": "772e97788bfd"
+      },
+      {
+        "title": "Trump-promoted brand touts GOLD before token collapse",
+        "url": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M16D9NH0P7JYVR3ND526E5F5/trumps-influence-on-crypto.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump-promoted brand touts GOLD before token collapse\" class=\"type:primaryImag",
+        "id": "370b11ca1d73"
+      },
+      {
+        "title": "Stablecoins not credible for payments at scale, BIS chief says",
+        "url": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M166CFV826H6EC9FT9NRRV7E/hi-stablecoin-has-been-listed-an-exchange-traded-note-in-europe.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoins not credible for payments at scale, BIS chief says\" class=\"type:pr",
+        "id": "c21b593c827b"
+      },
+      {
+        "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
+        "url": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M162QNJPWZZW5MZ2NTH7GFQ2/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf3-1.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K\" class=\"type:prima",
+        "id": "99080be2ace3"
       },
       {
         "title": "Solana validators approve proposal to accelerate SOL disinflation",
@@ -910,58 +982,31 @@
         "id": "8c5071eef4e8"
       },
       {
-        "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
-        "url": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14JXJEKJGWZPA4CPWG622Q2/gamecredits-football4.jpg",
-        "source": "CoinTelegraph",
+        "title": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
+        "url": "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-bernie-sanders-gID_7.png@png",
+        "source": "Decrypt",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs\" class=\"typ",
-        "id": "5303ddf652e9"
+        "summary": "The Vermont senator warned that the surveillance company's 120,000-plus AI cameras are pushing the US toward a \"surveillance state,\" adding a prominen",
+        "id": "a31b3d0eb62c"
       },
       {
-        "title": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
-        "url": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14HGFTCPWKB8SGHW3HW7DZ6/hi-what-is-a-masternode-and-ai.png",
-        "source": "CoinTelegraph",
+        "title": "Bitcoin's Oldest Coins Are Waking Up in 2026 at a Pace Rarely Seen",
+        "url": "https://decrypt.co/376866/bitcoin-oldest-coins-waking-up-2026",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png",
+        "source": "Decrypt",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending\" clas",
-        "id": "cc314e1fff16"
+        "summary": "Galaxy Research shows coins untouched for 10-plus years moving at an unusual pace in 2026, with six ancient wallets shifting $40 million in a single 1",
+        "id": "dd3a742e07ef"
       },
       {
-        "title": "Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints",
-        "url": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14FYEG846MR0X3M7RG3N9AD/hi-us-bitcoin-reserve-asset-bill-explained.jpg",
-        "source": "CoinTelegraph",
+        "title": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing",
+        "url": "https://decrypt.co/376864/bitgo-buys-nydig-institutional-trading-arm",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitgo-nyse-decrypt-style-gID_7.jpg@png",
+        "source": "Decrypt",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints\" class",
-        "id": "b31f1f3c3ed9"
-      },
-      {
-        "title": "Crypto Biz: Bitcoin pumps, Wall Street does the paperwork",
-        "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-rally-crypto-stocks-circle-strategy-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14DS05X6DTJB5K7J056DP3A/hi-how-bitcoins-legal-victory-turned-it-into-wall-streets-favorite-crypto.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Bitcoin pumps, Wall Street does the paperwork\" class=\"type:primary",
-        "id": "46d154dcd477"
-      },
-      {
-        "title": "Who is legally liable when an AI agent goes rogue?",
-        "url": "https://cointelegraph.com/magazine/who-is-legally-liable-when-an-ai-agent-goes-rogue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/charlyn-ho-2.webp",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Who is legally liable when an AI agent goes rogue? \" class=\"type:primaryImage\"",
-        "id": "c45a086b6f9b"
-      },
-      {
-        "title": "Polish Olympic chief charged in Zondacrypto probe, justice minister says",
-        "url": "https://cointelegraph.com/news/polish-olympic-chief-charged-zondacrypto-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M142BY4XYSTFGAKG0DFRP8JS/arrest-crime-cop-hack-thief-arrested-police-asian-1.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Polish Olympic chief charged in Zondacrypto probe, justice minister says\" clas",
-        "id": "e889819a9d91"
+        "summary": "The roughly $42.5 million cash-and-stock deal adds derivatives, structured products and capital-markets capabilities, while letting NYDIG focus on its",
+        "id": "8ccd982588ab"
       },
       {
         "title": "Bitcoin Rally Stalls, But Long-Term Sentiment Remains Bullish",
@@ -1007,33 +1052,6 @@
         "category": "crypto",
         "summary": "The \"Double Disinflation\" proposal squeaked through by a razor-thin margin after Kraken nearly sank it, while a separate fee-burning measure failed.",
         "id": "0951c80d8d10"
-      },
-      {
-        "title": "Fed Chair Warsh Calls AI a 'Hinge Point in History'—4 Key Things He Said",
-        "url": "https://decrypt.co/376821/fed-chair-warsh-ai-hinge-point-4-key-things",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Fed Chair Warsh devoted a full section of his speech today at Jackson Hole to AI's weight on the economy. Here are the biggest takeaways.",
-        "id": "35c8fa79f76c"
-      },
-      {
-        "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
-        "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-charles-schwab-gID_7.png@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "The brokerage will expand Schwab Crypto trading to Solana, Avalanche, and Chainlink, but has not given a launch date for the three tokens.",
-        "id": "7799982bfde5"
-      },
-      {
-        "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
-        "url": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/strategy-microstrategy-learn-gID_7-pID_5.png@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Strategy’s co-founder Michael Saylor pioneered the Bitcoin treasury playbook. Here’s what you need to know.",
-        "id": "71521c08de73"
       },
       {
         "title": "比特币突破 80000 美元",
