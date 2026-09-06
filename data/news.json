@@ -1,24 +1,60 @@
 {
-  "last_updated": "2026-09-05T02:18:19.919142",
+  "last_updated": "2026-09-06T02:14:12.875590",
   "total": 60,
   "news": [
     {
-      "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "url": "https://cloudinabottle.org/blog/launch-post",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49570669\">Comments</a>",
-      "id": "0b6806c57e42"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49582000\">Comments</a>",
+      "id": "70eeac239c8f"
     },
     {
-      "title": "Formalizing Fermat's Last Theorem",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "title": "The revolt of the reader",
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49568506\">Comments</a>",
-      "id": "f69c4dd3fcd5"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49580939\">Comments</a>",
+      "id": "03b2359ae726"
+    },
+    {
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49580369\">Comments</a>",
+      "id": "c96921d3d3c4"
+    },
+    {
+      "title": "Learn Programming with OCaml",
+      "url": "https://usr.lmf.cnrs.fr/lpo/",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49578280\">Comments</a>",
+      "id": "d3dbf9700abc"
+    },
+    {
+      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49576386\">Comments</a>",
+      "id": "ee8489bcf5a8"
+    },
+    {
+      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+      "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49580329\">Comments</a>",
+      "id": "4cdb57b8e38e"
     },
     {
       "title": "Discovery of a new OpenAI agent message board",
@@ -30,49 +66,13 @@
       "id": "28d14b241765"
     },
     {
-      "title": "Artificial Analysis Intelligence Index v4.2",
-      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "title": "How Swiss tables work in Go built-in map",
+      "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49571632\">Comments</a>",
-      "id": "44d78a5d0a46"
-    },
-    {
-      "title": "Statichost.eu – European static site hosting",
-      "url": "https://www.statichost.eu/",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49569896\">Comments</a>",
-      "id": "2f4cb07760f5"
-    },
-    {
-      "title": "GPT-6 Astra on OpenRouter",
-      "url": "https://openrouter.ai/openai/gpt-6-astra",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49570545\">Comments</a>",
-      "id": "dcb3e058c1d2"
-    },
-    {
-      "title": "Shutting down our public encrypted DNS",
-      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49568579\">Comments</a>",
-      "id": "7b6eecdca723"
-    },
-    {
-      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49571465\">Comments</a>",
-      "id": "0ca75f7f2586"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49548852\">Comments</a>",
+      "id": "a509e1d84299"
     },
     {
       "title": "Architecting memory and storage in the AI era",
@@ -147,6 +147,51 @@
       "id": "7c755897ce02"
     },
     {
+      "title": "食用加工肉增加肺癌食道癌风险",
+      "url": "https://www.solidot.org/story?sid=85297",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "科学家利用欧洲 450,112 名参与者（131,426 名男性 和 318,686 名女性）的数据，评估了红肉、加工肉和白肉与胃腺癌和食管腺癌之间的关联。研究人员对红肉、加工肉和白肉的定义是：红肉包括猪肉、牛肉、小牛肉、羊肉等；加工肉包括火腿、培根、香肠、加工肉块、汉堡包、肉丸、肉酱等；白肉包括鸡",
+      "id": "8902b51b3e4c"
+    },
+    {
+      "title": "等效原理适用于量子领域",
+      "url": "https://www.solidot.org/story?sid=85296",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "物理学有两大不兼容的理论，其一是爱因斯坦广义相对论，适用于宏观物理领域；其二是量子力学，适用于微观物理领域。爱因斯坦曾尝试将两大理论融合成一个统一的理论，但没有成功。广义相对论的一个核心概念是等效原理，它认为引力和加速度不可区分。等效原理指出，对于自由落体的观察者，引力在局部应该消失。例如在电梯中自",
+      "id": "5ba6cf024d9d"
+    },
+    {
+      "title": "肾病患者靠移植猪肾生活九个月",
+      "url": "https://www.solidot.org/story?sid=85295",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "两年前，蒂姆·安德鲁斯疲惫不堪，唯一想做的就是睡觉。糖尿病和高血压毁掉了他的肾脏，而通过过滤血液维持他生命的频繁透析治疗令人精疲力竭。尽管只有 66 岁，他却毫无精力与食欲，虚弱得无法行走，还曾两次心脏病发作。肾移植本可以救他的命，但器官供应短缺。根据美国器官共享联合网络的数据，约有 9 万人在等待",
+      "id": "04b603cc63a6"
+    },
+    {
+      "title": "F-Droid 考虑采用与 Debian 相同的 AI 政策",
+      "url": "https://www.solidot.org/story?sid=85294",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "一周前，Debian 项目经过投票允许以负责任的方式使用生成式 AI，Debian 项目表示，它既不反对也不支持在软件、包、文档等的开发和维护中使用生成式 AI 工具。但项目也认识到，如果能负责任的使用 AI 工具，将能显著提高贡献者的效率，使他们将有限的时间投入到需要技术专长、判断力、审核和协作的",
+      "id": "4d4abb2ee344"
+    },
+    {
+      "title": "联合国大会批准新地图",
+      "url": "https://www.solidot.org/story?sid=85293",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "联合国会员国周五以 164 票赞成、1 票反对的结果通过了一项决议，倡导采用能更准确反映各大洲真实大小的地图投影法——这是由非洲主导、反对 16 世纪墨卡托投影法的运动所取得的成果，而墨卡托投影法至今仍是世界上使用最广泛的地图投影法。美国投下了唯一一张反对票，将该倡议斥为“激进意识形态项目”的一部分",
+      "id": "0a45869dbf06"
+    },
+    {
       "title": "阿根廷人抗议 Peter Thiel",
       "url": "https://www.solidot.org/story?sid=85292",
       "image": "",
@@ -174,49 +219,13 @@
       "id": "8b51f452ed10"
     },
     {
-      "title": "被控内幕交易的 Google 工程师称他只是在赌博",
-      "url": "https://www.solidot.org/story?sid=85289",
+      "title": "最值得买的顶级公路车？TREK 八代 Madone 评测",
+      "url": "https://sspai.com/post/114040",
       "image": "",
-      "source": "Solidot",
+      "source": "少数派",
       "category": "tech",
-      "summary": "今年五月被捕的 Google 安全工程师 Michele Spagnuolo 被控利用内部信息在预测市场 Polymarket 押注歌手 d4vd 成为 2025 年 Google 搜索量最高的人物而获利 120 万美元。他被控犯有商品欺诈、电信欺诈和洗钱罪。\n他的律师团队本周递交了一份动议，寻求撤",
-      "id": "ab1a89da1712"
-    },
-    {
-      "title": "日本在候鸟粪便中发现耐药菌",
-      "url": "https://www.solidot.org/story?sid=85288",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "日本研究团队发布研究结果称，在往返于北海道和东亚的候鸟粪便中发现了耐药菌。这些细菌已被报告对多种抗菌药具有耐药性，可能正在跨国境扩散。团队 2024 年 9 月在北海道厚岸町的灰背鸥繁殖地采集了粪便进行分析。这种鸟夏季在北日本地区繁殖，一天平均在栖息地周边飞 25 公里；冬季则移动至 4000 多公",
-      "id": "2e8e86471a43"
-    },
-    {
-      "title": "维基媒体基金会员工压倒性多数投票支持成立工会",
-      "url": "https://www.solidot.org/story?sid=85287",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "虽然维基基金会拒绝自愿认可员工工会，但根据美国劳资关系委员会于 9 月 3 日公布的不记名投票结果：维基媒体基金会美国员工以 158 票赞成、14 票反对压倒性多数通过了组建工会的决议，有效票数占 91.9%，投票率 81%。维基媒体基金会发表声明，表示尊重结果，接下来将与工会展开集体谈判。\n<p>",
-      "id": "0efa1bd7a951"
-    },
-    {
-      "title": "联合国投票决定是否淘汰传统的墨卡托投影法地图",
-      "url": "https://www.solidot.org/story?sid=85285",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "联合国大会周五投票决定是否淘汰传统的墨卡托投影法地图，改用一种能更准确展现非洲面积的地图。墨卡托投影法地图由比利时佛兰德地理学家杰拉杜斯·墨卡托在 1569 年绘制，一直是全球标准地图，其缺点是高纬度地区面积变形失真，纬度越高变形越严重，接近南北极的高纬度地区如格陵兰面积被失真放大数倍之多。地图显示",
-      "id": "a47ff23bf7e0"
-    },
-    {
-      "title": "英伟达发布开源工具将闲置算力连成个人数据中心",
-      "url": "https://www.solidot.org/story?sid=85284",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "英伟达发布开源工具 Personal AI Router(PAIR)，同步家庭网络中的兼容计算机，汇集闲置算力用于本地 AI 推理和智能体工作负载。PAIR 兼容设备包括了英伟达 GeForce RTX 20 及更新的显卡，以及 RTX Pro GPU 和 DGX Spark，此外还有苹果 M4 以",
-      "id": "7533af030061"
+      "summary": "它没有卷到极致的轻量化，也没有最极端的气动数据，但综合实力稳稳站在顶级公路车的第一梯队。<a href=\"https://sspai.com/post/114040\" target=\"_blank\">查看全文</a>",
+      "id": "d98349534a46"
     },
     {
       "title": "本周看什么 | 最近值得一看的 8 部作品",
@@ -282,13 +291,31 @@
       "id": "b0880254a462"
     },
     {
-      "title": "当说起「Hi-Fi」时，我们到底在追求什么？",
-      "url": "https://sspai.com/post/113159",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "聊聊 Hi-Fi 这件事。<a href=\"https://sspai.com/post/113159\" target=\"_blank\">查看全文</a>",
-      "id": "e263ee50126c"
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s",
+      "id": "772e97788bfd"
+    },
+    {
+      "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
+      "url": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1RDG59G42A1KT2B2MD6EQRF/poland.png",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Poland upholds crypto bill veto as Zondacrypto scandal widens\" class=\"type:pri",
+      "id": "031798a0d6a4"
+    },
+    {
+      "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1R63FX0B48YA7B473RBB8TA/hi-bitcoin-etf-infrastructure-investment-2.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026\" class=\"",
+      "id": "8e9f52398a61"
     },
     {
       "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
@@ -318,15 +345,6 @@
       "id": "e458f112bee9"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s",
-      "id": "772e97788bfd"
-    },
-    {
       "title": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
       "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PQ0H0YWX9P513482DDRDG2/a-lot-of-hands-of-shiva-office-coins2.jpg",
@@ -345,22 +363,40 @@
       "id": "0df84ff4e80f"
     },
     {
-      "title": "US law enforcement group moves to ‘neutral’ position on CLARITY Act",
-      "url": "https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PMTZTE9JA669CG8QFKJ243/hi-fines-and-regulation-the-ever-growing-landscape-of-crypto-compliance.png",
-      "source": "CoinTelegraph",
+      "title": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
+      "url": "https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-screen-gID_7.png@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US law enforcement group moves to ‘neutral’ position on CLARITY Act\" class=\"ty",
-      "id": "5b8fe68f044c"
+      "summary": "At least four more decade-old wallets moved a combined $15.7 million between Aug. 29 and Sept. 4, with one batch of coins sent to Coinbase in a likely",
+      "id": "654778d829be"
     },
     {
-      "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
-      "url": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg",
-      "source": "CoinTelegraph",
+      "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
+      "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/robinhood-chain-learn-gID_7-pID_2.png@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Revolut, OpenReserve get preliminary US bank approval with crypto plans\" class",
-      "id": "ac6c4d7f2c49"
+      "summary": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
+      "id": "21bfa9da7984"
+    },
+    {
+      "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
+      "url": "https://decrypt.co/377501/google-chrome-zero-day-exploited",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
+      "source": "Decrypt",
+      "category": "crypto",
+      "summary": "The update fixes a high-severity flaw in Chrome’s V8 engine, but Google has not revealed who is using it or whom they targeted.",
+      "id": "6507ad06ab3d"
+    },
+    {
+      "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
+      "url": "https://decrypt.co/377491/ai-solved-350-year-old-math-problem",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/12/math-1500720_1920-gID_4.jpg@png",
+      "source": "Decrypt",
+      "category": "crypto",
+      "summary": "Anthropic says Claude spent 11 days turning Fermat's Last Theorem into 13 million lines of code a computer can check itself, no human trust required",
+      "id": "5f39500d95f7"
     },
     {
       "title": "TikTok's Parent Company Just Borrowed $30 Billion to Go All-In on AI",
@@ -397,42 +433,6 @@
       "category": "crypto",
       "summary": "A meme coin called BONER cornered half of Hims &amp; Hers Health's tokenized shares on Robinhood's new blockchain. It started a new trend that's sprea",
       "id": "bf6a1680290d"
-    },
-    {
-      "title": "'Send Your Lawyers': Robinhood Isn't Backing Down From AMC Over Stock Tokens",
-      "url": "https://decrypt.co/377461/send-your-lawyers-robinhood-not-backing-down-amc",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-vlad-tenev-decrypt-style-01-gID_7.jpg@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Lawyers question AMC’s grounds for a securities-law challenge, but say the tokens’ branding and marketing could leave room for a dispute.",
-      "id": "b1463ff170da"
-    },
-    {
-      "title": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
-      "url": "https://decrypt.co/377458/openreserve-occ-approval-full-service-national-bank",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/banks2-gID_7.jpg@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "The a16z-backed startup chose a full national charter over the trust-bank route most crypto firms have taken, clearing a path toward insured deposits ",
-      "id": "d3c217e615b3"
-    },
-    {
-      "title": "Zcash Hits Highest Price in Nearly a Decade, Crushing Short Bets",
-      "url": "https://decrypt.co/377445/zcash-price-high-decade-shorts-rekt",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "The privacy coin's squeeze rode a Fed-driven crypto rally that reversed hours later, when a stronger-than-expected jobs report sent Bitcoin back under",
-      "id": "872d2d233b14"
-    },
-    {
-      "title": "OpenAI Agents Hack German Website to Share Rule-Breaking Tactics: Report",
-      "url": "https://decrypt.co/377412/openai-agents-hack-german-website",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "The activity began in May and remained undisclosed until Friday, a day after OpenAI launched Astra and U.S. lawmakers proposed restrictions on advance",
-      "id": "540a833e0acc"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -656,22 +656,58 @@
     ],
     "tech": [
       {
-        "title": "Actively exploited sandbox RCE in all Chromium versions",
-        "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+        "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+        "url": "https://cloudinabottle.org/blog/launch-post",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49570669\">Comments</a>",
-        "id": "0b6806c57e42"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49582000\">Comments</a>",
+        "id": "70eeac239c8f"
       },
       {
-        "title": "Formalizing Fermat's Last Theorem",
-        "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+        "title": "The revolt of the reader",
+        "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49568506\">Comments</a>",
-        "id": "f69c4dd3fcd5"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49580939\">Comments</a>",
+        "id": "03b2359ae726"
+      },
+      {
+        "title": "Private German rocket makes history, reaches orbit from European soil",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49580369\">Comments</a>",
+        "id": "c96921d3d3c4"
+      },
+      {
+        "title": "Learn Programming with OCaml",
+        "url": "https://usr.lmf.cnrs.fr/lpo/",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49578280\">Comments</a>",
+        "id": "d3dbf9700abc"
+      },
+      {
+        "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+        "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49576386\">Comments</a>",
+        "id": "ee8489bcf5a8"
+      },
+      {
+        "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+        "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49580329\">Comments</a>",
+        "id": "4cdb57b8e38e"
       },
       {
         "title": "Discovery of a new OpenAI agent message board",
@@ -683,49 +719,58 @@
         "id": "28d14b241765"
       },
       {
-        "title": "Artificial Analysis Intelligence Index v4.2",
-        "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+        "title": "How Swiss tables work in Go built-in map",
+        "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49571632\">Comments</a>",
-        "id": "44d78a5d0a46"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49548852\">Comments</a>",
+        "id": "a509e1d84299"
       },
       {
-        "title": "Statichost.eu – European static site hosting",
-        "url": "https://www.statichost.eu/",
+        "title": "食用加工肉增加肺癌食道癌风险",
+        "url": "https://www.solidot.org/story?sid=85297",
         "image": "",
-        "source": "Hacker News",
+        "source": "Solidot",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49569896\">Comments</a>",
-        "id": "2f4cb07760f5"
+        "summary": "科学家利用欧洲 450,112 名参与者（131,426 名男性 和 318,686 名女性）的数据，评估了红肉、加工肉和白肉与胃腺癌和食管腺癌之间的关联。研究人员对红肉、加工肉和白肉的定义是：红肉包括猪肉、牛肉、小牛肉、羊肉等；加工肉包括火腿、培根、香肠、加工肉块、汉堡包、肉丸、肉酱等；白肉包括鸡",
+        "id": "8902b51b3e4c"
       },
       {
-        "title": "GPT-6 Astra on OpenRouter",
-        "url": "https://openrouter.ai/openai/gpt-6-astra",
+        "title": "等效原理适用于量子领域",
+        "url": "https://www.solidot.org/story?sid=85296",
         "image": "",
-        "source": "Hacker News",
+        "source": "Solidot",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49570545\">Comments</a>",
-        "id": "dcb3e058c1d2"
+        "summary": "物理学有两大不兼容的理论，其一是爱因斯坦广义相对论，适用于宏观物理领域；其二是量子力学，适用于微观物理领域。爱因斯坦曾尝试将两大理论融合成一个统一的理论，但没有成功。广义相对论的一个核心概念是等效原理，它认为引力和加速度不可区分。等效原理指出，对于自由落体的观察者，引力在局部应该消失。例如在电梯中自",
+        "id": "5ba6cf024d9d"
       },
       {
-        "title": "Shutting down our public encrypted DNS",
-        "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+        "title": "肾病患者靠移植猪肾生活九个月",
+        "url": "https://www.solidot.org/story?sid=85295",
         "image": "",
-        "source": "Hacker News",
+        "source": "Solidot",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49568579\">Comments</a>",
-        "id": "7b6eecdca723"
+        "summary": "两年前，蒂姆·安德鲁斯疲惫不堪，唯一想做的就是睡觉。糖尿病和高血压毁掉了他的肾脏，而通过过滤血液维持他生命的频繁透析治疗令人精疲力竭。尽管只有 66 岁，他却毫无精力与食欲，虚弱得无法行走，还曾两次心脏病发作。肾移植本可以救他的命，但器官供应短缺。根据美国器官共享联合网络的数据，约有 9 万人在等待",
+        "id": "04b603cc63a6"
       },
       {
-        "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-        "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+        "title": "F-Droid 考虑采用与 Debian 相同的 AI 政策",
+        "url": "https://www.solidot.org/story?sid=85294",
         "image": "",
-        "source": "Hacker News",
+        "source": "Solidot",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49571465\">Comments</a>",
-        "id": "0ca75f7f2586"
+        "summary": "一周前，Debian 项目经过投票允许以负责任的方式使用生成式 AI，Debian 项目表示，它既不反对也不支持在软件、包、文档等的开发和维护中使用生成式 AI 工具。但项目也认识到，如果能负责任的使用 AI 工具，将能显著提高贡献者的效率，使他们将有限的时间投入到需要技术专长、判断力、审核和协作的",
+        "id": "4d4abb2ee344"
+      },
+      {
+        "title": "联合国大会批准新地图",
+        "url": "https://www.solidot.org/story?sid=85293",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "联合国会员国周五以 164 票赞成、1 票反对的结果通过了一项决议，倡导采用能更准确反映各大洲真实大小的地图投影法——这是由非洲主导、反对 16 世纪墨卡托投影法的运动所取得的成果，而墨卡托投影法至今仍是世界上使用最广泛的地图投影法。美国投下了唯一一张反对票，将该倡议斥为“激进意识形态项目”的一部分",
+        "id": "0a45869dbf06"
       },
       {
         "title": "阿根廷人抗议 Peter Thiel",
@@ -755,49 +800,13 @@
         "id": "8b51f452ed10"
       },
       {
-        "title": "被控内幕交易的 Google 工程师称他只是在赌博",
-        "url": "https://www.solidot.org/story?sid=85289",
+        "title": "最值得买的顶级公路车？TREK 八代 Madone 评测",
+        "url": "https://sspai.com/post/114040",
         "image": "",
-        "source": "Solidot",
+        "source": "少数派",
         "category": "tech",
-        "summary": "今年五月被捕的 Google 安全工程师 Michele Spagnuolo 被控利用内部信息在预测市场 Polymarket 押注歌手 d4vd 成为 2025 年 Google 搜索量最高的人物而获利 120 万美元。他被控犯有商品欺诈、电信欺诈和洗钱罪。\n他的律师团队本周递交了一份动议，寻求撤",
-        "id": "ab1a89da1712"
-      },
-      {
-        "title": "日本在候鸟粪便中发现耐药菌",
-        "url": "https://www.solidot.org/story?sid=85288",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "日本研究团队发布研究结果称，在往返于北海道和东亚的候鸟粪便中发现了耐药菌。这些细菌已被报告对多种抗菌药具有耐药性，可能正在跨国境扩散。团队 2024 年 9 月在北海道厚岸町的灰背鸥繁殖地采集了粪便进行分析。这种鸟夏季在北日本地区繁殖，一天平均在栖息地周边飞 25 公里；冬季则移动至 4000 多公",
-        "id": "2e8e86471a43"
-      },
-      {
-        "title": "维基媒体基金会员工压倒性多数投票支持成立工会",
-        "url": "https://www.solidot.org/story?sid=85287",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "虽然维基基金会拒绝自愿认可员工工会，但根据美国劳资关系委员会于 9 月 3 日公布的不记名投票结果：维基媒体基金会美国员工以 158 票赞成、14 票反对压倒性多数通过了组建工会的决议，有效票数占 91.9%，投票率 81%。维基媒体基金会发表声明，表示尊重结果，接下来将与工会展开集体谈判。\n<p>",
-        "id": "0efa1bd7a951"
-      },
-      {
-        "title": "联合国投票决定是否淘汰传统的墨卡托投影法地图",
-        "url": "https://www.solidot.org/story?sid=85285",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "联合国大会周五投票决定是否淘汰传统的墨卡托投影法地图，改用一种能更准确展现非洲面积的地图。墨卡托投影法地图由比利时佛兰德地理学家杰拉杜斯·墨卡托在 1569 年绘制，一直是全球标准地图，其缺点是高纬度地区面积变形失真，纬度越高变形越严重，接近南北极的高纬度地区如格陵兰面积被失真放大数倍之多。地图显示",
-        "id": "a47ff23bf7e0"
-      },
-      {
-        "title": "英伟达发布开源工具将闲置算力连成个人数据中心",
-        "url": "https://www.solidot.org/story?sid=85284",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "英伟达发布开源工具 Personal AI Router(PAIR)，同步家庭网络中的兼容计算机，汇集闲置算力用于本地 AI 推理和智能体工作负载。PAIR 兼容设备包括了英伟达 GeForce RTX 20 及更新的显卡，以及 RTX Pro GPU 和 DGX Spark，此外还有苹果 M4 以",
-        "id": "7533af030061"
+        "summary": "它没有卷到极致的轻量化，也没有最极端的气动数据，但综合实力稳稳站在顶级公路车的第一梯队。<a href=\"https://sspai.com/post/114040\" target=\"_blank\">查看全文</a>",
+        "id": "d98349534a46"
       },
       {
         "title": "本周看什么 | 最近值得一看的 8 部作品",
@@ -863,15 +872,6 @@
         "id": "b0880254a462"
       },
       {
-        "title": "当说起「Hi-Fi」时，我们到底在追求什么？",
-        "url": "https://sspai.com/post/113159",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "聊聊 Hi-Fi 这件事。<a href=\"https://sspai.com/post/113159\" target=\"_blank\">查看全文</a>",
-        "id": "e263ee50126c"
-      },
-      {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
         "source": "MacRumors",
         "category": "tech",
@@ -910,6 +910,33 @@
     ],
     "crypto": [
       {
+        "title": "Here’s what happened in crypto today",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s",
+        "id": "772e97788bfd"
+      },
+      {
+        "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
+        "url": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1RDG59G42A1KT2B2MD6EQRF/poland.png",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Poland upholds crypto bill veto as Zondacrypto scandal widens\" class=\"type:pri",
+        "id": "031798a0d6a4"
+      },
+      {
+        "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
+        "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1R63FX0B48YA7B473RBB8TA/hi-bitcoin-etf-infrastructure-investment-2.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026\" class=\"",
+        "id": "8e9f52398a61"
+      },
+      {
         "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
         "url": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PYWBWRST3XMBJ9PF2QDTTB/hi-how-a-weakening-us-labour-market-is-putting-pressure-on-bitcoin-and-crypto-prices.jpg",
@@ -937,15 +964,6 @@
         "id": "e458f112bee9"
       },
       {
-        "title": "Here’s what happened in crypto today",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s",
-        "id": "772e97788bfd"
-      },
-      {
         "title": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
         "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PQ0H0YWX9P513482DDRDG2/a-lot-of-hands-of-shiva-office-coins2.jpg",
@@ -964,22 +982,40 @@
         "id": "0df84ff4e80f"
       },
       {
-        "title": "US law enforcement group moves to ‘neutral’ position on CLARITY Act",
-        "url": "https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PMTZTE9JA669CG8QFKJ243/hi-fines-and-regulation-the-ever-growing-landscape-of-crypto-compliance.png",
-        "source": "CoinTelegraph",
+        "title": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
+        "url": "https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-screen-gID_7.png@png",
+        "source": "Decrypt",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US law enforcement group moves to ‘neutral’ position on CLARITY Act\" class=\"ty",
-        "id": "5b8fe68f044c"
+        "summary": "At least four more decade-old wallets moved a combined $15.7 million between Aug. 29 and Sept. 4, with one batch of coins sent to Coinbase in a likely",
+        "id": "654778d829be"
       },
       {
-        "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
-        "url": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg",
-        "source": "CoinTelegraph",
+        "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
+        "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/robinhood-chain-learn-gID_7-pID_2.png@png",
+        "source": "Decrypt",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Revolut, OpenReserve get preliminary US bank approval with crypto plans\" class",
-        "id": "ac6c4d7f2c49"
+        "summary": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
+        "id": "21bfa9da7984"
+      },
+      {
+        "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
+        "url": "https://decrypt.co/377501/google-chrome-zero-day-exploited",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "The update fixes a high-severity flaw in Chrome’s V8 engine, but Google has not revealed who is using it or whom they targeted.",
+        "id": "6507ad06ab3d"
+      },
+      {
+        "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
+        "url": "https://decrypt.co/377491/ai-solved-350-year-old-math-problem",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/12/math-1500720_1920-gID_4.jpg@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "Anthropic says Claude spent 11 days turning Fermat's Last Theorem into 13 million lines of code a computer can check itself, no human trust required",
+        "id": "5f39500d95f7"
       },
       {
         "title": "TikTok's Parent Company Just Borrowed $30 Billion to Go All-In on AI",
@@ -1016,42 +1052,6 @@
         "category": "crypto",
         "summary": "A meme coin called BONER cornered half of Hims &amp; Hers Health's tokenized shares on Robinhood's new blockchain. It started a new trend that's sprea",
         "id": "bf6a1680290d"
-      },
-      {
-        "title": "'Send Your Lawyers': Robinhood Isn't Backing Down From AMC Over Stock Tokens",
-        "url": "https://decrypt.co/377461/send-your-lawyers-robinhood-not-backing-down-amc",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-vlad-tenev-decrypt-style-01-gID_7.jpg@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Lawyers question AMC’s grounds for a securities-law challenge, but say the tokens’ branding and marketing could leave room for a dispute.",
-        "id": "b1463ff170da"
-      },
-      {
-        "title": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
-        "url": "https://decrypt.co/377458/openreserve-occ-approval-full-service-national-bank",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/banks2-gID_7.jpg@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "The a16z-backed startup chose a full national charter over the trust-bank route most crypto firms have taken, clearing a path toward insured deposits ",
-        "id": "d3c217e615b3"
-      },
-      {
-        "title": "Zcash Hits Highest Price in Nearly a Decade, Crushing Short Bets",
-        "url": "https://decrypt.co/377445/zcash-price-high-decade-shorts-rekt",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "The privacy coin's squeeze rode a Fed-driven crypto rally that reversed hours later, when a stronger-than-expected jobs report sent Bitcoin back under",
-        "id": "872d2d233b14"
-      },
-      {
-        "title": "OpenAI Agents Hack German Website to Share Rule-Breaking Tactics: Report",
-        "url": "https://decrypt.co/377412/openai-agents-hack-german-website",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "The activity began in May and remained undisclosed until Friday, a day after OpenAI launched Astra and U.S. lawmakers proposed restrictions on advance",
-        "id": "540a833e0acc"
       },
       {
         "title": "比特币突破 80000 美元",
