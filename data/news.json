@@ -1,69 +1,132 @@
 {
-  "last_updated": "2026-09-10T02:26:05.135098",
-  "total": 59,
+  "last_updated": "2026-09-11T02:20:41.414494",
+  "total": 60,
   "news": [
     {
-      "title": "iPhone Duo",
-      "url": "https://www.apple.com/iphone-duo/",
+      "title": "YuE2 · Frontier Music with Symbolic Planning",
+      "url": "https://map-yue2.github.io/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49630931\">Comments</a>",
-      "id": "6a6638dfaebf"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49652028\">Comments</a>",
+      "id": "eeb2fed82d24"
     },
     {
-      "title": "Shopify acquires Tailwind",
-      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "url": "https://shopify.engineering/back-to-native",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49626190\">Comments</a>",
-      "id": "2a66313aeaff"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49643982\">Comments</a>",
+      "id": "d231e0b3e2b9"
     },
     {
-      "title": "What do Visa and Mastercard do? An intro to card networks",
-      "url": "https://tautology.town/2026/06/01/card-networks.html",
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49614280\">Comments</a>",
-      "id": "7a65d82c4bcd"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49639408\">Comments</a>",
+      "id": "b6aa573bde59"
     },
     {
-      "title": "Growing proof that autonomous cars save lives",
-      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49629886\">Comments</a>",
-      "id": "8d338f03bdd1"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49649213\">Comments</a>",
+      "id": "2d994fa34cd5"
     },
     {
-      "title": "Show HN: Compute polynomials twice as fast",
-      "url": "https://thomasahle.com/fast-polynomials/",
+      "title": "Google will buy half the electricity of a nuclear power plant",
+      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49623398\">Comments</a>",
-      "id": "4a8c2177d6a5"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49652105\">Comments</a>",
+      "id": "4ac2ceff088a"
     },
     {
-      "title": "No Man's Sky Cosmos",
-      "url": "https://www.nomanssky.com/cosmos-update/",
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "url": "https://auberon.xyz/blog/posts/deathray/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49628493\">Comments</a>",
-      "id": "23c029d48253"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49649124\">Comments</a>",
+      "id": "8bfd260f6c87"
     },
     {
-      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "title": "Don't let anyone take away your big box of cables",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49630151\">Comments</a>",
-      "id": "0b9cdd29b02f"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49645393\">Comments</a>",
+      "id": "67c482a154bd"
+    },
+    {
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "image": "",
+      "source": "Hacker News",
+      "category": "tech",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49645443\">Comments</a>",
+      "id": "f6f42da3f0b7"
+    },
+    {
+      "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+      "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "id": "d842634c92a5"
+    },
+    {
+      "title": "Powering AI is an architecture problem",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawa",
+      "id": "0ab97549b8b7"
+    },
+    {
+      "title": "This road map could help us decide whether to deploy solar geoengineering",
+      "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make infor",
+      "id": "8adb5b78ceb9"
+    },
+    {
+      "title": "Can the US battery market untangle from China?",
+      "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and ",
+      "id": "74cdb7b227ba"
+    },
+    {
+      "title": "God told them to sell crypto. Their investors lost everything.",
+      "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first",
+      "id": "b4da30e9e26b"
+    },
+    {
+      "title": "Healthcare AI’s next test is integration",
+      "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the ind",
+      "id": "6be28ae44f5f"
     },
     {
       "title": "The Download: OpenAI’s turning point for math and a battery record",
@@ -84,130 +147,94 @@
       "id": "0e29dbf0d0b1"
     },
     {
-      "title": "Understanding the thermal ceiling in portable power",
-      "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device prote",
-      "id": "f568a0a17152"
-    },
-    {
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Mi",
-      "id": "344f150d7dae"
-    },
-    {
-      "title": "The Download: our 35 Innovators Under 35 this year",
-      "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "id": "3faafa72a7a1"
-    },
-    {
-      "title": "This founder is teaching chips how to recycle (their energy)",
-      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks ",
-      "id": "2a57ba249818"
-    },
-    {
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its n",
-      "id": "2abbbf74f20d"
-    },
-    {
-      "title": "This founder is making cheaper, cleaner steel",
-      "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commerciali",
-      "id": "6cecea32ffe6"
-    },
-    {
-      "title": "屏幕使用时长导致学生阅读得分大幅下降",
-      "url": "https://www.solidot.org/story?sid=85333",
+      "title": "LG 强烈否认其监视电视用户",
+      "url": "https://www.solidot.org/story?sid=85341",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "青少年的阅读、数学和科学成绩降至 2000 年国际 PISA 测试启动以来的最低水平，15 岁学生的阅读能力相当于过去低一岁学生的水平。经合组织（OECD）将成绩下滑归因于屏幕使用时长增加、出于兴趣的阅读减少以及数字设备带来的干扰。OECD 还发现，经常将 AI 聊天机器人用于起草论文或总结文本等任",
-      "id": "ba91c7303304"
+      "summary": "本周早期时候，YouTube 主播 Gamers Nexus 与独立安全研究人员合作，发现 LG 的智能电视机即便在离线或待机模式下也会持续记录并上传用户数据。LG 电视还会扫描 Wi-Fi 网络、记录音频日志，采样音视频输入内容以识别用户正在观看的节目。LG 在一则声明中称视频内容不实，“LG 电",
+      "id": "c855e06fc951"
     },
     {
-      "title": "Google 将“降级”欧洲搜索服务",
-      "url": "https://www.solidot.org/story?sid=85332",
+      "title": "育碧准备在 Steam 上取消安装 Ubisoft Connect 客户端的要求",
+      "url": "https://www.solidot.org/story?sid=85340",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "为遵守欧洲的数字市场法律《Digital Markets Act（DMA）》，Google 宣布将调整欧洲的搜索服务，提升 Expedia 和 Hotels.com 等竞争对手比价服务的权重，移除酒店、航空公司和餐厅搜索结果中的部分实时信息功能。Google 高级副总裁 Nick Fox 表示，“这",
-      "id": "f9119e8c428c"
+      "summary": "在 Steam 上购买和运行育碧的游戏需要安装其客户端 Ubisoft Connect，启动游戏时需要同时启动育碧和 Steam 两个启动程序，这种做法长期受到 Steam 玩家的诟病。现在育碧宣布将逐步取消这一要求，“从《Prince of Persia: The Lost Crown》起，我们将",
+      "id": "10c6ed0cdf29"
     },
     {
-      "title": "《星际迷航》上映 60 周年",
-      "url": "https://www.solidot.org/story?sid=85331",
+      "title": "OpenAI 声称解决了 Navier-Stokes 问题，但引发了利用未发布成果的争议",
+      "url": "https://www.solidot.org/story?sid=85339",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "1966 年 9 月 8 日，《星际迷航：原初系列》上映。60 年之后，《星际迷航》系列包含了 967 集电视剧、14 部电影，以及大量小说等其它媒介，形成了庞大的《星际迷航》宇宙，是史上最成功的科幻作品系列之一。《星际迷航》最著名的开头旁白是：“宇宙，终极的边疆。这里叙述的是星舰进取号的旅程，它的",
-      "id": "5f12574d4c1c"
+      "summary": "约 200 年前，法国物理学家克劳德-路易·纳维和爱尔兰物理学家乔治·斯托克斯提出了一组至今仍然广泛使用的、描述液体、空气等流体运动的偏微分方程。Navier-Stokes 方程并不保证适用于所有可能的情况。几十年来，数学家一直致力于寻求证明方程的普适性或导致方程失效的特例。2000 年克雷数学研究",
+      "id": "8283bfc3a5ff"
     },
     {
-      "title": "NVIDIA 创业企业展示半程活动10月苏州举行，30家科创企业路演+投资人对接",
-      "url": "https://www.solidot.org/story?sid=85330",
+      "title": "微软九月例行更新修复近千个 Bug",
+      "url": "https://www.solidot.org/story?sid=85338",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "NVIDIA 2026 年度创业企业展示活动的半程展示将于 10 月 15 日在苏州金鸡湖国际会议中心 A 馆举办。\n<br />\n\n半程展示将聚焦 AI 智能体、物理 AI、开放模型及 AI 应用等前沿方向。届时，30 余家 NVIDIA 初创加速计划会员企业将带来路演，NVIDIA 技术专家联合",
-      "id": "fca8115b3949"
+      "summary": "在 AI 辅助发现 bug 的时代，主要操作系统每个月修复的 bug 数都在飙升。微软周二释出了九月例行安全更新，总共修复了 974 个 bug，数量为史上最多，今年的安全补丁数已超过 2600。最新补丁包括了 2 个正被利用的提权 0day 漏洞 CVE-2026-81963 和 CVE-2026",
+      "id": "302a8d3cee7f"
     },
     {
-      "title": "美国政府指控中国公司系统性蒸馏美国 AI 模型",
-      "url": "https://www.solidot.org/story?sid=85329",
+      "title": "Google 向司机推荐更长的行驶路线以缓解拥堵",
+      "url": "https://www.solidot.org/story?sid=85337",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "美国国家安全局、联邦调查局及网络安全和基础设施安全局周二发表联合声明，称深度求索（DeepSeek）、月之暗面等六家中国 AI 企业至少从 2024 年起利用“蒸馏”技术，以“工业化规模”访问美国 AI 模型并提取信息。六家企业包括 DeepSeek、Kimi 开发商月之暗面、阿里巴巴、MiniMa",
-      "id": "9317d60b77fd"
+      "summary": "根据发表在《Nature Cities》期刊上的一项研究，Google 研究人员利用 Google Maps 有意向部分司机推荐更长的行驶路线，此举有助于将车流分散到更多条道路上，从而缓解交通拥堵。研究人员在西雅图、盐湖城、芝加哥和亚特兰大等 10 座城市进行了实验，结果显示拥堵路段的平均车速提高了",
+      "id": "27104a1cc1cd"
     },
     {
-      "title": "Fermi Explorer Mission 项目考虑 2029 年向半人马座α星发射探测器",
-      "url": "https://www.solidot.org/story?sid=85328",
+      "title": "2026 年拉斯克奖宣布",
+      "url": "https://www.solidot.org/story?sid=85336",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "非营利组织费米探索者任务（Fermi Explorer Mission）公布了一项低成本星际方案，计划 2029 年底前发射小型探测器，飞向约 4.4 光年外的半人马座α星系统。路线由 AI 规划，全程耗时约 8 万年，总预算低于 1500 万美元。项目联合创始人兼主席菲利普·约翰斯顿在声明中称，旅",
-      "id": "3ecc4a8afd97"
+      "summary": "拉斯克奖公布了 2026 年的获奖名单。基础医学奖授予了发现掌管睡眠的大脑神经传递物质“食欲素”（Orexin）的日本筑波大学教授柳泽正史（66岁）和美国斯坦福医学院的 Emmanuel Mignot。临床医学奖项授予了开发血友病治疗药的中外制药公司前顾问服部有宏（66岁）、顾问北泽刚久（57岁）以",
+      "id": "870a2d69759b"
     },
     {
-      "title": "Valve 要求澳大利亚玩家用信用卡验证年龄以访问 R18+ 游戏",
-      "url": "https://www.solidot.org/story?sid=85327",
+      "title": "苹果推出折叠屏手机 iPhone Duo",
+      "url": "https://www.solidot.org/story?sid=85335",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "澳大利亚玩家通过社媒报告，Valve 要求澳大利亚玩家用信用卡验证年龄，之后才允许访问 Steam 商店的 R18+ 类游戏。玩家抱怨，他们的账号历史都超过 20 年了，如今却还被迫要通过信用卡去验证年龄。而在澳大利亚，信用卡并不像美国那样普及，大部分成年人都只有借记卡，为了访问 R18+ 游戏页面",
-      "id": "dd3a5a40a2f6"
+      "summary": "苹果宣布了一系列新产品，包括 iPhone 18 Pro 与 iPhone 18 Pro Max、AirPods 5 以及其首款折叠屏手机 iPhone Duo。其中最引人瞩目的是其折叠屏手机。三星、Google 和华为等苹果竞争对手早就推出了折叠屏手机，在内存和存储器短缺导致价格飙升时代，苹果推出",
+      "id": "911522ca7103"
     },
     {
-      "title": "《南方公园》改名为《南方美国》",
-      "url": "https://www.solidot.org/story?sid=85326",
+      "title": "小岛秀夫与索尼终止合作，改为与微软合作",
+      "url": "https://www.solidot.org/story?sid=85334",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "《南方公园（South Park）》创作者 Matt Stone 和 Trey Parker 宣布，“受苹果和 Google 的勇敢和爱国精神的启发，我们将把《南方公园》更名为《南方美国（South America）》。”美国总统特朗普上个月签署了行政令，将安大略湖（Lake Ontario）更名为",
-      "id": "d9c0ebad88b1"
+      "summary": "知名日本游戏制作人小岛秀夫证实在索尼取消对其正在开发中的谍战动作游戏项目 PHYSINT 的资助之后，他找到了新的合作伙伴——索尼 PS 的竞争对手微软 XBOX。此前索尼游戏资助小岛开发了《死亡搁浅》系统。小岛称在索尼于 5 月发出取消 PHYSINT 项目的通知之后，过去三个月他们一直在寻找新合",
+      "id": "31893dccb8a7"
+    },
+    {
+      "title": "派早报：商务部回应美国 AI 蒸馏指控",
+      "url": "https://sspai.com/post/114439",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "<p>商务部回应美国 AI 蒸馏指控</p><p>谷歌声称为了合规将「降级」欧盟搜索服务</p><p>Apple 智能将有用量限制</p><p>OpenAI 将与三星合作开发芯片</p><p>小岛秀夫新游戏被索尼取消，转由微软发行</p><p>DeepSeek V4.1 发布</p><p>看看就行的",
+      "id": "16e2ca1ef3bc"
+    },
+    {
+      "title": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容",
+      "url": "https://sspai.com/post/114384",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "祝每一位老师教师节快乐！<a href=\"https://sspai.com/post/114384\" target=\"_blank\">查看全文</a>",
+      "id": "5d03395a1ac8"
     },
     {
       "title": "派早报：Apple 发布 iPhone Duo 折叠屏等",
@@ -264,22 +291,13 @@
       "id": "375ae1eb0e2d"
     },
     {
-      "title": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等",
-      "url": "https://sspai.com/post/114352",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等。<a href=\"https://sspai.com/post/114352\" target=\"_blank\">查看全文</a>",
-      "id": "cb01dc23401b"
-    },
-    {
-      "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
-      "url": "https://sspai.com/prime/story/sidecar-optimizations",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止。<a href=\"https://sspai.com/prime/story/sidecar-optimizations\" targ",
-      "id": "f6a56afc6f60"
+      "title": "Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express",
+      "url": "https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express\" clas",
+      "id": "2a9da560fc02"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -291,139 +309,130 @@
       "id": "772e97788bfd"
     },
     {
-      "title": "DoubleZero adds Kalshi election market data ahead of US midterms",
-      "url": "https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23VG1E8VXF1CMN933GG7NC8/republicans-vs-democrats-crypto2-2.jpg",
+      "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
+      "url": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26CZHVMKBYHAAV7EA21J68E/hi-what-is-mica-markets-in-crypto-assets-regulation-esma.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DoubleZero adds Kalshi election market data ahead of US midterms \" class=\"type",
-      "id": "cf2c3ca2f4a4"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ESMA warns growing crypto ties could amplify risks to traditional finance\" cla",
+      "id": "0c62257fcd68"
     },
     {
-      "title": "Consensys to split into MetaMask and institutional blockchain company",
-      "url": "https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23QBD87GQQKWH5JQGT142KQ/hi-crypto-loan-platforms-how-they-work-and-who-are-the-main-players-consensys.png",
+      "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
+      "url": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M265GXQKJCP1QSNW42GTAMVF/hi-uk-and-crypto-new.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Consensys to split into MetaMask and institutional blockchain company\" class=\"",
-      "id": "ffabb30588f6"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK House of Lords backs mandatory digital asset strategy over Labour position\"",
+      "id": "015378479ff6"
     },
     {
-      "title": "TRM Labs doubles valuation to $2B in Series C expansion",
-      "url": "https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23JCY6CREQKFY9A4SRB13GG/hi-institutional-trading-and-cryptocurrency-industry-investment.png",
+      "title": "Liquid Network resumes block production after $320M exploit",
+      "url": "https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M261Y4R153J5N1QZNJQKTM7F/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"TRM Labs doubles valuation to $2B in Series C expansion \" class=\"type:primaryI",
-      "id": "c503bdeed535"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Liquid Network resumes block production after $320M exploit\" class=\"type:prima",
+      "id": "a116b5c0a179"
     },
     {
-      "title": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
-      "url": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23ENPDH8G235APECM7VERGK/cross-border-transaction-stablecoin-swift-2.png",
+      "title": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
+      "url": "https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25YXEVJ4DH3H58PM7AA0KCM/hi-paystand-launches-stablecoin-for-enterprise-payments33331-960x640.webp",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction\" cl",
-      "id": "32c3a9cca99c"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MoneyGram launches Visa stablecoin card as remittance rivals expand\" class=\"ty",
+      "id": "6e8212caaaa1"
     },
     {
-      "title": "Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar",
-      "url": "https://cointelegraph.com/markets/bitcoin-fails-to-reclaim-80k-as-bessent-fuels-yen-strength-around-153-per-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23FHFBTAY2SPS1GVVCH1XNK/hi-a-beginners-guide-on-central-bank-digital-currencies.jpg",
+      "title": "EU finance groups push to remove tokenized securities cap",
+      "url": "https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25YE6DKF8ZSF4J32E1GZPK8/regulations-eu-europe-bitcoin.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dol",
-      "id": "82a51e4f8505"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU finance groups push to remove tokenized securities cap\" class=\"type:primary",
+      "id": "b46ea5bdbdfd"
     },
     {
-      "title": "Hunter Biden’s laptop controversy gets a memecoin afterlife",
-      "url": "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M230B9QSF000WZ911VXTFNH1/hi-bidens-crypto-memecoin-laptop.png",
+      "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
+      "url": "https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25WNWCPP6BF687FEHQSBZ6X/money-dollar-calculator-inflation.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hunter Biden’s laptop controversy gets a memecoin afterlife\" class=\"type:prima",
-      "id": "27959e7f7472"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high\"",
+      "id": "4d8d57cf20f6"
     },
     {
-      "title": "Trade groups seek to block Illinois crypto tax before January effective date",
-      "url": "https://cointelegraph.com/news/trade-groups-seek-block-illinois-crypto-tax-before-january-effective-date?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23CVCZMG85BQMYT0FDR7K9V/year-of-crypto-tax-legislation-960x640.webp",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trade groups seek to block Illinois crypto tax before January effective date\" ",
-      "id": "e4c0bbd7e034"
-    },
-    {
-      "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
-      "url": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/trezor-safe-7-decrypt-style-gID_7.jpg@png",
+      "title": "Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote",
+      "url": "https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cynthia-lummis-decrypt-style-scaled-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "The hardware wallet maker said a fake security alert claimed a hardware flaw could expose users’ recovery phrases.",
-      "id": "ac41f5970aee"
+      "summary": "The draft adds registration requirements for controlled trading protocols and leaves its ethics provisions largely unchanged.",
+      "id": "4d33bd0073e2"
     },
     {
-      "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
-      "url": "https://decrypt.co/377818/ai-math-best-problems-terence-tao",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/math-problems-AI-gID_4.jpg@png",
+      "title": "DeepSeek's New Model Nearly Matches GPT-6 Astra on Design—at 1.4% of the Cost",
+      "url": "https://decrypt.co/377917/deepseek-openai-gpt-6-astra-design-benchmark",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/china-deepSeek-AI-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "The Fields medalist points to a real race between OpenAI and Anthropic as proof: AI can now flatten a hard problem the moment someone starts working o",
-      "id": "5cd9eeac2078"
+      "summary": "OpenDesign put 13 AI models through the same design tasks. DeepSeek V4.1 Flash landed a point and a half behind GPT-6 Astra and roughly 70 times cheap",
+      "id": "a2b4d4d27888"
     },
     {
-      "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
-      "url": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg@png",
+      "title": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
+      "url": "https://decrypt.co/377925/ai-agents-slash-cost-quantum-attack-bitcoin",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Crypto advocates and community bankers are targeting lawmakers in their home states as the Senate prepares for a September 15 procedural vote.",
-      "id": "ce388736ece8"
+      "summary": "The ECDSA.Fail challenge cut a resource benchmark for one component of a potential quantum attack by 86%.",
+      "id": "1e6fcc6576f4"
     },
     {
-      "title": "Apple Unveils Redesigned Siri AI and A20 Pro Chip as CEO John Ternus Makes Debut",
-      "url": "https://decrypt.co/377807/apple-redesigned-siri-ai-a20-pro-chip",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
+      "title": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
+      "url": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "The company's first fall keynote under new leadership paired a Gemini-powered Siri overhaul with Apple's first 2-nanometer chip, plus a $1,999 foldabl",
-      "id": "5892212b4fbd"
+      "summary": "Head of Product Ryan Kass says the return to Coinbase Wallet reflects a broader trading strategy, with the self-custody app serving as a testing groun",
+      "id": "020216ffbb15"
     },
     {
-      "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
-      "url": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/bitcoin-ice-frozen-gID_7.jpeg@png",
+      "title": "Bitcoin Rally Cools, But a Golden Cross Is Coming",
+      "url": "https://decrypt.co/377903/bitcoin-price-golden-cross-coming",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Blockchain sleuths at Elliptic traced the money, Treasury sanctioned the marketplace, and Xinbi—which ran $24 billion through a Telegram scam bazaar—c",
-      "id": "e09ceb3bf3c6"
+      "summary": "Bitcoin couldn't escape today's inflation-driven selloff, but a bearish pattern on its chart is about to flip for the first time since November.",
+      "id": "98292047a822"
     },
     {
-      "title": "While Bitcoin Devs Debate Next Moves, IonQ Unveils Superion 256 Quantum Computer",
-      "url": "https://decrypt.co/377737/bitcoin-debate-ionq-quantum-computer",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/google-quantum-decrypt-style-01-2-gID_7.jpg@png",
+      "title": "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS",
+      "url": "https://decrypt.co/377902/ai-hacks-shrinking-bank-time-fix-flaws-bis",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/robot-typing-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "The company has built its first chips and begun testing prototypes as it seeks to manufacture quantum computers in larger quantities.",
-      "id": "5df284524f2f"
+      "summary": "The Bank for International Settlements says routine patching schedules are increasingly inadequate and cites guidance urging banks to accept planned d",
+      "id": "3eba8f42f956"
     },
     {
-      "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
-      "url": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/laptop-meme-coin-learn-gID_4-pID_2.png@png",
+      "title": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting",
+      "url": "https://decrypt.co/377898/sam-altman-elon-musk-zuckerberg-ai-bots",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/sam-altman-elon-musk-decrypt-style-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "The LAPTOP token launched on Base in September 2026, peaked two minutes later, and shed almost all of its value the same day.",
-      "id": "a9440ad15005"
+      "summary": "Kun Chen built chatbot versions of four AI CEOs on SpaceXAI's new Grok Bot templates, locked them in one chat, and told them to debate the AI race unt",
+      "id": "eadfadd50002"
     },
     {
-      "title": "Mexican Musician and Family Killed Over Bitcoin Cold Wallet Believed to Hold Millions",
-      "url": "https://decrypt.co/377795/mexican-family-killed-bitcoin-cold-wallet",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png",
+      "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
+      "url": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Mexican prosecutors allege suspects targeted Camilo Séptimo keyboardist Jonathan Meléndez and his family while searching for a cold wallet they believ",
-      "id": "c7b3c528ab35"
+      "summary": "The company now says attacks during security tests exposed model behavior failures, after initially emphasizing errors in its testing infrastructure.",
+      "id": "904d62409b22"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -537,6 +546,60 @@
   "categories": {
     "ai": [
       {
+        "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+        "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+        "id": "d842634c92a5"
+      },
+      {
+        "title": "Powering AI is an architecture problem",
+        "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawa",
+        "id": "0ab97549b8b7"
+      },
+      {
+        "title": "This road map could help us decide whether to deploy solar geoengineering",
+        "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make infor",
+        "id": "8adb5b78ceb9"
+      },
+      {
+        "title": "Can the US battery market untangle from China?",
+        "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and ",
+        "id": "74cdb7b227ba"
+      },
+      {
+        "title": "God told them to sell crypto. Their investors lost everything.",
+        "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first",
+        "id": "b4da30e9e26b"
+      },
+      {
+        "title": "Healthcare AI’s next test is integration",
+        "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the ind",
+        "id": "6be28ae44f5f"
+      },
+      {
         "title": "The Download: OpenAI’s turning point for math and a battery record",
         "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
         "image": "",
@@ -553,60 +616,6 @@
         "category": "ai",
         "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according t",
         "id": "0e29dbf0d0b1"
-      },
-      {
-        "title": "Understanding the thermal ceiling in portable power",
-        "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device prote",
-        "id": "f568a0a17152"
-      },
-      {
-        "title": "What OpenAI’s latest controversy tells us about the future of math",
-        "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Mi",
-        "id": "344f150d7dae"
-      },
-      {
-        "title": "The Download: our 35 Innovators Under 35 this year",
-        "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-        "id": "3faafa72a7a1"
-      },
-      {
-        "title": "This founder is teaching chips how to recycle (their energy)",
-        "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks ",
-        "id": "2a57ba249818"
-      },
-      {
-        "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-        "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its n",
-        "id": "2abbbf74f20d"
-      },
-      {
-        "title": "This founder is making cheaper, cleaner steel",
-        "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commerciali",
-        "id": "6cecea32ffe6"
       },
       {
         "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -647,139 +656,166 @@
     ],
     "tech": [
       {
-        "title": "iPhone Duo",
-        "url": "https://www.apple.com/iphone-duo/",
+        "title": "YuE2 · Frontier Music with Symbolic Planning",
+        "url": "https://map-yue2.github.io/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49630931\">Comments</a>",
-        "id": "6a6638dfaebf"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49652028\">Comments</a>",
+        "id": "eeb2fed82d24"
       },
       {
-        "title": "Shopify acquires Tailwind",
-        "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+        "title": "Shopify is moving from React Native back to Swift and Kotlin",
+        "url": "https://shopify.engineering/back-to-native",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49626190\">Comments</a>",
-        "id": "2a66313aeaff"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49643982\">Comments</a>",
+        "id": "d231e0b3e2b9"
       },
       {
-        "title": "What do Visa and Mastercard do? An intro to card networks",
-        "url": "https://tautology.town/2026/06/01/card-networks.html",
+        "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+        "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49614280\">Comments</a>",
-        "id": "7a65d82c4bcd"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49639408\">Comments</a>",
+        "id": "b6aa573bde59"
       },
       {
-        "title": "Growing proof that autonomous cars save lives",
-        "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+        "title": "OpenAI Agents API",
+        "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49629886\">Comments</a>",
-        "id": "8d338f03bdd1"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49649213\">Comments</a>",
+        "id": "2d994fa34cd5"
       },
       {
-        "title": "Show HN: Compute polynomials twice as fast",
-        "url": "https://thomasahle.com/fast-polynomials/",
+        "title": "Google will buy half the electricity of a nuclear power plant",
+        "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49623398\">Comments</a>",
-        "id": "4a8c2177d6a5"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49652105\">Comments</a>",
+        "id": "4ac2ceff088a"
       },
       {
-        "title": "No Man's Sky Cosmos",
-        "url": "https://www.nomanssky.com/cosmos-update/",
+        "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+        "url": "https://auberon.xyz/blog/posts/deathray/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49628493\">Comments</a>",
-        "id": "23c029d48253"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49649124\">Comments</a>",
+        "id": "8bfd260f6c87"
       },
       {
-        "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-        "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+        "title": "Don't let anyone take away your big box of cables",
+        "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49630151\">Comments</a>",
-        "id": "0b9cdd29b02f"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49645393\">Comments</a>",
+        "id": "67c482a154bd"
       },
       {
-        "title": "屏幕使用时长导致学生阅读得分大幅下降",
-        "url": "https://www.solidot.org/story?sid=85333",
+        "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+        "url": "https://cognition.com/blog/swe-2",
+        "image": "",
+        "source": "Hacker News",
+        "category": "tech",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49645443\">Comments</a>",
+        "id": "f6f42da3f0b7"
+      },
+      {
+        "title": "LG 强烈否认其监视电视用户",
+        "url": "https://www.solidot.org/story?sid=85341",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "青少年的阅读、数学和科学成绩降至 2000 年国际 PISA 测试启动以来的最低水平，15 岁学生的阅读能力相当于过去低一岁学生的水平。经合组织（OECD）将成绩下滑归因于屏幕使用时长增加、出于兴趣的阅读减少以及数字设备带来的干扰。OECD 还发现，经常将 AI 聊天机器人用于起草论文或总结文本等任",
-        "id": "ba91c7303304"
+        "summary": "本周早期时候，YouTube 主播 Gamers Nexus 与独立安全研究人员合作，发现 LG 的智能电视机即便在离线或待机模式下也会持续记录并上传用户数据。LG 电视还会扫描 Wi-Fi 网络、记录音频日志，采样音视频输入内容以识别用户正在观看的节目。LG 在一则声明中称视频内容不实，“LG 电",
+        "id": "c855e06fc951"
       },
       {
-        "title": "Google 将“降级”欧洲搜索服务",
-        "url": "https://www.solidot.org/story?sid=85332",
+        "title": "育碧准备在 Steam 上取消安装 Ubisoft Connect 客户端的要求",
+        "url": "https://www.solidot.org/story?sid=85340",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "为遵守欧洲的数字市场法律《Digital Markets Act（DMA）》，Google 宣布将调整欧洲的搜索服务，提升 Expedia 和 Hotels.com 等竞争对手比价服务的权重，移除酒店、航空公司和餐厅搜索结果中的部分实时信息功能。Google 高级副总裁 Nick Fox 表示，“这",
-        "id": "f9119e8c428c"
+        "summary": "在 Steam 上购买和运行育碧的游戏需要安装其客户端 Ubisoft Connect，启动游戏时需要同时启动育碧和 Steam 两个启动程序，这种做法长期受到 Steam 玩家的诟病。现在育碧宣布将逐步取消这一要求，“从《Prince of Persia: The Lost Crown》起，我们将",
+        "id": "10c6ed0cdf29"
       },
       {
-        "title": "《星际迷航》上映 60 周年",
-        "url": "https://www.solidot.org/story?sid=85331",
+        "title": "OpenAI 声称解决了 Navier-Stokes 问题，但引发了利用未发布成果的争议",
+        "url": "https://www.solidot.org/story?sid=85339",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "1966 年 9 月 8 日，《星际迷航：原初系列》上映。60 年之后，《星际迷航》系列包含了 967 集电视剧、14 部电影，以及大量小说等其它媒介，形成了庞大的《星际迷航》宇宙，是史上最成功的科幻作品系列之一。《星际迷航》最著名的开头旁白是：“宇宙，终极的边疆。这里叙述的是星舰进取号的旅程，它的",
-        "id": "5f12574d4c1c"
+        "summary": "约 200 年前，法国物理学家克劳德-路易·纳维和爱尔兰物理学家乔治·斯托克斯提出了一组至今仍然广泛使用的、描述液体、空气等流体运动的偏微分方程。Navier-Stokes 方程并不保证适用于所有可能的情况。几十年来，数学家一直致力于寻求证明方程的普适性或导致方程失效的特例。2000 年克雷数学研究",
+        "id": "8283bfc3a5ff"
       },
       {
-        "title": "NVIDIA 创业企业展示半程活动10月苏州举行，30家科创企业路演+投资人对接",
-        "url": "https://www.solidot.org/story?sid=85330",
+        "title": "微软九月例行更新修复近千个 Bug",
+        "url": "https://www.solidot.org/story?sid=85338",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "NVIDIA 2026 年度创业企业展示活动的半程展示将于 10 月 15 日在苏州金鸡湖国际会议中心 A 馆举办。\n<br />\n\n半程展示将聚焦 AI 智能体、物理 AI、开放模型及 AI 应用等前沿方向。届时，30 余家 NVIDIA 初创加速计划会员企业将带来路演，NVIDIA 技术专家联合",
-        "id": "fca8115b3949"
+        "summary": "在 AI 辅助发现 bug 的时代，主要操作系统每个月修复的 bug 数都在飙升。微软周二释出了九月例行安全更新，总共修复了 974 个 bug，数量为史上最多，今年的安全补丁数已超过 2600。最新补丁包括了 2 个正被利用的提权 0day 漏洞 CVE-2026-81963 和 CVE-2026",
+        "id": "302a8d3cee7f"
       },
       {
-        "title": "美国政府指控中国公司系统性蒸馏美国 AI 模型",
-        "url": "https://www.solidot.org/story?sid=85329",
+        "title": "Google 向司机推荐更长的行驶路线以缓解拥堵",
+        "url": "https://www.solidot.org/story?sid=85337",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "美国国家安全局、联邦调查局及网络安全和基础设施安全局周二发表联合声明，称深度求索（DeepSeek）、月之暗面等六家中国 AI 企业至少从 2024 年起利用“蒸馏”技术，以“工业化规模”访问美国 AI 模型并提取信息。六家企业包括 DeepSeek、Kimi 开发商月之暗面、阿里巴巴、MiniMa",
-        "id": "9317d60b77fd"
+        "summary": "根据发表在《Nature Cities》期刊上的一项研究，Google 研究人员利用 Google Maps 有意向部分司机推荐更长的行驶路线，此举有助于将车流分散到更多条道路上，从而缓解交通拥堵。研究人员在西雅图、盐湖城、芝加哥和亚特兰大等 10 座城市进行了实验，结果显示拥堵路段的平均车速提高了",
+        "id": "27104a1cc1cd"
       },
       {
-        "title": "Fermi Explorer Mission 项目考虑 2029 年向半人马座α星发射探测器",
-        "url": "https://www.solidot.org/story?sid=85328",
+        "title": "2026 年拉斯克奖宣布",
+        "url": "https://www.solidot.org/story?sid=85336",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "非营利组织费米探索者任务（Fermi Explorer Mission）公布了一项低成本星际方案，计划 2029 年底前发射小型探测器，飞向约 4.4 光年外的半人马座α星系统。路线由 AI 规划，全程耗时约 8 万年，总预算低于 1500 万美元。项目联合创始人兼主席菲利普·约翰斯顿在声明中称，旅",
-        "id": "3ecc4a8afd97"
+        "summary": "拉斯克奖公布了 2026 年的获奖名单。基础医学奖授予了发现掌管睡眠的大脑神经传递物质“食欲素”（Orexin）的日本筑波大学教授柳泽正史（66岁）和美国斯坦福医学院的 Emmanuel Mignot。临床医学奖项授予了开发血友病治疗药的中外制药公司前顾问服部有宏（66岁）、顾问北泽刚久（57岁）以",
+        "id": "870a2d69759b"
       },
       {
-        "title": "Valve 要求澳大利亚玩家用信用卡验证年龄以访问 R18+ 游戏",
-        "url": "https://www.solidot.org/story?sid=85327",
+        "title": "苹果推出折叠屏手机 iPhone Duo",
+        "url": "https://www.solidot.org/story?sid=85335",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "澳大利亚玩家通过社媒报告，Valve 要求澳大利亚玩家用信用卡验证年龄，之后才允许访问 Steam 商店的 R18+ 类游戏。玩家抱怨，他们的账号历史都超过 20 年了，如今却还被迫要通过信用卡去验证年龄。而在澳大利亚，信用卡并不像美国那样普及，大部分成年人都只有借记卡，为了访问 R18+ 游戏页面",
-        "id": "dd3a5a40a2f6"
+        "summary": "苹果宣布了一系列新产品，包括 iPhone 18 Pro 与 iPhone 18 Pro Max、AirPods 5 以及其首款折叠屏手机 iPhone Duo。其中最引人瞩目的是其折叠屏手机。三星、Google 和华为等苹果竞争对手早就推出了折叠屏手机，在内存和存储器短缺导致价格飙升时代，苹果推出",
+        "id": "911522ca7103"
       },
       {
-        "title": "《南方公园》改名为《南方美国》",
-        "url": "https://www.solidot.org/story?sid=85326",
+        "title": "小岛秀夫与索尼终止合作，改为与微软合作",
+        "url": "https://www.solidot.org/story?sid=85334",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "《南方公园（South Park）》创作者 Matt Stone 和 Trey Parker 宣布，“受苹果和 Google 的勇敢和爱国精神的启发，我们将把《南方公园》更名为《南方美国（South America）》。”美国总统特朗普上个月签署了行政令，将安大略湖（Lake Ontario）更名为",
-        "id": "d9c0ebad88b1"
+        "summary": "知名日本游戏制作人小岛秀夫证实在索尼取消对其正在开发中的谍战动作游戏项目 PHYSINT 的资助之后，他找到了新的合作伙伴——索尼 PS 的竞争对手微软 XBOX。此前索尼游戏资助小岛开发了《死亡搁浅》系统。小岛称在索尼于 5 月发出取消 PHYSINT 项目的通知之后，过去三个月他们一直在寻找新合",
+        "id": "31893dccb8a7"
+      },
+      {
+        "title": "派早报：商务部回应美国 AI 蒸馏指控",
+        "url": "https://sspai.com/post/114439",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "<p>商务部回应美国 AI 蒸馏指控</p><p>谷歌声称为了合规将「降级」欧盟搜索服务</p><p>Apple 智能将有用量限制</p><p>OpenAI 将与三星合作开发芯片</p><p>小岛秀夫新游戏被索尼取消，转由微软发行</p><p>DeepSeek V4.1 发布</p><p>看看就行的",
+        "id": "16e2ca1ef3bc"
+      },
+      {
+        "title": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容",
+        "url": "https://sspai.com/post/114384",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "祝每一位老师教师节快乐！<a href=\"https://sspai.com/post/114384\" target=\"_blank\">查看全文</a>",
+        "id": "5d03395a1ac8"
       },
       {
         "title": "派早报：Apple 发布 iPhone Duo 折叠屏等",
@@ -836,24 +872,6 @@
         "id": "375ae1eb0e2d"
       },
       {
-        "title": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等",
-        "url": "https://sspai.com/post/114352",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等。<a href=\"https://sspai.com/post/114352\" target=\"_blank\">查看全文</a>",
-        "id": "cb01dc23401b"
-      },
-      {
-        "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
-        "url": "https://sspai.com/prime/story/sidecar-optimizations",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止。<a href=\"https://sspai.com/prime/story/sidecar-optimizations\" targ",
-        "id": "f6a56afc6f60"
-      },
-      {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
         "source": "MacRumors",
         "category": "tech",
@@ -892,6 +910,15 @@
     ],
     "crypto": [
       {
+        "title": "Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express",
+        "url": "https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express\" clas",
+        "id": "2a9da560fc02"
+      },
+      {
         "title": "Here’s what happened in crypto today",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
@@ -901,139 +928,130 @@
         "id": "772e97788bfd"
       },
       {
-        "title": "DoubleZero adds Kalshi election market data ahead of US midterms",
-        "url": "https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23VG1E8VXF1CMN933GG7NC8/republicans-vs-democrats-crypto2-2.jpg",
+        "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
+        "url": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26CZHVMKBYHAAV7EA21J68E/hi-what-is-mica-markets-in-crypto-assets-regulation-esma.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DoubleZero adds Kalshi election market data ahead of US midterms \" class=\"type",
-        "id": "cf2c3ca2f4a4"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ESMA warns growing crypto ties could amplify risks to traditional finance\" cla",
+        "id": "0c62257fcd68"
       },
       {
-        "title": "Consensys to split into MetaMask and institutional blockchain company",
-        "url": "https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23QBD87GQQKWH5JQGT142KQ/hi-crypto-loan-platforms-how-they-work-and-who-are-the-main-players-consensys.png",
+        "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
+        "url": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M265GXQKJCP1QSNW42GTAMVF/hi-uk-and-crypto-new.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Consensys to split into MetaMask and institutional blockchain company\" class=\"",
-        "id": "ffabb30588f6"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK House of Lords backs mandatory digital asset strategy over Labour position\"",
+        "id": "015378479ff6"
       },
       {
-        "title": "TRM Labs doubles valuation to $2B in Series C expansion",
-        "url": "https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23JCY6CREQKFY9A4SRB13GG/hi-institutional-trading-and-cryptocurrency-industry-investment.png",
+        "title": "Liquid Network resumes block production after $320M exploit",
+        "url": "https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M261Y4R153J5N1QZNJQKTM7F/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"TRM Labs doubles valuation to $2B in Series C expansion \" class=\"type:primaryI",
-        "id": "c503bdeed535"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Liquid Network resumes block production after $320M exploit\" class=\"type:prima",
+        "id": "a116b5c0a179"
       },
       {
-        "title": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
-        "url": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23ENPDH8G235APECM7VERGK/cross-border-transaction-stablecoin-swift-2.png",
+        "title": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
+        "url": "https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25YXEVJ4DH3H58PM7AA0KCM/hi-paystand-launches-stablecoin-for-enterprise-payments33331-960x640.webp",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction\" cl",
-        "id": "32c3a9cca99c"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MoneyGram launches Visa stablecoin card as remittance rivals expand\" class=\"ty",
+        "id": "6e8212caaaa1"
       },
       {
-        "title": "Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar",
-        "url": "https://cointelegraph.com/markets/bitcoin-fails-to-reclaim-80k-as-bessent-fuels-yen-strength-around-153-per-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23FHFBTAY2SPS1GVVCH1XNK/hi-a-beginners-guide-on-central-bank-digital-currencies.jpg",
+        "title": "EU finance groups push to remove tokenized securities cap",
+        "url": "https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25YE6DKF8ZSF4J32E1GZPK8/regulations-eu-europe-bitcoin.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dol",
-        "id": "82a51e4f8505"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU finance groups push to remove tokenized securities cap\" class=\"type:primary",
+        "id": "b46ea5bdbdfd"
       },
       {
-        "title": "Hunter Biden’s laptop controversy gets a memecoin afterlife",
-        "url": "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M230B9QSF000WZ911VXTFNH1/hi-bidens-crypto-memecoin-laptop.png",
+        "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
+        "url": "https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25WNWCPP6BF687FEHQSBZ6X/money-dollar-calculator-inflation.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hunter Biden’s laptop controversy gets a memecoin afterlife\" class=\"type:prima",
-        "id": "27959e7f7472"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high\"",
+        "id": "4d8d57cf20f6"
       },
       {
-        "title": "Trade groups seek to block Illinois crypto tax before January effective date",
-        "url": "https://cointelegraph.com/news/trade-groups-seek-block-illinois-crypto-tax-before-january-effective-date?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23CVCZMG85BQMYT0FDR7K9V/year-of-crypto-tax-legislation-960x640.webp",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trade groups seek to block Illinois crypto tax before January effective date\" ",
-        "id": "e4c0bbd7e034"
-      },
-      {
-        "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
-        "url": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/trezor-safe-7-decrypt-style-gID_7.jpg@png",
+        "title": "Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote",
+        "url": "https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cynthia-lummis-decrypt-style-scaled-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "The hardware wallet maker said a fake security alert claimed a hardware flaw could expose users’ recovery phrases.",
-        "id": "ac41f5970aee"
+        "summary": "The draft adds registration requirements for controlled trading protocols and leaves its ethics provisions largely unchanged.",
+        "id": "4d33bd0073e2"
       },
       {
-        "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
-        "url": "https://decrypt.co/377818/ai-math-best-problems-terence-tao",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/math-problems-AI-gID_4.jpg@png",
+        "title": "DeepSeek's New Model Nearly Matches GPT-6 Astra on Design—at 1.4% of the Cost",
+        "url": "https://decrypt.co/377917/deepseek-openai-gpt-6-astra-design-benchmark",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/china-deepSeek-AI-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "The Fields medalist points to a real race between OpenAI and Anthropic as proof: AI can now flatten a hard problem the moment someone starts working o",
-        "id": "5cd9eeac2078"
+        "summary": "OpenDesign put 13 AI models through the same design tasks. DeepSeek V4.1 Flash landed a point and a half behind GPT-6 Astra and roughly 70 times cheap",
+        "id": "a2b4d4d27888"
       },
       {
-        "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
-        "url": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg@png",
+        "title": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
+        "url": "https://decrypt.co/377925/ai-agents-slash-cost-quantum-attack-bitcoin",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Crypto advocates and community bankers are targeting lawmakers in their home states as the Senate prepares for a September 15 procedural vote.",
-        "id": "ce388736ece8"
+        "summary": "The ECDSA.Fail challenge cut a resource benchmark for one component of a potential quantum attack by 86%.",
+        "id": "1e6fcc6576f4"
       },
       {
-        "title": "Apple Unveils Redesigned Siri AI and A20 Pro Chip as CEO John Ternus Makes Debut",
-        "url": "https://decrypt.co/377807/apple-redesigned-siri-ai-a20-pro-chip",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
+        "title": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
+        "url": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "The company's first fall keynote under new leadership paired a Gemini-powered Siri overhaul with Apple's first 2-nanometer chip, plus a $1,999 foldabl",
-        "id": "5892212b4fbd"
+        "summary": "Head of Product Ryan Kass says the return to Coinbase Wallet reflects a broader trading strategy, with the self-custody app serving as a testing groun",
+        "id": "020216ffbb15"
       },
       {
-        "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
-        "url": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/bitcoin-ice-frozen-gID_7.jpeg@png",
+        "title": "Bitcoin Rally Cools, But a Golden Cross Is Coming",
+        "url": "https://decrypt.co/377903/bitcoin-price-golden-cross-coming",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Blockchain sleuths at Elliptic traced the money, Treasury sanctioned the marketplace, and Xinbi—which ran $24 billion through a Telegram scam bazaar—c",
-        "id": "e09ceb3bf3c6"
+        "summary": "Bitcoin couldn't escape today's inflation-driven selloff, but a bearish pattern on its chart is about to flip for the first time since November.",
+        "id": "98292047a822"
       },
       {
-        "title": "While Bitcoin Devs Debate Next Moves, IonQ Unveils Superion 256 Quantum Computer",
-        "url": "https://decrypt.co/377737/bitcoin-debate-ionq-quantum-computer",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/google-quantum-decrypt-style-01-2-gID_7.jpg@png",
+        "title": "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS",
+        "url": "https://decrypt.co/377902/ai-hacks-shrinking-bank-time-fix-flaws-bis",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/robot-typing-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "The company has built its first chips and begun testing prototypes as it seeks to manufacture quantum computers in larger quantities.",
-        "id": "5df284524f2f"
+        "summary": "The Bank for International Settlements says routine patching schedules are increasingly inadequate and cites guidance urging banks to accept planned d",
+        "id": "3eba8f42f956"
       },
       {
-        "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
-        "url": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/laptop-meme-coin-learn-gID_4-pID_2.png@png",
+        "title": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting",
+        "url": "https://decrypt.co/377898/sam-altman-elon-musk-zuckerberg-ai-bots",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/sam-altman-elon-musk-decrypt-style-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "The LAPTOP token launched on Base in September 2026, peaked two minutes later, and shed almost all of its value the same day.",
-        "id": "a9440ad15005"
+        "summary": "Kun Chen built chatbot versions of four AI CEOs on SpaceXAI's new Grok Bot templates, locked them in one chat, and told them to debate the AI race unt",
+        "id": "eadfadd50002"
       },
       {
-        "title": "Mexican Musician and Family Killed Over Bitcoin Cold Wallet Believed to Hold Millions",
-        "url": "https://decrypt.co/377795/mexican-family-killed-bitcoin-cold-wallet",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png",
+        "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
+        "url": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Mexican prosecutors allege suspects targeted Camilo Séptimo keyboardist Jonathan Meléndez and his family while searching for a cold wallet they believ",
-        "id": "c7b3c528ab35"
+        "summary": "The company now says attacks during security tests exposed model behavior failures, after initially emphasizing errors in its testing infrastructure.",
+        "id": "904d62409b22"
       },
       {
         "title": "比特币突破 80000 美元",
