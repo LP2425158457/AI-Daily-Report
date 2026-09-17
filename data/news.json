@@ -1,78 +1,105 @@
 {
-  "last_updated": "2026-09-16T02:41:26.707892",
+  "last_updated": "2026-09-17T02:45:40.479958",
   "total": 60,
   "news": [
     {
-      "title": "Introducing System One Models and Jev",
-      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "title": "Nvidia announces native GPU programming in Rust",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49717558\">Comments</a>",
-      "id": "559e6c710782"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49724881\">Comments</a>",
+      "id": "d04b44847e34"
     },
     {
-      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-      "url": "https://github.com/arnegiacomo/fugleramme",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49711544\">Comments</a>",
-      "id": "e408b974a1cb"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49731285\">Comments</a>",
+      "id": "e693b7b0c2f8"
     },
     {
-      "title": "Cloudflare: Stay discoverable in search while disallowing AI training",
-      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "url": "https://mimo.xiaomi.com/rl/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49721435\">Comments</a>",
-      "id": "4c94f95debb4"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49732270\">Comments</a>",
+      "id": "3c6d083e9eb0"
     },
     {
-      "title": "An Update on Wayback Machine Access",
-      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49716176\">Comments</a>",
-      "id": "ed181278401e"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49732931\">Comments</a>",
+      "id": "961b470fff41"
     },
     {
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "title": "Backups Aren't Simple",
+      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49715947\">Comments</a>",
-      "id": "9a7edb18450e"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49732513\">Comments</a>",
+      "id": "aff9df3bb0ab"
     },
     {
-      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+      "title": "Small programming tricks",
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49718928\">Comments</a>",
-      "id": "01a6d6abed4a"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49729000\">Comments</a>",
+      "id": "492f9e5c805d"
     },
     {
-      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
-      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+      "title": "The engineering behind the US Strategic Petroleum Reserve",
+      "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49716476\">Comments</a>",
-      "id": "5c0e958625bf"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49719596\">Comments</a>",
+      "id": "143bc7b620cc"
     },
     {
-      "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-      "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+      "title": "Developing provably correct Rust code with Verus",
+      "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49719938\">Comments</a>",
-      "id": "99d90765d295"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49700153\">Comments</a>",
+      "id": "91ff0a2368cd"
+    },
+    {
+      "title": "Meet a mouse whose brain cortex is made up of human cells",
+      "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor",
+      "id": "c7721578623b"
+    },
+    {
+      "title": "Building the materials foundation for AI",
+      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just a",
+      "id": "af69cf28273b"
+    },
+    {
+      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "id": "ba3a7f647982"
     },
     {
       "title": "Roundtables: Could AI really kill us all?",
@@ -120,103 +147,112 @@
       "id": "8807ce405bde"
     },
     {
-      "title": "Donated livers can be made biologically younger",
-      "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put",
-      "id": "71756db49329"
-    },
-    {
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblow",
-      "id": "a62b1b3c42f7"
-    },
-    {
-      "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
-      "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "id": "b3caa2401ec7"
-    },
-    {
-      "title": "夜晚睡眠光照太亮可能会损伤心脏",
-      "url": "https://www.solidot.org/story?sid=85388",
+      "title": "付费给大学生睡足七小时提高了他们的学习成绩",
+      "url": "https://www.solidot.org/story?sid=85400",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "研究人员分析了 英国生物样本库（UK Biobank）11,071 名参与者的数据，参与者在一周时间内手腕佩戴了光线和运动传感器。研究开始时参与者均未有心血管疾病。在几年之后他们接受了心脏 MRI 检查。研究人员主要针对两类人群，其一是夜间睡眠时几乎没有任何光；其二是接触至少 3 lux（照度单位）",
-      "id": "8306e58ec828"
+      "summary": "全世界有无数人的睡眠不足，睡眠不足与肥胖、糖尿病、高血压、心脏病、中风及过早死亡相关。如果有人付费让你睡更长时间？科学家为此做了一项社会实验。研究人员向匹兹堡大学的 1100 多名本科生提供了 Fitbit 以及一款能发送就寝提醒和晨间反馈的应用。在为期四周内研究人员随机选择了 468 名学生，只要",
+      "id": "efcfc6f419fa"
     },
     {
-      "title": "出于兴趣阅读有助于促进终身的身心健康",
-      "url": "https://www.solidot.org/story?sid=85387",
+      "title": "PS2 Fat 使用的安全芯片在时隔 26 年被破解",
+      "url": "https://www.solidot.org/story?sid=85399",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "WHO 的数据显示，全球逾 10 亿人有心理健康障碍，其中焦虑症和抑郁症等病症造成了巨大的个人痛苦和经济损失。全世界约有七分之一 10-19 岁青少年有心理障碍，占该年龄段疾病负担的 15%。抑郁症、焦虑症和行为障碍是导致疾病和残疾的主因，而自杀则是 15-29 岁人群的第三大死因，凸显了为青少年提",
-      "id": "7c0d33deb67b"
+      "summary": "1999 年初代 PS2 Fat 游戏机使用的安全芯片 CXP102064 MechaCon 在时隔 26 年被爱好者破解。加拿大复古软硬件爱好者 DiscoStarslayer 通过社交媒体称其花了四年时间破解了其秘密。DiscoStarslayer 采用的逆向工程方法包括：利用化学方法对 CXP",
+      "id": "5d67cd2426c3"
     },
     {
-      "title": "英国殖民之前的澳大利亚原居民人口约 222 万",
-      "url": "https://www.solidot.org/story?sid=85386",
+      "title": "Denuvo 起诉黑客违反 DMCA 反规避条款",
+      "url": "https://www.solidot.org/story?sid=85398",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "在英国舰队于 1788 年登陆澳大利亚前，这块大陆生活了多少原居民？在英国殖民澳大利亚 140 多年后的 1930 年代，人口学家 Alfred Radcliffe-Brown 首次对原居民的人口总数进行了估计。他估计澳洲原居民的人口在 25 万到 30 万之间，他强调这是一个最低估计值。现在研究人",
-      "id": "00a4bfb800ba"
+      "summary": "Denuvo 在美国加州北区联邦法院起诉了名叫 voices38 的匿名游戏破解黑客，指控其违反了 DMCA 的反规避条款。被告被控绕过了逾二十款游戏使用的 Denuvo DRM，相关游戏包括了《霍格沃茨之遗（Hogwarts Legacy）》和《黑神话：悟空》。随着诉讼的推进，Denuvo 可能会",
+      "id": "b23b43fce34f"
     },
     {
-      "title": "F-Droid 上的应用有多少是在 AI 帮助下编写的？",
-      "url": "https://www.solidot.org/story?sid=85385",
+      "title": "AWS 称无法恢复中东部分可用区资源和数据的访问",
+      "url": "https://www.solidot.org/story?sid=85397",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "今天有无数开发者在 LLM 帮助下编写程序，其中包括了开源开发者。那么 Android FOSS 应用商店 F-Droid 中 AI 辅助开发应用的比例有多高？一位 FOSS 维护者对 9 月 12 日 F-Droid 推送更新的 102 款应用及其代码库进行了分析，发现其中 74 款应用（72.5",
-      "id": "a45d0a808e99"
+      "summary": "亚马逊云服务 AWS 称，由于其数据中心因战争受损它无法恢复中东部分可用区资源和数据的访问。AWS 通过其 AWS Health Dashboard 页面发表声明称，全面评估后它确认无法恢复巴林可用区 me-south-1 的资源和数据的访问。如果客户的数据只存放在该可用区，那么数据可能永远丢失了。",
+      "id": "b793e040cf9c"
     },
     {
-      "title": "廉价太阳能改变世界能源格局",
-      "url": "https://www.solidot.org/story?sid=85384",
+      "title": "FAST 发现极短周期、最轻双中子星系统",
+      "url": "https://www.solidot.org/story?sid=85396",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "巴基斯坦水泥公司 Bestway Cement 正在扩建其太阳能发电设施，计划年底前在现有 26MW 装机容量的基础上增加 6.34MW 装机容量。太阳能满足了该公司逾四分之一的电力需求。受益于中国制造的廉价太阳能组件，Bestway 及其竞争对手加入了全球数百万企业和家庭的行列，在屋顶、庭院、花园",
-      "id": "125db1bbd904"
+      "summary": "天文学家利用中国天眼（500 米口径球面射电望远镜，FAST）开展大规模银道面脉冲星系统性搜寻，迄今已成功发现约 900 颗新脉冲星。通过持续后续精准观测，研究讨团队识别了一颗处于紧致轨道的双中子星系统  PSRJ1856-0039。该双中子星系统轨道周期仅 2.36 小时，在人类已知双中子星系统中",
+      "id": "a28da62d8677"
     },
     {
-      "title": "一款在浏览器里运行、部署在自己服务器上的 SQL 客户端",
-      "url": "https://www.solidot.org/story?sid=85383",
+      "title": "Mistral 与 Mozilla 合作推出 Firefox Smart Window",
+      "url": "https://www.solidot.org/story?sid=85395",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "Yusuf Gundogdu 写道：LibreDB Studio 是一个 MIT 协议的 SQL 客户端，不装在本地而是跑在服务器上，浏览器打开就能用，一条 docker run 就起来。16 个驱动覆盖 42 种数据库，PostgreSQL、MySQL、MongoDB、Redis、ClickHou",
-      "id": "4a7919ef2778"
+      "summary": "法国 AI 公司 Mistral 与 Mozilla 合作推出注重隐私保护的 AI 浏览助手 Firefox Smart Window(beta)。Smart Window 使用了 Mistral 的开放权重模型，能帮助用户梳理复杂搜索，记住浏览过的重要信息，根据当前标签页查找关键信息，目前主要为法",
+      "id": "3e8241b32c50"
     },
     {
-      "title": "美国军方首次证实在太空部署了武器",
-      "url": "https://www.solidot.org/story?sid=85382",
+      "title": "Mozilla 报告称中国开放权重模型与美国前沿模型仅相差 4.4 个月",
+      "url": "https://www.solidot.org/story?sid=85394",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "美国空军部长 Troy Meink 周一在 Air and Space Forces Association 的《Air, Space &amp; Cyber Conference》会议上首次公开宣传，美国已在轨道上部署了太空控制武器。他没有披露太空武器的任何细节，但披露其存在这一事实，凸显了五角大",
-      "id": "a473de45670f"
+      "summary": "Mozilla 发表《State of Open Source AI》报告，称美国科技公司的前沿 AI 模型性能仅领先中国公司最优秀的开放权重模型 4.4 个月。由于前沿模型价格更昂贵，很多公司都将开放权重模型用于处理日常工作，将前沿模型用于处理特定工作负荷。美国闭源前沿模型优势主要在于专家级专业工",
+      "id": "7bf325f1882a"
     },
     {
-      "title": "科学家演示水下太阳能电池",
-      "url": "https://www.solidot.org/story?sid=85381",
+      "title": "SDL3 移植到 HarmonyOS / OpenHarmony",
+      "url": "https://www.solidot.org/story?sid=85393",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "西南联合研究生院与云南大学研究员研究员张文华与合作者研究表明，太阳能电池可在南海海面下 10 米处正常运行，可在水下工作两小时，可产生 324 兆瓦时的电能，足以给锂离子电池充电；若持续置于 10 米水深的环境中，其运行寿命可达约 5.5 年。这些发现表明，水下太阳能电池有望为远离陆地的水下传感器、",
-      "id": "c4a0daa475ad"
+      "summary": "广泛用于游戏和应用、提供跨平台软硬件抽象层的 SDL3 库已移植到华为的 HarmonyOS / OpenHarmony 操作系统。游戏工作室 Outfit7 资助了 Ryan \"Icculus\" Gordon 的移植工作。HarmonyOS 是华为开发的私有操作系统，适用于智能手机、平板电脑、 P",
+      "id": "48c5be34a458"
+    },
+    {
+      "title": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等",
+      "url": "https://sspai.com/post/114658",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "惠普发布 ZBook Ultra G3a 16 移动工作站、影石发布 Mic Pro 腾讯会议版 AI 录音领夹麦等。<a href=\"https://sspai.com/post/114658\" target=\"_blank\">查看全文</a>",
+      "id": "75d146a54f12"
+    },
+    {
+      "title": "探秘柬埔寨，千年吴哥窟",
+      "url": "https://sspai.com/post/114454",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/114454\" target",
+      "id": "f08c67d7c4e4"
+    },
+    {
+      "title": "具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性",
+      "url": "https://sspai.com/post/114607",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "今年 iPadOS 中的更新并不算多，我们依旧帮你整理出了哪些值得关注的新特性。<a href=\"https://sspai.com/post/114607\" target=\"_blank\">查看全文</a>",
+      "id": "c8329a3539d9"
+    },
+    {
+      "title": "当我怀念旧版 Edge 浏览器时，我在怀念什么？",
+      "url": "https://sspai.com/post/113295",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "复活吧，微软（旧）Edge——怀念一款「失败」的浏览器。<a href=\"https://sspai.com/post/113295\" target=\"_blank\">查看全文</a>",
+      "id": "71b6ec0348db"
     },
     {
       "title": "派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等",
@@ -255,67 +291,22 @@
       "id": "f61282e551e0"
     },
     {
-      "title": "派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等",
-      "url": "https://sspai.com/post/114593",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "英伟达发布 RTX PRO 5500 Blackwell 专业显卡，阿凡途发布 AVENTHO Y 头戴式耳机等<a href=\"https://sspai.com/post/114593\" target=\"_blank\">查看全文</a>",
-      "id": "b8bb217d3225"
-    },
-    {
-      "title": "派评｜近期值得关注的 App",
-      "url": "https://sspai.com/post/114577",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/114577\" target=\"_blank\">查看全文</a>",
-      "id": "1a949e6957e4"
-    },
-    {
-      "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
-      "url": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "用具体的测试数据和盲评结果，聊聊当下 AI 辅助制作 Excel 的真实水平，以及我使用 AI 辅助制作 Excel 的心得。<a href=\"https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey\" target=\"_bl",
-      "id": "61b7304eb77b"
-    },
-    {
-      "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
-      "url": "https://sspai.com/post/114453",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "照片能证明它被拍过，但不能证明镜头前是真的。<a href=\"https://sspai.com/post/114453\" target=\"_blank\">查看全文</a>",
-      "id": "745f2c1d4285"
-    },
-    {
-      "title": "Crypto industry turns to US regulators after CLARITY setback",
-      "url": "https://cointelegraph.com/news/crypto-industry-turns-to-us-regulators-after-clarity-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2KZR03KE34Y9VHPZ0JQFRS3/congress.jpg",
+      "title": "US lawmakers advance bill to lock Trump’s Bitcoin reserve into law",
+      "url": "https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PBVVSYAZJ83B7SZQBHEASY/bitcoin-3.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto industry turns to US regulators after CLARITY setback\" class=\"type:prim",
-      "id": "25097edc3c8a"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US lawmakers advance bill to lock Trump’s Bitcoin reserve into law\" class=\"typ",
+      "id": "8b87c5416f80"
     },
     {
-      "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
-      "url": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2KD2EQC101MZQX67TJ3JJQB/hi-statistical-indicators-for-crypto-investments.png",
+      "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
+      "url": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NY2SA6460QWXX3EP9NYFFC/hi-us-senate-infrastructure-bill-doom-and-gloom-for-memecoin-trump-2.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BIS paper finds major gap in Bitcoin onchain transfer estimates\" class=\"type:p",
-      "id": "8cf3c4b5bb34"
-    },
-    {
-      "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
-      "url": "https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2KBJH6XJV6JTEGJY5Q2A9NA/hi-intel-research.png",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto stocks slide after CLARITY Act fails to advance in Senate\" class=\"type:",
-      "id": "3abab9879792"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY Act could get another shot during lame-duck session, policy advocate s",
+      "id": "ac2e2a9a7bf2"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -327,112 +318,121 @@
       "id": "772e97788bfd"
     },
     {
-      "title": "US Senate fails to advance CLARITY Act",
-      "url": "https://cointelegraph.com/news/us-senate-fails-to-advance-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2K3DC5KWJ1X6BP5W0XSQ09S/x-hi-us-senate-infrastructure-bill-doom-and-gloom-for-crypto-clarity-act.png",
+      "title": "UK FCA sets crypto authorization guidance ahead of September application window",
+      "url": "https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NRTRQVV5H9VDTT43R1701S/hi-united-kingdom-making-strides-on-crypto-regulation-fca.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senate fails to advance CLARITY Act\" class=\"type:primaryImage\" src=\"https:/",
-      "id": "e7ce084eb802"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK FCA sets crypto authorization guidance ahead of September application windo",
+      "id": "424b8037bf7f"
     },
     {
-      "title": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
-      "url": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JZTTWXRSC00VVMGKVA4JWM/hi-central-bank-issued-digital-currency-the-new-bank-account-uk2.jpg",
+      "title": "US House tax committee advances crypto tax overhaul in 38–5 vote",
+      "url": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NKZPXXHGWMSP41E47Q6TRZ/hi-more-irs-crypto-reporting-more-danger.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin growth could boost dollar dominance, US Treasury demand: BoE offici",
-      "id": "3a398cbd95fb"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US House tax committee advances crypto tax overhaul in 38–5 vote\" class=\"type:",
+      "id": "e9108853b062"
     },
     {
-      "title": "Binance adds 11 US-listed ETFs to wealth management offering",
-      "url": "https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JZT31WJSAPCWV4C5T6FJ1R/hi-bitcoin-etf-sec-deadline-on-nov-5-not-a-decision-on-etfs-but-deadline-for-the-public-to-submit-a-review-clarifying-piece.png",
+      "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
+      "url": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NDB0Z3PMHZBGW6VE69Z32A/coin-crypto-silver.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance adds 11 US-listed ETFs to wealth management offering\" class=\"type:prim",
-      "id": "6a74d132d85c"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anchorage expands institutional custody to Etherlink, tokenized uranium\" class",
+      "id": "553b60dea659"
     },
     {
-      "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JWDC9JXEQB4J55MT31ZEK2/hi-what-are-bonds-and-how-do-they-work-for-crypto-red.jpg",
+      "title": "Coinbase faces greater fallout from CLARITY Act setback: Saxo",
+      "url": "https://cointelegraph.com/news/coinbase-clarity-act-exposure-saxo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NBVNQWMFT4B98DXZHZWR69/c-man-reading-a-news-paper-coinbase.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price falls to $75.6K September low as global bonds hit multidecade hi",
-      "id": "3be258c29864"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase faces greater fallout from CLARITY Act setback: Saxo\" class=\"type:pri",
+      "id": "4132f7b8bc95"
     },
     {
-      "title": "Wall Street Bets on Fed Rate Hike: Here's What It Means for Bitcoin, Bonds and Trump",
-      "url": "https://decrypt.co/378306/wall-street-fed-rate-hike-bitcoin-bonds-trump",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg@png",
-      "source": "Decrypt",
+      "title": "Bitcoin awaits Fed rate decision below $76K as analysis discounts ‘dovish surprise’ odds",
+      "url": "https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NDCKGG8297RQRGC1PX6SV9/hi-impact-of-fed-interest-rates-on-crypto-holders.jpg",
+      "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "Nearly every major bank now expects the Fed to raise rates for the first time in three years. Markets have mostly priced it in, but the political fall",
-      "id": "76c630781327"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin awaits Fed rate decision below $76K as analysis discounts ‘dovish surp",
+      "id": "231590249ce8"
     },
     {
-      "title": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
-      "url": "https://decrypt.co/378303/coinbase-crypto-group-midterms-vote-clarity-act",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-03-gID_7.png@png",
+      "title": "Crypto Tax Bill Clears House Committee After Clarity Act Setback",
+      "url": "https://decrypt.co/378449/crypto-tax-bill-clears-house-committee",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "The Coinbase-backed Stand With Crypto will add senators’ votes to its scorecards as it rallies crypto voters ahead of November’s elections.",
-      "id": "7b73788dd00b"
+      "summary": "The bill would exempt qualifying crypto fees from gain-or-loss calculations and restrict tax-loss deductions on tokens sold and quickly repurchased.",
+      "id": "89d7261dab7e"
     },
     {
-      "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
-      "url": "https://decrypt.co/378300/openai-safety-concerns-slowed-most-advanced-ai-work",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+      "title": "Meta May Have Found a Fix for Its 'Pervert Glasses'",
+      "url": "https://decrypt.co/378448/meta-fix-pervert-glasses",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-decrypt-style-1-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Greg Brockman says OpenAI delayed launches and reworked its processes after a pre-release model broke out of a sandbox and hacked into Hugging Face.",
-      "id": "3ca99dfe7bfb"
+      "summary": "Meta is reportedly developing a version of its smart glasses without a camera, potentially addressing one of the biggest privacy objections to AI wear",
+      "id": "5c78585bfbce"
     },
     {
-      "title": "Crypto Reacts: Bitcoin Slides as Clarity Act Fails to Clear Senate Vote",
-      "url": "https://decrypt.co/378286/crypto-clarity-act-fails-clear-senate-bitcoin-slides",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
+      "title": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
+      "url": "https://decrypt.co/378446/openai-rogue-agents-hugging-face-two-months-before-hack",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "The Senate fell short of the 60 votes needed to advance the crypto industry's marquee bill Tuesday. Bitcoin dropped as the no tally mounted, but the m",
-      "id": "51e3687b9787"
+      "summary": "An independent researcher found the agents hijacked Hugging Face accounts and mapped the platform's defenses as early as May 13—activity OpenAI's own ",
+      "id": "914c7d0abff1"
     },
     {
-      "title": "Clarity Act Stalls in Senate as Crypto Bill Fails to Clear Key Vote",
-      "url": "https://decrypt.co/378283/clarity-act-fails-senate-hurdle",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg@png",
+      "title": "Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike",
+      "url": "https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-06-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "The crypto market structure bill failed to receive enough votes to advance in the Senate.",
-      "id": "3795052cfd80"
+      "summary": "Chair Kevin Warsh credited Trump's economy, then ignored his rate-cut wishes entirely.",
+      "id": "c0637cc17da1"
     },
     {
-      "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
-      "url": "https://decrypt.co/378267/robinhood-engineers-charged-fraud-over-crypto-listing-trades",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png@png",
+      "title": "Bitcoin Core Software Update Aims for Speed and Security Patches",
+      "url": "https://decrypt.co/378430/bitcoin-core-software-october-update",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Two employees allegedly earned more than $50,000 each by trading Hyperliquid perpetual futures before Robinhood announced new token listings.",
-      "id": "4f22797b1273"
+      "summary": "Bitcoin Core 32.0 has entered final testing, bringing faster block checks and changes to how wallets prepare payments.",
+      "id": "06793ad6fe25"
     },
     {
-      "title": "'It's Now or Never' for Clarity Act, Says 'Bitcoin Senator' Lummis",
-      "url": "https://decrypt.co/378268/now-or-never-clarity-act-bitcoin-cynthia-lummis",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cynthia-lummis-decrypt-style-scaled-gID_7.jpg@png",
+      "title": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes",
+      "url": "https://decrypt.co/378417/fed-hikes-rates-first-time-since-2023-bitcoin",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "The Wyoming Republican says the final text hands Democrats more than 120 of their own demands, including sweeping new ethics rules, as the Senate hold",
-      "id": "bf5dd99c4ff1"
+      "summary": "The Federal Reserve delivered the hike Wall Street had almost unanimously priced in.",
+      "id": "4e994ff9651e"
     },
     {
-      "title": "US Seeks Forfeiture of $61 Million in Crypto Linked to Alleged Iranian Oil Scheme",
-      "url": "https://decrypt.co/378261/us-forfeiture-61-million-crypto-iranian-oil-scheme",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Iran-Bitcoin-1-gID_7.jpg@png",
+      "title": "CFTC and SEC Double Down on Crypto After Clarity Act Defeat",
+      "url": "https://decrypt.co/378408/cftc-sec-double-down-crypto-clarity-act",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Prosecutors allege two Chinese companies used Binance accounts to launder oil proceeds benefiting Iran’s government and military.",
-      "id": "aa3661b2cdb9"
+      "summary": "Michael Selig and Paul Atkins pledged to use their agencies’ existing powers to provide crypto regulatory certainty after the Senate failed to advance",
+      "id": "7d58749d7ca0"
+    },
+    {
+      "title": "Hackers Hijack HBO Max’s Reddit Account to Spread Crypto-Stealing Malware",
+      "url": "https://decrypt.co/378401/hackers-hbo-max-reddit-account-crypto-malware",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/reddit-decrypt-style-01-gID_7.jpg@png",
+      "source": "Decrypt",
+      "category": "crypto",
+      "summary": "Attackers ran 108 malicious ads through the streaming service’s verified account, directing users to fake software downloads.",
+      "id": "33051f69751a"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -546,6 +546,33 @@
   "categories": {
     "ai": [
       {
+        "title": "Meet a mouse whose brain cortex is made up of human cells",
+        "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor",
+        "id": "c7721578623b"
+      },
+      {
+        "title": "Building the materials foundation for AI",
+        "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just a",
+        "id": "af69cf28273b"
+      },
+      {
+        "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+        "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+        "id": "ba3a7f647982"
+      },
+      {
         "title": "Roundtables: Could AI really kill us all?",
         "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
         "image": "",
@@ -591,33 +618,6 @@
         "id": "8807ce405bde"
       },
       {
-        "title": "Donated livers can be made biologically younger",
-        "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put",
-        "id": "71756db49329"
-      },
-      {
-        "title": "AI agents blew the whistle on their cheating colleagues",
-        "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblow",
-        "id": "a62b1b3c42f7"
-      },
-      {
-        "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
-        "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-        "id": "b3caa2401ec7"
-      },
-      {
         "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
         "source": "OpenAI Blog",
         "category": "ai",
@@ -656,148 +656,184 @@
     ],
     "tech": [
       {
-        "title": "Introducing System One Models and Jev",
-        "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+        "title": "Nvidia announces native GPU programming in Rust",
+        "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49717558\">Comments</a>",
-        "id": "559e6c710782"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49724881\">Comments</a>",
+        "id": "d04b44847e34"
       },
       {
-        "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-        "url": "https://github.com/arnegiacomo/fugleramme",
+        "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+        "url": "https://rohanbansal.com/qorl",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49711544\">Comments</a>",
-        "id": "e408b974a1cb"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49731285\">Comments</a>",
+        "id": "e693b7b0c2f8"
       },
       {
-        "title": "Cloudflare: Stay discoverable in search while disallowing AI training",
-        "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+        "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+        "url": "https://mimo.xiaomi.com/rl/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49721435\">Comments</a>",
-        "id": "4c94f95debb4"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49732270\">Comments</a>",
+        "id": "3c6d083e9eb0"
       },
       {
-        "title": "An Update on Wayback Machine Access",
-        "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+        "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+        "url": "https://arxiv.org/abs/2609.16338",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49716176\">Comments</a>",
-        "id": "ed181278401e"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49732931\">Comments</a>",
+        "id": "961b470fff41"
       },
       {
-        "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+        "title": "Backups Aren't Simple",
+        "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49715947\">Comments</a>",
-        "id": "9a7edb18450e"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49732513\">Comments</a>",
+        "id": "aff9df3bb0ab"
       },
       {
-        "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-        "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+        "title": "Small programming tricks",
+        "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49718928\">Comments</a>",
-        "id": "01a6d6abed4a"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49729000\">Comments</a>",
+        "id": "492f9e5c805d"
       },
       {
-        "title": "We got admin access to Baseten's production GitHub in 25 minutes",
-        "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+        "title": "The engineering behind the US Strategic Petroleum Reserve",
+        "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49716476\">Comments</a>",
-        "id": "5c0e958625bf"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49719596\">Comments</a>",
+        "id": "143bc7b620cc"
       },
       {
-        "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-        "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+        "title": "Developing provably correct Rust code with Verus",
+        "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49719938\">Comments</a>",
-        "id": "99d90765d295"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49700153\">Comments</a>",
+        "id": "91ff0a2368cd"
       },
       {
-        "title": "夜晚睡眠光照太亮可能会损伤心脏",
-        "url": "https://www.solidot.org/story?sid=85388",
+        "title": "付费给大学生睡足七小时提高了他们的学习成绩",
+        "url": "https://www.solidot.org/story?sid=85400",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "研究人员分析了 英国生物样本库（UK Biobank）11,071 名参与者的数据，参与者在一周时间内手腕佩戴了光线和运动传感器。研究开始时参与者均未有心血管疾病。在几年之后他们接受了心脏 MRI 检查。研究人员主要针对两类人群，其一是夜间睡眠时几乎没有任何光；其二是接触至少 3 lux（照度单位）",
-        "id": "8306e58ec828"
+        "summary": "全世界有无数人的睡眠不足，睡眠不足与肥胖、糖尿病、高血压、心脏病、中风及过早死亡相关。如果有人付费让你睡更长时间？科学家为此做了一项社会实验。研究人员向匹兹堡大学的 1100 多名本科生提供了 Fitbit 以及一款能发送就寝提醒和晨间反馈的应用。在为期四周内研究人员随机选择了 468 名学生，只要",
+        "id": "efcfc6f419fa"
       },
       {
-        "title": "出于兴趣阅读有助于促进终身的身心健康",
-        "url": "https://www.solidot.org/story?sid=85387",
+        "title": "PS2 Fat 使用的安全芯片在时隔 26 年被破解",
+        "url": "https://www.solidot.org/story?sid=85399",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "WHO 的数据显示，全球逾 10 亿人有心理健康障碍，其中焦虑症和抑郁症等病症造成了巨大的个人痛苦和经济损失。全世界约有七分之一 10-19 岁青少年有心理障碍，占该年龄段疾病负担的 15%。抑郁症、焦虑症和行为障碍是导致疾病和残疾的主因，而自杀则是 15-29 岁人群的第三大死因，凸显了为青少年提",
-        "id": "7c0d33deb67b"
+        "summary": "1999 年初代 PS2 Fat 游戏机使用的安全芯片 CXP102064 MechaCon 在时隔 26 年被爱好者破解。加拿大复古软硬件爱好者 DiscoStarslayer 通过社交媒体称其花了四年时间破解了其秘密。DiscoStarslayer 采用的逆向工程方法包括：利用化学方法对 CXP",
+        "id": "5d67cd2426c3"
       },
       {
-        "title": "英国殖民之前的澳大利亚原居民人口约 222 万",
-        "url": "https://www.solidot.org/story?sid=85386",
+        "title": "Denuvo 起诉黑客违反 DMCA 反规避条款",
+        "url": "https://www.solidot.org/story?sid=85398",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "在英国舰队于 1788 年登陆澳大利亚前，这块大陆生活了多少原居民？在英国殖民澳大利亚 140 多年后的 1930 年代，人口学家 Alfred Radcliffe-Brown 首次对原居民的人口总数进行了估计。他估计澳洲原居民的人口在 25 万到 30 万之间，他强调这是一个最低估计值。现在研究人",
-        "id": "00a4bfb800ba"
+        "summary": "Denuvo 在美国加州北区联邦法院起诉了名叫 voices38 的匿名游戏破解黑客，指控其违反了 DMCA 的反规避条款。被告被控绕过了逾二十款游戏使用的 Denuvo DRM，相关游戏包括了《霍格沃茨之遗（Hogwarts Legacy）》和《黑神话：悟空》。随着诉讼的推进，Denuvo 可能会",
+        "id": "b23b43fce34f"
       },
       {
-        "title": "F-Droid 上的应用有多少是在 AI 帮助下编写的？",
-        "url": "https://www.solidot.org/story?sid=85385",
+        "title": "AWS 称无法恢复中东部分可用区资源和数据的访问",
+        "url": "https://www.solidot.org/story?sid=85397",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "今天有无数开发者在 LLM 帮助下编写程序，其中包括了开源开发者。那么 Android FOSS 应用商店 F-Droid 中 AI 辅助开发应用的比例有多高？一位 FOSS 维护者对 9 月 12 日 F-Droid 推送更新的 102 款应用及其代码库进行了分析，发现其中 74 款应用（72.5",
-        "id": "a45d0a808e99"
+        "summary": "亚马逊云服务 AWS 称，由于其数据中心因战争受损它无法恢复中东部分可用区资源和数据的访问。AWS 通过其 AWS Health Dashboard 页面发表声明称，全面评估后它确认无法恢复巴林可用区 me-south-1 的资源和数据的访问。如果客户的数据只存放在该可用区，那么数据可能永远丢失了。",
+        "id": "b793e040cf9c"
       },
       {
-        "title": "廉价太阳能改变世界能源格局",
-        "url": "https://www.solidot.org/story?sid=85384",
+        "title": "FAST 发现极短周期、最轻双中子星系统",
+        "url": "https://www.solidot.org/story?sid=85396",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "巴基斯坦水泥公司 Bestway Cement 正在扩建其太阳能发电设施，计划年底前在现有 26MW 装机容量的基础上增加 6.34MW 装机容量。太阳能满足了该公司逾四分之一的电力需求。受益于中国制造的廉价太阳能组件，Bestway 及其竞争对手加入了全球数百万企业和家庭的行列，在屋顶、庭院、花园",
-        "id": "125db1bbd904"
+        "summary": "天文学家利用中国天眼（500 米口径球面射电望远镜，FAST）开展大规模银道面脉冲星系统性搜寻，迄今已成功发现约 900 颗新脉冲星。通过持续后续精准观测，研究讨团队识别了一颗处于紧致轨道的双中子星系统  PSRJ1856-0039。该双中子星系统轨道周期仅 2.36 小时，在人类已知双中子星系统中",
+        "id": "a28da62d8677"
       },
       {
-        "title": "一款在浏览器里运行、部署在自己服务器上的 SQL 客户端",
-        "url": "https://www.solidot.org/story?sid=85383",
+        "title": "Mistral 与 Mozilla 合作推出 Firefox Smart Window",
+        "url": "https://www.solidot.org/story?sid=85395",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "Yusuf Gundogdu 写道：LibreDB Studio 是一个 MIT 协议的 SQL 客户端，不装在本地而是跑在服务器上，浏览器打开就能用，一条 docker run 就起来。16 个驱动覆盖 42 种数据库，PostgreSQL、MySQL、MongoDB、Redis、ClickHou",
-        "id": "4a7919ef2778"
+        "summary": "法国 AI 公司 Mistral 与 Mozilla 合作推出注重隐私保护的 AI 浏览助手 Firefox Smart Window(beta)。Smart Window 使用了 Mistral 的开放权重模型，能帮助用户梳理复杂搜索，记住浏览过的重要信息，根据当前标签页查找关键信息，目前主要为法",
+        "id": "3e8241b32c50"
       },
       {
-        "title": "美国军方首次证实在太空部署了武器",
-        "url": "https://www.solidot.org/story?sid=85382",
+        "title": "Mozilla 报告称中国开放权重模型与美国前沿模型仅相差 4.4 个月",
+        "url": "https://www.solidot.org/story?sid=85394",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "美国空军部长 Troy Meink 周一在 Air and Space Forces Association 的《Air, Space &amp; Cyber Conference》会议上首次公开宣传，美国已在轨道上部署了太空控制武器。他没有披露太空武器的任何细节，但披露其存在这一事实，凸显了五角大",
-        "id": "a473de45670f"
+        "summary": "Mozilla 发表《State of Open Source AI》报告，称美国科技公司的前沿 AI 模型性能仅领先中国公司最优秀的开放权重模型 4.4 个月。由于前沿模型价格更昂贵，很多公司都将开放权重模型用于处理日常工作，将前沿模型用于处理特定工作负荷。美国闭源前沿模型优势主要在于专家级专业工",
+        "id": "7bf325f1882a"
       },
       {
-        "title": "科学家演示水下太阳能电池",
-        "url": "https://www.solidot.org/story?sid=85381",
+        "title": "SDL3 移植到 HarmonyOS / OpenHarmony",
+        "url": "https://www.solidot.org/story?sid=85393",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "西南联合研究生院与云南大学研究员研究员张文华与合作者研究表明，太阳能电池可在南海海面下 10 米处正常运行，可在水下工作两小时，可产生 324 兆瓦时的电能，足以给锂离子电池充电；若持续置于 10 米水深的环境中，其运行寿命可达约 5.5 年。这些发现表明，水下太阳能电池有望为远离陆地的水下传感器、",
-        "id": "c4a0daa475ad"
+        "summary": "广泛用于游戏和应用、提供跨平台软硬件抽象层的 SDL3 库已移植到华为的 HarmonyOS / OpenHarmony 操作系统。游戏工作室 Outfit7 资助了 Ryan \"Icculus\" Gordon 的移植工作。HarmonyOS 是华为开发的私有操作系统，适用于智能手机、平板电脑、 P",
+        "id": "48c5be34a458"
+      },
+      {
+        "title": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等",
+        "url": "https://sspai.com/post/114658",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "惠普发布 ZBook Ultra G3a 16 移动工作站、影石发布 Mic Pro 腾讯会议版 AI 录音领夹麦等。<a href=\"https://sspai.com/post/114658\" target=\"_blank\">查看全文</a>",
+        "id": "75d146a54f12"
+      },
+      {
+        "title": "探秘柬埔寨，千年吴哥窟",
+        "url": "https://sspai.com/post/114454",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/114454\" target",
+        "id": "f08c67d7c4e4"
+      },
+      {
+        "title": "具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性",
+        "url": "https://sspai.com/post/114607",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "今年 iPadOS 中的更新并不算多，我们依旧帮你整理出了哪些值得关注的新特性。<a href=\"https://sspai.com/post/114607\" target=\"_blank\">查看全文</a>",
+        "id": "c8329a3539d9"
+      },
+      {
+        "title": "当我怀念旧版 Edge 浏览器时，我在怀念什么？",
+        "url": "https://sspai.com/post/113295",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "复活吧，微软（旧）Edge——怀念一款「失败」的浏览器。<a href=\"https://sspai.com/post/113295\" target=\"_blank\">查看全文</a>",
+        "id": "71b6ec0348db"
       },
       {
         "title": "派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等",
@@ -834,42 +870,6 @@
         "category": "tech",
         "summary": "学生理财应是「理」字当头，培养收支的计划性是第一位，也恰恰是理财投资的基础。<a href=\"https://sspai.com/post/47126\" target=\"_blank\">查看全文</a>",
         "id": "f61282e551e0"
-      },
-      {
-        "title": "派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等",
-        "url": "https://sspai.com/post/114593",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "英伟达发布 RTX PRO 5500 Blackwell 专业显卡，阿凡途发布 AVENTHO Y 头戴式耳机等<a href=\"https://sspai.com/post/114593\" target=\"_blank\">查看全文</a>",
-        "id": "b8bb217d3225"
-      },
-      {
-        "title": "派评｜近期值得关注的 App",
-        "url": "https://sspai.com/post/114577",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/114577\" target=\"_blank\">查看全文</a>",
-        "id": "1a949e6957e4"
-      },
-      {
-        "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
-        "url": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "用具体的测试数据和盲评结果，聊聊当下 AI 辅助制作 Excel 的真实水平，以及我使用 AI 辅助制作 Excel 的心得。<a href=\"https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey\" target=\"_bl",
-        "id": "61b7304eb77b"
-      },
-      {
-        "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
-        "url": "https://sspai.com/post/114453",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "照片能证明它被拍过，但不能证明镜头前是真的。<a href=\"https://sspai.com/post/114453\" target=\"_blank\">查看全文</a>",
-        "id": "745f2c1d4285"
       },
       {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
@@ -910,31 +910,22 @@
     ],
     "crypto": [
       {
-        "title": "Crypto industry turns to US regulators after CLARITY setback",
-        "url": "https://cointelegraph.com/news/crypto-industry-turns-to-us-regulators-after-clarity-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2KZR03KE34Y9VHPZ0JQFRS3/congress.jpg",
+        "title": "US lawmakers advance bill to lock Trump’s Bitcoin reserve into law",
+        "url": "https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PBVVSYAZJ83B7SZQBHEASY/bitcoin-3.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto industry turns to US regulators after CLARITY setback\" class=\"type:prim",
-        "id": "25097edc3c8a"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US lawmakers advance bill to lock Trump’s Bitcoin reserve into law\" class=\"typ",
+        "id": "8b87c5416f80"
       },
       {
-        "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
-        "url": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2KD2EQC101MZQX67TJ3JJQB/hi-statistical-indicators-for-crypto-investments.png",
+        "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
+        "url": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NY2SA6460QWXX3EP9NYFFC/hi-us-senate-infrastructure-bill-doom-and-gloom-for-memecoin-trump-2.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BIS paper finds major gap in Bitcoin onchain transfer estimates\" class=\"type:p",
-        "id": "8cf3c4b5bb34"
-      },
-      {
-        "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
-        "url": "https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2KBJH6XJV6JTEGJY5Q2A9NA/hi-intel-research.png",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto stocks slide after CLARITY Act fails to advance in Senate\" class=\"type:",
-        "id": "3abab9879792"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY Act could get another shot during lame-duck session, policy advocate s",
+        "id": "ac2e2a9a7bf2"
       },
       {
         "title": "Here’s what happened in crypto today",
@@ -946,112 +937,121 @@
         "id": "772e97788bfd"
       },
       {
-        "title": "US Senate fails to advance CLARITY Act",
-        "url": "https://cointelegraph.com/news/us-senate-fails-to-advance-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2K3DC5KWJ1X6BP5W0XSQ09S/x-hi-us-senate-infrastructure-bill-doom-and-gloom-for-crypto-clarity-act.png",
+        "title": "UK FCA sets crypto authorization guidance ahead of September application window",
+        "url": "https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NRTRQVV5H9VDTT43R1701S/hi-united-kingdom-making-strides-on-crypto-regulation-fca.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senate fails to advance CLARITY Act\" class=\"type:primaryImage\" src=\"https:/",
-        "id": "e7ce084eb802"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK FCA sets crypto authorization guidance ahead of September application windo",
+        "id": "424b8037bf7f"
       },
       {
-        "title": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
-        "url": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JZTTWXRSC00VVMGKVA4JWM/hi-central-bank-issued-digital-currency-the-new-bank-account-uk2.jpg",
+        "title": "US House tax committee advances crypto tax overhaul in 38–5 vote",
+        "url": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NKZPXXHGWMSP41E47Q6TRZ/hi-more-irs-crypto-reporting-more-danger.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin growth could boost dollar dominance, US Treasury demand: BoE offici",
-        "id": "3a398cbd95fb"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US House tax committee advances crypto tax overhaul in 38–5 vote\" class=\"type:",
+        "id": "e9108853b062"
       },
       {
-        "title": "Binance adds 11 US-listed ETFs to wealth management offering",
-        "url": "https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JZT31WJSAPCWV4C5T6FJ1R/hi-bitcoin-etf-sec-deadline-on-nov-5-not-a-decision-on-etfs-but-deadline-for-the-public-to-submit-a-review-clarifying-piece.png",
+        "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
+        "url": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NDB0Z3PMHZBGW6VE69Z32A/coin-crypto-silver.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance adds 11 US-listed ETFs to wealth management offering\" class=\"type:prim",
-        "id": "6a74d132d85c"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anchorage expands institutional custody to Etherlink, tokenized uranium\" class",
+        "id": "553b60dea659"
       },
       {
-        "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JWDC9JXEQB4J55MT31ZEK2/hi-what-are-bonds-and-how-do-they-work-for-crypto-red.jpg",
+        "title": "Coinbase faces greater fallout from CLARITY Act setback: Saxo",
+        "url": "https://cointelegraph.com/news/coinbase-clarity-act-exposure-saxo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NBVNQWMFT4B98DXZHZWR69/c-man-reading-a-news-paper-coinbase.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price falls to $75.6K September low as global bonds hit multidecade hi",
-        "id": "3be258c29864"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase faces greater fallout from CLARITY Act setback: Saxo\" class=\"type:pri",
+        "id": "4132f7b8bc95"
       },
       {
-        "title": "Wall Street Bets on Fed Rate Hike: Here's What It Means for Bitcoin, Bonds and Trump",
-        "url": "https://decrypt.co/378306/wall-street-fed-rate-hike-bitcoin-bonds-trump",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg@png",
-        "source": "Decrypt",
+        "title": "Bitcoin awaits Fed rate decision below $76K as analysis discounts ‘dovish surprise’ odds",
+        "url": "https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NDCKGG8297RQRGC1PX6SV9/hi-impact-of-fed-interest-rates-on-crypto-holders.jpg",
+        "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "Nearly every major bank now expects the Fed to raise rates for the first time in three years. Markets have mostly priced it in, but the political fall",
-        "id": "76c630781327"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin awaits Fed rate decision below $76K as analysis discounts ‘dovish surp",
+        "id": "231590249ce8"
       },
       {
-        "title": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
-        "url": "https://decrypt.co/378303/coinbase-crypto-group-midterms-vote-clarity-act",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-03-gID_7.png@png",
+        "title": "Crypto Tax Bill Clears House Committee After Clarity Act Setback",
+        "url": "https://decrypt.co/378449/crypto-tax-bill-clears-house-committee",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "The Coinbase-backed Stand With Crypto will add senators’ votes to its scorecards as it rallies crypto voters ahead of November’s elections.",
-        "id": "7b73788dd00b"
+        "summary": "The bill would exempt qualifying crypto fees from gain-or-loss calculations and restrict tax-loss deductions on tokens sold and quickly repurchased.",
+        "id": "89d7261dab7e"
       },
       {
-        "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
-        "url": "https://decrypt.co/378300/openai-safety-concerns-slowed-most-advanced-ai-work",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+        "title": "Meta May Have Found a Fix for Its 'Pervert Glasses'",
+        "url": "https://decrypt.co/378448/meta-fix-pervert-glasses",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-decrypt-style-1-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Greg Brockman says OpenAI delayed launches and reworked its processes after a pre-release model broke out of a sandbox and hacked into Hugging Face.",
-        "id": "3ca99dfe7bfb"
+        "summary": "Meta is reportedly developing a version of its smart glasses without a camera, potentially addressing one of the biggest privacy objections to AI wear",
+        "id": "5c78585bfbce"
       },
       {
-        "title": "Crypto Reacts: Bitcoin Slides as Clarity Act Fails to Clear Senate Vote",
-        "url": "https://decrypt.co/378286/crypto-clarity-act-fails-clear-senate-bitcoin-slides",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
+        "title": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
+        "url": "https://decrypt.co/378446/openai-rogue-agents-hugging-face-two-months-before-hack",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "The Senate fell short of the 60 votes needed to advance the crypto industry's marquee bill Tuesday. Bitcoin dropped as the no tally mounted, but the m",
-        "id": "51e3687b9787"
+        "summary": "An independent researcher found the agents hijacked Hugging Face accounts and mapped the platform's defenses as early as May 13—activity OpenAI's own ",
+        "id": "914c7d0abff1"
       },
       {
-        "title": "Clarity Act Stalls in Senate as Crypto Bill Fails to Clear Key Vote",
-        "url": "https://decrypt.co/378283/clarity-act-fails-senate-hurdle",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg@png",
+        "title": "Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike",
+        "url": "https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-06-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "The crypto market structure bill failed to receive enough votes to advance in the Senate.",
-        "id": "3795052cfd80"
+        "summary": "Chair Kevin Warsh credited Trump's economy, then ignored his rate-cut wishes entirely.",
+        "id": "c0637cc17da1"
       },
       {
-        "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
-        "url": "https://decrypt.co/378267/robinhood-engineers-charged-fraud-over-crypto-listing-trades",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png@png",
+        "title": "Bitcoin Core Software Update Aims for Speed and Security Patches",
+        "url": "https://decrypt.co/378430/bitcoin-core-software-october-update",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Two employees allegedly earned more than $50,000 each by trading Hyperliquid perpetual futures before Robinhood announced new token listings.",
-        "id": "4f22797b1273"
+        "summary": "Bitcoin Core 32.0 has entered final testing, bringing faster block checks and changes to how wallets prepare payments.",
+        "id": "06793ad6fe25"
       },
       {
-        "title": "'It's Now or Never' for Clarity Act, Says 'Bitcoin Senator' Lummis",
-        "url": "https://decrypt.co/378268/now-or-never-clarity-act-bitcoin-cynthia-lummis",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cynthia-lummis-decrypt-style-scaled-gID_7.jpg@png",
+        "title": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes",
+        "url": "https://decrypt.co/378417/fed-hikes-rates-first-time-since-2023-bitcoin",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "The Wyoming Republican says the final text hands Democrats more than 120 of their own demands, including sweeping new ethics rules, as the Senate hold",
-        "id": "bf5dd99c4ff1"
+        "summary": "The Federal Reserve delivered the hike Wall Street had almost unanimously priced in.",
+        "id": "4e994ff9651e"
       },
       {
-        "title": "US Seeks Forfeiture of $61 Million in Crypto Linked to Alleged Iranian Oil Scheme",
-        "url": "https://decrypt.co/378261/us-forfeiture-61-million-crypto-iranian-oil-scheme",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Iran-Bitcoin-1-gID_7.jpg@png",
+        "title": "CFTC and SEC Double Down on Crypto After Clarity Act Defeat",
+        "url": "https://decrypt.co/378408/cftc-sec-double-down-crypto-clarity-act",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Prosecutors allege two Chinese companies used Binance accounts to launder oil proceeds benefiting Iran’s government and military.",
-        "id": "aa3661b2cdb9"
+        "summary": "Michael Selig and Paul Atkins pledged to use their agencies’ existing powers to provide crypto regulatory certainty after the Senate failed to advance",
+        "id": "7d58749d7ca0"
+      },
+      {
+        "title": "Hackers Hijack HBO Max’s Reddit Account to Spread Crypto-Stealing Malware",
+        "url": "https://decrypt.co/378401/hackers-hbo-max-reddit-account-crypto-malware",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/reddit-decrypt-style-01-gID_7.jpg@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "Attackers ran 108 malicious ads through the streaming service’s verified account, directing users to fake software downloads.",
+        "id": "33051f69751a"
       },
       {
         "title": "比特币突破 80000 美元",
