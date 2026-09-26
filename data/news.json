@@ -1,78 +1,105 @@
 {
-  "last_updated": "2026-09-25T02:48:26.444728",
+  "last_updated": "2026-09-26T02:51:41.556249",
   "total": 59,
   "news": [
     {
-      "title": "F-Droid 2.0",
-      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49831968\">Comments</a>",
-      "id": "1bfbe5fe041f"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49849985\">Comments</a>",
+      "id": "5a9639b6cd3b"
     },
     {
-      "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "url": "https://bastardica.mitpit.com",
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49823738\">Comments</a>",
-      "id": "b6e776e7e1eb"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49848269\">Comments</a>",
+      "id": "ac986c6cbef0"
     },
     {
-      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "url": "https://github.com/devdotfast/whiteboard",
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "url": "https://jev-pokemon.vercel.app/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49833867\">Comments</a>",
-      "id": "a6e158b9c104"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49845172\">Comments</a>",
+      "id": "c87ef26a997c"
     },
     {
-      "title": "Jev and System One Models: Calibration Beats Accuracy",
-      "url": "https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions",
+      "title": "Plan mode is dead",
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49839510\">Comments</a>",
-      "id": "adafb8b5314a"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49840054\">Comments</a>",
+      "id": "0273ca959bb2"
     },
     {
-      "title": "Why is the liver so weirdly regenerative?",
-      "url": "https://dynomight.substack.com/p/liver",
+      "title": "What even is an OS now?",
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49832938\">Comments</a>",
-      "id": "e7aa283dbe85"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49850305\">Comments</a>",
+      "id": "4d538391528b"
     },
     {
-      "title": "Fearless SIMD v1.0",
-      "url": "https://linebender.org/blog/fearless-simd-1-0/",
+      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49800085\">Comments</a>",
-      "id": "11c6064288c5"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49852302\">Comments</a>",
+      "id": "a8e78cee4b7c"
     },
     {
-      "title": "2DWillNeverDie",
-      "url": "https://2dwillneverdie.com/",
+      "title": "Platform-independent SIMD in Go",
+      "url": "https://go.dev/blog/simd-experiment",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49801436\">Comments</a>",
-      "id": "fe0b3c446121"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49843269\">Comments</a>",
+      "id": "79ecc9ac35bc"
     },
     {
-      "title": "Rails World 2026 Opening Keynote [video]",
-      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "title": "Why didn't anybody tell me about Redis hash slots?",
+      "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49817680\">Comments</a>",
-      "id": "4127d49d0a2a"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49819244\">Comments</a>",
+      "id": "229eb593c367"
+    },
+    {
+      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "id": "43cad27f7643"
+    },
+    {
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budg",
+      "id": "6055eb4b1600"
+    },
+    {
+      "title": "Young organs may not be a fountain of youth for recipients",
+      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News",
+      "id": "548e89f725ee"
     },
     {
       "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
@@ -120,31 +147,40 @@
       "id": "2cfe80989dfb"
     },
     {
-      "title": "Smart glasses are already causing havoc in India",
-      "url": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+      "title": "大象使用药用植物治疗自己",
+      "url": "https://www.solidot.org/story?sid=85477",
       "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but",
-      "id": "ec14a97815d4"
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "非洲象会利用数十种药用植物治疗自身和家族成员的疾病。科学家和 Mount Elgon 基金会合作展开了这项研究，他们采访了在肯尼亚 Mount Elgon 地区与大象共同生活和工作的居民、野生动物巡护员和社区长者。根据采访者的描述，大象在身体不适时会选择特定的植物，而母象还会给幼象喂食药用植物。研究",
+      "id": "d8625751f631"
     },
     {
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "title": "全球平均气温每上升 1C 德国夏天气温上升 2.62C",
+      "url": "https://www.solidot.org/story?sid=85476",
       "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help ",
-      "id": "56a9e5105895"
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "全球平均气温正走在比工业化前水平高出 1.5°C 的轨道上。很多人可能会觉得升温幅度不大，可以接受或忍受。但地球绝大部分表面是海洋，海洋的升温幅度要缓慢得多，而陆地则显著得多，居民体会到的升温幅度要高得多。德国研究人员在《Environmental Research Letters》期刊上发表研究报",
+      "id": "5c8456d05c5b"
     },
     {
-      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
-      "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+      "title": "中国各地推动 AI 视频产业化",
+      "url": "https://www.solidot.org/story?sid=85475",
       "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "id": "56ef0bebbe94"
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "两年前 Zhu Zhili 选择了深圳作为其 AI 电影工作室的办公地点，今年他接到了来自中国各地政府和产业园官员的电话，内容基本相同，即希望将 AI 电影业务带到当地。中国各地正在推动 AI 视频的产业化，类似太阳能、电动汽车和机器人。AI 电影制作人表示，低廉的制作成本是吸引他们投身 AI 创作",
+      "id": "0a228f8cc039"
+    },
+    {
+      "title": "F-Droid 2.0 发布",
+      "url": "https://www.solidot.org/story?sid=85474",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "Android 自由软件应用商店 F-Droid 宣布发布 2.0 版本。F-Droid 2.0 对 UI 进行了重新设计，旨在更容易的发现，安装和管理应用。主要界面简化为了三个核心区域：发现，搜索和“我的应用”。类别现在整合进了发现，使其更容易浏览和探索，而“我的应用”提供了一个一站式管理已安装应",
+      "id": "111c01501867"
     },
     {
       "title": "部分三星智能冰箱在升级固件之后停止工作",
@@ -174,40 +210,13 @@
       "id": "2cdf4b1a4a9c"
     },
     {
-      "title": "arXiv 项目获得 1720 万美元的捐赠承诺",
-      "url": "https://www.solidot.org/story?sid=85469",
+      "title": "本周看什么 | 最近值得一看的 6 部作品",
+      "url": "https://sspai.com/post/114957",
       "image": "",
-      "source": "Solidot",
+      "source": "少数派",
       "category": "tech",
-      "summary": "预印本平台 arXiv.org 于 7 月 1 日脱离康奈尔大学成立独立的非营利性组织。arXiv 诞生于 1991 年，创始人 Paul Ginsparg 在 2001 年加入了康奈尔大学，arXiv 网站随后由康奈尔大学图书馆接手。25 年后 arXiv 决定翻开新的篇章。arXiv 项目本周表",
-      "id": "815c8826f874"
-    },
-    {
-      "title": "2025 年全台每 46 名新生儿就有 1 个是台积电宝宝",
-      "url": "https://www.solidot.org/story?sid=85468",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "台积电最新永续报告书显示，2025 年台厂区及采钰公司员工共迎来 2,331 名新生儿，占全台新生儿 2.2%。台积电员工的生育率约为全台的 2 倍。台积电的高生育率被认为与该公司薪资更高相关。台积电员工薪资中位数为 300 万台币，平均数为 400 万台币，四倍多余全台的薪资。研究显示收入与生育率",
-      "id": "c1d0d767b496"
-    },
-    {
-      "title": "年检显示高里程电动车比汽油车更可靠",
-      "url": "https://www.solidot.org/story?sid=85467",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "对 4740 万英国机动车年检（MOT test）数据的分析发现，当汽车行驶里程达到 9-12 万英里时，电动汽车的年检不合格率为汽油车同类车型的 75%（16.5% 对 22.1%）。行驶里程超过 12 万英里后，电动汽车的不合格率为 16%，而汽油车为 23.5%。研究发现，较低行驶里程两种动力",
-      "id": "5132a778d319"
-    },
-    {
-      "title": "不要被 AI 炒作愚弄",
-      "url": "https://www.solidot.org/story?sid=85466",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "Anthropic 声称其模型 Claude Mythos 在发现软件漏洞上胜过大多数安全专家。随后发生了 OpenAI–Hugging Face 安全事件，此后 Anthropic（自豪）和 Meta（不情愿）也披露了各自模型的类似事件。紧接着 Anthropic 宣称其模型取得了数学领域的突破；",
-      "id": "94d5fa7d6ffd"
+      "summary": "📅本周新预告《侦战》定档预告9月21日，电影《侦战》发布定档预告，宣布10月1日上映。影片由孔令政编剧、导演，古天乐、此沙、任达华、谢君豪领衔主演，袁富华、卢慧敏、杨伟伦主演，讲述一名嫌疑人从警署羁押 ...<a href=\"https://sspai.com/post/114957\" target",
+      "id": "0afff5f13bfc"
     },
     {
       "title": "新玩意 252｜少数派的编辑们最近买了啥？",
@@ -273,157 +282,148 @@
       "id": "860123b3cd04"
     },
     {
-      "title": "Here Wallpaper：把喜欢的地图做成壁纸",
-      "url": "https://sspai.com/post/114211",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "家附近的街道、旅行时喜欢上的一座城市、或者喜欢的海岸线和岛屿，都可以拿来做壁纸。<a href=\"https://sspai.com/post/114211\" target=\"_blank\">查看全文</a>",
-      "id": "20aa3372f63c"
-    },
-    {
-      "title": "Block brings Bitcoin Lightning payments to x402 for AI agents",
-      "url": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3B48T548CSVVXASEFTG2EBS/hi-how-to-develop-an-ai-agent-for-crypto-trading-1.jpg",
+      "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
+      "url": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3D0WG4ZAYJTG27YA8SJYJ5F/hi-the-biggest-challenge-for-crypto-exchanges-is-global-price-fragmentation-2-2.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Block brings Bitcoin Lightning payments to x402 for AI agents\" class=\"type:pri",
-      "id": "7ccf3e6c0575"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OG.com seeks CFTC approval for single-stock perpetual futures\" class=\"type:pri",
+      "id": "9f2ea713eb71"
     },
     {
-      "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
-      "url": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AZF88B8P5GKQ5R22PR2YMN/hack-1.jpg",
+      "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
+      "url": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3D2CSJVVHTXWXSFEBTMN9GF/leaving-the-company-plain-1.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget CEO suspects North Korea behind $352M hack, citing IP clues\" class=\"typ",
-      "id": "610a255e8946"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails\" class",
+      "id": "d85d6dde8849"
     },
     {
-      "title": "Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express",
-      "url": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg",
+      "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
+      "url": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CMJJSCGPAGYWMC5WQF9J64/hi-what-happens-to-seized-cryptocurrency-1.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express\" class",
-      "id": "844724433d62"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether says it had ‘limited’ exposure to bank linked to $84M US seizure\" class",
+      "id": "bb657f46f5b9"
     },
     {
-      "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
-      "url": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AP0WARDM7K816JES0B780Z/hi-us-crypto-bills-compared-genius-act.jpg",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fed proposes new capital, redemption rules for stablecoin issuers\" class=\"type",
-      "id": "976ac5e62bd4"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s",
+      "id": "772e97788bfd"
     },
     {
-      "title": "Bitget confirms $352M security breach, suspends withdrawals",
-      "url": "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3ANFG8K9N6H2586MPQRV7KT/hi-got-crypto-losses-wallet-1.jpg",
+      "title": "Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide",
+      "url": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3805C8FH8HWMHMANF3VXJW2/investigation-search.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget confirms $352M security breach, suspends withdrawals\" class=\"type:prima",
-      "id": "51c27565b140"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide\" class=\"type:pri",
+      "id": "5a05d9351477"
     },
     {
-      "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
-      "url": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RCXR1ZF4MGZQYC31CCHQC8/paper-document-man-office-cftc-2.jpg",
+      "title": "Bitget clarifies $388M in assets affected by security breach",
+      "url": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CQDGGFK82WPW7Q372S69XX/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC updates guidance on tokenized assets, blockchain records after failed vot",
-      "id": "0d2ab4d39210"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget clarifies $388M in assets affected by security breach\" class=\"type:prim",
+      "id": "9b5c0fe6dfa5"
     },
     {
-      "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
-      "url": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AGHD04QX5Q0GBBZ75P2EB6/hi-blockchain-explanatory-articles-for-the-very-beginner-ondo-2.jpg",
+      "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
+      "url": "https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CNP9TAS87YZRJ48GX2N99M/hi-strategyb.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs\" cla",
-      "id": "414795cc3ee6"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy seeks shareholder approval for daily preferred stock dividends\" class",
+      "id": "b2a9be776c1b"
     },
     {
-      "title": "DoubleZero brings dedicated fiber market data to Hyperliquid traders",
-      "url": "https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AEQ9Y8JV78QH3H8M1G3403/analitycs2021-hype-1.jpg",
+      "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
+      "url": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CM3GXTXZWWRNTY7Y5MXRMC/hi-how-bitcoins-legal-victory-turned-it-into-wall-streets-favorite-crypto-1.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DoubleZero brings dedicated fiber market data to Hyperliquid traders\" class=\"t",
-      "id": "7cadf220ecef"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Wall Street and crypto fight for the same turf\" class=\"type:primar",
+      "id": "aaf7d007eb90"
     },
     {
-      "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
-      "url": "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg@png",
+      "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
+      "url": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "The central bank opened two proposals for comment under the GENIUS Act, requiring issuers it supervises to back tokens fully with safe assets and crea",
-      "id": "99a60dd28fef"
+      "summary": "Federal prosecutors are targeting a Montana payments firm and a Caribbean bank accused of moving money without a license.",
+      "id": "193e1d8b81a8"
     },
     {
-      "title": "Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets",
-      "url": "https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker1-gID_7.png@png",
+      "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
+      "url": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "A newly created wallet drained hot and cold reserves labeled as belonging to Bitget across multiple blockchains in under an hour.",
-      "id": "8e5b806aeb4b"
+      "summary": "Darktrace's new Signal Labs found AI agents hacking their own evaluation environment to fake a perfect score—and tricking coding assistants into runni",
+      "id": "dd8ecdb50671"
     },
     {
-      "title": "Humans Are Reading Your ChatGPT Chats, New Lawsuit Claims",
-      "url": "https://decrypt.co/379272/humans-reading-chatgpt-chats-lawsuit",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
+      "title": "Google Built an AI That Hunts Its Own Security Bugs",
+      "url": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "A proposed class action accuses OpenAI of quietly routing real conversations to outside contractors through a program called Project Lily—without tell",
-      "id": "97f3e07636db"
+      "summary": "Google's PageBreak agent autonomously finds and verifies real vulnerabilities in its own web apps, cutting through the flood of noisy AI-generated sec",
+      "id": "64f0ee7b6030"
     },
     {
-      "title": "Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks",
-      "url": "https://decrypt.co/379253/meta-ai-toy-muse-charm-keychain-watches-listens",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/Meta-muse-charm-gID_7.jpg@png",
+      "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
+      "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Muse Charm is Meta's palm-sized gadget for talking to its Muse AI agent on the go. It has cameras, a fingerprint sensor, and its own cell connection.",
-      "id": "a80773b71ee8"
+      "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most fu",
+      "id": "de9829dafc82"
     },
     {
-      "title": "AI Can Now Doxx Your Anonymous Accounts? Here's What’s Going On",
-      "url": "https://decrypt.co/379228/ai-can-now-doxx-your-anonymous-accounts-heres-whats-going-on",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-shhh-gID_7.png@png",
+      "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
+      "url": "https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "A February research paper showing AI can unmask pseudonymous internet users is freaking everyone out again this week. Here's what the paper actually s",
-      "id": "383f1b86b2e3"
+      "summary": "Leaked code strings and screenshots point to a new tier that would cost 25 times more than ChatGPT Plus, aimed at people who need the bot to work fast",
+      "id": "9201950a6e08"
     },
     {
-      "title": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
-      "url": "https://decrypt.co/379244/new-york-ban-polymarket-lawsuit",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/polymarket-decrypt-style-gID_7.jpg@png",
+      "title": "Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect",
+      "url": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/dprk-north-korea-hacker-decrypt-style-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Attorney General Letitia James and Governor Kathy Hochul allege the prediction market operates without a license and exposes New Yorkers to gambling h",
-      "id": "9edfa076e2d3"
+      "summary": "An attacker faked internal transfer requests to drain $387.5 million from Bitget's hot and warm wallets, and the exchange's CEO says the fingerprints ",
+      "id": "494736ad22ae"
     },
     {
-      "title": "In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon'",
-      "url": "https://decrypt.co/379217/sec-peirce-end-kyc-panopticon-zero-knowledge-proofs",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/hester-peirce-decrypt-style-gID_7.jpg@png",
+      "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
+      "url": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nft-art-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "In one of her final speeches as commissioner, Peirce argued that regulators' \"data haystacks\" endanger the people they aim to protect—as recent KYC le",
-      "id": "679bc223804c"
+      "summary": "A flaw in Limit Break's Payment Processor V2 put old Magic Eden Ethereum listings at risk, prompting a whitehat rescue of more than 23,000 NFTs.",
+      "id": "83d18ff4f187"
     },
     {
-      "title": "US Aims to Turn Stablecoins Into a Weapon for Dollar Dominance",
-      "url": "https://decrypt.co/379219/us-stablecoins-weapon-dollar-dominance",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/dollar-trust-crypto-stablecoin-gID_4.jpeg@png",
+      "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits—XRP and Solana Keep Climbing",
+      "url": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Washington may fund private stablecoin ventures abroad to protect the dollar's reserve status and prop up Treasury demand.",
-      "id": "1a7d6ae89f02"
+      "summary": "Pullback or reversal? Here's what the charts suggest for BTC.",
+      "id": "d3e2b288e23e"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -537,6 +537,33 @@
   "categories": {
     "ai": [
       {
+        "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+        "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+        "id": "43cad27f7643"
+      },
+      {
+        "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+        "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budg",
+        "id": "6055eb4b1600"
+      },
+      {
+        "title": "Young organs may not be a fountain of youth for recipients",
+        "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News",
+        "id": "548e89f725ee"
+      },
+      {
         "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
         "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
         "image": "",
@@ -582,33 +609,6 @@
         "id": "2cfe80989dfb"
       },
       {
-        "title": "Smart glasses are already causing havoc in India",
-        "url": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but",
-        "id": "ec14a97815d4"
-      },
-      {
-        "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-        "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help ",
-        "id": "56a9e5105895"
-      },
-      {
-        "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
-        "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-        "id": "56ef0bebbe94"
-      },
-      {
         "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
         "source": "OpenAI Blog",
         "category": "ai",
@@ -647,76 +647,112 @@
     ],
     "tech": [
       {
-        "title": "F-Droid 2.0",
-        "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+        "url": "https://swarmtraces.org/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49831968\">Comments</a>",
-        "id": "1bfbe5fe041f"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49849985\">Comments</a>",
+        "id": "5a9639b6cd3b"
       },
       {
-        "title": "Show HN: Make cursed fonts like Times New Bastard",
-        "url": "https://bastardica.mitpit.com",
+        "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+        "url": "https://ollaya.dev/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49823738\">Comments</a>",
-        "id": "b6e776e7e1eb"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49848269\">Comments</a>",
+        "id": "ac986c6cbef0"
       },
       {
-        "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-        "url": "https://github.com/devdotfast/whiteboard",
+        "title": "Show HN: Jev Plays Pokémon Red",
+        "url": "https://jev-pokemon.vercel.app/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49833867\">Comments</a>",
-        "id": "a6e158b9c104"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49845172\">Comments</a>",
+        "id": "c87ef26a997c"
       },
       {
-        "title": "Jev and System One Models: Calibration Beats Accuracy",
-        "url": "https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions",
+        "title": "Plan mode is dead",
+        "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49839510\">Comments</a>",
-        "id": "adafb8b5314a"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49840054\">Comments</a>",
+        "id": "0273ca959bb2"
       },
       {
-        "title": "Why is the liver so weirdly regenerative?",
-        "url": "https://dynomight.substack.com/p/liver",
+        "title": "What even is an OS now?",
+        "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49832938\">Comments</a>",
-        "id": "e7aa283dbe85"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49850305\">Comments</a>",
+        "id": "4d538391528b"
       },
       {
-        "title": "Fearless SIMD v1.0",
-        "url": "https://linebender.org/blog/fearless-simd-1-0/",
+        "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+        "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49800085\">Comments</a>",
-        "id": "11c6064288c5"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49852302\">Comments</a>",
+        "id": "a8e78cee4b7c"
       },
       {
-        "title": "2DWillNeverDie",
-        "url": "https://2dwillneverdie.com/",
+        "title": "Platform-independent SIMD in Go",
+        "url": "https://go.dev/blog/simd-experiment",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49801436\">Comments</a>",
-        "id": "fe0b3c446121"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49843269\">Comments</a>",
+        "id": "79ecc9ac35bc"
       },
       {
-        "title": "Rails World 2026 Opening Keynote [video]",
-        "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+        "title": "Why didn't anybody tell me about Redis hash slots?",
+        "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49817680\">Comments</a>",
-        "id": "4127d49d0a2a"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49819244\">Comments</a>",
+        "id": "229eb593c367"
+      },
+      {
+        "title": "大象使用药用植物治疗自己",
+        "url": "https://www.solidot.org/story?sid=85477",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "非洲象会利用数十种药用植物治疗自身和家族成员的疾病。科学家和 Mount Elgon 基金会合作展开了这项研究，他们采访了在肯尼亚 Mount Elgon 地区与大象共同生活和工作的居民、野生动物巡护员和社区长者。根据采访者的描述，大象在身体不适时会选择特定的植物，而母象还会给幼象喂食药用植物。研究",
+        "id": "d8625751f631"
+      },
+      {
+        "title": "全球平均气温每上升 1C 德国夏天气温上升 2.62C",
+        "url": "https://www.solidot.org/story?sid=85476",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "全球平均气温正走在比工业化前水平高出 1.5°C 的轨道上。很多人可能会觉得升温幅度不大，可以接受或忍受。但地球绝大部分表面是海洋，海洋的升温幅度要缓慢得多，而陆地则显著得多，居民体会到的升温幅度要高得多。德国研究人员在《Environmental Research Letters》期刊上发表研究报",
+        "id": "5c8456d05c5b"
+      },
+      {
+        "title": "中国各地推动 AI 视频产业化",
+        "url": "https://www.solidot.org/story?sid=85475",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "两年前 Zhu Zhili 选择了深圳作为其 AI 电影工作室的办公地点，今年他接到了来自中国各地政府和产业园官员的电话，内容基本相同，即希望将 AI 电影业务带到当地。中国各地正在推动 AI 视频的产业化，类似太阳能、电动汽车和机器人。AI 电影制作人表示，低廉的制作成本是吸引他们投身 AI 创作",
+        "id": "0a228f8cc039"
+      },
+      {
+        "title": "F-Droid 2.0 发布",
+        "url": "https://www.solidot.org/story?sid=85474",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "Android 自由软件应用商店 F-Droid 宣布发布 2.0 版本。F-Droid 2.0 对 UI 进行了重新设计，旨在更容易的发现，安装和管理应用。主要界面简化为了三个核心区域：发现，搜索和“我的应用”。类别现在整合进了发现，使其更容易浏览和探索，而“我的应用”提供了一个一站式管理已安装应",
+        "id": "111c01501867"
       },
       {
         "title": "部分三星智能冰箱在升级固件之后停止工作",
@@ -746,40 +782,13 @@
         "id": "2cdf4b1a4a9c"
       },
       {
-        "title": "arXiv 项目获得 1720 万美元的捐赠承诺",
-        "url": "https://www.solidot.org/story?sid=85469",
+        "title": "本周看什么 | 最近值得一看的 6 部作品",
+        "url": "https://sspai.com/post/114957",
         "image": "",
-        "source": "Solidot",
+        "source": "少数派",
         "category": "tech",
-        "summary": "预印本平台 arXiv.org 于 7 月 1 日脱离康奈尔大学成立独立的非营利性组织。arXiv 诞生于 1991 年，创始人 Paul Ginsparg 在 2001 年加入了康奈尔大学，arXiv 网站随后由康奈尔大学图书馆接手。25 年后 arXiv 决定翻开新的篇章。arXiv 项目本周表",
-        "id": "815c8826f874"
-      },
-      {
-        "title": "2025 年全台每 46 名新生儿就有 1 个是台积电宝宝",
-        "url": "https://www.solidot.org/story?sid=85468",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "台积电最新永续报告书显示，2025 年台厂区及采钰公司员工共迎来 2,331 名新生儿，占全台新生儿 2.2%。台积电员工的生育率约为全台的 2 倍。台积电的高生育率被认为与该公司薪资更高相关。台积电员工薪资中位数为 300 万台币，平均数为 400 万台币，四倍多余全台的薪资。研究显示收入与生育率",
-        "id": "c1d0d767b496"
-      },
-      {
-        "title": "年检显示高里程电动车比汽油车更可靠",
-        "url": "https://www.solidot.org/story?sid=85467",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "对 4740 万英国机动车年检（MOT test）数据的分析发现，当汽车行驶里程达到 9-12 万英里时，电动汽车的年检不合格率为汽油车同类车型的 75%（16.5% 对 22.1%）。行驶里程超过 12 万英里后，电动汽车的不合格率为 16%，而汽油车为 23.5%。研究发现，较低行驶里程两种动力",
-        "id": "5132a778d319"
-      },
-      {
-        "title": "不要被 AI 炒作愚弄",
-        "url": "https://www.solidot.org/story?sid=85466",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "Anthropic 声称其模型 Claude Mythos 在发现软件漏洞上胜过大多数安全专家。随后发生了 OpenAI–Hugging Face 安全事件，此后 Anthropic（自豪）和 Meta（不情愿）也披露了各自模型的类似事件。紧接着 Anthropic 宣称其模型取得了数学领域的突破；",
-        "id": "94d5fa7d6ffd"
+        "summary": "📅本周新预告《侦战》定档预告9月21日，电影《侦战》发布定档预告，宣布10月1日上映。影片由孔令政编剧、导演，古天乐、此沙、任达华、谢君豪领衔主演，袁富华、卢慧敏、杨伟伦主演，讲述一名嫌疑人从警署羁押 ...<a href=\"https://sspai.com/post/114957\" target",
+        "id": "0afff5f13bfc"
       },
       {
         "title": "新玩意 252｜少数派的编辑们最近买了啥？",
@@ -845,15 +854,6 @@
         "id": "860123b3cd04"
       },
       {
-        "title": "Here Wallpaper：把喜欢的地图做成壁纸",
-        "url": "https://sspai.com/post/114211",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "家附近的街道、旅行时喜欢上的一座城市、或者喜欢的海岸线和岛屿，都可以拿来做壁纸。<a href=\"https://sspai.com/post/114211\" target=\"_blank\">查看全文</a>",
-        "id": "20aa3372f63c"
-      },
-      {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
         "source": "MacRumors",
         "category": "tech",
@@ -892,148 +892,148 @@
     ],
     "crypto": [
       {
-        "title": "Block brings Bitcoin Lightning payments to x402 for AI agents",
-        "url": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3B48T548CSVVXASEFTG2EBS/hi-how-to-develop-an-ai-agent-for-crypto-trading-1.jpg",
+        "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
+        "url": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3D0WG4ZAYJTG27YA8SJYJ5F/hi-the-biggest-challenge-for-crypto-exchanges-is-global-price-fragmentation-2-2.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Block brings Bitcoin Lightning payments to x402 for AI agents\" class=\"type:pri",
-        "id": "7ccf3e6c0575"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OG.com seeks CFTC approval for single-stock perpetual futures\" class=\"type:pri",
+        "id": "9f2ea713eb71"
       },
       {
-        "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
-        "url": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AZF88B8P5GKQ5R22PR2YMN/hack-1.jpg",
+        "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
+        "url": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3D2CSJVVHTXWXSFEBTMN9GF/leaving-the-company-plain-1.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget CEO suspects North Korea behind $352M hack, citing IP clues\" class=\"typ",
-        "id": "610a255e8946"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails\" class",
+        "id": "d85d6dde8849"
       },
       {
-        "title": "Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express",
-        "url": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg",
+        "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
+        "url": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CMJJSCGPAGYWMC5WQF9J64/hi-what-happens-to-seized-cryptocurrency-1.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express\" class",
-        "id": "844724433d62"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether says it had ‘limited’ exposure to bank linked to $84M US seizure\" class",
+        "id": "bb657f46f5b9"
       },
       {
-        "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
-        "url": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AP0WARDM7K816JES0B780Z/hi-us-crypto-bills-compared-genius-act.jpg",
+        "title": "Here’s what happened in crypto today",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fed proposes new capital, redemption rules for stablecoin issuers\" class=\"type",
-        "id": "976ac5e62bd4"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s",
+        "id": "772e97788bfd"
       },
       {
-        "title": "Bitget confirms $352M security breach, suspends withdrawals",
-        "url": "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3ANFG8K9N6H2586MPQRV7KT/hi-got-crypto-losses-wallet-1.jpg",
+        "title": "Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide",
+        "url": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3805C8FH8HWMHMANF3VXJW2/investigation-search.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget confirms $352M security breach, suspends withdrawals\" class=\"type:prima",
-        "id": "51c27565b140"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide\" class=\"type:pri",
+        "id": "5a05d9351477"
       },
       {
-        "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
-        "url": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RCXR1ZF4MGZQYC31CCHQC8/paper-document-man-office-cftc-2.jpg",
+        "title": "Bitget clarifies $388M in assets affected by security breach",
+        "url": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CQDGGFK82WPW7Q372S69XX/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC updates guidance on tokenized assets, blockchain records after failed vot",
-        "id": "0d2ab4d39210"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget clarifies $388M in assets affected by security breach\" class=\"type:prim",
+        "id": "9b5c0fe6dfa5"
       },
       {
-        "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
-        "url": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AGHD04QX5Q0GBBZ75P2EB6/hi-blockchain-explanatory-articles-for-the-very-beginner-ondo-2.jpg",
+        "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
+        "url": "https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CNP9TAS87YZRJ48GX2N99M/hi-strategyb.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs\" cla",
-        "id": "414795cc3ee6"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy seeks shareholder approval for daily preferred stock dividends\" class",
+        "id": "b2a9be776c1b"
       },
       {
-        "title": "DoubleZero brings dedicated fiber market data to Hyperliquid traders",
-        "url": "https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AEQ9Y8JV78QH3H8M1G3403/analitycs2021-hype-1.jpg",
+        "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
+        "url": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CM3GXTXZWWRNTY7Y5MXRMC/hi-how-bitcoins-legal-victory-turned-it-into-wall-streets-favorite-crypto-1.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DoubleZero brings dedicated fiber market data to Hyperliquid traders\" class=\"t",
-        "id": "7cadf220ecef"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Wall Street and crypto fight for the same turf\" class=\"type:primar",
+        "id": "aaf7d007eb90"
       },
       {
-        "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
-        "url": "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg@png",
+        "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
+        "url": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "The central bank opened two proposals for comment under the GENIUS Act, requiring issuers it supervises to back tokens fully with safe assets and crea",
-        "id": "99a60dd28fef"
+        "summary": "Federal prosecutors are targeting a Montana payments firm and a Caribbean bank accused of moving money without a license.",
+        "id": "193e1d8b81a8"
       },
       {
-        "title": "Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets",
-        "url": "https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker1-gID_7.png@png",
+        "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
+        "url": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "A newly created wallet drained hot and cold reserves labeled as belonging to Bitget across multiple blockchains in under an hour.",
-        "id": "8e5b806aeb4b"
+        "summary": "Darktrace's new Signal Labs found AI agents hacking their own evaluation environment to fake a perfect score—and tricking coding assistants into runni",
+        "id": "dd8ecdb50671"
       },
       {
-        "title": "Humans Are Reading Your ChatGPT Chats, New Lawsuit Claims",
-        "url": "https://decrypt.co/379272/humans-reading-chatgpt-chats-lawsuit",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
+        "title": "Google Built an AI That Hunts Its Own Security Bugs",
+        "url": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "A proposed class action accuses OpenAI of quietly routing real conversations to outside contractors through a program called Project Lily—without tell",
-        "id": "97f3e07636db"
+        "summary": "Google's PageBreak agent autonomously finds and verifies real vulnerabilities in its own web apps, cutting through the flood of noisy AI-generated sec",
+        "id": "64f0ee7b6030"
       },
       {
-        "title": "Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks",
-        "url": "https://decrypt.co/379253/meta-ai-toy-muse-charm-keychain-watches-listens",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/Meta-muse-charm-gID_7.jpg@png",
+        "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
+        "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Muse Charm is Meta's palm-sized gadget for talking to its Muse AI agent on the go. It has cameras, a fingerprint sensor, and its own cell connection.",
-        "id": "a80773b71ee8"
+        "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most fu",
+        "id": "de9829dafc82"
       },
       {
-        "title": "AI Can Now Doxx Your Anonymous Accounts? Here's What’s Going On",
-        "url": "https://decrypt.co/379228/ai-can-now-doxx-your-anonymous-accounts-heres-whats-going-on",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-shhh-gID_7.png@png",
+        "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
+        "url": "https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "A February research paper showing AI can unmask pseudonymous internet users is freaking everyone out again this week. Here's what the paper actually s",
-        "id": "383f1b86b2e3"
+        "summary": "Leaked code strings and screenshots point to a new tier that would cost 25 times more than ChatGPT Plus, aimed at people who need the bot to work fast",
+        "id": "9201950a6e08"
       },
       {
-        "title": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
-        "url": "https://decrypt.co/379244/new-york-ban-polymarket-lawsuit",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/polymarket-decrypt-style-gID_7.jpg@png",
+        "title": "Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect",
+        "url": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/dprk-north-korea-hacker-decrypt-style-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Attorney General Letitia James and Governor Kathy Hochul allege the prediction market operates without a license and exposes New Yorkers to gambling h",
-        "id": "9edfa076e2d3"
+        "summary": "An attacker faked internal transfer requests to drain $387.5 million from Bitget's hot and warm wallets, and the exchange's CEO says the fingerprints ",
+        "id": "494736ad22ae"
       },
       {
-        "title": "In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon'",
-        "url": "https://decrypt.co/379217/sec-peirce-end-kyc-panopticon-zero-knowledge-proofs",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/hester-peirce-decrypt-style-gID_7.jpg@png",
+        "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
+        "url": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nft-art-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "In one of her final speeches as commissioner, Peirce argued that regulators' \"data haystacks\" endanger the people they aim to protect—as recent KYC le",
-        "id": "679bc223804c"
+        "summary": "A flaw in Limit Break's Payment Processor V2 put old Magic Eden Ethereum listings at risk, prompting a whitehat rescue of more than 23,000 NFTs.",
+        "id": "83d18ff4f187"
       },
       {
-        "title": "US Aims to Turn Stablecoins Into a Weapon for Dollar Dominance",
-        "url": "https://decrypt.co/379219/us-stablecoins-weapon-dollar-dominance",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/dollar-trust-crypto-stablecoin-gID_4.jpeg@png",
+        "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits—XRP and Solana Keep Climbing",
+        "url": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Washington may fund private stablecoin ventures abroad to protect the dollar's reserve status and prop up Treasury demand.",
-        "id": "1a7d6ae89f02"
+        "summary": "Pullback or reversal? Here's what the charts suggest for BTC.",
+        "id": "d3e2b288e23e"
       },
       {
         "title": "比特币突破 80000 美元",
