@@ -1,78 +1,69 @@
 {
-  "last_updated": "2026-09-27T02:53:27.036769",
-  "total": 60,
+  "last_updated": "2026-09-28T02:53:23.839890",
+  "total": 59,
   "news": [
     {
-      "title": "Does Georgism work? Five years later",
-      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "title": "Self-parking car using genetic algorithm (2021)",
+      "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49844657\">Comments</a>",
-      "id": "807b18940fd1"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49872472\">Comments</a>",
+      "id": "9f53ef2febbc"
     },
     {
-      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "title": "Owed a billion dollars in Nvidia stock",
+      "url": "https://colo.to/nvidia-stock-narrative.html",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49842764\">Comments</a>",
-      "id": "b950f155450a"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49872723\">Comments</a>",
+      "id": "3ea584fac90a"
     },
     {
-      "title": "DeepSeek Elastic Compute (DSec)",
-      "url": "https://arxiv.org/abs/2609.22978",
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49859112\">Comments</a>",
-      "id": "7e236926684c"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49870367\">Comments</a>",
+      "id": "2de52be53b6c"
     },
     {
-      "title": "Go Concurrency Distilled",
-      "url": "https://antonz.org/go-concurrency-distilled/",
+      "title": "Research finds 485 chemicals in US pesticide products linked to breast cancer",
+      "url": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49856988\">Comments</a>",
-      "id": "ba9ac0d76574"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49872497\">Comments</a>",
+      "id": "73e1bd783154"
     },
     {
-      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-      "url": "https://github.com/reladraw/reladraw",
+      "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
+      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49858513\">Comments</a>",
-      "id": "43f08448940d"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49870070\">Comments</a>",
+      "id": "e3f5025325af"
     },
     {
-      "title": "Evolving programming languages in the AI era",
-      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "title": "There is more to code review than (automatable) detection",
+      "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49839567\">Comments</a>",
-      "id": "a75e40f6f580"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49857281\">Comments</a>",
+      "id": "a01af899a3fd"
     },
     {
-      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "title": "The state of SIMD in Rust in 2026",
+      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
       "image": "",
       "source": "Hacker News",
       "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49857656\">Comments</a>",
-      "id": "f26a8a881fc8"
-    },
-    {
-      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-      "url": "https://www.movingimagearchive.com/",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49832768\">Comments</a>",
-      "id": "58b915c89d69"
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49844629\">Comments</a>",
+      "id": "549570dbac47"
     },
     {
       "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
@@ -147,6 +138,51 @@
       "id": "2cfe80989dfb"
     },
     {
+      "title": "Meta 屏蔽了巴西总统的 FB 主页以及竞选广告",
+      "url": "https://www.solidot.org/story?sid=85487",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "距离 2026 年 10 月巴西大选不到两周，Meta 本周短暂屏蔽了巴西现任总统卢拉的 FB 主页以及竞选连任广告，在抗议和投诉之后，Meta 恢复了主页，但卢拉的竞选团队认为此举损害了总统的竞选活动。Meta 是在本周三屏蔽了卢拉的主页，未给出任何理由。卢拉竞选团队投诉称，数字环境在政治辩论中发",
+      "id": "6ed23677935f"
+    },
+    {
+      "title": "Bitget 被盗走价值 3.875 亿美元加密货币",
+      "url": "https://www.solidot.org/story?sid=85486",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "Bitget 交易所被盗走价值 3.875 亿美元的加密货币。攻击发生在 9 月 24 日 18:31 UTC。区块链情报公司 Arkham 发表报告称，从 18:58 至 19:16 之间的 18 分钟内，价值 2.28 亿美元的数字资产从 Bitget 钱包中转出。价值 1.53 亿美元的 XR",
+      "id": "a7bfac82e498"
+    },
+    {
+      "title": "科学家研制出至今最精确的原子钟",
+      "url": "https://www.solidot.org/story?sid=85485",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "新加坡国立大学研制出至今最精确的原子钟，运行 2600 亿年误差不到 1 秒。新设备是一台光学原子钟，靠镥离子固有而稳定的特性计时。特定频率的光，能把电子送上更高能量的激发态，而这一跃迁频率恒定不变。团队持续观测镥离子的跃迁，把激光锁定在触发跃迁的精确频率上，再以激光振荡作为计时标尺。在最新研究中，",
+      "id": "23664c553902"
+    },
+    {
+      "title": "龙芯 CPU 的原子加指令偶尔会丢失",
+      "url": "https://www.solidot.org/story?sid=85484",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "今年 2 月 Debian 13 的龙芯架构移植版 loong13 的维护者在编译打包过程中发现，normaliz 的自带测试会死循环导致打包超时。第一次排查发现原子加指令会在特定情况下丢失更新，但原因未知。今年 8 月，开发者在 AI 的帮助下重新寻找 normaliz 中原子加丢失的问题。他们让",
+      "id": "753facb53df3"
+    },
+    {
+      "title": "太平洋西北下方的板块在分裂",
+      "url": "https://www.solidot.org/story?sid=85483",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "科学家捕捉到了太平洋西北下方的一个大型构造系统分裂的细节。最新研究发现了一个俯冲带正在活跃分裂。俯冲带形成于一个构造板块俯冲到另一个板块下并深入地球内部，是大型地震、强火山爆发以及大陆和海洋盆地长期变化的源头。现在科学家有机会清晰观察大型构造系统如何走向终结。构造系统会持续活跃数百万年，但不会永远持",
+      "id": "c0962ccf88a3"
+    },
+    {
       "title": "Excel 的单元格将支持输入多个值",
       "url": "https://www.solidot.org/story?sid=85482",
       "image": "",
@@ -174,49 +210,22 @@
       "id": "f5f6d7d2bc3d"
     },
     {
-      "title": "Velum：方便部署的CosyVoice推理程序",
-      "url": "https://www.solidot.org/story?sid=85479",
+      "title": "派早报：OpenAI 称与苹果合作效果不佳",
+      "url": "https://sspai.com/post/115079",
       "image": "",
-      "source": "Solidot",
+      "source": "少数派",
       "category": "tech",
-      "summary": "Nala Ginrut 写道：<i>\nHardenedLinux 最近发布了可用于推理CosyVoice的Velum，它用modern C++开发，编译成一个单一的可执行文件，方便部署。<br />\nCosyVoice是目前比较优秀的一款 TTS 模型，但其推理程序使用的Python体系比较老旧，需",
-      "id": "517c1e94fe86"
+      "summary": "<p>OpenAI 称与苹果合作效果不佳</p><p>iPhone 4「天线门」媒体问答录像时隔十六年现身</p><p>F-Droid 2.0 发布</p><p>三星冰箱固件升级后罢工，影响韩国用户过中秋</p><p>Excel 单元格将支持数组</p><p>微软不再使用 Copilot+ PC 品",
+      "id": "55b2d733a4ad"
     },
     {
-      "title": "黑手党可能阻止了芬太尼流入意大利",
-      "url": "https://www.solidot.org/story?sid=85478",
+      "title": "本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等",
+      "url": "https://sspai.com/post/115056",
       "image": "",
-      "source": "Solidot",
+      "source": "少数派",
       "category": "tech",
-      "summary": "在电影《教父》中，维托柯里昂（Don Vito Corleone）拒绝参与海洛因交易，称毒品生意太脏。现实中的黑手党并非如此，但对于选择芬太尼还是海洛因等其它毒品，意大利黑手党看起来选择了拒绝芬太尼。这或许可以解释意大利芬太尼过量致死率异常低。2024 年比吗啡强效百倍的合成阿片类药物在意大利仅检测",
-      "id": "ec5389235480"
-    },
-    {
-      "title": "大象使用药用植物治疗自己",
-      "url": "https://www.solidot.org/story?sid=85477",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "非洲象会利用数十种药用植物治疗自身和家族成员的疾病。科学家和 Mount Elgon 基金会合作展开了这项研究，他们采访了在肯尼亚 Mount Elgon 地区与大象共同生活和工作的居民、野生动物巡护员和社区长者。根据采访者的描述，大象在身体不适时会选择特定的植物，而母象还会给幼象喂食药用植物。研究",
-      "id": "d8625751f631"
-    },
-    {
-      "title": "全球平均气温每上升 1C 德国夏天气温上升 2.62C",
-      "url": "https://www.solidot.org/story?sid=85476",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "全球平均气温正走在比工业化前水平高出 1.5°C 的轨道上。很多人可能会觉得升温幅度不大，可以接受或忍受。但地球绝大部分表面是海洋，海洋的升温幅度要缓慢得多，而陆地则显著得多，居民体会到的升温幅度要高得多。德国研究人员在《Environmental Research Letters》期刊上发表研究报",
-      "id": "5c8456d05c5b"
-    },
-    {
-      "title": "中国各地推动 AI 视频产业化",
-      "url": "https://www.solidot.org/story?sid=85475",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "两年前 Zhu Zhili 选择了深圳作为其 AI 电影工作室的办公地点，今年他接到了来自中国各地政府和产业园官员的电话，内容基本相同，即希望将 AI 电影业务带到当地。中国各地正在推动 AI 视频的产业化，类似太阳能、电动汽车和机器人。AI 电影制作人表示，低廉的制作成本是吸引他们投身 AI 创作",
-      "id": "0a228f8cc039"
+      "summary": "《鬼武者》系列的惊艳复活，《风花雪月》的世界观延续，赛璐珞动画风格的双人历险……<a href=\"https://sspai.com/post/115056\" target=\"_blank\">查看全文</a>",
+      "id": "8f6b51222733"
     },
     {
       "title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
@@ -273,22 +282,58 @@
       "id": "16dd129fa4fb"
     },
     {
-      "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等",
-      "url": "https://sspai.com/post/114913",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "Amazfit 推出智能手表 T-Rex Dual Solar、雷蛇推出灰鲭鲨 X 游戏音箱等。<a href=\"https://sspai.com/post/114913\" target=\"_blank\">查看全文</a>",
-      "id": "43aaec073809"
+      "title": "Newsom signs California ban on public officials issuing memecoins",
+      "url": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3JX3KVEP7E99FBBRT94FX62/regulation-office-document-paper-california.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Newsom signs California ban on public officials issuing memecoins \" class=\"typ",
+      "id": "e098234c8b79"
     },
     {
-      "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
-      "url": "https://sspai.com/post/114904",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。<a href=\"https://sspai.com/post/114904\" target=\"_bla",
-      "id": "f9c14400efc7"
+      "title": "Zano rolls blockchain back a month after Gateway Address exploit",
+      "url": "https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3JREXHTP98GQ5DQZXPMZ889/zano-rollback.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zano rolls blockchain back a month after Gateway Address exploit\" class=\"type:",
+      "id": "672aac796cf4"
+    },
+    {
+      "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3JEK5KXMZ1A92DZ2YW9Y7A9/cover-collage-revised.png",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Dige",
+      "id": "dd54472dffc6"
+    },
+    {
+      "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
+      "url": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3HDTS8Y7GZWZ1TSH2F6ES35/hi-how-to-train-an-ai-bot-to-day-trade-crypto.png",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Repor",
+      "id": "83764414039e"
+    },
+    {
+      "title": "Riot Platforms repays $200M credit facility, releases collateral",
+      "url": "https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3H4K9S7MJRE0V8KP0S1ZAM6/hi-eu-vote-on-bitcoin-mining-ai-1.png",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Riot Platforms repays $200M credit facility, releases collateral\" class=\"type:",
+      "id": "387d07705968"
+    },
+    {
+      "title": "Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy",
+      "url": "https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3GVCZQXE2KGQ9ZJ6AN3C2VH/hi-michael-saylor2.png",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saylor outlines ‘bill of digital rights’ to help build prosperity in future ec",
+      "id": "207c77707a88"
     },
     {
       "title": "Kalshi loses appeal, setting up potential Supreme Court case",
@@ -309,58 +354,31 @@
       "id": "772e97788bfd"
     },
     {
-      "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
-      "url": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3EF3D5VFWA1TXNZDN794WQV/hester-peirce-sec-1.jpg",
-      "source": "CoinTelegraph",
+      "title": "AI Agents Keep Escaping Their Creators' Control—Here's What We Know",
+      "url": "https://decrypt.co/379402/ai-agents-keep-escaping-creators-control",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/test-2-gID_7.png@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC Commissioner Hester Peirce to leave post on Oct. 2\" class=\"type:primaryIma",
-      "id": "fc65dac90af8"
+      "summary": "An OpenAI agent's breach of an Australian government website is the starkest example yet of a pattern building for months—and of how hard autonomous A",
+      "id": "714b67b9ea6f"
     },
     {
-      "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
-      "url": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3E7R5YFBEX21VBGW5MY4472/hi-how-can-transform-government-sector-cftc.jpg",
-      "source": "CoinTelegraph",
+      "title": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
+      "url": "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC sues Cash FX, alleges $950M crypto-linked forex scheme\" class=\"type:prima",
-      "id": "157fdf0f6043"
+      "summary": "Three developments this week—a cost breakthrough, a new privacy design, and a custody playbook—show a field moving from theory to logistics, even as \"",
+      "id": "1a74488e425c"
     },
     {
-      "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
-      "url": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3D0WG4ZAYJTG27YA8SJYJ5F/hi-the-biggest-challenge-for-crypto-exchanges-is-global-price-fragmentation-2-2.png",
-      "source": "CoinTelegraph",
+      "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
+      "url": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OG.com seeks CFTC approval for single-stock perpetual futures\" class=\"type:pri",
-      "id": "9f2ea713eb71"
-    },
-    {
-      "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
-      "url": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3D2CSJVVHTXWXSFEBTMN9GF/leaving-the-company-plain-1.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails\" class",
-      "id": "d85d6dde8849"
-    },
-    {
-      "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
-      "url": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CMJJSCGPAGYWMC5WQF9J64/hi-what-happens-to-seized-cryptocurrency-1.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether says it had ‘limited’ exposure to bank linked to $84M US seizure\" class",
-      "id": "bb657f46f5b9"
-    },
-    {
-      "title": "Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide",
-      "url": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3805C8FH8HWMHMANF3VXJW2/investigation-search.png",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide\" class=\"type:pri",
-      "id": "5a05d9351477"
+      "summary": "New SEC staff guidance says announcing a token buyback on a functional network isn't a promise that turns the token into a security, a shift one attor",
+      "id": "5db2c7f3b9e9"
     },
     {
       "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
@@ -406,33 +424,6 @@
       "category": "crypto",
       "summary": "Federal prosecutors are targeting a Montana payments firm and a Caribbean bank accused of moving money without a license.",
       "id": "193e1d8b81a8"
-    },
-    {
-      "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
-      "url": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Darktrace's new Signal Labs found AI agents hacking their own evaluation environment to fake a perfect score—and tricking coding assistants into runni",
-      "id": "dd8ecdb50671"
-    },
-    {
-      "title": "Google Built an AI That Hunts Its Own Security Bugs",
-      "url": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Google's PageBreak agent autonomously finds and verifies real vulnerabilities in its own web apps, cutting through the flood of noisy AI-generated sec",
-      "id": "64f0ee7b6030"
-    },
-    {
-      "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
-      "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most fu",
-      "id": "de9829dafc82"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -656,76 +647,112 @@
     ],
     "tech": [
       {
-        "title": "Does Georgism work? Five years later",
-        "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+        "title": "Self-parking car using genetic algorithm (2021)",
+        "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49844657\">Comments</a>",
-        "id": "807b18940fd1"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49872472\">Comments</a>",
+        "id": "9f53ef2febbc"
       },
       {
-        "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-        "url": "https://github.com/InfinityLoop1308/PipePipe",
+        "title": "Owed a billion dollars in Nvidia stock",
+        "url": "https://colo.to/nvidia-stock-narrative.html",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49842764\">Comments</a>",
-        "id": "b950f155450a"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49872723\">Comments</a>",
+        "id": "3ea584fac90a"
       },
       {
-        "title": "DeepSeek Elastic Compute (DSec)",
-        "url": "https://arxiv.org/abs/2609.22978",
+        "title": "When did Google get so weird?",
+        "url": "https://sancho.bearblog.dev/google-weird/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49859112\">Comments</a>",
-        "id": "7e236926684c"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49870367\">Comments</a>",
+        "id": "2de52be53b6c"
       },
       {
-        "title": "Go Concurrency Distilled",
-        "url": "https://antonz.org/go-concurrency-distilled/",
+        "title": "Research finds 485 chemicals in US pesticide products linked to breast cancer",
+        "url": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49856988\">Comments</a>",
-        "id": "ba9ac0d76574"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49872497\">Comments</a>",
+        "id": "73e1bd783154"
       },
       {
-        "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-        "url": "https://github.com/reladraw/reladraw",
+        "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
+        "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49858513\">Comments</a>",
-        "id": "43f08448940d"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49870070\">Comments</a>",
+        "id": "e3f5025325af"
       },
       {
-        "title": "Evolving programming languages in the AI era",
-        "url": "https://dashbit.co/blog/evolving-ai-era",
+        "title": "There is more to code review than (automatable) detection",
+        "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49839567\">Comments</a>",
-        "id": "a75e40f6f580"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49857281\">Comments</a>",
+        "id": "a01af899a3fd"
       },
       {
-        "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-        "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+        "title": "The state of SIMD in Rust in 2026",
+        "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
         "image": "",
         "source": "Hacker News",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49857656\">Comments</a>",
-        "id": "f26a8a881fc8"
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=49844629\">Comments</a>",
+        "id": "549570dbac47"
       },
       {
-        "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-        "url": "https://www.movingimagearchive.com/",
+        "title": "Meta 屏蔽了巴西总统的 FB 主页以及竞选广告",
+        "url": "https://www.solidot.org/story?sid=85487",
         "image": "",
-        "source": "Hacker News",
+        "source": "Solidot",
         "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49832768\">Comments</a>",
-        "id": "58b915c89d69"
+        "summary": "距离 2026 年 10 月巴西大选不到两周，Meta 本周短暂屏蔽了巴西现任总统卢拉的 FB 主页以及竞选连任广告，在抗议和投诉之后，Meta 恢复了主页，但卢拉的竞选团队认为此举损害了总统的竞选活动。Meta 是在本周三屏蔽了卢拉的主页，未给出任何理由。卢拉竞选团队投诉称，数字环境在政治辩论中发",
+        "id": "6ed23677935f"
+      },
+      {
+        "title": "Bitget 被盗走价值 3.875 亿美元加密货币",
+        "url": "https://www.solidot.org/story?sid=85486",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "Bitget 交易所被盗走价值 3.875 亿美元的加密货币。攻击发生在 9 月 24 日 18:31 UTC。区块链情报公司 Arkham 发表报告称，从 18:58 至 19:16 之间的 18 分钟内，价值 2.28 亿美元的数字资产从 Bitget 钱包中转出。价值 1.53 亿美元的 XR",
+        "id": "a7bfac82e498"
+      },
+      {
+        "title": "科学家研制出至今最精确的原子钟",
+        "url": "https://www.solidot.org/story?sid=85485",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "新加坡国立大学研制出至今最精确的原子钟，运行 2600 亿年误差不到 1 秒。新设备是一台光学原子钟，靠镥离子固有而稳定的特性计时。特定频率的光，能把电子送上更高能量的激发态，而这一跃迁频率恒定不变。团队持续观测镥离子的跃迁，把激光锁定在触发跃迁的精确频率上，再以激光振荡作为计时标尺。在最新研究中，",
+        "id": "23664c553902"
+      },
+      {
+        "title": "龙芯 CPU 的原子加指令偶尔会丢失",
+        "url": "https://www.solidot.org/story?sid=85484",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "今年 2 月 Debian 13 的龙芯架构移植版 loong13 的维护者在编译打包过程中发现，normaliz 的自带测试会死循环导致打包超时。第一次排查发现原子加指令会在特定情况下丢失更新，但原因未知。今年 8 月，开发者在 AI 的帮助下重新寻找 normaliz 中原子加丢失的问题。他们让",
+        "id": "753facb53df3"
+      },
+      {
+        "title": "太平洋西北下方的板块在分裂",
+        "url": "https://www.solidot.org/story?sid=85483",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "科学家捕捉到了太平洋西北下方的一个大型构造系统分裂的细节。最新研究发现了一个俯冲带正在活跃分裂。俯冲带形成于一个构造板块俯冲到另一个板块下并深入地球内部，是大型地震、强火山爆发以及大陆和海洋盆地长期变化的源头。现在科学家有机会清晰观察大型构造系统如何走向终结。构造系统会持续活跃数百万年，但不会永远持",
+        "id": "c0962ccf88a3"
       },
       {
         "title": "Excel 的单元格将支持输入多个值",
@@ -755,49 +782,22 @@
         "id": "f5f6d7d2bc3d"
       },
       {
-        "title": "Velum：方便部署的CosyVoice推理程序",
-        "url": "https://www.solidot.org/story?sid=85479",
+        "title": "派早报：OpenAI 称与苹果合作效果不佳",
+        "url": "https://sspai.com/post/115079",
         "image": "",
-        "source": "Solidot",
+        "source": "少数派",
         "category": "tech",
-        "summary": "Nala Ginrut 写道：<i>\nHardenedLinux 最近发布了可用于推理CosyVoice的Velum，它用modern C++开发，编译成一个单一的可执行文件，方便部署。<br />\nCosyVoice是目前比较优秀的一款 TTS 模型，但其推理程序使用的Python体系比较老旧，需",
-        "id": "517c1e94fe86"
+        "summary": "<p>OpenAI 称与苹果合作效果不佳</p><p>iPhone 4「天线门」媒体问答录像时隔十六年现身</p><p>F-Droid 2.0 发布</p><p>三星冰箱固件升级后罢工，影响韩国用户过中秋</p><p>Excel 单元格将支持数组</p><p>微软不再使用 Copilot+ PC 品",
+        "id": "55b2d733a4ad"
       },
       {
-        "title": "黑手党可能阻止了芬太尼流入意大利",
-        "url": "https://www.solidot.org/story?sid=85478",
+        "title": "本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等",
+        "url": "https://sspai.com/post/115056",
         "image": "",
-        "source": "Solidot",
+        "source": "少数派",
         "category": "tech",
-        "summary": "在电影《教父》中，维托柯里昂（Don Vito Corleone）拒绝参与海洛因交易，称毒品生意太脏。现实中的黑手党并非如此，但对于选择芬太尼还是海洛因等其它毒品，意大利黑手党看起来选择了拒绝芬太尼。这或许可以解释意大利芬太尼过量致死率异常低。2024 年比吗啡强效百倍的合成阿片类药物在意大利仅检测",
-        "id": "ec5389235480"
-      },
-      {
-        "title": "大象使用药用植物治疗自己",
-        "url": "https://www.solidot.org/story?sid=85477",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "非洲象会利用数十种药用植物治疗自身和家族成员的疾病。科学家和 Mount Elgon 基金会合作展开了这项研究，他们采访了在肯尼亚 Mount Elgon 地区与大象共同生活和工作的居民、野生动物巡护员和社区长者。根据采访者的描述，大象在身体不适时会选择特定的植物，而母象还会给幼象喂食药用植物。研究",
-        "id": "d8625751f631"
-      },
-      {
-        "title": "全球平均气温每上升 1C 德国夏天气温上升 2.62C",
-        "url": "https://www.solidot.org/story?sid=85476",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "全球平均气温正走在比工业化前水平高出 1.5°C 的轨道上。很多人可能会觉得升温幅度不大，可以接受或忍受。但地球绝大部分表面是海洋，海洋的升温幅度要缓慢得多，而陆地则显著得多，居民体会到的升温幅度要高得多。德国研究人员在《Environmental Research Letters》期刊上发表研究报",
-        "id": "5c8456d05c5b"
-      },
-      {
-        "title": "中国各地推动 AI 视频产业化",
-        "url": "https://www.solidot.org/story?sid=85475",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "两年前 Zhu Zhili 选择了深圳作为其 AI 电影工作室的办公地点，今年他接到了来自中国各地政府和产业园官员的电话，内容基本相同，即希望将 AI 电影业务带到当地。中国各地正在推动 AI 视频的产业化，类似太阳能、电动汽车和机器人。AI 电影制作人表示，低廉的制作成本是吸引他们投身 AI 创作",
-        "id": "0a228f8cc039"
+        "summary": "《鬼武者》系列的惊艳复活，《风花雪月》的世界观延续，赛璐珞动画风格的双人历险……<a href=\"https://sspai.com/post/115056\" target=\"_blank\">查看全文</a>",
+        "id": "8f6b51222733"
       },
       {
         "title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
@@ -854,24 +854,6 @@
         "id": "16dd129fa4fb"
       },
       {
-        "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等",
-        "url": "https://sspai.com/post/114913",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "Amazfit 推出智能手表 T-Rex Dual Solar、雷蛇推出灰鲭鲨 X 游戏音箱等。<a href=\"https://sspai.com/post/114913\" target=\"_blank\">查看全文</a>",
-        "id": "43aaec073809"
-      },
-      {
-        "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
-        "url": "https://sspai.com/post/114904",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。<a href=\"https://sspai.com/post/114904\" target=\"_bla",
-        "id": "f9c14400efc7"
-      },
-      {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
         "source": "MacRumors",
         "category": "tech",
@@ -910,6 +892,60 @@
     ],
     "crypto": [
       {
+        "title": "Newsom signs California ban on public officials issuing memecoins",
+        "url": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3JX3KVEP7E99FBBRT94FX62/regulation-office-document-paper-california.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Newsom signs California ban on public officials issuing memecoins \" class=\"typ",
+        "id": "e098234c8b79"
+      },
+      {
+        "title": "Zano rolls blockchain back a month after Gateway Address exploit",
+        "url": "https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3JREXHTP98GQ5DQZXPMZ889/zano-rollback.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zano rolls blockchain back a month after Gateway Address exploit\" class=\"type:",
+        "id": "672aac796cf4"
+      },
+      {
+        "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
+        "url": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3JEK5KXMZ1A92DZ2YW9Y7A9/cover-collage-revised.png",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Dige",
+        "id": "dd54472dffc6"
+      },
+      {
+        "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
+        "url": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3HDTS8Y7GZWZ1TSH2F6ES35/hi-how-to-train-an-ai-bot-to-day-trade-crypto.png",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Repor",
+        "id": "83764414039e"
+      },
+      {
+        "title": "Riot Platforms repays $200M credit facility, releases collateral",
+        "url": "https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3H4K9S7MJRE0V8KP0S1ZAM6/hi-eu-vote-on-bitcoin-mining-ai-1.png",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Riot Platforms repays $200M credit facility, releases collateral\" class=\"type:",
+        "id": "387d07705968"
+      },
+      {
+        "title": "Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy",
+        "url": "https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3GVCZQXE2KGQ9ZJ6AN3C2VH/hi-michael-saylor2.png",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saylor outlines ‘bill of digital rights’ to help build prosperity in future ec",
+        "id": "207c77707a88"
+      },
+      {
         "title": "Kalshi loses appeal, setting up potential Supreme Court case",
         "url": "https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1M5NCSJSS1MAFGEDXXFPQN1/court-vs-kalshi-3.jpg",
@@ -928,58 +964,31 @@
         "id": "772e97788bfd"
       },
       {
-        "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
-        "url": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3EF3D5VFWA1TXNZDN794WQV/hester-peirce-sec-1.jpg",
-        "source": "CoinTelegraph",
+        "title": "AI Agents Keep Escaping Their Creators' Control—Here's What We Know",
+        "url": "https://decrypt.co/379402/ai-agents-keep-escaping-creators-control",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/test-2-gID_7.png@png",
+        "source": "Decrypt",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC Commissioner Hester Peirce to leave post on Oct. 2\" class=\"type:primaryIma",
-        "id": "fc65dac90af8"
+        "summary": "An OpenAI agent's breach of an Australian government website is the starkest example yet of a pattern building for months—and of how hard autonomous A",
+        "id": "714b67b9ea6f"
       },
       {
-        "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
-        "url": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3E7R5YFBEX21VBGW5MY4472/hi-how-can-transform-government-sector-cftc.jpg",
-        "source": "CoinTelegraph",
+        "title": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
+        "url": "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png@png",
+        "source": "Decrypt",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC sues Cash FX, alleges $950M crypto-linked forex scheme\" class=\"type:prima",
-        "id": "157fdf0f6043"
+        "summary": "Three developments this week—a cost breakthrough, a new privacy design, and a custody playbook—show a field moving from theory to logistics, even as \"",
+        "id": "1a74488e425c"
       },
       {
-        "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
-        "url": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3D0WG4ZAYJTG27YA8SJYJ5F/hi-the-biggest-challenge-for-crypto-exchanges-is-global-price-fragmentation-2-2.png",
-        "source": "CoinTelegraph",
+        "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
+        "url": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png@png",
+        "source": "Decrypt",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OG.com seeks CFTC approval for single-stock perpetual futures\" class=\"type:pri",
-        "id": "9f2ea713eb71"
-      },
-      {
-        "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
-        "url": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3D2CSJVVHTXWXSFEBTMN9GF/leaving-the-company-plain-1.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails\" class",
-        "id": "d85d6dde8849"
-      },
-      {
-        "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
-        "url": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CMJJSCGPAGYWMC5WQF9J64/hi-what-happens-to-seized-cryptocurrency-1.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether says it had ‘limited’ exposure to bank linked to $84M US seizure\" class",
-        "id": "bb657f46f5b9"
-      },
-      {
-        "title": "Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide",
-        "url": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3805C8FH8HWMHMANF3VXJW2/investigation-search.png",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide\" class=\"type:pri",
-        "id": "5a05d9351477"
+        "summary": "New SEC staff guidance says announcing a token buyback on a functional network isn't a promise that turns the token into a security, a shift one attor",
+        "id": "5db2c7f3b9e9"
       },
       {
         "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
@@ -1025,33 +1034,6 @@
         "category": "crypto",
         "summary": "Federal prosecutors are targeting a Montana payments firm and a Caribbean bank accused of moving money without a license.",
         "id": "193e1d8b81a8"
-      },
-      {
-        "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
-        "url": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Darktrace's new Signal Labs found AI agents hacking their own evaluation environment to fake a perfect score—and tricking coding assistants into runni",
-        "id": "dd8ecdb50671"
-      },
-      {
-        "title": "Google Built an AI That Hunts Its Own Security Bugs",
-        "url": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Google's PageBreak agent autonomously finds and verifies real vulnerabilities in its own web apps, cutting through the flood of noisy AI-generated sec",
-        "id": "64f0ee7b6030"
-      },
-      {
-        "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
-        "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most fu",
-        "id": "de9829dafc82"
       },
       {
         "title": "比特币突破 80000 美元",
