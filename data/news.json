@@ -1,78 +1,24 @@
 {
-  "last_updated": "2026-09-30T03:19:39.413235",
-  "total": 60,
+  "last_updated": "2026-10-01T03:25:56.892133",
+  "total": 51,
   "news": [
     {
-      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-      "url": "https://github.com/ninjahawk/livenerf",
+      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
       "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49901736\">Comments</a>",
-      "id": "570af017efa7"
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "id": "353370d173ec"
     },
     {
-      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
       "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49899090\">Comments</a>",
-      "id": "3329fe29017b"
-    },
-    {
-      "title": "America.gov",
-      "url": "https://america.gov/",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49893509\">Comments</a>",
-      "id": "02883d5a3ee3"
-    },
-    {
-      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-      "url": "https://space.bl2.net/",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49898778\">Comments</a>",
-      "id": "d48c5792f774"
-    },
-    {
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49896586\">Comments</a>",
-      "id": "bd6cf308c0d4"
-    },
-    {
-      "title": "How Delhi cut electricity loss from 50 to 5 percent",
-      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49892245\">Comments</a>",
-      "id": "18e1cc37f556"
-    },
-    {
-      "title": "PS5 Relapse Exploit",
-      "url": "https://github.com/ntfargo/Relapse-Exploit",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49895304\">Comments</a>",
-      "id": "cca25a3bc393"
-    },
-    {
-      "title": "Language models for text classification: From bag-of-words to Jev",
-      "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-      "image": "",
-      "source": "Hacker News",
-      "category": "tech",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49891203\">Comments</a>",
-      "id": "8e75ef28d3b0"
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Fa",
+      "id": "074f9d35f54d"
     },
     {
       "title": "The Download: climate tech companies to watch and AI’s discovery problem",
@@ -129,94 +75,94 @@
       "id": "8ed6477cc6b1"
     },
     {
-      "title": "Who’s liable when AI agents go rogue?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can rea",
-      "id": "4e5688075e52"
-    },
-    {
-      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "id": "43cad27f7643"
-    },
-    {
-      "title": "八分之一癌症病例由感染引起",
-      "url": "https://www.solidot.org/story?sid=85507",
+      "title": "PS5 越狱取得突破",
+      "url": "https://www.solidot.org/story?sid=85520",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "根据本周发表在《The Lancet Oncology》期刊上的一项研究，全世界八分之一癌症病例由感染引起。研究发现，2024 年感染性病原体相关的新癌症病例有 230 万例，占到了总新癌症病例的 12%。其中幽门螺杆菌会增加胃癌风险，这种病菌导致了 76 万例新癌症病例，数量最多，主要集中在东亚地",
-      "id": "6dde18eafafe"
+      "summary": "由于索尼频繁更新 PS5 的固件，而大部分 PS5 越狱方法只针对特定固件版本的漏洞，因而这些越狱方法实用性相当有限。但情况在本周二发生了变化，名为 Relapse 的漏洞利用方法适用于最高固件版本 v13.6 的 PS5 游戏机，而 v13.6 是在今年 7 月释出的，意味着 PS5 只要不更新最",
+      "id": "34f21b32fb8c"
     },
     {
-      "title": "银行高管被 Deepfake 语音骗走 1 亿美元",
-      "url": "https://www.solidot.org/story?sid=85506",
+      "title": "CNNIC 称中国生成式 AI 用户超 7 亿",
+      "url": "https://www.solidot.org/story?sid=85519",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "意大利最大银行 Intesa Sanpaolo 旗下私人银行业务部门 Fideuram 的总裁 Paolo Molesini 今年 2 月成为一起组合利用 WhatsApp 假信息和 Deepfake 语音的诈骗行动目标，导致逾 1 亿美元被骗走，他本人则在 3 月份辞职。Molesini 首先是收",
-      "id": "ca47ab4f65cd"
+      "summary": "中国互联网络信息中心（CNNIC）发布了《生成式人工智能应用发展报告（2026）》，截至 2026 年上半年，我国生成式人工智能用户规模突破 7亿 人，普及率超 50%。76.0%的 用户表示自己会让生成式人工智能回答问题；使用生成式人工智能处理图片/视频、文本、工作总结/会议纪要/PPT的用户占比",
+      "id": "711aab8b7f7d"
     },
     {
-      "title": "美光台工厂工会准备罢工",
-      "url": "https://www.solidot.org/story?sid=85505",
+      "title": "新奥声称实现氢硼聚变反应突破",
+      "url": "https://www.solidot.org/story?sid=85518",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "继三星、海力士之后，全球第三大 DRAM 厂美光（Micron）在台湾的两个工厂，罢工行动也蠢蠢欲动。9 月 24 日，工会人数 2100 人，占全厂七成的美光桃园工会决定依据劳资争议处理法，10 月 1 日起进行为期一周的罢工投票。一旦支持罢工者超过工会会员数一半，就取得罢工权。有 1 万 2 千",
-      "id": "adbf80f4a1e2"
+      "summary": "新奥集团发表新闻稿，称其“玄龙-50U”装置实现氢硼聚变反应。新闻稿称：氢硼聚变具有无中子、燃料丰富易得、低成本等商业化优势，产物是氦（α粒子），但相对于氘氚聚变，反应温度及三乘积要求更高，反应条件更苛刻。本次新奥聚变团队通过高能中性束注入与射频波的协同，大幅提高了氢硼反应第一共振峰的非热平衡快质子",
+      "id": "ac0c8b607560"
     },
     {
-      "title": "Firefox 157 释出",
-      "url": "https://www.solidot.org/story?sid=85504",
+      "title": "美国佛蒙特州通过家庭电池储能网络应对气候变化",
+      "url": "https://www.solidot.org/story?sid=85517",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "Mozilla 释出了 Firefox 157。主要变化包括：新的 Nova UI，现代化浏览器界面边框、侧边栏及菜单外观；在兼容设备上支持 WebRTC 视频通话 AV1 硬件解码，此前它一直依赖于软件解码；修复 HDR 视频问题；改进了更改视频播放速度时的音画同步；移除内置搜索引擎 Amazon",
-      "id": "6f1682ae925d"
+      "summary": "过去几年极端气候频发，美国佛蒙特州每年都会因此发生十几次持续数小时的断电事故。当地电力公司 Green Mountain Power(GMP)记录到的 10 场最具有破坏性的飓风有 7 场发生在过去十年，造成了逾 2.25 亿美元的损失。为了应对气候变化导致的断电，该公司推出了分布式电池储能网络，向",
+      "id": "6ed6a3697c08"
     },
     {
-      "title": "微软告诉非营利组织他们被删除的数据无法恢复",
-      "url": "https://www.solidot.org/story?sid=85503",
+      "title": "500 光年外的一颗巨行星探测到水、甲烷和氨",
+      "url": "https://www.solidot.org/story?sid=85516",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "微软曾从 2013 年起向全世界的小型非营利组织免费提供 Microsoft 365 Business Premium，但在 2025 年 5 月它宣布将从 2025 年 7 月起停止提供免费授权，转为提供折扣价付费订阅。今年早些时候没有转为付费的账号内相关数据都被删除了。根据一封发送给受影响客户的",
-      "id": "44193f46642d"
+      "summary": "文学家团队借助韦伯望远镜在距地球 500 光年的巨行星 HATS-6 b 大气中探测到水、甲烷、氨，同时发现这颗行星温度可能比标准推算温度低得多。这是透射光谱技术第二次在系外行星大气中检出水汽之外的氨信号。由于氨这类含氮分子在较冷的巨行星中本应比在炽热类木星行星中更为丰富，这一发现支持了一个判断：围",
+      "id": "f9cb9805dc86"
     },
     {
-      "title": "不易变黑的香蕉准备上市",
-      "url": "https://www.solidot.org/story?sid=85502",
+      "title": "Windows 11 原生支持 Linux 容器",
+      "url": "https://www.solidot.org/story?sid=85515",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "切开的香蕉片会在短时间内变成棕褐色。一种利用基因编辑技术修改过的新香蕉品种将能大幅延长香蕉保持新鲜的时间。英国农业生物技术公司 Tropi CEO Gilad Gershon 表示，新香蕉能延缓一到两天变黑，如果冷藏保存则保鲜期还会更长。Tropic 利用 CRISPR-Cas9 基因编辑技术，对香",
-      "id": "67311ad173eb"
+      "summary": "微软宣布 WSL Containers GA，该工具为 Windows 11 开发者提供了一种通过 Windows Subsystem for Linux 构建、运行和部署 Linux 容器的内置方案。微软同时提供了容器管理工具 wslc.exe，GPU 支持、网络改进、健康检查、存储挂载、与 Mi",
+      "id": "f3735ab703ec"
     },
     {
-      "title": "AMD 以 82 亿美元收购李飞飞的 World Labs",
-      "url": "https://www.solidot.org/story?sid=85501",
+      "title": "日本老龄化达到 29.4%， 一人家庭比例首次超过 4 成",
+      "url": "https://www.solidot.org/story?sid=85513",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "AMD 宣布收购李飞飞联合创办的 AI 初创公司 World Labs，交易总额约 82 亿美元，采用全股票形式支付。 World Labs 成立于 2024 年，由李飞飞与 Justin Johnson、Christoph Lassner 和 Ben Mildenhall 等人联合创办，专注于开发",
-      "id": "f24ac28cdef3"
+      "summary": "日本总务省公布的 2025 年人口普查确定值显示，截至 2025 年 10 月 1 日，包含外国人在内的日本总人口为 122,972,528 人，较 2020 年的上次调查减少 3,173,571 人，降幅为 2.5%。自 2015 年的调查起连续3次负增长。65 岁以上人口在总人口中的占比（老龄化",
+      "id": "f98a4067ed0a"
     },
     {
-      "title": "Google 计划到 2034 年停止支持 ChromeOS",
-      "url": "https://www.solidot.org/story?sid=85500",
+      "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
+      "url": "https://sspai.com/post/115070",
       "image": "",
-      "source": "Solidot",
+      "source": "少数派",
       "category": "tech",
-      "summary": "运行 Android 操作系统的 Googlebooks 新笔电即将上市，那么运行 ChromeOS 的旧设备将何去何从？根据 Google 支持页面“What the Googlebook announcement means for your ChromeOS devices”，搜索巨人声明：它",
-      "id": "f866b6068876"
+      "summary": "Bungie 究竟是在和时间赛跑，还是在和自己赛跑？<a href=\"https://sspai.com/post/115070\" target=\"_blank\">查看全文</a>",
+      "id": "8faaec3f7055"
+    },
+    {
+      "title": "经典任务管理软件的现代重构：新版 2Do 详解",
+      "url": "https://sspai.com/post/115166",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "完全重构的 2Do 是我的心目中最佳的任务管理工具。<a href=\"https://sspai.com/post/115166\" target=\"_blank\">查看全文</a>",
+      "id": "c6d569479b4c"
+    },
+    {
+      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+      "url": "https://sspai.com/post/114945",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "祝你旅途顺遂，假期自由。<a href=\"https://sspai.com/post/114945\" target=\"_blank\">查看全文</a>",
+      "id": "b3310f67fce2"
     },
     {
       "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
@@ -264,76 +210,31 @@
       "id": "91d3521fdce7"
     },
     {
-      "title": "派评 | 近期值得关注的 App",
-      "url": "https://sspai.com/post/115094",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/115094\" target=\"_blank\">查看全文</a>",
-      "id": "65bcadd6c7ea"
-    },
-    {
-      "title": "基于 Termux 的 Android 手机开发服务器实操",
-      "url": "https://sspai.com/prime/story/dev-env-on-android-with-termux",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "不 root、不刷机，在随身设备上跑通 AI Agent 与微型 Linux 环境。<a href=\"https://sspai.com/prime/story/dev-env-on-android-with-termux\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自",
-      "id": "4bc36fccfd04"
-    },
-    {
-      "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-      "url": "https://sspai.com/post/114972",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "一起来看看 Apple 是如何围绕一块会改变形状的屏幕，重新思考人与界面的关系。<a href=\"https://sspai.com/post/114972\" target=\"_blank\">查看全文</a>",
-      "id": "cde2aa8df8cc"
-    },
-    {
-      "title": "Binance Pay lets visitors spend USDT at PayPay merchants in Japan",
-      "url": "https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3P2PR3RBJ5STG23V6141JFH/hi-how-binance-debit-cards-work.png",
+      "title": "CFTC seeks to define event contracts as swaps amid prediction market fight",
+      "url": "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3TG0M8S1BAV7KN2AJ34JJE9/prediction-market.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance Pay lets visitors spend USDT at PayPay merchants in Japan\" class=\"type",
-      "id": "041d9873759e"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC seeks to define event contracts as swaps amid prediction market fight\" cl",
+      "id": "6f311a5db2de"
     },
     {
-      "title": "Trump accord calls for tech firms to ‘self police’ their own frontier AI",
-      "url": "https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3QVAJACC48T8ZK5QJCFWHFD/trump-sign.jpg",
+      "title": "MetaMask exits Ethereum validators amid undisclosed security incident",
+      "url": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3TCYHE02RXXGBF3G4Q42FE7/metamask.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump accord calls for tech firms to ‘self police’ their own frontier AI\" clas",
-      "id": "f04579b0721b"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MetaMask exits Ethereum validators amid undisclosed security incident \" class=",
+      "id": "b353f7e488d2"
     },
     {
-      "title": "Crypto regulation at SEC, CFTC to come down to 3 commissioners following key resignation",
-      "url": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3Q8PHD13FEXXYRXMDQWSRRZ/regulations-sec-cftc.png",
+      "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
+      "url": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3SXTX0355JX9EYXHCG8DQG5/hi-usdc-onto-banking-banks-have-deeper-interest-in-digital-than-previously-thought.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto regulation at SEC, CFTC to come down to 3 commissioners following key r",
-      "id": "75e9b3883d83"
-    },
-    {
-      "title": "OpenAI valuation could hit $1.4T in new funding round: Report",
-      "url": "https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3QA1RE3EPA6Q9FXEB536BXF/hi-where-to-discuss-chatgpt.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OpenAI valuation could hit $1.4T in new funding round: Report\" class=\"type:pri",
-      "id": "ed1ac6ea5bc2"
-    },
-    {
-      "title": "Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks",
-      "url": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3Q9BFYJ1K3ZGM26SMYW5A0G/hi-south-korea-staking-lending-service.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks\" class=",
-      "id": "1440ac91076f"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2\" class=\"ty",
+      "id": "53ba6db86ad8"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -345,94 +246,112 @@
       "id": "772e97788bfd"
     },
     {
-      "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
-      "url": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PYNE5ZA8242JM5VV3J3TZN/hi-token-etf-victory-1.png",
+      "title": "Crypto advocacy group announces picks for US Congress as midterms loom",
+      "url": "https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3SP0XZZ2FXWPN060VSWSTWV/voteblokchain.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitwise launches first US spot NEAR ETF after token’s recent surge\" class=\"typ",
-      "id": "16cd81e24223"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto advocacy group announces picks for US Congress as midterms loom\" class=",
+      "id": "e121e6e03916"
     },
     {
-      "title": "Bitcoin gives back gains as long-term holder supply keeps $85K out of reach",
-      "url": "https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PZGAMNJQVMFNY9JP812D6F/rafting-price-analysis-falling-bitcoin-1.jpg",
+      "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
+      "url": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3RM1RHGZ8GVHFDEWSR01F8Q/base-coinbase.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin gives back gains as long-term holder supply keeps $85K out of reach\" c",
-      "id": "5c42dd6f70f2"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Base completes Cobalt upgrade, adds new tools for tokenized assets\" class=\"typ",
+      "id": "1fd8347b89a5"
     },
     {
-      "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
-      "url": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png@png",
-      "source": "Decrypt",
+      "title": "Bloomberg brings onchain stablecoin data to its Terminal",
+      "url": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3SSH74MAM24NXDA35RM1XB4/hi-how-to-improve-your-coding-skills-using-bloomberg.jpg",
+      "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "Aztec Labs relaunched its self-custodial zk.money wallet on Aztec Network, letting users make private stablecoin payments using readable tags.",
-      "id": "e336ad673ade"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bloomberg brings onchain stablecoin data to its Terminal\" class=\"type:primaryI",
+      "id": "b69b83d41bfe"
     },
     {
-      "title": "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
-      "url": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
-      "source": "Decrypt",
+      "title": "Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
+      "url": "https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3SH29GTGYTM0QGMBX47A000/oil-bitcoin-coin-ant-blockchain-sky-platform-production-gas.png",
+      "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "The renewed agreement preserves Cboe's exclusive rights to S&amp;P 500 index options through 2051 while opening the door to pairing the flagship bench",
-      "id": "83c0736e932b"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable ",
+      "id": "cc592b147454"
     },
     {
-      "title": "Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August",
-      "url": "https://decrypt.co/379612/bitwise-launches-first-spot-near-etf",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/etf-decrypt-style-02-gID_7.png@png",
+      "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+      "url": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Bitwise's NRR began trading on NYSE Arca Tuesday, giving brokerage accounts NEAR exposure and staking rewards as the AI-focused token soars.",
-      "id": "012d767b0c44"
+      "summary": "Gemini 4 Argon tops 12 of 18 benchmarks in Google's own table, writes a million tokens per reply and resists hijacking best. Cyber defenders get it fi",
+      "id": "7140619355a6"
     },
     {
-      "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
-      "url": "https://decrypt.co/379605/anthropic-lost-42-billion-last-year-wants-ipo-2-trillion",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
+      "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
+      "url": "https://decrypt.co/379772/dogecoin-getting-apps-dogeos-public-testnet",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/dogecoin-decrypt-style-02-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "The company's IPO prospectus shows revenue up twelvefold, a $518 billion spending plan, and a risk section warning that its own AI could pose existent",
-      "id": "2c9c851d6b4b"
+      "summary": "The team behind the MyDoge wallet opened a public test of DogeOS, a layer that lets developers build lending platforms and games on top of the meme co",
+      "id": "02862c0333b4"
     },
     {
-      "title": "Someone Finally Jailbroke the PS5—Just After Sony Said Players Don’t Own Their Games",
-      "url": "https://decrypt.co/379583/sony-ps5-jailbreak-digital-games-ownership",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/sony-ps5-playstation-5-decrypt-style-gID_7.jpg@png",
+      "title": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
+      "url": "https://decrypt.co/379769/fbi-employees-assume-hackers-personal-data",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Linear Fox founder Nathan Fargo released a public jailbreak for the PS5, dubbed Relapse, while Sony argues in court that players don't own their digit",
-      "id": "dbac558a8da9"
+      "summary": "An internal memo warned FBI staff that ShinyHunters, the group claiming it hacked the bureau's jobs site, may hold their private details.",
+      "id": "e3f064431ada"
     },
     {
-      "title": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
-      "url": "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
+      "title": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
+      "url": "https://decrypt.co/379767/coinbase-crypto-group-senate-midterm-endorsements-clarity-act",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "OpenAI's DevDay launched dots, always-on AI agents with their own computers, plus a cheaper GPT-6.1 Sol and a $500 speed tier. Here's every announceme",
-      "id": "f978641f4ebd"
+      "summary": "The Coinbase-backed group's first Senate endorsements—Republicans Jon Husted and Ashley Hinson and Democrat Chris Pappas—come two weeks after the Clar",
+      "id": "6021dc08523d"
     },
     {
-      "title": "Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days",
-      "url": "https://decrypt.co/379575/crypto-etfs-surge-bitcoin-adds-nearly-3-billion",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/etf-decrypt-style-01-gID_7.png@png",
+      "title": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
+      "url": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Bitcoin ETFs extended their inflow streak to eight straight days on Monday, bouncing back from the Clarity Act sell-off in a big way.",
-      "id": "301d079eb340"
+      "summary": "The attacker behind the $387.5 million Bitget heist has started hiding about $3.8 million in ZEC inside Zcash's Ironwood pool, after Near Intents turn",
+      "id": "10a301783325"
     },
     {
-      "title": "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'",
-      "url": "https://decrypt.co/379561/bbc-director-general-ai-generated-doctor-who-pretty-good",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/doctor-who-decrypt-style-gID_7.jpg@png",
+      "title": "US Government's New AI Chatbot Has a Weird Minecraft Secret",
+      "url": "https://decrypt.co/379739/america-gov-ai-chatbot-minecraft-end-poem",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/ChatGPT-Image-Sep-30-2026-02_31_20-PM-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Matt Brittin, who joined the BBC from Google, argued that \"not all creativity is bad,\" while noting that the technology won't replace humans.",
-      "id": "7481188c0c0b"
+      "summary": "Ask the U.S. government's new AI chatbot about Minecraft and it produces a roughly 1,800-word bureaucratic remix of the game's ending poem. It's an ea",
+      "id": "d563e162032d"
+    },
+    {
+      "title": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
+      "url": "https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg@png",
+      "source": "Decrypt",
+      "category": "crypto",
+      "summary": "The two proposals would define event contracts as \"swaps\" while excluding \"casino-style gambling products\"—a bid to cement the agency's exclusive juri",
+      "id": "8a0c80a4f361"
+    },
+    {
+      "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
+      "url": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
+      "source": "Decrypt",
+      "category": "crypto",
+      "summary": "Bitcoin ETFs added $66 million Tuesday, matching August's nine-day run and topping it in dollars. How long will the streak stay alive?",
+      "id": "8daa065d01a0"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -546,6 +465,24 @@
   "categories": {
     "ai": [
       {
+        "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+        "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+        "id": "353370d173ec"
+      },
+      {
+        "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+        "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Fa",
+        "id": "074f9d35f54d"
+      },
+      {
         "title": "The Download: climate tech companies to watch and AI’s discovery problem",
         "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
         "image": "",
@@ -600,24 +537,6 @@
         "id": "8ed6477cc6b1"
       },
       {
-        "title": "Who’s liable when AI agents go rogue?",
-        "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can rea",
-        "id": "4e5688075e52"
-      },
-      {
-        "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-        "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-        "id": "43cad27f7643"
-      },
-      {
         "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
         "source": "OpenAI Blog",
         "category": "ai",
@@ -656,148 +575,94 @@
     ],
     "tech": [
       {
-        "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-        "url": "https://github.com/ninjahawk/livenerf",
-        "image": "",
-        "source": "Hacker News",
-        "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49901736\">Comments</a>",
-        "id": "570af017efa7"
-      },
-      {
-        "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-        "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-        "image": "",
-        "source": "Hacker News",
-        "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49899090\">Comments</a>",
-        "id": "3329fe29017b"
-      },
-      {
-        "title": "America.gov",
-        "url": "https://america.gov/",
-        "image": "",
-        "source": "Hacker News",
-        "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49893509\">Comments</a>",
-        "id": "02883d5a3ee3"
-      },
-      {
-        "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-        "url": "https://space.bl2.net/",
-        "image": "",
-        "source": "Hacker News",
-        "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49898778\">Comments</a>",
-        "id": "d48c5792f774"
-      },
-      {
-        "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-        "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-        "image": "",
-        "source": "Hacker News",
-        "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49896586\">Comments</a>",
-        "id": "bd6cf308c0d4"
-      },
-      {
-        "title": "How Delhi cut electricity loss from 50 to 5 percent",
-        "url": "https://spectrum.ieee.org/delhi-electricity-loss",
-        "image": "",
-        "source": "Hacker News",
-        "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49892245\">Comments</a>",
-        "id": "18e1cc37f556"
-      },
-      {
-        "title": "PS5 Relapse Exploit",
-        "url": "https://github.com/ntfargo/Relapse-Exploit",
-        "image": "",
-        "source": "Hacker News",
-        "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49895304\">Comments</a>",
-        "id": "cca25a3bc393"
-      },
-      {
-        "title": "Language models for text classification: From bag-of-words to Jev",
-        "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-        "image": "",
-        "source": "Hacker News",
-        "category": "tech",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=49891203\">Comments</a>",
-        "id": "8e75ef28d3b0"
-      },
-      {
-        "title": "八分之一癌症病例由感染引起",
-        "url": "https://www.solidot.org/story?sid=85507",
+        "title": "PS5 越狱取得突破",
+        "url": "https://www.solidot.org/story?sid=85520",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "根据本周发表在《The Lancet Oncology》期刊上的一项研究，全世界八分之一癌症病例由感染引起。研究发现，2024 年感染性病原体相关的新癌症病例有 230 万例，占到了总新癌症病例的 12%。其中幽门螺杆菌会增加胃癌风险，这种病菌导致了 76 万例新癌症病例，数量最多，主要集中在东亚地",
-        "id": "6dde18eafafe"
+        "summary": "由于索尼频繁更新 PS5 的固件，而大部分 PS5 越狱方法只针对特定固件版本的漏洞，因而这些越狱方法实用性相当有限。但情况在本周二发生了变化，名为 Relapse 的漏洞利用方法适用于最高固件版本 v13.6 的 PS5 游戏机，而 v13.6 是在今年 7 月释出的，意味着 PS5 只要不更新最",
+        "id": "34f21b32fb8c"
       },
       {
-        "title": "银行高管被 Deepfake 语音骗走 1 亿美元",
-        "url": "https://www.solidot.org/story?sid=85506",
+        "title": "CNNIC 称中国生成式 AI 用户超 7 亿",
+        "url": "https://www.solidot.org/story?sid=85519",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "意大利最大银行 Intesa Sanpaolo 旗下私人银行业务部门 Fideuram 的总裁 Paolo Molesini 今年 2 月成为一起组合利用 WhatsApp 假信息和 Deepfake 语音的诈骗行动目标，导致逾 1 亿美元被骗走，他本人则在 3 月份辞职。Molesini 首先是收",
-        "id": "ca47ab4f65cd"
+        "summary": "中国互联网络信息中心（CNNIC）发布了《生成式人工智能应用发展报告（2026）》，截至 2026 年上半年，我国生成式人工智能用户规模突破 7亿 人，普及率超 50%。76.0%的 用户表示自己会让生成式人工智能回答问题；使用生成式人工智能处理图片/视频、文本、工作总结/会议纪要/PPT的用户占比",
+        "id": "711aab8b7f7d"
       },
       {
-        "title": "美光台工厂工会准备罢工",
-        "url": "https://www.solidot.org/story?sid=85505",
+        "title": "新奥声称实现氢硼聚变反应突破",
+        "url": "https://www.solidot.org/story?sid=85518",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "继三星、海力士之后，全球第三大 DRAM 厂美光（Micron）在台湾的两个工厂，罢工行动也蠢蠢欲动。9 月 24 日，工会人数 2100 人，占全厂七成的美光桃园工会决定依据劳资争议处理法，10 月 1 日起进行为期一周的罢工投票。一旦支持罢工者超过工会会员数一半，就取得罢工权。有 1 万 2 千",
-        "id": "adbf80f4a1e2"
+        "summary": "新奥集团发表新闻稿，称其“玄龙-50U”装置实现氢硼聚变反应。新闻稿称：氢硼聚变具有无中子、燃料丰富易得、低成本等商业化优势，产物是氦（α粒子），但相对于氘氚聚变，反应温度及三乘积要求更高，反应条件更苛刻。本次新奥聚变团队通过高能中性束注入与射频波的协同，大幅提高了氢硼反应第一共振峰的非热平衡快质子",
+        "id": "ac0c8b607560"
       },
       {
-        "title": "Firefox 157 释出",
-        "url": "https://www.solidot.org/story?sid=85504",
+        "title": "美国佛蒙特州通过家庭电池储能网络应对气候变化",
+        "url": "https://www.solidot.org/story?sid=85517",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "Mozilla 释出了 Firefox 157。主要变化包括：新的 Nova UI，现代化浏览器界面边框、侧边栏及菜单外观；在兼容设备上支持 WebRTC 视频通话 AV1 硬件解码，此前它一直依赖于软件解码；修复 HDR 视频问题；改进了更改视频播放速度时的音画同步；移除内置搜索引擎 Amazon",
-        "id": "6f1682ae925d"
+        "summary": "过去几年极端气候频发，美国佛蒙特州每年都会因此发生十几次持续数小时的断电事故。当地电力公司 Green Mountain Power(GMP)记录到的 10 场最具有破坏性的飓风有 7 场发生在过去十年，造成了逾 2.25 亿美元的损失。为了应对气候变化导致的断电，该公司推出了分布式电池储能网络，向",
+        "id": "6ed6a3697c08"
       },
       {
-        "title": "微软告诉非营利组织他们被删除的数据无法恢复",
-        "url": "https://www.solidot.org/story?sid=85503",
+        "title": "500 光年外的一颗巨行星探测到水、甲烷和氨",
+        "url": "https://www.solidot.org/story?sid=85516",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "微软曾从 2013 年起向全世界的小型非营利组织免费提供 Microsoft 365 Business Premium，但在 2025 年 5 月它宣布将从 2025 年 7 月起停止提供免费授权，转为提供折扣价付费订阅。今年早些时候没有转为付费的账号内相关数据都被删除了。根据一封发送给受影响客户的",
-        "id": "44193f46642d"
+        "summary": "文学家团队借助韦伯望远镜在距地球 500 光年的巨行星 HATS-6 b 大气中探测到水、甲烷、氨，同时发现这颗行星温度可能比标准推算温度低得多。这是透射光谱技术第二次在系外行星大气中检出水汽之外的氨信号。由于氨这类含氮分子在较冷的巨行星中本应比在炽热类木星行星中更为丰富，这一发现支持了一个判断：围",
+        "id": "f9cb9805dc86"
       },
       {
-        "title": "不易变黑的香蕉准备上市",
-        "url": "https://www.solidot.org/story?sid=85502",
+        "title": "Windows 11 原生支持 Linux 容器",
+        "url": "https://www.solidot.org/story?sid=85515",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "切开的香蕉片会在短时间内变成棕褐色。一种利用基因编辑技术修改过的新香蕉品种将能大幅延长香蕉保持新鲜的时间。英国农业生物技术公司 Tropi CEO Gilad Gershon 表示，新香蕉能延缓一到两天变黑，如果冷藏保存则保鲜期还会更长。Tropic 利用 CRISPR-Cas9 基因编辑技术，对香",
-        "id": "67311ad173eb"
+        "summary": "微软宣布 WSL Containers GA，该工具为 Windows 11 开发者提供了一种通过 Windows Subsystem for Linux 构建、运行和部署 Linux 容器的内置方案。微软同时提供了容器管理工具 wslc.exe，GPU 支持、网络改进、健康检查、存储挂载、与 Mi",
+        "id": "f3735ab703ec"
       },
       {
-        "title": "AMD 以 82 亿美元收购李飞飞的 World Labs",
-        "url": "https://www.solidot.org/story?sid=85501",
+        "title": "日本老龄化达到 29.4%， 一人家庭比例首次超过 4 成",
+        "url": "https://www.solidot.org/story?sid=85513",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "AMD 宣布收购李飞飞联合创办的 AI 初创公司 World Labs，交易总额约 82 亿美元，采用全股票形式支付。 World Labs 成立于 2024 年，由李飞飞与 Justin Johnson、Christoph Lassner 和 Ben Mildenhall 等人联合创办，专注于开发",
-        "id": "f24ac28cdef3"
+        "summary": "日本总务省公布的 2025 年人口普查确定值显示，截至 2025 年 10 月 1 日，包含外国人在内的日本总人口为 122,972,528 人，较 2020 年的上次调查减少 3,173,571 人，降幅为 2.5%。自 2015 年的调查起连续3次负增长。65 岁以上人口在总人口中的占比（老龄化",
+        "id": "f98a4067ed0a"
       },
       {
-        "title": "Google 计划到 2034 年停止支持 ChromeOS",
-        "url": "https://www.solidot.org/story?sid=85500",
+        "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
+        "url": "https://sspai.com/post/115070",
         "image": "",
-        "source": "Solidot",
+        "source": "少数派",
         "category": "tech",
-        "summary": "运行 Android 操作系统的 Googlebooks 新笔电即将上市，那么运行 ChromeOS 的旧设备将何去何从？根据 Google 支持页面“What the Googlebook announcement means for your ChromeOS devices”，搜索巨人声明：它",
-        "id": "f866b6068876"
+        "summary": "Bungie 究竟是在和时间赛跑，还是在和自己赛跑？<a href=\"https://sspai.com/post/115070\" target=\"_blank\">查看全文</a>",
+        "id": "8faaec3f7055"
+      },
+      {
+        "title": "经典任务管理软件的现代重构：新版 2Do 详解",
+        "url": "https://sspai.com/post/115166",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "完全重构的 2Do 是我的心目中最佳的任务管理工具。<a href=\"https://sspai.com/post/115166\" target=\"_blank\">查看全文</a>",
+        "id": "c6d569479b4c"
+      },
+      {
+        "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+        "url": "https://sspai.com/post/114945",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "祝你旅途顺遂，假期自由。<a href=\"https://sspai.com/post/114945\" target=\"_blank\">查看全文</a>",
+        "id": "b3310f67fce2"
       },
       {
         "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
@@ -845,33 +710,6 @@
         "id": "91d3521fdce7"
       },
       {
-        "title": "派评 | 近期值得关注的 App",
-        "url": "https://sspai.com/post/115094",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/115094\" target=\"_blank\">查看全文</a>",
-        "id": "65bcadd6c7ea"
-      },
-      {
-        "title": "基于 Termux 的 Android 手机开发服务器实操",
-        "url": "https://sspai.com/prime/story/dev-env-on-android-with-termux",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "不 root、不刷机，在随身设备上跑通 AI Agent 与微型 Linux 环境。<a href=\"https://sspai.com/prime/story/dev-env-on-android-with-termux\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自",
-        "id": "4bc36fccfd04"
-      },
-      {
-        "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-        "url": "https://sspai.com/post/114972",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "一起来看看 Apple 是如何围绕一块会改变形状的屏幕，重新思考人与界面的关系。<a href=\"https://sspai.com/post/114972\" target=\"_blank\">查看全文</a>",
-        "id": "cde2aa8df8cc"
-      },
-      {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
         "source": "MacRumors",
         "category": "tech",
@@ -910,49 +748,31 @@
     ],
     "crypto": [
       {
-        "title": "Binance Pay lets visitors spend USDT at PayPay merchants in Japan",
-        "url": "https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3P2PR3RBJ5STG23V6141JFH/hi-how-binance-debit-cards-work.png",
+        "title": "CFTC seeks to define event contracts as swaps amid prediction market fight",
+        "url": "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3TG0M8S1BAV7KN2AJ34JJE9/prediction-market.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance Pay lets visitors spend USDT at PayPay merchants in Japan\" class=\"type",
-        "id": "041d9873759e"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC seeks to define event contracts as swaps amid prediction market fight\" cl",
+        "id": "6f311a5db2de"
       },
       {
-        "title": "Trump accord calls for tech firms to ‘self police’ their own frontier AI",
-        "url": "https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3QVAJACC48T8ZK5QJCFWHFD/trump-sign.jpg",
+        "title": "MetaMask exits Ethereum validators amid undisclosed security incident",
+        "url": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3TCYHE02RXXGBF3G4Q42FE7/metamask.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump accord calls for tech firms to ‘self police’ their own frontier AI\" clas",
-        "id": "f04579b0721b"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MetaMask exits Ethereum validators amid undisclosed security incident \" class=",
+        "id": "b353f7e488d2"
       },
       {
-        "title": "Crypto regulation at SEC, CFTC to come down to 3 commissioners following key resignation",
-        "url": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3Q8PHD13FEXXYRXMDQWSRRZ/regulations-sec-cftc.png",
+        "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
+        "url": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3SXTX0355JX9EYXHCG8DQG5/hi-usdc-onto-banking-banks-have-deeper-interest-in-digital-than-previously-thought.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto regulation at SEC, CFTC to come down to 3 commissioners following key r",
-        "id": "75e9b3883d83"
-      },
-      {
-        "title": "OpenAI valuation could hit $1.4T in new funding round: Report",
-        "url": "https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3QA1RE3EPA6Q9FXEB536BXF/hi-where-to-discuss-chatgpt.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OpenAI valuation could hit $1.4T in new funding round: Report\" class=\"type:pri",
-        "id": "ed1ac6ea5bc2"
-      },
-      {
-        "title": "Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks",
-        "url": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3Q9BFYJ1K3ZGM26SMYW5A0G/hi-south-korea-staking-lending-service.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks\" class=",
-        "id": "1440ac91076f"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2\" class=\"ty",
+        "id": "53ba6db86ad8"
       },
       {
         "title": "Here’s what happened in crypto today",
@@ -964,94 +784,112 @@
         "id": "772e97788bfd"
       },
       {
-        "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
-        "url": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PYNE5ZA8242JM5VV3J3TZN/hi-token-etf-victory-1.png",
+        "title": "Crypto advocacy group announces picks for US Congress as midterms loom",
+        "url": "https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3SP0XZZ2FXWPN060VSWSTWV/voteblokchain.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitwise launches first US spot NEAR ETF after token’s recent surge\" class=\"typ",
-        "id": "16cd81e24223"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto advocacy group announces picks for US Congress as midterms loom\" class=",
+        "id": "e121e6e03916"
       },
       {
-        "title": "Bitcoin gives back gains as long-term holder supply keeps $85K out of reach",
-        "url": "https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PZGAMNJQVMFNY9JP812D6F/rafting-price-analysis-falling-bitcoin-1.jpg",
+        "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
+        "url": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3RM1RHGZ8GVHFDEWSR01F8Q/base-coinbase.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin gives back gains as long-term holder supply keeps $85K out of reach\" c",
-        "id": "5c42dd6f70f2"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Base completes Cobalt upgrade, adds new tools for tokenized assets\" class=\"typ",
+        "id": "1fd8347b89a5"
       },
       {
-        "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
-        "url": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png@png",
-        "source": "Decrypt",
+        "title": "Bloomberg brings onchain stablecoin data to its Terminal",
+        "url": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3SSH74MAM24NXDA35RM1XB4/hi-how-to-improve-your-coding-skills-using-bloomberg.jpg",
+        "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "Aztec Labs relaunched its self-custodial zk.money wallet on Aztec Network, letting users make private stablecoin payments using readable tags.",
-        "id": "e336ad673ade"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bloomberg brings onchain stablecoin data to its Terminal\" class=\"type:primaryI",
+        "id": "b69b83d41bfe"
       },
       {
-        "title": "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
-        "url": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
-        "source": "Decrypt",
+        "title": "Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
+        "url": "https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3SH29GTGYTM0QGMBX47A000/oil-bitcoin-coin-ant-blockchain-sky-platform-production-gas.png",
+        "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "The renewed agreement preserves Cboe's exclusive rights to S&amp;P 500 index options through 2051 while opening the door to pairing the flagship bench",
-        "id": "83c0736e932b"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable ",
+        "id": "cc592b147454"
       },
       {
-        "title": "Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August",
-        "url": "https://decrypt.co/379612/bitwise-launches-first-spot-near-etf",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/etf-decrypt-style-02-gID_7.png@png",
+        "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+        "url": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Bitwise's NRR began trading on NYSE Arca Tuesday, giving brokerage accounts NEAR exposure and staking rewards as the AI-focused token soars.",
-        "id": "012d767b0c44"
+        "summary": "Gemini 4 Argon tops 12 of 18 benchmarks in Google's own table, writes a million tokens per reply and resists hijacking best. Cyber defenders get it fi",
+        "id": "7140619355a6"
       },
       {
-        "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
-        "url": "https://decrypt.co/379605/anthropic-lost-42-billion-last-year-wants-ipo-2-trillion",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
+        "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
+        "url": "https://decrypt.co/379772/dogecoin-getting-apps-dogeos-public-testnet",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/dogecoin-decrypt-style-02-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "The company's IPO prospectus shows revenue up twelvefold, a $518 billion spending plan, and a risk section warning that its own AI could pose existent",
-        "id": "2c9c851d6b4b"
+        "summary": "The team behind the MyDoge wallet opened a public test of DogeOS, a layer that lets developers build lending platforms and games on top of the meme co",
+        "id": "02862c0333b4"
       },
       {
-        "title": "Someone Finally Jailbroke the PS5—Just After Sony Said Players Don’t Own Their Games",
-        "url": "https://decrypt.co/379583/sony-ps5-jailbreak-digital-games-ownership",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/sony-ps5-playstation-5-decrypt-style-gID_7.jpg@png",
+        "title": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
+        "url": "https://decrypt.co/379769/fbi-employees-assume-hackers-personal-data",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Linear Fox founder Nathan Fargo released a public jailbreak for the PS5, dubbed Relapse, while Sony argues in court that players don't own their digit",
-        "id": "dbac558a8da9"
+        "summary": "An internal memo warned FBI staff that ShinyHunters, the group claiming it hacked the bureau's jobs site, may hold their private details.",
+        "id": "e3f064431ada"
       },
       {
-        "title": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
-        "url": "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
+        "title": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
+        "url": "https://decrypt.co/379767/coinbase-crypto-group-senate-midterm-endorsements-clarity-act",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "OpenAI's DevDay launched dots, always-on AI agents with their own computers, plus a cheaper GPT-6.1 Sol and a $500 speed tier. Here's every announceme",
-        "id": "f978641f4ebd"
+        "summary": "The Coinbase-backed group's first Senate endorsements—Republicans Jon Husted and Ashley Hinson and Democrat Chris Pappas—come two weeks after the Clar",
+        "id": "6021dc08523d"
       },
       {
-        "title": "Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days",
-        "url": "https://decrypt.co/379575/crypto-etfs-surge-bitcoin-adds-nearly-3-billion",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/etf-decrypt-style-01-gID_7.png@png",
+        "title": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
+        "url": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Bitcoin ETFs extended their inflow streak to eight straight days on Monday, bouncing back from the Clarity Act sell-off in a big way.",
-        "id": "301d079eb340"
+        "summary": "The attacker behind the $387.5 million Bitget heist has started hiding about $3.8 million in ZEC inside Zcash's Ironwood pool, after Near Intents turn",
+        "id": "10a301783325"
       },
       {
-        "title": "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'",
-        "url": "https://decrypt.co/379561/bbc-director-general-ai-generated-doctor-who-pretty-good",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/doctor-who-decrypt-style-gID_7.jpg@png",
+        "title": "US Government's New AI Chatbot Has a Weird Minecraft Secret",
+        "url": "https://decrypt.co/379739/america-gov-ai-chatbot-minecraft-end-poem",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/ChatGPT-Image-Sep-30-2026-02_31_20-PM-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Matt Brittin, who joined the BBC from Google, argued that \"not all creativity is bad,\" while noting that the technology won't replace humans.",
-        "id": "7481188c0c0b"
+        "summary": "Ask the U.S. government's new AI chatbot about Minecraft and it produces a roughly 1,800-word bureaucratic remix of the game's ending poem. It's an ea",
+        "id": "d563e162032d"
+      },
+      {
+        "title": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
+        "url": "https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "The two proposals would define event contracts as \"swaps\" while excluding \"casino-style gambling products\"—a bid to cement the agency's exclusive juri",
+        "id": "8a0c80a4f361"
+      },
+      {
+        "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
+        "url": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "Bitcoin ETFs added $66 million Tuesday, matching August's nine-day run and topping it in dollars. How long will the streak stay alive?",
+        "id": "8daa065d01a0"
       },
       {
         "title": "比特币突破 80000 美元",
