@@ -1,7 +1,52 @@
 {
-  "last_updated": "2026-10-05T03:22:12.544260",
-  "total": 45,
+  "last_updated": "2026-10-06T04:09:26.014903",
+  "total": 52,
   "news": [
+    {
+      "title": "Connecting AI agents to enterprise knowledge",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. Mor",
+      "id": "24ef1844ef28"
+    },
+    {
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big ",
+      "id": "b3a0af6107e3"
+    },
+    {
+      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "id": "69ba47cef02d"
+    },
+    {
+      "title": "People really hate AI, so why can’t they get enough?",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its m",
+      "id": "c0bd8e23074e"
+    },
+    {
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and scienc",
+      "id": "e3e43f7b2612"
+    },
     {
       "title": "Redefining enterprise intelligence with autonomous AI",
       "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
@@ -30,58 +75,85 @@
       "id": "611c92b1e23c"
     },
     {
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to i",
-      "id": "ffc8d03fdf7f"
-    },
-    {
-      "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-      "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "id": "7f1b7c0e926b"
-    },
-    {
-      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the ot",
-      "id": "6832d2704ac0"
-    },
-    {
-      "title": "How smaller, distributed batteries could help the grid",
-      "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to ",
-      "id": "fa965a01ca63"
-    },
-    {
-      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "id": "353370d173ec"
-    },
-    {
-      "title": "PS5 模拟器的开发取得突破",
-      "url": "https://www.solidot.org/story?sid=85524",
+      "title": "科学家识别出三种叫声最响亮的鸟",
+      "url": "https://www.solidot.org/story?sid=85539",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "当前一代游戏机的模拟器通常需要较长时间才能成熟，但 PS5 的模拟器仅仅几个月时间就让许多 PS5 游戏能在 PC 平台上可玩。SharpEmu 从 5 月的极早 Alpha 阶段到现在具备加载真实游戏 eboot.bin 文件、执行原生 CPU 指令以及部分处理 GPU 相关功能的能力。已有 10",
-      "id": "e5592c27ef2e"
+      "summary": "生物学家在巴西识别出三种叫声最响亮的鸟。至于这些鸟如何演化出最响亮的叫声则仍然是个迷。白钟雀（white bellbird）叫声能达到 125 分贝，裸喉钟雀（bare-throated bellbird）和红腿叫鹤（red-legged seriema）叫声都超过 120 分贝。三种鸟类有着共同的",
+      "id": "6110d305b6c8"
+    },
+    {
+      "title": "因涌入大量 AI 报告 Google 冻结其 Bug 悬赏计划",
+      "url": "https://www.solidot.org/story?sid=85538",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "因涌入大量无效的 AI bug 报告，Google 宣布冻结其 Bug 悬赏计划 Open Source Software Vulnerability Reward Program (OSS VRP)，该决定于 10 月 1 日生效。Google 承诺将于 2027 年第一季度提供相关更新，期间将对",
+      "id": "32559d068f83"
+    },
+    {
+      "title": "2026 年诺贝尔生理学或医学奖授予了三位研究光遗传学的科学家",
+      "url": "https://www.solidot.org/story?sid=85537",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "2026 年诺贝尔生理学或医学奖授予了美国斯坦福-霍华德·休斯医学研究所的 Karl Deisseroth、德国柏林洪堡大学的 Peter Hegemann 和维尔茨堡大学的 Georg Nagel，以表彰他们在光门控离子通道和光遗传学方面的发现。大脑如何掌管情感、行为和身体功能，长期以来一直是个谜",
+      "id": "1f04f20be844"
+    },
+    {
+      "title": "Riot Games 否认根据 CPU 封禁玩家",
+      "url": "https://www.solidot.org/story?sid=85536",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "一位玩家声称在购买了一块二手 CPU Ryzen 7 5800X3D 之后，因前拥有者有作弊行为这块 CPU 被列入了封禁黑名单，导致 Riot Games 旗下的所有游戏都无法启动。Riot Games 工作室负责反作弊的高管 Phillip Koskinas 通过社交媒体否认了这一说法， 他称没",
+      "id": "7c38167b8075"
+    },
+    {
+      "title": "太阳系可能没有以前认为的能存在千亿年",
+      "url": "https://www.solidot.org/story?sid=85535",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "太阳已有 46 亿年历史，大约 50 亿年后，随着氢燃料的耗尽，太阳外层将会膨胀转变为红巨星，它会吞噬水星和金星，甚至可能包括地球。太阳系外围的气体巨行星预计会幸免，随着太阳光芒的熄灭，太阳系的残余行星预计还能存在一千亿年。然而发表在《The Astrophysical Journal Letter",
+      "id": "a006c1f4450d"
+    },
+    {
+      "title": "AI 聊天机器人会成为意识形态回音室",
+      "url": "https://www.solidot.org/story?sid=85534",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "巴西国立坎皮纳斯州立大学（UNICAMP）的研究人员发现，当你给聊天机器人输入不同政治观点时，机器人会改变其回答。研究人员警告称，用户可能会将这种迎合性的附和，误认为是中立的客观评估，从而可能加剧社会极化。研究人员测试了若干模型，让它们针对112项陈述进行“同意\"或者“不同意”的判断。测试内容共涉及",
+      "id": "552413da096e"
+    },
+    {
+      "title": "新冠康复者或疫苗接种者能对类似冠状病毒产生免疫力",
+      "url": "https://www.solidot.org/story?sid=85533",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "新冠康复者或疫苗接种者能对类似冠状病毒产生免疫力。研究人员分析了 15 种有代表性的蝙蝠冠状病毒刺突蛋白与 34 个物种的 ACE2 受体库结合的可能性。新冠病毒的刺突蛋白就是通过与 ACE2 受体进入人体。研究结果显示，能与多种 ACE2 受体结合实现跨物种传播的蝙蝠冠状病毒都是与新冠病毒 SAR",
+      "id": "1e6a7b6b3550"
+    },
+    {
+      "title": "Google 测试太空 AI 数据中心",
+      "url": "https://www.solidot.org/story?sid=85532",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "Google 一颗冰箱大小的卫星搭载 SpaceX 的 Falcon 9 于 10 月 1 日升空，搜索巨人将测试太空 AI 数据中心的可行性。有很多专家已经指出太空数据中心可行性不高。Google 的太空 AI 数据中心项目称之为 Project Suncatcher，最新发射的卫星旨在验证芯片能",
+      "id": "ae29c0f71dd1"
+    },
+    {
+      "title": "十个案例助你轻松上手 iOS 27 通知自动化",
+      "url": "https://sspai.com/post/114536",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法。<a href=\"https://sspai.com/post/114536\" target=\"_blank\">查看全文</a>",
+      "id": "02cf698b5012"
     },
     {
       "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
@@ -147,40 +219,58 @@
       "id": "4a71f67c3d74"
     },
     {
-      "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
-      "url": "https://sspai.com/post/115153",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。临近国庆长假 ...<a href=\"https://sspai.com/post/115153\" target",
-      "id": "5c094d44c663"
-    },
-    {
-      "title": "Safe investor asks Swiss watchdog to intervene in governance dispute",
-      "url": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M450M7X1NSRM61WXEJS579ZE/governance.jpg",
+      "title": "Rain seeks US trust bank charter days after OCC sued over crypto charters",
+      "url": "https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47MM9N9Y60BVJ238FEJ8R23/bank.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Safe investor asks Swiss watchdog to intervene in governance dispute\" class=\"t",
-      "id": "ab0a4834fd93"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Rain seeks US trust bank charter days after OCC sued over crypto charters \" cl",
+      "id": "0e2af1b3e3cb"
     },
     {
-      "title": "Zcash gets a Washington lobbyist to push crypto policy",
-      "url": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44PCPNQJ0FDJMVNEEJEXBKG/zcash-1.jpg",
+      "title": "OKX eyes emerging markets with yield-offering stablecoin savings and payments app",
+      "url": "https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45MMRBBBCCYARXBC1TB2KW8/coins-analytics-new-stablecoin.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zcash gets a Washington lobbyist to push crypto policy\" class=\"type:primaryIma",
-      "id": "b3f78bb93052"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OKX eyes emerging markets with yield-offering stablecoin savings and payments ",
+      "id": "26edca7ffbd8"
     },
     {
-      "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
-      "url": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44CDHE2CKEJ0000STF6RMVM/october-2-collage-cover.png",
+      "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
+      "url": "https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47E98M7WF0617YMCEA467EH/laundering.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Diges",
-      "id": "fb279630804c"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chinese crime network laundered over $1B for Lazarus: ZachXBT\" class=\"type:pri",
+      "id": "d1cf210930a8"
+    },
+    {
+      "title": "Crypto PAC announces support for 32 House candidates in US midterms",
+      "url": "https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M46WXGBMXWCHCDF4G7K9W92T/hi-crypto-for-america-cryptocurrencies-in-campaign-finance-2.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC announces support for 32 House candidates in US midterms\" class=\"ty",
+      "id": "90996519d712"
+    },
+    {
+      "title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
+      "url": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M46RJ4R982JAP1FNJ9824MN8/hi-crypto-tumblers-what-where-and-how-new.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concer",
+      "id": "fceffa8f3cd5"
+    },
+    {
+      "title": "Modern Treasury seeks US trust bank charter for digital asset custody",
+      "url": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M46QKCZ18CWHSEVV2WKRKN0Z/hi-ice-pushes-for-bakkt-bitcoin-custody-license-cftc-approval-imminent1.png",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Modern Treasury seeks US trust bank charter for digital asset custody\" class=\"",
+      "id": "52ca02c15488"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -192,112 +282,85 @@
       "id": "772e97788bfd"
     },
     {
-      "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
-      "url": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M43HDDKT65TRCAPN5G00GZPC/white-house-tron.png",
+      "title": "Advocacy group pushes back on banks’ lawsuit against OCC over charters",
+      "url": "https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M46D5RCSRSBS45BN1HPS4AR1/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-2.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump taps intel chief Jay Clayton to lead new Super Intelligence Force\" class",
-      "id": "2526c0827694"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Advocacy group pushes back on banks’ lawsuit against OCC over charters\" class=",
+      "id": "4f7927dab011"
     },
     {
-      "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
-      "url": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M43EQ7PEEE3Z1JRGK2E12RMJ/hi-crypto-offers-russia-no-way-out-from-western-sanctions2.png",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Japan adds Garantex to list of Russia sanctions over Ukraine war\" class=\"type:",
-      "id": "544cbc0508be"
-    },
-    {
-      "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
-      "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M434D7ZXME5ND5M2XADZCGVE/hi-how-bitcoin-is-transforming-lives-in-el-salvador.png",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"El Salvador receives $138 million from IMF after Bitcoin waivers granted\" clas",
-      "id": "715cfe40ce0a"
-    },
-    {
-      "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
-      "url": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M42W4H59F8TR0F58VVB4T7YG/russia-kremlin-moscow-red-square-digital-rouble-ruble-national-cryptocurrency.png",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia’s Finance Ministry pays wages in digital rubles for first time\" class=\"",
-      "id": "6e5c68304d55"
-    },
-    {
-      "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
-      "url": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/bitcoin-jay-clayton-sec-gID_4.jpg@png",
+      "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
+      "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "President Trump named a new \"Super Intelligence Force\" to coordinate federal AI policy, with Director of National Intelligence Jay Clayton at the helm",
-      "id": "857cd16b68cc"
+      "summary": "Built with input from J.P. Morgan, the open-source \"DvP\" program lets institutions settle trades atomically on Solana with finality in seconds instead",
+      "id": "2984715f56d6"
     },
     {
-      "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
-      "url": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/banks2-gID_7.jpg@png",
+      "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
+      "url": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-17-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "The Independent Community Bankers of America argues the OCC's national trust charters give crypto firms a \"side door into the banking system\" without ",
-      "id": "549fcd57ec59"
+      "summary": "The Nasdaq-listed bitcoin treasury company, co-founded by Vivek Ramaswamy, paid roughly $169 million for 2,000 coins last week and now holds 29,462 BT",
+      "id": "e9862858f167"
     },
     {
-      "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
-      "url": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-05-gID_7.png@png",
+      "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
+      "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Solana-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Spot Bitcoin ETFs took in $134.4 million over the first two trading days of October, rebounding from a Sept. 30 outflow as a weak jobs report cooled F",
-      "id": "194db7809929"
+      "summary": "Nasdaq-listed DeFi Development Corp's latest SEC filing shows its Solana stash grew 1%, to about 2.56 million SOL and SOL equivalents—roughly half the",
+      "id": "52251e9e5647"
     },
     {
-      "title": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
-      "url": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Crime-crypto-decrypt-style-01-gID_7.png@png",
+      "title": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police",
+      "url": "https://decrypt.co/380119/florida-woman-claude-diary-anthropic-reported-police",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Near Intents said the roughly $3.8 million drained in an exploit on Thursday was returned in full, a day after the team said it had identified the att",
-      "id": "c733c844bf49"
+      "summary": "Investigators say a Bonita Springs woman's Claude \"diary\" tripped Anthropic's safety filters. A human review team sent it to police, and Anthropic's o",
+      "id": "e8587c76ffa1"
     },
     {
-      "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
-      "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg@png",
+      "title": "Why a 4chan Bitcoin Prophecy Says Today Is the End of Crypto Winter",
+      "url": "https://decrypt.co/380113/4chan-bitcoin-prophecy-end-crypto-winter",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/dollar-crystal-ball-decrypt-style-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "The firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past $1 billion, and detailed how it used in-house AI to trace the stolen fund",
-      "id": "94d4fa7217e6"
+      "summary": "An anonymous 4chan user called Bitcoin's October 2025 peak to the day way back in 2023. Could they be right again?",
+      "id": "50d71ea77365"
     },
     {
-      "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
-      "url": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/05/Screenshot-2020-05-06-at-12-gID_4.jpg@png",
+      "title": "Treasury Kills Crypto 'Unhosted Wallet' and Mixer Surveillance Rules",
+      "url": "https://decrypt.co/380120/treasury-kills-crypto-unhosted-wallet-mixer-surveillance-rules",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Treasury-Department1-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "The YouTuber says OpenAI suspended his account twice while he trained a small, uncensored model built to run on your own computer.",
-      "id": "4d04bd82bf19"
+      "summary": "FinCEN withdrew a 2020 proposal to track transactions with self-custodial crypto wallets and a 2023 plan to designate crypto mixing as a primary money",
+      "id": "738c976cde72"
     },
     {
-      "title": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
-      "url": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-10-gID_7.png@png",
+      "title": "Crypto Sleuth ZachXBT Fronted $350K to Pose as a Client of Lazarus' Chinese Launderers",
+      "url": "https://decrypt.co/380092/zachxbt-fronted-350k-pose-client-lazarus-chinese-crypto-launderers",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/dprk-north-korea-hacker-decrypt-style-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "The TRUMP meme coin project is inviting its top 185 holders to a Nov. 22 gala dinner with President Trump two weeks after ethics disputes over his cry",
-      "id": "3323845fb85b"
+      "summary": "The on-chain sleuth says he posed as a customer of a Chinese crime syndicate, fronting $349,700 and eating 5% on every order, to track Lazarus Group's",
+      "id": "2f5ff90be2ce"
     },
     {
-      "title": "The Pope Has Thoughts on AI Art—And They're Not Flattering",
-      "url": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/pope-leo-xiv-decrypt-style-gID_7.jpg@png",
+      "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+      "url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "The pontiff says algorithms \"lack the spark of humanity,\" and the Vatican wants to renew an alliance with artists and cultural institutions to protect",
-      "id": "777d77c21264"
+      "summary": "The agency approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin, Ethereum, gold, silver, oil, and natural g",
+      "id": "d8207f1de97e"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -411,6 +474,51 @@
   "categories": {
     "ai": [
       {
+        "title": "Connecting AI agents to enterprise knowledge",
+        "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. Mor",
+        "id": "24ef1844ef28"
+      },
+      {
+        "title": "Bringing predictive analytics to the agentic AI era",
+        "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big ",
+        "id": "b3a0af6107e3"
+      },
+      {
+        "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+        "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+        "id": "69ba47cef02d"
+      },
+      {
+        "title": "People really hate AI, so why can’t they get enough?",
+        "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its m",
+        "id": "c0bd8e23074e"
+      },
+      {
+        "title": "EmTech Future 2026: When AI Meets Everything",
+        "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and scienc",
+        "id": "e3e43f7b2612"
+      },
+      {
         "title": "Redefining enterprise intelligence with autonomous AI",
         "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
         "image": "",
@@ -436,51 +544,6 @@
         "category": "ai",
         "summary": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need",
         "id": "611c92b1e23c"
-      },
-      {
-        "title": "Don’t be fooled—LLMs don’t reason",
-        "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to i",
-        "id": "ffc8d03fdf7f"
-      },
-      {
-        "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-        "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-        "id": "7f1b7c0e926b"
-      },
-      {
-        "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-        "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the ot",
-        "id": "6832d2704ac0"
-      },
-      {
-        "title": "How smaller, distributed batteries could help the grid",
-        "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to ",
-        "id": "fa965a01ca63"
-      },
-      {
-        "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-        "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-        "id": "353370d173ec"
       },
       {
         "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -521,13 +584,85 @@
     ],
     "tech": [
       {
-        "title": "PS5 模拟器的开发取得突破",
-        "url": "https://www.solidot.org/story?sid=85524",
+        "title": "科学家识别出三种叫声最响亮的鸟",
+        "url": "https://www.solidot.org/story?sid=85539",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "当前一代游戏机的模拟器通常需要较长时间才能成熟，但 PS5 的模拟器仅仅几个月时间就让许多 PS5 游戏能在 PC 平台上可玩。SharpEmu 从 5 月的极早 Alpha 阶段到现在具备加载真实游戏 eboot.bin 文件、执行原生 CPU 指令以及部分处理 GPU 相关功能的能力。已有 10",
-        "id": "e5592c27ef2e"
+        "summary": "生物学家在巴西识别出三种叫声最响亮的鸟。至于这些鸟如何演化出最响亮的叫声则仍然是个迷。白钟雀（white bellbird）叫声能达到 125 分贝，裸喉钟雀（bare-throated bellbird）和红腿叫鹤（red-legged seriema）叫声都超过 120 分贝。三种鸟类有着共同的",
+        "id": "6110d305b6c8"
+      },
+      {
+        "title": "因涌入大量 AI 报告 Google 冻结其 Bug 悬赏计划",
+        "url": "https://www.solidot.org/story?sid=85538",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "因涌入大量无效的 AI bug 报告，Google 宣布冻结其 Bug 悬赏计划 Open Source Software Vulnerability Reward Program (OSS VRP)，该决定于 10 月 1 日生效。Google 承诺将于 2027 年第一季度提供相关更新，期间将对",
+        "id": "32559d068f83"
+      },
+      {
+        "title": "2026 年诺贝尔生理学或医学奖授予了三位研究光遗传学的科学家",
+        "url": "https://www.solidot.org/story?sid=85537",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "2026 年诺贝尔生理学或医学奖授予了美国斯坦福-霍华德·休斯医学研究所的 Karl Deisseroth、德国柏林洪堡大学的 Peter Hegemann 和维尔茨堡大学的 Georg Nagel，以表彰他们在光门控离子通道和光遗传学方面的发现。大脑如何掌管情感、行为和身体功能，长期以来一直是个谜",
+        "id": "1f04f20be844"
+      },
+      {
+        "title": "Riot Games 否认根据 CPU 封禁玩家",
+        "url": "https://www.solidot.org/story?sid=85536",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "一位玩家声称在购买了一块二手 CPU Ryzen 7 5800X3D 之后，因前拥有者有作弊行为这块 CPU 被列入了封禁黑名单，导致 Riot Games 旗下的所有游戏都无法启动。Riot Games 工作室负责反作弊的高管 Phillip Koskinas 通过社交媒体否认了这一说法， 他称没",
+        "id": "7c38167b8075"
+      },
+      {
+        "title": "太阳系可能没有以前认为的能存在千亿年",
+        "url": "https://www.solidot.org/story?sid=85535",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "太阳已有 46 亿年历史，大约 50 亿年后，随着氢燃料的耗尽，太阳外层将会膨胀转变为红巨星，它会吞噬水星和金星，甚至可能包括地球。太阳系外围的气体巨行星预计会幸免，随着太阳光芒的熄灭，太阳系的残余行星预计还能存在一千亿年。然而发表在《The Astrophysical Journal Letter",
+        "id": "a006c1f4450d"
+      },
+      {
+        "title": "AI 聊天机器人会成为意识形态回音室",
+        "url": "https://www.solidot.org/story?sid=85534",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "巴西国立坎皮纳斯州立大学（UNICAMP）的研究人员发现，当你给聊天机器人输入不同政治观点时，机器人会改变其回答。研究人员警告称，用户可能会将这种迎合性的附和，误认为是中立的客观评估，从而可能加剧社会极化。研究人员测试了若干模型，让它们针对112项陈述进行“同意\"或者“不同意”的判断。测试内容共涉及",
+        "id": "552413da096e"
+      },
+      {
+        "title": "新冠康复者或疫苗接种者能对类似冠状病毒产生免疫力",
+        "url": "https://www.solidot.org/story?sid=85533",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "新冠康复者或疫苗接种者能对类似冠状病毒产生免疫力。研究人员分析了 15 种有代表性的蝙蝠冠状病毒刺突蛋白与 34 个物种的 ACE2 受体库结合的可能性。新冠病毒的刺突蛋白就是通过与 ACE2 受体进入人体。研究结果显示，能与多种 ACE2 受体结合实现跨物种传播的蝙蝠冠状病毒都是与新冠病毒 SAR",
+        "id": "1e6a7b6b3550"
+      },
+      {
+        "title": "Google 测试太空 AI 数据中心",
+        "url": "https://www.solidot.org/story?sid=85532",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "Google 一颗冰箱大小的卫星搭载 SpaceX 的 Falcon 9 于 10 月 1 日升空，搜索巨人将测试太空 AI 数据中心的可行性。有很多专家已经指出太空数据中心可行性不高。Google 的太空 AI 数据中心项目称之为 Project Suncatcher，最新发射的卫星旨在验证芯片能",
+        "id": "ae29c0f71dd1"
+      },
+      {
+        "title": "十个案例助你轻松上手 iOS 27 通知自动化",
+        "url": "https://sspai.com/post/114536",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法。<a href=\"https://sspai.com/post/114536\" target=\"_blank\">查看全文</a>",
+        "id": "02cf698b5012"
       },
       {
         "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
@@ -593,15 +728,6 @@
         "id": "4a71f67c3d74"
       },
       {
-        "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
-        "url": "https://sspai.com/post/115153",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。临近国庆长假 ...<a href=\"https://sspai.com/post/115153\" target",
-        "id": "5c094d44c663"
-      },
-      {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
         "source": "MacRumors",
         "category": "tech",
@@ -640,31 +766,58 @@
     ],
     "crypto": [
       {
-        "title": "Safe investor asks Swiss watchdog to intervene in governance dispute",
-        "url": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M450M7X1NSRM61WXEJS579ZE/governance.jpg",
+        "title": "Rain seeks US trust bank charter days after OCC sued over crypto charters",
+        "url": "https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47MM9N9Y60BVJ238FEJ8R23/bank.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Safe investor asks Swiss watchdog to intervene in governance dispute\" class=\"t",
-        "id": "ab0a4834fd93"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Rain seeks US trust bank charter days after OCC sued over crypto charters \" cl",
+        "id": "0e2af1b3e3cb"
       },
       {
-        "title": "Zcash gets a Washington lobbyist to push crypto policy",
-        "url": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44PCPNQJ0FDJMVNEEJEXBKG/zcash-1.jpg",
+        "title": "OKX eyes emerging markets with yield-offering stablecoin savings and payments app",
+        "url": "https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45MMRBBBCCYARXBC1TB2KW8/coins-analytics-new-stablecoin.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zcash gets a Washington lobbyist to push crypto policy\" class=\"type:primaryIma",
-        "id": "b3f78bb93052"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OKX eyes emerging markets with yield-offering stablecoin savings and payments ",
+        "id": "26edca7ffbd8"
       },
       {
-        "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
-        "url": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44CDHE2CKEJ0000STF6RMVM/october-2-collage-cover.png",
+        "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
+        "url": "https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47E98M7WF0617YMCEA467EH/laundering.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Diges",
-        "id": "fb279630804c"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chinese crime network laundered over $1B for Lazarus: ZachXBT\" class=\"type:pri",
+        "id": "d1cf210930a8"
+      },
+      {
+        "title": "Crypto PAC announces support for 32 House candidates in US midterms",
+        "url": "https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M46WXGBMXWCHCDF4G7K9W92T/hi-crypto-for-america-cryptocurrencies-in-campaign-finance-2.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC announces support for 32 House candidates in US midterms\" class=\"ty",
+        "id": "90996519d712"
+      },
+      {
+        "title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
+        "url": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M46RJ4R982JAP1FNJ9824MN8/hi-crypto-tumblers-what-where-and-how-new.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concer",
+        "id": "fceffa8f3cd5"
+      },
+      {
+        "title": "Modern Treasury seeks US trust bank charter for digital asset custody",
+        "url": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M46QKCZ18CWHSEVV2WKRKN0Z/hi-ice-pushes-for-bakkt-bitcoin-custody-license-cftc-approval-imminent1.png",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Modern Treasury seeks US trust bank charter for digital asset custody\" class=\"",
+        "id": "52ca02c15488"
       },
       {
         "title": "Here’s what happened in crypto today",
@@ -676,112 +829,85 @@
         "id": "772e97788bfd"
       },
       {
-        "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
-        "url": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M43HDDKT65TRCAPN5G00GZPC/white-house-tron.png",
+        "title": "Advocacy group pushes back on banks’ lawsuit against OCC over charters",
+        "url": "https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M46D5RCSRSBS45BN1HPS4AR1/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-2.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump taps intel chief Jay Clayton to lead new Super Intelligence Force\" class",
-        "id": "2526c0827694"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Advocacy group pushes back on banks’ lawsuit against OCC over charters\" class=",
+        "id": "4f7927dab011"
       },
       {
-        "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
-        "url": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M43EQ7PEEE3Z1JRGK2E12RMJ/hi-crypto-offers-russia-no-way-out-from-western-sanctions2.png",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Japan adds Garantex to list of Russia sanctions over Ukraine war\" class=\"type:",
-        "id": "544cbc0508be"
-      },
-      {
-        "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
-        "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M434D7ZXME5ND5M2XADZCGVE/hi-how-bitcoin-is-transforming-lives-in-el-salvador.png",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"El Salvador receives $138 million from IMF after Bitcoin waivers granted\" clas",
-        "id": "715cfe40ce0a"
-      },
-      {
-        "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
-        "url": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M42W4H59F8TR0F58VVB4T7YG/russia-kremlin-moscow-red-square-digital-rouble-ruble-national-cryptocurrency.png",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia’s Finance Ministry pays wages in digital rubles for first time\" class=\"",
-        "id": "6e5c68304d55"
-      },
-      {
-        "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
-        "url": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/bitcoin-jay-clayton-sec-gID_4.jpg@png",
+        "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
+        "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "President Trump named a new \"Super Intelligence Force\" to coordinate federal AI policy, with Director of National Intelligence Jay Clayton at the helm",
-        "id": "857cd16b68cc"
+        "summary": "Built with input from J.P. Morgan, the open-source \"DvP\" program lets institutions settle trades atomically on Solana with finality in seconds instead",
+        "id": "2984715f56d6"
       },
       {
-        "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
-        "url": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/banks2-gID_7.jpg@png",
+        "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
+        "url": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-17-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "The Independent Community Bankers of America argues the OCC's national trust charters give crypto firms a \"side door into the banking system\" without ",
-        "id": "549fcd57ec59"
+        "summary": "The Nasdaq-listed bitcoin treasury company, co-founded by Vivek Ramaswamy, paid roughly $169 million for 2,000 coins last week and now holds 29,462 BT",
+        "id": "e9862858f167"
       },
       {
-        "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
-        "url": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-05-gID_7.png@png",
+        "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
+        "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Solana-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Spot Bitcoin ETFs took in $134.4 million over the first two trading days of October, rebounding from a Sept. 30 outflow as a weak jobs report cooled F",
-        "id": "194db7809929"
+        "summary": "Nasdaq-listed DeFi Development Corp's latest SEC filing shows its Solana stash grew 1%, to about 2.56 million SOL and SOL equivalents—roughly half the",
+        "id": "52251e9e5647"
       },
       {
-        "title": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
-        "url": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Crime-crypto-decrypt-style-01-gID_7.png@png",
+        "title": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police",
+        "url": "https://decrypt.co/380119/florida-woman-claude-diary-anthropic-reported-police",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Near Intents said the roughly $3.8 million drained in an exploit on Thursday was returned in full, a day after the team said it had identified the att",
-        "id": "c733c844bf49"
+        "summary": "Investigators say a Bonita Springs woman's Claude \"diary\" tripped Anthropic's safety filters. A human review team sent it to police, and Anthropic's o",
+        "id": "e8587c76ffa1"
       },
       {
-        "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
-        "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg@png",
+        "title": "Why a 4chan Bitcoin Prophecy Says Today Is the End of Crypto Winter",
+        "url": "https://decrypt.co/380113/4chan-bitcoin-prophecy-end-crypto-winter",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/dollar-crystal-ball-decrypt-style-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "The firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past $1 billion, and detailed how it used in-house AI to trace the stolen fund",
-        "id": "94d4fa7217e6"
+        "summary": "An anonymous 4chan user called Bitcoin's October 2025 peak to the day way back in 2023. Could they be right again?",
+        "id": "50d71ea77365"
       },
       {
-        "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
-        "url": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/05/Screenshot-2020-05-06-at-12-gID_4.jpg@png",
+        "title": "Treasury Kills Crypto 'Unhosted Wallet' and Mixer Surveillance Rules",
+        "url": "https://decrypt.co/380120/treasury-kills-crypto-unhosted-wallet-mixer-surveillance-rules",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Treasury-Department1-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "The YouTuber says OpenAI suspended his account twice while he trained a small, uncensored model built to run on your own computer.",
-        "id": "4d04bd82bf19"
+        "summary": "FinCEN withdrew a 2020 proposal to track transactions with self-custodial crypto wallets and a 2023 plan to designate crypto mixing as a primary money",
+        "id": "738c976cde72"
       },
       {
-        "title": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
-        "url": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-10-gID_7.png@png",
+        "title": "Crypto Sleuth ZachXBT Fronted $350K to Pose as a Client of Lazarus' Chinese Launderers",
+        "url": "https://decrypt.co/380092/zachxbt-fronted-350k-pose-client-lazarus-chinese-crypto-launderers",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/dprk-north-korea-hacker-decrypt-style-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "The TRUMP meme coin project is inviting its top 185 holders to a Nov. 22 gala dinner with President Trump two weeks after ethics disputes over his cry",
-        "id": "3323845fb85b"
+        "summary": "The on-chain sleuth says he posed as a customer of a Chinese crime syndicate, fronting $349,700 and eating 5% on every order, to track Lazarus Group's",
+        "id": "2f5ff90be2ce"
       },
       {
-        "title": "The Pope Has Thoughts on AI Art—And They're Not Flattering",
-        "url": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/pope-leo-xiv-decrypt-style-gID_7.jpg@png",
+        "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+        "url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "The pontiff says algorithms \"lack the spark of humanity,\" and the Vatican wants to renew an alliance with artists and cultural institutions to protect",
-        "id": "777d77c21264"
+        "summary": "The agency approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin, Ethereum, gold, silver, oil, and natural g",
+        "id": "d8207f1de97e"
       },
       {
         "title": "比特币突破 80000 美元",
