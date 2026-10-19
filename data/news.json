@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T02:25:35.461801",
+  "last_updated": "2026-10-19T02:39:51.651117",
   "total": 52,
   "news": [
     {
@@ -75,6 +75,42 @@
       "id": "5b1ba7e9824c"
     },
     {
+      "title": "指纹显示秦始皇兵马俑的制作者有男有女有儿童",
+      "url": "https://www.solidot.org/story?sid=85643",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "考古学家长期以来认为秦始皇兵马俑全是由成年男性工匠制作的。但俑上的指纹显示，男性、女性甚至儿童都参与了这项宏大工程。秦始皇帝陵博物院的考古学家从同一发掘坑内的 36 尊兵马俑上提取出 91 枚指纹，其中 12  枚指纹被认为是个别人留下的重复指纹而剔除。研究人员分析了剩下的 79 枚指纹，它们分布在",
+      "id": "e77623c70941"
+    },
+    {
+      "title": "退休教授因阻止 Uber Eats 机器人送货被捕",
+      "url": "https://www.solidot.org/story?sid=85642",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "宾夕法尼亚大学 78 岁的荣休教授 Marvin 本周因拒绝给 Uber Eats 的送货机器人让路而被捕。她表示自己记不得多少次挡住机器人的路了，称自己在进行抗议，旨在反对“为增加自身利润而用机器人取代人类送货员的企业”。Marvin 说，她在现场停留了“相当长一段时间”，警察过来要求她让路，让机",
+      "id": "952ccedf0a98"
+    },
+    {
+      "title": "内核开发者递交代码无需声明是否 AI 辅助编写",
+      "url": "https://www.solidot.org/story?sid=85641",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "Linux 邮件列表中的一则消息披露，2026 年 10 月 8 日捷克布拉格举行的维护者峰会（Maintainers Summit）达成了一项重大决策：向内核提交代码时，无需再使用“Assisted-by”标签。这意味着内核开发者递交代码无需声明是否 AI 辅助编写。Linux 作者 Linus ",
+      "id": "607a7d0b420b"
+    },
+    {
+      "title": "Meta 新增条款允许其抓取客户内容并用于训练 AI",
+      "url": "https://www.solidot.org/story?sid=85640",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "Meta 修改了其商业服务条款，新条款将于 2026 年 10 月 30 日生效。新增条款赋予了 Meta 一项权利，允许它使用自动化软件抓取客户内容，将其用于改进包括 AI 模型在内的公司产品。所谓的自动化软件包括了网页抓取工具、机器人、爬虫及用户智能体。News/Media Alliance 总",
+      "id": "b2494f19563b"
+    },
+    {
       "title": "游戏逆向工程网站宣布关闭因为 AI 让反编译游戏变得非常容易",
       "url": "https://www.solidot.org/story?sid=85638",
       "image": "",
@@ -111,40 +147,22 @@
       "id": "a8bb847024d6"
     },
     {
-      "title": "Meta 发布其开放权重模型 Muse Spark Open",
-      "url": "https://www.solidot.org/story?sid=85634",
+      "title": "派早报：三季度全球手机出货量继续两位数下降",
+      "url": "https://sspai.com/post/116641",
       "image": "",
-      "source": "Solidot",
+      "source": "少数派",
       "category": "tech",
-      "summary": "Meta 发布了 Muse Spark Open，称它是目前美国最强大的开放权重模型。Muse Spark Open 为多模态模型，总共有 8160 亿参数，激活参数 420 亿，支持 100 万 Token 上下文。该模型利用了苹果最新版本的开源数组框架 MLX，对苹果 Apple Silicon",
-      "id": "5e4ab7511d5d"
+      "summary": "<p>三季度全球手机出货量继续两位数下降</p><p>Roadster 发布会留下诸多疑问</p><p>闰时将取代闰秒</p><p>微软声称 Windows 11 响应提速 20%，为 8GB 优化</p><p>E Ink 发布 Kaleido 4</p><p>全国铁路列车车次编排更新</p><p>",
+      "id": "7d23a9f00ca0"
     },
     {
-      "title": "人与猫的催产素水平正相关",
-      "url": "https://www.solidot.org/story?sid=85633",
+      "title": "Quote/0 妙用 +1，把墨水屏变成点餐助手",
+      "url": "https://sspai.com/post/115241",
       "image": "",
-      "source": "Solidot",
+      "source": "少数派",
       "category": "tech",
-      "summary": "日本京都大学的研究人员在 iscience 期刊上发表了一篇论文，他们在一个月内测量了 19 名主人和 29 只宠物猫的催产素和皮质醇水平，评估主人的情绪，通过蓝牙信号监视主人和猫之间的距离。结果显示，主人与猫的催产素水平呈正相关，皮质醇水平之间的关联很小。猫的催产素水平越高，与主人皮质醇水平就越低",
-      "id": "7c0fa54715a3"
-    },
-    {
-      "title": "人真能活到 200 岁吗？",
-      "url": "https://www.solidot.org/story?sid=85632",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "2000 年生物学家史蒂文·奥斯塔德提出了一个颇具争议的说法：“世界上第一个将活到 150 岁的人现在很可能已经出生了。”他当时乐观地认为，科学将找到延长寿命的新方法，而且他至今仍持这一看法。似乎数不胜数的网红和未来学家也抱有同样的信心，其中一些人甚至做出了更为惊人的预测。生物医学老年学家、SENS",
-      "id": "4a7f52ac3d23"
-    },
-    {
-      "title": "微软声称 Windows 11 显著改进了 8GB 内存下的性能",
-      "url": "https://www.solidot.org/story?sid=85631",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "微软表示，Windows 11 最近的更新通过改进内存管理和减少后台资源占用，系统响应速度提升最高 20%。改进内存管理也显著改进了只有 8GB 内存的电脑的运行表现。由于内存价格飙升，越来越多的 PC 厂商重新开始推出只有 8GB 内存的电脑。微软 Windows 体验部门企业副总裁 Navjot",
-      "id": "18030b1c3cda"
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/115241\" target",
+      "id": "1942fb821c4b"
     },
     {
       "title": "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
@@ -201,22 +219,22 @@
       "id": "af6784be2c97"
     },
     {
-      "title": "新玩意 253｜少数派的编辑们最近买了啥？",
-      "url": "https://sspai.com/post/116246",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/116246\" target",
-      "id": "04d4e61b5afe"
+      "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+      "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M58TDQ3XD133AKC254WEC04M/wallet.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Qubic freezes chain after attacker drains 1.4K wallets with weak seeds\" class=",
+      "id": "456aea6fa2de"
     },
     {
-      "title": "顺应变化，重申标准：《少数派创作手册》修订说明",
-      "url": "https://sspai.com/post/116181",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "四年前，我们发布了《少数派创作手册》（manual.sspai.com），旨在让作者更快捷地获得创作过程中所需的信息，以及更一致地传达对于内容选编的标准和主张。四年来，《创作手册》获得了作者们的广泛查 ...<a href=\"https://sspai.com/post/116181\" target",
-      "id": "2dae2bfe09e8"
+      "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M58DKX7KCTJFZHWYSYH8DBTC/hodlers-crop.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest\" clas",
+      "id": "ceb10882cc35"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -228,6 +246,42 @@
       "id": "772e97788bfd"
     },
     {
+      "title": "Most Americans polled oppose betting on elections: Reuters",
+      "url": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M57M1156GPPFQ4JMAMQP3RQS/hi-japan-having-a-hard-time-gambling-a-and-casinos-poker.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Most Americans polled oppose betting on elections: Reuters\" class=\"type:primar",
+      "id": "2c5b607001df"
+    },
+    {
+      "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+      "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M579P8BRBQSA398D6CZ7DFCZ/hi-company-halts-bridge-after-reported-exploit.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cysic crypto bridge halted after unauthorized mint of 10M CYS\" class=\"type:pri",
+      "id": "8b8552e19132"
+    },
+    {
+      "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+      "url": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M574HWMKKS1RW0G387NCF974/hi-comparing-money-laundering-with-cryptocurrencies-and-fiat-police.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chinese suspect in $75M international crime network arrested in Bangkok\" class",
+      "id": "d7f111b4423f"
+    },
+    {
+      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+      "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M56TW7NK49R9HTEZKPD8PEYY/hi-j-tether-investments-1.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether backs AIsa as strategic investor, completing seed extension round\" clas",
+      "id": "5f708d7da3fb"
+    },
+    {
       "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
       "url": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54YYWKHSQFED5NV6YFBFNJY/hi-surviving-crypto-volatility-with-several-options-solana.jpg",
@@ -237,58 +291,31 @@
       "id": "653a944a364d"
     },
     {
-      "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-      "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20BVCME3MRSYGBFGFFS62XW/world-global-rating-circle.jpg",
-      "source": "CoinTelegraph",
+      "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
+      "url": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/privacy-gID_7.jpg@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets",
-      "id": "c37559036039"
+      "summary": "MapQuest’s app now offers an optional map layer that plots known license plate readers from Flock Safety and other vendors, as backlash against the ca",
+      "id": "3452c9b7961c"
     },
     {
-      "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
-      "url": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54ENNHY19CENP5ZV5HX428Z/christine-lagarde-eu.jpg",
-      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+      "url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Lagarde says euro-area economy is resilient, digital euro imminent\" class=\"typ",
-      "id": "8867291f38b6"
+      "summary": "Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red.",
+      "id": "5f5585f85c0b"
     },
     {
-      "title": "Bitget to discontinue services for some users in one-off exercise",
-      "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5499P2SZPHXNNS2X8W74AV7/hi-how-are-governments-implementing-the-bitget-guidelines.jpg",
-      "source": "CoinTelegraph",
+      "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
+      "url": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/money-printer-decrypt-style-scaled-gID_7.jpg@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget to discontinue services for some users in one-off exercise   \" class=\"t",
-      "id": "7100eb0db1f3"
-    },
-    {
-      "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
-      "url": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52HJ9YWKB542GFBKZMAPWM1/dollars-fly-away-us-senate-1.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race\" class",
-      "id": "e145f6845b66"
-    },
-    {
-      "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
-      "url": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52M2X6XQAK15HXKMTSR830M/hi-how-to-send-money-to-family-and-friends-abroad-with-cryptocurrency.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin remittances cost 84% less than traditional transfers, report finds ",
-      "id": "2b1f71ec6d8a"
-    },
-    {
-      "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-      "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52N5E63563HHENSDSV1NCN7/hi-how-grayscale-brought-crypto-staking-to-wall-street-for-the-first-time.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading \" class=\"ty",
-      "id": "1d4e6cff0ed5"
+      "summary": "A Bank for International Settlements working paper found that stablecoin growth slows when U.S. banks raise deposit rates, with Circle’s USDC most sen",
+      "id": "725b28afdf5d"
     },
     {
       "title": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
@@ -334,33 +361,6 @@
       "category": "crypto",
       "summary": "Tesla's new Roadster flips through the air, jumps a row of Teslas and lands on SpaceX thrusters. The Rocket version is invite only, not approved for p",
       "id": "44bcecd70676"
-    },
-    {
-      "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
-      "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Calif showed an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1 at Hexacon in Paris. It survived a reboot, but no tool or bug details are ",
-      "id": "1040fce13dcf"
-    },
-    {
-      "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
-      "url": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/USDC-gID_7.png@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Circle CEO Jeremy Allaire told Reuters the USDC issuer plans to enter about 40 emerging and developing markets, citing rising demand in Southeast Asia",
-      "id": "d07de4f855fc"
-    },
-    {
-      "title": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
-      "url": "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "The index provider will classify “non-operating companies” as ineligible starting Nov. 30, targeting firms whose balance sheets are dominated by a sin",
-      "id": "8e97f2ac152b"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -584,6 +584,42 @@
     ],
     "tech": [
       {
+        "title": "指纹显示秦始皇兵马俑的制作者有男有女有儿童",
+        "url": "https://www.solidot.org/story?sid=85643",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "考古学家长期以来认为秦始皇兵马俑全是由成年男性工匠制作的。但俑上的指纹显示，男性、女性甚至儿童都参与了这项宏大工程。秦始皇帝陵博物院的考古学家从同一发掘坑内的 36 尊兵马俑上提取出 91 枚指纹，其中 12  枚指纹被认为是个别人留下的重复指纹而剔除。研究人员分析了剩下的 79 枚指纹，它们分布在",
+        "id": "e77623c70941"
+      },
+      {
+        "title": "退休教授因阻止 Uber Eats 机器人送货被捕",
+        "url": "https://www.solidot.org/story?sid=85642",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "宾夕法尼亚大学 78 岁的荣休教授 Marvin 本周因拒绝给 Uber Eats 的送货机器人让路而被捕。她表示自己记不得多少次挡住机器人的路了，称自己在进行抗议，旨在反对“为增加自身利润而用机器人取代人类送货员的企业”。Marvin 说，她在现场停留了“相当长一段时间”，警察过来要求她让路，让机",
+        "id": "952ccedf0a98"
+      },
+      {
+        "title": "内核开发者递交代码无需声明是否 AI 辅助编写",
+        "url": "https://www.solidot.org/story?sid=85641",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "Linux 邮件列表中的一则消息披露，2026 年 10 月 8 日捷克布拉格举行的维护者峰会（Maintainers Summit）达成了一项重大决策：向内核提交代码时，无需再使用“Assisted-by”标签。这意味着内核开发者递交代码无需声明是否 AI 辅助编写。Linux 作者 Linus ",
+        "id": "607a7d0b420b"
+      },
+      {
+        "title": "Meta 新增条款允许其抓取客户内容并用于训练 AI",
+        "url": "https://www.solidot.org/story?sid=85640",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "Meta 修改了其商业服务条款，新条款将于 2026 年 10 月 30 日生效。新增条款赋予了 Meta 一项权利，允许它使用自动化软件抓取客户内容，将其用于改进包括 AI 模型在内的公司产品。所谓的自动化软件包括了网页抓取工具、机器人、爬虫及用户智能体。News/Media Alliance 总",
+        "id": "b2494f19563b"
+      },
+      {
         "title": "游戏逆向工程网站宣布关闭因为 AI 让反编译游戏变得非常容易",
         "url": "https://www.solidot.org/story?sid=85638",
         "image": "",
@@ -620,40 +656,22 @@
         "id": "a8bb847024d6"
       },
       {
-        "title": "Meta 发布其开放权重模型 Muse Spark Open",
-        "url": "https://www.solidot.org/story?sid=85634",
+        "title": "派早报：三季度全球手机出货量继续两位数下降",
+        "url": "https://sspai.com/post/116641",
         "image": "",
-        "source": "Solidot",
+        "source": "少数派",
         "category": "tech",
-        "summary": "Meta 发布了 Muse Spark Open，称它是目前美国最强大的开放权重模型。Muse Spark Open 为多模态模型，总共有 8160 亿参数，激活参数 420 亿，支持 100 万 Token 上下文。该模型利用了苹果最新版本的开源数组框架 MLX，对苹果 Apple Silicon",
-        "id": "5e4ab7511d5d"
+        "summary": "<p>三季度全球手机出货量继续两位数下降</p><p>Roadster 发布会留下诸多疑问</p><p>闰时将取代闰秒</p><p>微软声称 Windows 11 响应提速 20%，为 8GB 优化</p><p>E Ink 发布 Kaleido 4</p><p>全国铁路列车车次编排更新</p><p>",
+        "id": "7d23a9f00ca0"
       },
       {
-        "title": "人与猫的催产素水平正相关",
-        "url": "https://www.solidot.org/story?sid=85633",
+        "title": "Quote/0 妙用 +1，把墨水屏变成点餐助手",
+        "url": "https://sspai.com/post/115241",
         "image": "",
-        "source": "Solidot",
+        "source": "少数派",
         "category": "tech",
-        "summary": "日本京都大学的研究人员在 iscience 期刊上发表了一篇论文，他们在一个月内测量了 19 名主人和 29 只宠物猫的催产素和皮质醇水平，评估主人的情绪，通过蓝牙信号监视主人和猫之间的距离。结果显示，主人与猫的催产素水平呈正相关，皮质醇水平之间的关联很小。猫的催产素水平越高，与主人皮质醇水平就越低",
-        "id": "7c0fa54715a3"
-      },
-      {
-        "title": "人真能活到 200 岁吗？",
-        "url": "https://www.solidot.org/story?sid=85632",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "2000 年生物学家史蒂文·奥斯塔德提出了一个颇具争议的说法：“世界上第一个将活到 150 岁的人现在很可能已经出生了。”他当时乐观地认为，科学将找到延长寿命的新方法，而且他至今仍持这一看法。似乎数不胜数的网红和未来学家也抱有同样的信心，其中一些人甚至做出了更为惊人的预测。生物医学老年学家、SENS",
-        "id": "4a7f52ac3d23"
-      },
-      {
-        "title": "微软声称 Windows 11 显著改进了 8GB 内存下的性能",
-        "url": "https://www.solidot.org/story?sid=85631",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "微软表示，Windows 11 最近的更新通过改进内存管理和减少后台资源占用，系统响应速度提升最高 20%。改进内存管理也显著改进了只有 8GB 内存的电脑的运行表现。由于内存价格飙升，越来越多的 PC 厂商重新开始推出只有 8GB 内存的电脑。微软 Windows 体验部门企业副总裁 Navjot",
-        "id": "18030b1c3cda"
+        "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/115241\" target",
+        "id": "1942fb821c4b"
       },
       {
         "title": "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
@@ -710,24 +728,6 @@
         "id": "af6784be2c97"
       },
       {
-        "title": "新玩意 253｜少数派的编辑们最近买了啥？",
-        "url": "https://sspai.com/post/116246",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/116246\" target",
-        "id": "04d4e61b5afe"
-      },
-      {
-        "title": "顺应变化，重申标准：《少数派创作手册》修订说明",
-        "url": "https://sspai.com/post/116181",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "四年前，我们发布了《少数派创作手册》（manual.sspai.com），旨在让作者更快捷地获得创作过程中所需的信息，以及更一致地传达对于内容选编的标准和主张。四年来，《创作手册》获得了作者们的广泛查 ...<a href=\"https://sspai.com/post/116181\" target",
-        "id": "2dae2bfe09e8"
-      },
-      {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
         "source": "MacRumors",
         "category": "tech",
@@ -766,6 +766,24 @@
     ],
     "crypto": [
       {
+        "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+        "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M58TDQ3XD133AKC254WEC04M/wallet.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Qubic freezes chain after attacker drains 1.4K wallets with weak seeds\" class=",
+        "id": "456aea6fa2de"
+      },
+      {
+        "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
+        "url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M58DKX7KCTJFZHWYSYH8DBTC/hodlers-crop.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest\" clas",
+        "id": "ceb10882cc35"
+      },
+      {
         "title": "Here’s what happened in crypto today",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
@@ -773,6 +791,42 @@
         "category": "crypto",
         "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s",
         "id": "772e97788bfd"
+      },
+      {
+        "title": "Most Americans polled oppose betting on elections: Reuters",
+        "url": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M57M1156GPPFQ4JMAMQP3RQS/hi-japan-having-a-hard-time-gambling-a-and-casinos-poker.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Most Americans polled oppose betting on elections: Reuters\" class=\"type:primar",
+        "id": "2c5b607001df"
+      },
+      {
+        "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+        "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M579P8BRBQSA398D6CZ7DFCZ/hi-company-halts-bridge-after-reported-exploit.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cysic crypto bridge halted after unauthorized mint of 10M CYS\" class=\"type:pri",
+        "id": "8b8552e19132"
+      },
+      {
+        "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+        "url": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M574HWMKKS1RW0G387NCF974/hi-comparing-money-laundering-with-cryptocurrencies-and-fiat-police.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chinese suspect in $75M international crime network arrested in Bangkok\" class",
+        "id": "d7f111b4423f"
+      },
+      {
+        "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+        "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M56TW7NK49R9HTEZKPD8PEYY/hi-j-tether-investments-1.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether backs AIsa as strategic investor, completing seed extension round\" clas",
+        "id": "5f708d7da3fb"
       },
       {
         "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
@@ -784,58 +838,31 @@
         "id": "653a944a364d"
       },
       {
-        "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-        "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20BVCME3MRSYGBFGFFS62XW/world-global-rating-circle.jpg",
-        "source": "CoinTelegraph",
+        "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
+        "url": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/privacy-gID_7.jpg@png",
+        "source": "Decrypt",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets",
-        "id": "c37559036039"
+        "summary": "MapQuest’s app now offers an optional map layer that plots known license plate readers from Flock Safety and other vendors, as backlash against the ca",
+        "id": "3452c9b7961c"
       },
       {
-        "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
-        "url": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54ENNHY19CENP5ZV5HX428Z/christine-lagarde-eu.jpg",
-        "source": "CoinTelegraph",
+        "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+        "url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
+        "source": "Decrypt",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Lagarde says euro-area economy is resilient, digital euro imminent\" class=\"typ",
-        "id": "8867291f38b6"
+        "summary": "Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red.",
+        "id": "5f5585f85c0b"
       },
       {
-        "title": "Bitget to discontinue services for some users in one-off exercise",
-        "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5499P2SZPHXNNS2X8W74AV7/hi-how-are-governments-implementing-the-bitget-guidelines.jpg",
-        "source": "CoinTelegraph",
+        "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
+        "url": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/money-printer-decrypt-style-scaled-gID_7.jpg@png",
+        "source": "Decrypt",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget to discontinue services for some users in one-off exercise   \" class=\"t",
-        "id": "7100eb0db1f3"
-      },
-      {
-        "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
-        "url": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52HJ9YWKB542GFBKZMAPWM1/dollars-fly-away-us-senate-1.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race\" class",
-        "id": "e145f6845b66"
-      },
-      {
-        "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
-        "url": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52M2X6XQAK15HXKMTSR830M/hi-how-to-send-money-to-family-and-friends-abroad-with-cryptocurrency.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin remittances cost 84% less than traditional transfers, report finds ",
-        "id": "2b1f71ec6d8a"
-      },
-      {
-        "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-        "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52N5E63563HHENSDSV1NCN7/hi-how-grayscale-brought-crypto-staking-to-wall-street-for-the-first-time.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading \" class=\"ty",
-        "id": "1d4e6cff0ed5"
+        "summary": "A Bank for International Settlements working paper found that stablecoin growth slows when U.S. banks raise deposit rates, with Circle’s USDC most sen",
+        "id": "725b28afdf5d"
       },
       {
         "title": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
@@ -881,33 +908,6 @@
         "category": "crypto",
         "summary": "Tesla's new Roadster flips through the air, jumps a row of Teslas and lands on SpaceX thrusters. The Rocket version is invite only, not approved for p",
         "id": "44bcecd70676"
-      },
-      {
-        "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
-        "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Calif showed an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1 at Hexacon in Paris. It survived a reboot, but no tool or bug details are ",
-        "id": "1040fce13dcf"
-      },
-      {
-        "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
-        "url": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/USDC-gID_7.png@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Circle CEO Jeremy Allaire told Reuters the USDC issuer plans to enter about 40 emerging and developing markets, citing rising demand in Southeast Asia",
-        "id": "d07de4f855fc"
-      },
-      {
-        "title": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
-        "url": "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "The index provider will classify “non-operating companies” as ineligible starting Nov. 30, targeting firms whose balance sheets are dominated by a sin",
-        "id": "8e97f2ac152b"
       },
       {
         "title": "比特币突破 80000 美元",
