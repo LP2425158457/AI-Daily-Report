@@ -1,7 +1,52 @@
 {
-  "last_updated": "2026-11-04T04:13:57.614013",
-  "total": 51,
+  "last_updated": "2026-11-05T04:32:25.207526",
+  "total": 52,
   "news": [
+    {
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the ",
+      "id": "5af07e67bb96"
+    },
+    {
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your b",
+      "id": "ae5942b88ece"
+    },
+    {
+      "title": "What’s next for US energy policy after the midterm elections?",
+      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the begin",
+      "id": "be8ecab978e1"
+    },
+    {
+      "title": "The Download: blended meat, restored sight, and the agentic web",
+      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "id": "92f4f7c53484"
+    },
+    {
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal com",
+      "id": "085f249c12e8"
+    },
     {
       "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
       "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
@@ -30,112 +75,112 @@
       "id": "52915b7edfec"
     },
     {
-      "title": "Raising the quality of insights in agentic analytics",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organizati",
-      "id": "3be15acc8f46"
-    },
-    {
-      "title": "Stop counting tokens, start counting what ships",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process ",
-      "id": "cc27b6a9df8e"
-    },
-    {
-      "title": "The Download: the agentic web arrives and the drive for safer roads",
-      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "id": "a096a6f90e52"
-    },
-    {
-      "title": "The agentic web is here",
-      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an articl",
-      "id": "dd78c09996de"
-    },
-    {
-      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "id": "d1b0e20e8027"
-    },
-    {
-      "title": "纽约时报等起诉 Brave 绕过付费墙抓取内容并提供给 AI 公司",
-      "url": "https://www.solidot.org/story?sid=85788",
+      "title": "AMD 营收预计将首次超过英特尔",
+      "url": "https://www.solidot.org/story?sid=85799",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "《纽约时报》、《芝加哥论坛报》和《奥兰多哨兵报》等美国出版商起诉 Brave Software，指控其未经许可抓取网站内容，并帮助用户绕过付费墙。Brave Software 被控将其抓取内容的索引数据库 Brave Index 提供给 Anthropic、Perplexity、Mistral、xA",
-      "id": "baf5a171d0b0"
+      "summary": "AMD 周二公布了 2026 财年第三季度财报，营收同比增长 45% 达到 134 亿美元。其中数据中心业务贡献了 85 亿美元营收同比增长 97%。客户端与游戏业务部门的营收下滑了 8% 降至 37 亿美元。作为 AMD 在 x86 市场的主要竞争对手，英特尔下一季度营收预计为 150-160 亿",
+      "id": "6305fbc33a5f"
     },
     {
-      "title": "Google 将对拒绝 AI 的美国学校关闭搜索",
-      "url": "https://www.solidot.org/story?sid=85787",
+      "title": "韩国游戏 PC 启动器被植入恶意代码",
+      "url": "https://www.solidot.org/story?sid=85798",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "Google 宣布美国 K-12 学校学生使用的软件将默认关闭所有 AI 功能，除非学校管理人员自己选择启用。此举旨在回应教育工作者和家长的诉求，他们希望在孩子与 AI 互动上有更多的掌控权。今天 AI 功能已成为 Google 商用搜索引擎的标配，Google 负责教育的副总裁 Chris Phi",
-      "id": "7f87778b7cf7"
+      "summary": "韩国游戏《胜利女神：新的希望（NIKKE）》的 PC 启动器被植入恶意代码。恶意代码是通过纂改 Level Infinite CDN 分发的四个官方 JavaScript 文件实现的，篡改发生于 2026 年 9 月 27 日前后，攻击则始于 2026 年 10 月 23 日到 11 月 3 日，在",
+      "id": "7222d90a42bf"
     },
     {
-      "title": "Fedora Linux 45 释出",
-      "url": "https://www.solidot.org/story?sid=85786",
+      "title": "法国银行被盗走 1.18 亿欧元",
+      "url": "https://www.solidot.org/story?sid=85797",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "Fedora Linux 项目释出了 v45。Fedora Linux 项目同时释出了 Fedora Workstation、Fedora KDE Plasma Desktop、Fedora Server、Fedora Cloud、Fedora CoreOS 和 Fedora IoT，以及 Atom",
-      "id": "5ef9fd70f2d4"
+      "summary": "法国国民互助信贷银行（Crédit Mutuel Arkéa）被黑客通过欺诈性交易盗走 1.18 亿欧元。被盗走的钱随后被转移到多个加密货币账号。该银行证实遭到网络攻击，但尚未证实 1.18 亿欧元的数字，只是表示攻击已得到控制，客户不会遭受任何经济损失。国民互助信贷银行暂停了其应用的部分转账功能。",
+      "id": "8344fd184105"
     },
     {
-      "title": "科学家发现 1.15 亿年前的恐龙红细胞",
-      "url": "https://www.solidot.org/story?sid=85785",
+      "title": "Firefox 测试迷你窗口功能",
+      "url": "https://www.solidot.org/story?sid=85796",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "血细胞并不容易形成化石。大多数血细胞在死亡后不久便会分解，这使得找到令人信服的、非常古老的血液痕迹非常困难。然而澳大利亚科廷大学的研究团队在 PNAS 上发表论文称，凭借多条证据，他们在巴西一只 1.15 亿年前的恐龙遗骸中发现了最古老的红细胞化石。这项研究的对象是巴西恐龙“阿拉塔龙”的骨骼化石。研",
-      "id": "05b7f9211097"
+      "summary": "Mozilla 正在新版 Firefox Nightly 中测试迷你窗口（Mini Window）功能。该功能类似视频画中画功能，将一个标签页作为独立窗口一直显示在当前标签页之上，这个窗口隐去了地址栏、各类控件、滚动条等常见标签页元素，但如果用户将鼠标悬停在迷你窗口内，各种标签页元素将会显示。迷你窗",
+      "id": "78a98da40640"
     },
     {
-      "title": "Enlightenment 0.28.0 释出，初步支持 BSD",
-      "url": "https://www.solidot.org/story?sid=85783",
+      "title": "富士胶片因 AI 热加大磁带产能",
+      "url": "https://www.solidot.org/story?sid=85795",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "轻量级桌面环境 Enlightenment 项目释出了 v0.28.0。主要变化包括：初步支持 NetBSD，支持 Network Manager，原生支持 PipeWire，新的剪贴板管理器，电池管理、AC 轮询等相关代码进行重写，新增设置电池阈值和支持 ACPI 电源配置等等，以及大量 bug ",
-      "id": "81f14ea8cc49"
+      "summary": "富士胶片表示它将大幅增加磁带产能，原因是磁带备份成为 AI 热的一个意外受益者。普通消费者可能早在几十年前就已不再使用磁带，但业界却从未将其抛弃。云服务巨头依靠磁带对海量数据进行备份。富士胶片称，大型云服务商和数据中心运营商正在扩大对磁带的使用，因为磁带能以相对较低的成本存储海量数据。磁带备份可以轻",
+      "id": "abaa4bee23d8"
     },
     {
-      "title": "Tor Browser 16.0 释出",
-      "url": "https://www.solidot.org/story?sid=85781",
+      "title": "Nexus Mods 公布 AI 生成内容政策",
+      "url": "https://www.solidot.org/story?sid=85794",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "Tor Browser 16.0 释出，它是首个基于 Firefox ESR 153 的稳定版本。主要变化包括：Linux 版本支持 64 位 ARM 架构，重新设计设置，名为通用窗口标题（generic window titles）的功能有助于防止其它应用窥探用户的浏览器活动，Android 版本",
-      "id": "451ccb0604be"
+      "summary": "最大 PC 游戏 Mod 分享托管平台 Nexus Mods 公布了 AI 生成内容政策。Nexus Mods 没有禁止 AI 生成 Mod，但对此类 Mod 的分享设定了更严格的规定。新上传 Mod 必须披露是否使用 AI，AI 辅助 Mod 必须说明如何使用 AI 以及 AI 的使用范围。现有 ",
+      "id": "71ada659710b"
     },
     {
-      "title": "Swift 天文台将于 11 月 4 日重返大气层",
-      "url": "https://www.solidot.org/story?sid=85780",
+      "title": "苹果开始在中国推出 Apple Intelligence",
+      "url": "https://www.solidot.org/story?sid=85793",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "拯救失败的 NASA Neil Gehrels Swift 天文台将于 11 月 4 日重返大气层。但目前还不清楚其坠落地点以及它会有哪些组件会在穿过大气层后仍然幸存下来。Swift 天文台重 1.5 吨，于 2004 年发射升空，旨在研究高能伽马射线暴的起源。过去 22 年受大气阻力的影响 Swi",
-      "id": "61e4aeed6428"
+      "summary": "苹果从 11 月 4 日起开始在中国推出 AI 功能 Apple Intelligence，中国用户可通过最新的 iOS 开发者 Beta 版进行测试，AI 功能将于 12 月随 iOS 27.3 的发布正式推出。中国版本的 Apple Intelligence 是苹果和阿里巴巴合作推出的，基于阿里",
+      "id": "79a05f67a497"
+    },
+    {
+      "title": "出生前后大脑会清理突变神经元",
+      "url": "https://www.solidot.org/story?sid=85792",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "根据发表在《自然》上的一项研究，出生前后大脑会清理突变神经元。对 2300 多个神经细胞进行的分析显示，在从人类胎儿大脑中采样的神经元中，超过 1/4 出现了染色体片段增加或缺失的情况。相比之下，出生后婴儿大脑中的神经元中，只有约 6% 存在此类异常。研究结果揭示了一种新的机制，该机制不仅调控着一个",
+      "id": "cb1e46fac5ea"
+    },
+    {
+      "title": "Apple 官网排版细节鉴赏",
+      "url": "https://sspai.com/post/115399",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "Apple 独一无二的品牌价值，正是从这些细节中凝聚的。<a href=\"https://sspai.com/post/115399\" target=\"_blank\">查看全文</a>",
+      "id": "68b183be502b"
+    },
+    {
+      "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
+      "url": "https://sspai.com/post/118498",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...<a href=\"https://sspai.com/post/118498\" target",
+      "id": "6376c6cd727d"
+    },
+    {
+      "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
+      "url": "https://sspai.com/post/117713",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。<a href=\"https://sspai.com/post/117713\" target=\"_blank\">查看全文</a>",
+      "id": "692b652d4fdb"
+    },
+    {
+      "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
+      "url": "https://sspai.com/post/115819",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "没有融资、没有收费，也没有什么商业计划。花这些钱，只是为了把一个自己喜欢了很多年的东西做成自己心里的样子。<a href=\"https://sspai.com/post/115819\" target=\"_blank\">查看全文</a>",
+      "id": "d880fc2a0421"
     },
     {
       "title": "国行 Apple 智能上手：这些功能已经准备好",
@@ -174,76 +219,22 @@
       "id": "98a8429603b9"
     },
     {
-      "title": "Disc Image Studio：你想不想在光盘上「画」点什么？",
-      "url": "https://sspai.com/post/118211",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "把喜欢的图烧进 CD 里，你也可以。<a href=\"https://sspai.com/post/118211\" target=\"_blank\">查看全文</a>",
-      "id": "e8878a6cfa57"
-    },
-    {
-      "title": "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等",
-      "url": "https://sspai.com/post/118232",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "Raspberry Pi 再次上调 16 GB 产品价格、Keychron 推出 Q19 HE 8K 磁轴键盘等。<a href=\"https://sspai.com/post/118232\" target=\"_blank\">查看全文</a>",
-      "id": "ea983e6e9f50"
-    },
-    {
-      "title": "派评 | 近期值得关注的 App",
-      "url": "https://sspai.com/post/118240",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等。<a href=\"https://sspai.com/post/118240\" target=\"_blank\">查看全文</a>",
-      "id": "65bcadd6c7ea"
-    },
-    {
-      "title": "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
-      "url": "https://sspai.com/post/118122",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "这篇文章是TDSStudio在少数派上的第34篇文章，依然是全平台首发。时隔两年，我们又回来写AirPods半入耳型号了。在26年的苹果秋季event上，AirPods5给我们最大的印象其实还是主动降 ...<a href=\"https://sspai.com/post/118122\" target",
-      "id": "383073623a86"
-    },
-    {
-      "title": "US midterms election 2026 live: Democrat flips South Carolina Senate seat in major upset",
-      "url": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg",
+      "title": "India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’",
+      "url": "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6MPCPYRKAQX7P4642EX1VWB/ai-hacker.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US midterms election 2026 live: Democrat flips South Carolina Senate seat in m",
-      "id": "28a2213efd1a"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’\" ",
+      "id": "af2f26d4c914"
     },
     {
-      "title": "ZachXBT identifies French bank as alleged victim of $133M crypto theft",
-      "url": "https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6J9R4VF5N3TX90MJQ3PZBSH/hack-theft-eu-bank.png",
+      "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
+      "url": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6MCS6V48YKBXE34JHPKFCDG/hi-gate-io-5.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ZachXBT identifies French bank as alleged victim of $133M crypto theft\" class=",
-      "id": "55bad8445675"
-    },
-    {
-      "title": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
-      "url": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DJ3V1RSDPDYAETXYR8NEK1/hi-us-government-has-shut-down-bitcoin-crypto.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"1inch lawyer sees agencies driving US crypto regulation as midterms unfold\" cl",
-      "id": "cba078ba09b2"
-    },
-    {
-      "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
-      "url": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HX7RYCH2V2GKPP6BB2MVAX/thorchain-crypto-crowd-people-hype-mainstream-1.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"RUNE rallies 15% as THORChain restarts most swaps after halt\" class=\"type:prim",
-      "id": "211d17cc847b"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Mercado Bitcoin says phased reopening to begin Monday, will cover losses\" clas",
+      "id": "c42f08332bd2"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -255,103 +246,121 @@
       "id": "772e97788bfd"
     },
     {
-      "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
-      "url": "https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HGH0BNNPHY4QQAS9295KYQ/okxice-with-stop-gesture.png",
+      "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
+      "url": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6M43XKTYRKM47HZ3A23XGYW/money-bank-fiat-case-safety-security-huobi.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom\"",
-      "id": "7d395c39969c"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMart founder says security team ‘severely understaffed’ after new hack\" cla",
+      "id": "7125bd46ab19"
     },
     {
-      "title": "CFTC clears stock perpetual futures for trading on US exchanges",
-      "url": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HED4AVHBSQQHY2NWN6WVHE/hi-prediction-market-cftc-rule-2.png",
+      "title": "Crypto PACs eye 2028 ‘new map’ as Democrats take Congress",
+      "url": "https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6M2SQWSSZNC87ZCPY0VEXAT/map-without-green-highlight.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC clears stock perpetual futures for trading on US exchanges\" class=\"type:p",
-      "id": "53153c2dc47f"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PACs eye 2028 ‘new map’ as Democrats take Congress \" class=\"type:primar",
+      "id": "b45e374df6c9"
     },
     {
-      "title": "US midterms: Prediction markets favor Democrats in key crypto races",
-      "url": "https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HQ1NKPD61CWKMF78RJP3VH/with-blended-okx-ice-logo.png",
+      "title": "How Aussie Bitcoiners can avoid 2027’s shock CGT hike",
+      "url": "https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HX2638MZP3S4KEEQP3HSTS/fred-magazine-artwork.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US midterms: Prediction markets favor Democrats in key crypto races\" class=\"ty",
-      "id": "8d2c85299aae"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"How Aussie Bitcoiners can avoid 2027’s shock CGT hike\" class=\"type:primaryImag",
+      "id": "22478d9d8df2"
     },
     {
-      "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
-      "url": "https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
-      "source": "Decrypt",
+      "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
+      "url": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KTGBVFHWKW3CZF0886CX5A/trumpcoinelections.png",
+      "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "The ChatGPT maker says future facilities could ease pressure on power grids by cutting demand during emergencies.",
-      "id": "562e994744a1"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump-linked tokens lead crypto losses after Democrats sweep in the US midterm",
+      "id": "05b8e6aa09da"
     },
     {
-      "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
-      "url": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-conf-paolo-ardonio-tether-decrypt-style-gID_7.png@png",
-      "source": "Decrypt",
+      "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
+      "url": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KQ5FY3D9P23X31GYKTVT1C/hi-bitcoin-miners-unaffected-by-heat-waves-still-plan-to-establish-operations-in-texas-ai-2.jpg",
+      "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "Paolo Ardoino told the Plan ₿ Forum in Lugano the company owns “give or take 150,000 Bitcoin,” but its Q3 reserve report implies just 100,060.",
-      "id": "0ac40940311c"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss\" class=\"type",
+      "id": "f267c09513ba"
     },
     {
-      "title": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business",
-      "url": "https://decrypt.co/382471/anthropic-ai-cheaper-use-problem-for-business",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg@png",
+      "title": "Why Bitcoin's Next Soft Fork Could Feel Like a Practice Run",
+      "url": "https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Claude's prices are falling, but Anthropic's computing expenses grew faster than sales in the latest quarter—a tricky equation ahead of its IPO.",
-      "id": "b77c1c2fecd9"
+      "summary": "Matt Corallo explains why patching four legacy bugs is about rebuilding muscle memory, just as much as it’s about Bitcoin maintenance.",
+      "id": "67708ff30b82"
     },
     {
-      "title": "CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI",
-      "url": "https://decrypt.co/382467/crowdstrike-ai-agent-kill-switch-acquire-fiddler-ai",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png@png",
+      "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
+      "url": "https://decrypt.co/382574/chatgpt-gif-maker-openai-unannounced-images-2-6-model",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "CrowdStrike's new kill switch lets security teams cut off unauthorized AI agents through a gateway, while its planned Fiddler acquisition aims to make",
-      "id": "fccfaeeaae6a"
+      "summary": "OpenAI is rolling out animated GIF creation in ChatGPT, with frame-by-frame editing and speed controls.",
+      "id": "96159ac1b75c"
     },
     {
-      "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
-      "url": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justin-sun-decrypt-style-01-gID_7.png@png",
+      "title": "Google Tells Schools They Can Reject AI—But They'll Lose Search, Too",
+      "url": "https://decrypt.co/382572/google-schools-reject-ai-but-lose-search",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Tron founder Justin Sun said he has asked a federal court to sanction World Liberty Financial, alleging the Trump family-backed venture delayed disclo",
-      "id": "ebd0a76f7976"
+      "summary": "Google is giving schools more control over Gemini, but districts that want Search without AI are out of luck, fueling accusations that the company is ",
+      "id": "aae21591b167"
     },
     {
-      "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
-      "url": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
+      "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
+      "url": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Brian-Armstrong-coinbase-wikimedia-decrypt-style-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "GitBook says attackers accessed infrastructure credentials in an AI-assisted breach, prompting a shutdown and emergency token resets.",
-      "id": "526a18e13a7b"
+      "summary": "Coinbase told customers it wasn’t affected by the $6.4 billion Binance hack and detailed its security controls, including offline storage for over 99%",
+      "id": "5b6b312d9da1"
     },
     {
-      "title": "CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures",
-      "url": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg@png",
+      "title": "US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents",
+      "url": "https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/office-of-the-comptroller-of-the-currency-occ-decrypt-style-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Chairman Michael Selig said “equity perpetual futures” can now trade on CFTC-registered exchanges, extending a crypto-native instrument to traditional",
-      "id": "2daf0f02c6e0"
+      "summary": "The OCC's first examiner guide weighs autonomy and financial harm, and directly addresses outside AI agents—the same risk that recently prompted major",
+      "id": "b51d76352449"
     },
     {
-      "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
-      "url": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-brazil-bitcoin-gID_7.png@png",
+      "title": "US Voters Back AI Data Center Restrictions in At Least 29 Communities",
+      "url": "https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-11-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Mercado Bitcoin says customers won't pay for a hack that drained tens of millions. Withdrawals on the exchange remain frozen with no restart date.",
-      "id": "92a044cc9bd3"
+      "summary": "Voters across the United States backed measures to curb data centers, raising new obstacles for the infrastructure powering AI as electricity bills, w",
+      "id": "ee0a21682e63"
+    },
+    {
+      "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
+      "url": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png@png",
+      "source": "Decrypt",
+      "category": "crypto",
+      "summary": "SEC staff said they view Canton Coin as a digital commodity and won’t recommend enforcement over how it’s minted, a week after DTCC launched a tokeniz",
+      "id": "789bacfe8ce0"
+    },
+    {
+      "title": "What Is x402? How AI Agents Pay With Crypto",
+      "url": "https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/ai-robot-gID_5-pID_4.png@png",
+      "source": "Decrypt",
+      "category": "crypto",
+      "summary": "Coinbase's x402 protocol puts the web's long-unused 402 code to work so AI agents and apps can pay for APIs and data in stablecoins like USDC.",
+      "id": "d474504ffcd3"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -465,6 +474,51 @@
   "categories": {
     "ai": [
       {
+        "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+        "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the ",
+        "id": "5af07e67bb96"
+      },
+      {
+        "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+        "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your b",
+        "id": "ae5942b88ece"
+      },
+      {
+        "title": "What’s next for US energy policy after the midterm elections?",
+        "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the begin",
+        "id": "be8ecab978e1"
+      },
+      {
+        "title": "The Download: blended meat, restored sight, and the agentic web",
+        "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+        "id": "92f4f7c53484"
+      },
+      {
+        "title": "Securing the agentic enterprise with data lineage",
+        "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal com",
+        "id": "085f249c12e8"
+      },
+      {
         "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
         "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
         "image": "",
@@ -490,51 +544,6 @@
         "category": "ai",
         "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end o",
         "id": "52915b7edfec"
-      },
-      {
-        "title": "Raising the quality of insights in agentic analytics",
-        "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organizati",
-        "id": "3be15acc8f46"
-      },
-      {
-        "title": "Stop counting tokens, start counting what ships",
-        "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process ",
-        "id": "cc27b6a9df8e"
-      },
-      {
-        "title": "The Download: the agentic web arrives and the drive for safer roads",
-        "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-        "id": "a096a6f90e52"
-      },
-      {
-        "title": "The agentic web is here",
-        "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an articl",
-        "id": "dd78c09996de"
-      },
-      {
-        "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-        "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-        "id": "d1b0e20e8027"
       },
       {
         "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -575,67 +584,112 @@
     ],
     "tech": [
       {
-        "title": "纽约时报等起诉 Brave 绕过付费墙抓取内容并提供给 AI 公司",
-        "url": "https://www.solidot.org/story?sid=85788",
+        "title": "AMD 营收预计将首次超过英特尔",
+        "url": "https://www.solidot.org/story?sid=85799",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "《纽约时报》、《芝加哥论坛报》和《奥兰多哨兵报》等美国出版商起诉 Brave Software，指控其未经许可抓取网站内容，并帮助用户绕过付费墙。Brave Software 被控将其抓取内容的索引数据库 Brave Index 提供给 Anthropic、Perplexity、Mistral、xA",
-        "id": "baf5a171d0b0"
+        "summary": "AMD 周二公布了 2026 财年第三季度财报，营收同比增长 45% 达到 134 亿美元。其中数据中心业务贡献了 85 亿美元营收同比增长 97%。客户端与游戏业务部门的营收下滑了 8% 降至 37 亿美元。作为 AMD 在 x86 市场的主要竞争对手，英特尔下一季度营收预计为 150-160 亿",
+        "id": "6305fbc33a5f"
       },
       {
-        "title": "Google 将对拒绝 AI 的美国学校关闭搜索",
-        "url": "https://www.solidot.org/story?sid=85787",
+        "title": "韩国游戏 PC 启动器被植入恶意代码",
+        "url": "https://www.solidot.org/story?sid=85798",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "Google 宣布美国 K-12 学校学生使用的软件将默认关闭所有 AI 功能，除非学校管理人员自己选择启用。此举旨在回应教育工作者和家长的诉求，他们希望在孩子与 AI 互动上有更多的掌控权。今天 AI 功能已成为 Google 商用搜索引擎的标配，Google 负责教育的副总裁 Chris Phi",
-        "id": "7f87778b7cf7"
+        "summary": "韩国游戏《胜利女神：新的希望（NIKKE）》的 PC 启动器被植入恶意代码。恶意代码是通过纂改 Level Infinite CDN 分发的四个官方 JavaScript 文件实现的，篡改发生于 2026 年 9 月 27 日前后，攻击则始于 2026 年 10 月 23 日到 11 月 3 日，在",
+        "id": "7222d90a42bf"
       },
       {
-        "title": "Fedora Linux 45 释出",
-        "url": "https://www.solidot.org/story?sid=85786",
+        "title": "法国银行被盗走 1.18 亿欧元",
+        "url": "https://www.solidot.org/story?sid=85797",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "Fedora Linux 项目释出了 v45。Fedora Linux 项目同时释出了 Fedora Workstation、Fedora KDE Plasma Desktop、Fedora Server、Fedora Cloud、Fedora CoreOS 和 Fedora IoT，以及 Atom",
-        "id": "5ef9fd70f2d4"
+        "summary": "法国国民互助信贷银行（Crédit Mutuel Arkéa）被黑客通过欺诈性交易盗走 1.18 亿欧元。被盗走的钱随后被转移到多个加密货币账号。该银行证实遭到网络攻击，但尚未证实 1.18 亿欧元的数字，只是表示攻击已得到控制，客户不会遭受任何经济损失。国民互助信贷银行暂停了其应用的部分转账功能。",
+        "id": "8344fd184105"
       },
       {
-        "title": "科学家发现 1.15 亿年前的恐龙红细胞",
-        "url": "https://www.solidot.org/story?sid=85785",
+        "title": "Firefox 测试迷你窗口功能",
+        "url": "https://www.solidot.org/story?sid=85796",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "血细胞并不容易形成化石。大多数血细胞在死亡后不久便会分解，这使得找到令人信服的、非常古老的血液痕迹非常困难。然而澳大利亚科廷大学的研究团队在 PNAS 上发表论文称，凭借多条证据，他们在巴西一只 1.15 亿年前的恐龙遗骸中发现了最古老的红细胞化石。这项研究的对象是巴西恐龙“阿拉塔龙”的骨骼化石。研",
-        "id": "05b7f9211097"
+        "summary": "Mozilla 正在新版 Firefox Nightly 中测试迷你窗口（Mini Window）功能。该功能类似视频画中画功能，将一个标签页作为独立窗口一直显示在当前标签页之上，这个窗口隐去了地址栏、各类控件、滚动条等常见标签页元素，但如果用户将鼠标悬停在迷你窗口内，各种标签页元素将会显示。迷你窗",
+        "id": "78a98da40640"
       },
       {
-        "title": "Enlightenment 0.28.0 释出，初步支持 BSD",
-        "url": "https://www.solidot.org/story?sid=85783",
+        "title": "富士胶片因 AI 热加大磁带产能",
+        "url": "https://www.solidot.org/story?sid=85795",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "轻量级桌面环境 Enlightenment 项目释出了 v0.28.0。主要变化包括：初步支持 NetBSD，支持 Network Manager，原生支持 PipeWire，新的剪贴板管理器，电池管理、AC 轮询等相关代码进行重写，新增设置电池阈值和支持 ACPI 电源配置等等，以及大量 bug ",
-        "id": "81f14ea8cc49"
+        "summary": "富士胶片表示它将大幅增加磁带产能，原因是磁带备份成为 AI 热的一个意外受益者。普通消费者可能早在几十年前就已不再使用磁带，但业界却从未将其抛弃。云服务巨头依靠磁带对海量数据进行备份。富士胶片称，大型云服务商和数据中心运营商正在扩大对磁带的使用，因为磁带能以相对较低的成本存储海量数据。磁带备份可以轻",
+        "id": "abaa4bee23d8"
       },
       {
-        "title": "Tor Browser 16.0 释出",
-        "url": "https://www.solidot.org/story?sid=85781",
+        "title": "Nexus Mods 公布 AI 生成内容政策",
+        "url": "https://www.solidot.org/story?sid=85794",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "Tor Browser 16.0 释出，它是首个基于 Firefox ESR 153 的稳定版本。主要变化包括：Linux 版本支持 64 位 ARM 架构，重新设计设置，名为通用窗口标题（generic window titles）的功能有助于防止其它应用窥探用户的浏览器活动，Android 版本",
-        "id": "451ccb0604be"
+        "summary": "最大 PC 游戏 Mod 分享托管平台 Nexus Mods 公布了 AI 生成内容政策。Nexus Mods 没有禁止 AI 生成 Mod，但对此类 Mod 的分享设定了更严格的规定。新上传 Mod 必须披露是否使用 AI，AI 辅助 Mod 必须说明如何使用 AI 以及 AI 的使用范围。现有 ",
+        "id": "71ada659710b"
       },
       {
-        "title": "Swift 天文台将于 11 月 4 日重返大气层",
-        "url": "https://www.solidot.org/story?sid=85780",
+        "title": "苹果开始在中国推出 Apple Intelligence",
+        "url": "https://www.solidot.org/story?sid=85793",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "拯救失败的 NASA Neil Gehrels Swift 天文台将于 11 月 4 日重返大气层。但目前还不清楚其坠落地点以及它会有哪些组件会在穿过大气层后仍然幸存下来。Swift 天文台重 1.5 吨，于 2004 年发射升空，旨在研究高能伽马射线暴的起源。过去 22 年受大气阻力的影响 Swi",
-        "id": "61e4aeed6428"
+        "summary": "苹果从 11 月 4 日起开始在中国推出 AI 功能 Apple Intelligence，中国用户可通过最新的 iOS 开发者 Beta 版进行测试，AI 功能将于 12 月随 iOS 27.3 的发布正式推出。中国版本的 Apple Intelligence 是苹果和阿里巴巴合作推出的，基于阿里",
+        "id": "79a05f67a497"
+      },
+      {
+        "title": "出生前后大脑会清理突变神经元",
+        "url": "https://www.solidot.org/story?sid=85792",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "根据发表在《自然》上的一项研究，出生前后大脑会清理突变神经元。对 2300 多个神经细胞进行的分析显示，在从人类胎儿大脑中采样的神经元中，超过 1/4 出现了染色体片段增加或缺失的情况。相比之下，出生后婴儿大脑中的神经元中，只有约 6% 存在此类异常。研究结果揭示了一种新的机制，该机制不仅调控着一个",
+        "id": "cb1e46fac5ea"
+      },
+      {
+        "title": "Apple 官网排版细节鉴赏",
+        "url": "https://sspai.com/post/115399",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "Apple 独一无二的品牌价值，正是从这些细节中凝聚的。<a href=\"https://sspai.com/post/115399\" target=\"_blank\">查看全文</a>",
+        "id": "68b183be502b"
+      },
+      {
+        "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
+        "url": "https://sspai.com/post/118498",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...<a href=\"https://sspai.com/post/118498\" target",
+        "id": "6376c6cd727d"
+      },
+      {
+        "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
+        "url": "https://sspai.com/post/117713",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。<a href=\"https://sspai.com/post/117713\" target=\"_blank\">查看全文</a>",
+        "id": "692b652d4fdb"
+      },
+      {
+        "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
+        "url": "https://sspai.com/post/115819",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "没有融资、没有收费，也没有什么商业计划。花这些钱，只是为了把一个自己喜欢了很多年的东西做成自己心里的样子。<a href=\"https://sspai.com/post/115819\" target=\"_blank\">查看全文</a>",
+        "id": "d880fc2a0421"
       },
       {
         "title": "国行 Apple 智能上手：这些功能已经准备好",
@@ -672,42 +726,6 @@
         "category": "tech",
         "summary": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。<a href=\"https://sspai.com/post/118317\" target=\"_blank\">查看全文</a>",
         "id": "98a8429603b9"
-      },
-      {
-        "title": "Disc Image Studio：你想不想在光盘上「画」点什么？",
-        "url": "https://sspai.com/post/118211",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "把喜欢的图烧进 CD 里，你也可以。<a href=\"https://sspai.com/post/118211\" target=\"_blank\">查看全文</a>",
-        "id": "e8878a6cfa57"
-      },
-      {
-        "title": "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等",
-        "url": "https://sspai.com/post/118232",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "Raspberry Pi 再次上调 16 GB 产品价格、Keychron 推出 Q19 HE 8K 磁轴键盘等。<a href=\"https://sspai.com/post/118232\" target=\"_blank\">查看全文</a>",
-        "id": "ea983e6e9f50"
-      },
-      {
-        "title": "派评 | 近期值得关注的 App",
-        "url": "https://sspai.com/post/118240",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等。<a href=\"https://sspai.com/post/118240\" target=\"_blank\">查看全文</a>",
-        "id": "65bcadd6c7ea"
-      },
-      {
-        "title": "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
-        "url": "https://sspai.com/post/118122",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "这篇文章是TDSStudio在少数派上的第34篇文章，依然是全平台首发。时隔两年，我们又回来写AirPods半入耳型号了。在26年的苹果秋季event上，AirPods5给我们最大的印象其实还是主动降 ...<a href=\"https://sspai.com/post/118122\" target",
-        "id": "383073623a86"
       },
       {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
@@ -748,40 +766,22 @@
     ],
     "crypto": [
       {
-        "title": "US midterms election 2026 live: Democrat flips South Carolina Senate seat in major upset",
-        "url": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg",
+        "title": "India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’",
+        "url": "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6MPCPYRKAQX7P4642EX1VWB/ai-hacker.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US midterms election 2026 live: Democrat flips South Carolina Senate seat in m",
-        "id": "28a2213efd1a"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’\" ",
+        "id": "af2f26d4c914"
       },
       {
-        "title": "ZachXBT identifies French bank as alleged victim of $133M crypto theft",
-        "url": "https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6J9R4VF5N3TX90MJQ3PZBSH/hack-theft-eu-bank.png",
+        "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
+        "url": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6MCS6V48YKBXE34JHPKFCDG/hi-gate-io-5.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ZachXBT identifies French bank as alleged victim of $133M crypto theft\" class=",
-        "id": "55bad8445675"
-      },
-      {
-        "title": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
-        "url": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DJ3V1RSDPDYAETXYR8NEK1/hi-us-government-has-shut-down-bitcoin-crypto.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"1inch lawyer sees agencies driving US crypto regulation as midterms unfold\" cl",
-        "id": "cba078ba09b2"
-      },
-      {
-        "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
-        "url": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HX7RYCH2V2GKPP6BB2MVAX/thorchain-crypto-crowd-people-hype-mainstream-1.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"RUNE rallies 15% as THORChain restarts most swaps after halt\" class=\"type:prim",
-        "id": "211d17cc847b"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Mercado Bitcoin says phased reopening to begin Monday, will cover losses\" clas",
+        "id": "c42f08332bd2"
       },
       {
         "title": "Here’s what happened in crypto today",
@@ -793,103 +793,121 @@
         "id": "772e97788bfd"
       },
       {
-        "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
-        "url": "https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HGH0BNNPHY4QQAS9295KYQ/okxice-with-stop-gesture.png",
+        "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
+        "url": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6M43XKTYRKM47HZ3A23XGYW/money-bank-fiat-case-safety-security-huobi.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom\"",
-        "id": "7d395c39969c"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMart founder says security team ‘severely understaffed’ after new hack\" cla",
+        "id": "7125bd46ab19"
       },
       {
-        "title": "CFTC clears stock perpetual futures for trading on US exchanges",
-        "url": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HED4AVHBSQQHY2NWN6WVHE/hi-prediction-market-cftc-rule-2.png",
+        "title": "Crypto PACs eye 2028 ‘new map’ as Democrats take Congress",
+        "url": "https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6M2SQWSSZNC87ZCPY0VEXAT/map-without-green-highlight.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC clears stock perpetual futures for trading on US exchanges\" class=\"type:p",
-        "id": "53153c2dc47f"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PACs eye 2028 ‘new map’ as Democrats take Congress \" class=\"type:primar",
+        "id": "b45e374df6c9"
       },
       {
-        "title": "US midterms: Prediction markets favor Democrats in key crypto races",
-        "url": "https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HQ1NKPD61CWKMF78RJP3VH/with-blended-okx-ice-logo.png",
+        "title": "How Aussie Bitcoiners can avoid 2027’s shock CGT hike",
+        "url": "https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HX2638MZP3S4KEEQP3HSTS/fred-magazine-artwork.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US midterms: Prediction markets favor Democrats in key crypto races\" class=\"ty",
-        "id": "8d2c85299aae"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"How Aussie Bitcoiners can avoid 2027’s shock CGT hike\" class=\"type:primaryImag",
+        "id": "22478d9d8df2"
       },
       {
-        "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
-        "url": "https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
-        "source": "Decrypt",
+        "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
+        "url": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KTGBVFHWKW3CZF0886CX5A/trumpcoinelections.png",
+        "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "The ChatGPT maker says future facilities could ease pressure on power grids by cutting demand during emergencies.",
-        "id": "562e994744a1"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump-linked tokens lead crypto losses after Democrats sweep in the US midterm",
+        "id": "05b8e6aa09da"
       },
       {
-        "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
-        "url": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-conf-paolo-ardonio-tether-decrypt-style-gID_7.png@png",
-        "source": "Decrypt",
+        "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
+        "url": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KQ5FY3D9P23X31GYKTVT1C/hi-bitcoin-miners-unaffected-by-heat-waves-still-plan-to-establish-operations-in-texas-ai-2.jpg",
+        "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "Paolo Ardoino told the Plan ₿ Forum in Lugano the company owns “give or take 150,000 Bitcoin,” but its Q3 reserve report implies just 100,060.",
-        "id": "0ac40940311c"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss\" class=\"type",
+        "id": "f267c09513ba"
       },
       {
-        "title": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business",
-        "url": "https://decrypt.co/382471/anthropic-ai-cheaper-use-problem-for-business",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg@png",
+        "title": "Why Bitcoin's Next Soft Fork Could Feel Like a Practice Run",
+        "url": "https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Claude's prices are falling, but Anthropic's computing expenses grew faster than sales in the latest quarter—a tricky equation ahead of its IPO.",
-        "id": "b77c1c2fecd9"
+        "summary": "Matt Corallo explains why patching four legacy bugs is about rebuilding muscle memory, just as much as it’s about Bitcoin maintenance.",
+        "id": "67708ff30b82"
       },
       {
-        "title": "CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI",
-        "url": "https://decrypt.co/382467/crowdstrike-ai-agent-kill-switch-acquire-fiddler-ai",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png@png",
+        "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
+        "url": "https://decrypt.co/382574/chatgpt-gif-maker-openai-unannounced-images-2-6-model",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "CrowdStrike's new kill switch lets security teams cut off unauthorized AI agents through a gateway, while its planned Fiddler acquisition aims to make",
-        "id": "fccfaeeaae6a"
+        "summary": "OpenAI is rolling out animated GIF creation in ChatGPT, with frame-by-frame editing and speed controls.",
+        "id": "96159ac1b75c"
       },
       {
-        "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
-        "url": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justin-sun-decrypt-style-01-gID_7.png@png",
+        "title": "Google Tells Schools They Can Reject AI—But They'll Lose Search, Too",
+        "url": "https://decrypt.co/382572/google-schools-reject-ai-but-lose-search",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Tron founder Justin Sun said he has asked a federal court to sanction World Liberty Financial, alleging the Trump family-backed venture delayed disclo",
-        "id": "ebd0a76f7976"
+        "summary": "Google is giving schools more control over Gemini, but districts that want Search without AI are out of luck, fueling accusations that the company is ",
+        "id": "aae21591b167"
       },
       {
-        "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
-        "url": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
+        "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
+        "url": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Brian-Armstrong-coinbase-wikimedia-decrypt-style-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "GitBook says attackers accessed infrastructure credentials in an AI-assisted breach, prompting a shutdown and emergency token resets.",
-        "id": "526a18e13a7b"
+        "summary": "Coinbase told customers it wasn’t affected by the $6.4 billion Binance hack and detailed its security controls, including offline storage for over 99%",
+        "id": "5b6b312d9da1"
       },
       {
-        "title": "CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures",
-        "url": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg@png",
+        "title": "US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents",
+        "url": "https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/office-of-the-comptroller-of-the-currency-occ-decrypt-style-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Chairman Michael Selig said “equity perpetual futures” can now trade on CFTC-registered exchanges, extending a crypto-native instrument to traditional",
-        "id": "2daf0f02c6e0"
+        "summary": "The OCC's first examiner guide weighs autonomy and financial harm, and directly addresses outside AI agents—the same risk that recently prompted major",
+        "id": "b51d76352449"
       },
       {
-        "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
-        "url": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-brazil-bitcoin-gID_7.png@png",
+        "title": "US Voters Back AI Data Center Restrictions in At Least 29 Communities",
+        "url": "https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-11-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Mercado Bitcoin says customers won't pay for a hack that drained tens of millions. Withdrawals on the exchange remain frozen with no restart date.",
-        "id": "92a044cc9bd3"
+        "summary": "Voters across the United States backed measures to curb data centers, raising new obstacles for the infrastructure powering AI as electricity bills, w",
+        "id": "ee0a21682e63"
+      },
+      {
+        "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
+        "url": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "SEC staff said they view Canton Coin as a digital commodity and won’t recommend enforcement over how it’s minted, a week after DTCC launched a tokeniz",
+        "id": "789bacfe8ce0"
+      },
+      {
+        "title": "What Is x402? How AI Agents Pay With Crypto",
+        "url": "https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/ai-robot-gID_5-pID_4.png@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "Coinbase's x402 protocol puts the web's long-unused 402 code to work so AI agents and apps can pay for APIs and data in stablecoins like USDC.",
+        "id": "d474504ffcd3"
       },
       {
         "title": "比特币突破 80000 美元",
