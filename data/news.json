@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-11-06T04:30:51.447492",
+  "last_updated": "2026-11-07T03:57:35.193454",
   "total": 52,
   "news": [
+    {
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "id": "2c59d13cb1a5"
+    },
+    {
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tu",
+      "id": "3cc40dc99f7a"
+    },
     {
       "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
       "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
@@ -57,94 +75,94 @@
       "id": "92f4f7c53484"
     },
     {
-      "title": "Securing the agentic enterprise with data lineage",
-      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal com",
-      "id": "085f249c12e8"
-    },
-    {
-      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "id": "0bde0f2089d2"
-    },
-    {
-      "title": "印度金融机构遭黑客利用 AI 工具发动的网络攻击",
-      "url": "https://www.solidot.org/story?sid=85809",
+      "title": "从 Linux 到维基百科：志愿者如何构建互联网",
+      "url": "https://www.solidot.org/story?sid=85820",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "印度计算机应急响应小组（CERT-In）星期三发布安全通报，被称为“狡猾猎鹰”（Crafty Falcon）的黑客组织，已入侵非银行贷款机构、金融科技公司及加密货币交易所。攻击者利用公开可用的 AI 工具，实现高速自动化入侵。印度计算机应急响应小组形容这项威胁“仍在发生，且持续活跃”。该机构点名四款",
-      "id": "a74670f80482"
+      "summary": "Linux 和维基百科代表了一种被称为同侪生产（Peer Production）的模式——这一名字由法学教授 Yochai Benkler 提出。古典经济学认为，如果想要人们开展合作以及有效分配合作所产生的成果，那么最有效方式是通过私人营利性企业实现，即由这些企业在开放市场中销售商品或服务。企业雇用",
+      "id": "e0a9350d84b0"
     },
     {
-      "title": "同步导致电网呈现周期为一分钟的震荡",
-      "url": "https://www.solidot.org/story?sid=85808",
+      "title": "特斯拉将停产 Cyber​​truck",
+      "url": "https://www.solidot.org/story?sid=85819",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "今天的电网接入了数以百万计的数字控制设备，为了维持电力供需平衡，精准预测和实时控制必不可少。电力系统因此转变成为一种信息物理融合的基础设施（Cyber–Physical Infrastructure）。物理设备与数字控制系统之间形成了紧密的相互依存关系，在带来前所未有的效率与灵活性的同时也引入了新的",
-      "id": "c69bfcbdb9c7"
+      "summary": "特斯拉 CEO 马斯克（Elon Musk）宣布将于 2027 年年中停产电动皮卡 Cyber​​truck。生产电动皮卡的工厂很可能转为生产电动出租车 Cybercabs。马斯克于 2019 年末宣布了外形奇特的 Cyber​​truck，预计售价低于 4 万美元，宣称它会和其主力电动汽车 Mod",
+      "id": "adc521ff7fc6"
     },
     {
-      "title": "越南对足球直播盗版者判刑最高一年",
-      "url": "https://www.solidot.org/story?sid=85807",
+      "title": "NASA 通过 AI 生成图像宣布 X-70 试验机",
+      "url": "https://www.solidot.org/story?sid=85818",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "越南一家法院对 14 名参与盗版足球赛事直播网站 Bun Cha TV 的团队判处最高一年徒刑。4 名内容、编程和运营团队负责人被判处 12 个月徒刑，另外 5 人判处 10 个月监禁，2 人判处 8 个月监禁，3 名解说员被判处 10 个月缓刑。所有 14 名被告都承认了指控，配合了调查。Bun ",
-      "id": "b9fb95ff4545"
+      "summary": "NASA 宣布了新试验机 X-70 Fractal，它展示了一幅生成图像——即并非实图，而是 AI 生成的。NASA 称，X-70 是载人飞行器，设计巡航速度为 0.75 马赫，最大飞行高度约 13700 米，航程 2778 公里。X-70 起飞重量为 4536 公斤，设计可容纳 900 公斤的机内",
+      "id": "83d754bb49cd"
     },
     {
-      "title": "白宫网络监测到住宅代理活动",
-      "url": "https://www.solidot.org/story?sid=85806",
+      "title": "中国三季度 CO2 排放下降 3%",
+      "url": "https://www.solidot.org/story?sid=85817",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "安全公司 Layer3 Intel 报告，他们在分配给白宫的自治系统 AS2650 中监测到住宅代理服务的活动。住宅代理服务会将用户的网络地址租给其他人使用。Layer3 在 10 月 5 日-11 月 3 日期间观察到了 236 次住宅代理连接活动。住宅代理的源头被认为来自 Windows 11 ",
-      "id": "7c7959a88c19"
+      "summary": "根据 Carbon Brief 的分析，中国第三季度 7-9 月的 CO2 排放量同比下降 3.1%，为 2022 年以来最大降幅。今年至今中国碳排放量累计下降 0.5%。数据显示，中国第三季度石油消费量同比下降 4%，煤炭使用量同比下降 3%。第三季度 CO2 排放量下降的关键因素之一是燃煤发电量",
+      "id": "9e9d7b8cedef"
     },
     {
-      "title": "Bazzite 45 释出",
-      "url": "https://www.solidot.org/story?sid=85805",
+      "title": "Silver Lake 和 PIF 磋商收购 Unity Software",
+      "url": "https://www.solidot.org/story?sid=85816",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "基于 Fedora 的游戏发行版 Bazzite 释出了 v45。主要变化包括；基于 Fedora 45，更新 Open Gaming Collective(OGC)内核，支持罗技 TrueWheel 设备等等。过去几年 Linux 对游戏的支持有了显著改善，但对很多用户而言仍然需要自行配置。Baz",
-      "id": "4c28f99fd5a5"
+      "summary": "私募股权公司 Silver Lake 和沙特主权财富基金 PIF 在今年八月完成以 550 亿美元收购 EA 之后正在磋商收购游戏引擎提供商 Unity Software。Silver Lake 持有 8% 的 Unity 股权。在 Unity 发布最新财报前，收购财团论过约 250 亿美元的估值；",
+      "id": "bbd110aaebc3"
     },
     {
-      "title": "Google 和 OpenAI 的模型对特定口音有偏见",
-      "url": "https://www.solidot.org/story?sid=85804",
+      "title": "Salon 宣布终止出版",
+      "url": "https://www.solidot.org/story?sid=85815",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "研究人员调查了先进多模态模型如何评估面试、会议报告和英语口语能力测试中的语音，测试的模型包括了 Google 的 Gemini 2.5 Pro 和 Gemini 2.5 Flash，以及 OpenAI 的 GPT-Audio 1.5，开放权重模型 Qwen 3 Omni。这些模型对五种不同口音——美",
-      "id": "3daa2d06d87e"
+      "summary": "有 31 年历史的 Salon 于 2026 年 11 月 5 日宣布从即日起停止出版。Salon 创办于 1995 年 11 月 5 日，当时的互联网与今天截然不同。一小群记者开始尝试创造一些与众不同的东西：他们希望创办一种具有鲜明风格、对世界充满好奇，并且坚信互联网能以全新的方式将新闻报道与读者",
+      "id": "a8c75d937a7a"
     },
     {
-      "title": "富钾盐替换普通盐有助于每年预防数百万人死亡",
-      "url": "https://www.solidot.org/story?sid=85803",
+      "title": "摩托罗拉宣布第一款支持 GrapheneOS 的旗舰手机",
+      "url": "https://www.solidot.org/story?sid=85814",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "澳大利亚乔治全球健康研究院的研究人员评估了在 193 个国家将食盐供应转换为富钾盐的健康益处。他们发现，全球每年可预防近 300 万例死亡和 1000 万例心血管疾病和肾脏疾病新发病例。富钾盐是通过用氯化钾替代部分氯化钠（即普通食盐的主要成分）制成的。它在外观、味道和烹饪方式上都与普通食盐一样。20",
-      "id": "0d11287d196b"
+      "summary": "摩托罗拉宣布了第一款支持安全加固发行版 GrapheneOS 的旗舰手机 Signature 27，但售价高达 1600 美元。Signature 27 配备了高通目前最强大的移动芯片骁龙 8 Elite Extreme Gen 6，内存只有 12GB 没有 16GB 版本（目前内存供应紧张而且价格",
+      "id": "8a124ad26f20"
     },
     {
-      "title": "Swift 天文台从印尼上空重返大气层",
-      "url": "https://www.solidot.org/story?sid=85802",
+      "title": "微软画图应用曝出远程代码执行漏洞",
+      "url": "https://www.solidot.org/story?sid=85813",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "NASA Neil Gehrels Swift 天文台于 11 月 4 日 7:39 a.m. EST 从印尼苏门答腊上空再入大气层，坐标为北纬 3.4 度、东经 98.6 度。天文台的大部分组件在重返大气层过程中烧毁，可能有部分组件幸存下来。Swift 天文台重 1.5 吨，于 2004 年发射升",
-      "id": "e7b608f19e9a"
+      "summary": "微软画图应用曝出了一个越界读取导致的远程代码执行漏洞，受影响版本从 11.0.0.0 到 11.2605.91.0 之前。画图应用被预装在每一台 Windows PC 上，最近一段时间微软为画图应用引入了越来越多的新功能，其中包括 AI 生成功能，它同时也给画图引入了新 bug。微软用户目前可能需要",
+      "id": "e5baf9dbb37f"
+    },
+    {
+      "title": "本周看什么 | 最近值得一看的 9 部作品",
+      "url": "https://sspai.com/post/118623",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "📅本周新预告《戴高乐之战》确认引进11月2日，电影《戴高乐之战》确认引进。该系列分为《戴高乐之战：淬炼时代》《戴高乐之战：我写下你的名字》上下两部曲。由法国百代公司出品，制作成本高达7520万欧元。作 ...<a href=\"https://sspai.com/post/118623\" target",
+      "id": "fd662ede52b8"
+    },
+    {
+      "title": "iPhone 变强了，但我没有",
+      "url": "https://sspai.com/post/118250",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "我们把 iPhone 18 Pro Max 带到了深圳、香港和吉隆坡，带入了形形色色的街头。在这个过程里，我们记录了使用 iPhone 拍到的美好画面，也借此描绘了自己的心情变化和生活感悟。<a href=\"https://sspai.com/post/118250\" target=\"_blank\"",
+      "id": "359338cf4c3b"
     },
     {
       "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
@@ -201,33 +219,6 @@
       "id": "68b183be502b"
     },
     {
-      "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
-      "url": "https://sspai.com/post/118498",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...<a href=\"https://sspai.com/post/118498\" target",
-      "id": "6376c6cd727d"
-    },
-    {
-      "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
-      "url": "https://sspai.com/post/117713",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。<a href=\"https://sspai.com/post/117713\" target=\"_blank\">查看全文</a>",
-      "id": "692b652d4fdb"
-    },
-    {
-      "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
-      "url": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Q3CQMWTQJT7XAQTHW92TAX/bitcoin-5.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Core Scientific to quit Bitcoin mining by year-end as AI business surges\" clas",
-      "id": "7884bed64768"
-    },
-    {
       "title": "Here’s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
@@ -237,130 +228,139 @@
       "id": "772e97788bfd"
     },
     {
-      "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
-      "url": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PN518266V0HS41TJ9DPJYP/make-bitcoin-great-again2.png",
+      "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
+      "url": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6SANJYQTNY4SS6GASXKN37C/hi-cover-imagereview-of-mexc.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI\" cl",
-      "id": "c107f99e1244"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Treasury cuts off MEXC over alleged $16B in illicit transactions\" class=\"ty",
+      "id": "f4e932e4e5fd"
     },
     {
-      "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
-      "url": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg",
+      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+      "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S6NT7VH41TT0QGTWN2DZYP/phone-crypto-cash-cards-evil-smile-hacker.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Asian crypto exchanges batten down the hatches as hacks surge: Asia Express  \"",
-      "id": "71a8add574ab"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gnosis Pay breach exposes card details, personal data and crypto wallet inform",
+      "id": "d92e49417009"
     },
     {
-      "title": "Crypto ally French Hill wins reelection but set to lose House chair",
-      "url": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PRB5HN8051MQNHPJKXZT9K/fortune-glass-for-vote-prediction.jpg",
+      "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
+      "url": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6MAGXTEN3YDD171XWZ849SA/hacked-with-trm-logo.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto ally French Hill wins reelection but set to lose House chair\" class=\"ty",
-      "id": "18b7b8e7ab00"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance hack is ‘cyber war,’ TRM Labs executive says\" class=\"type:primaryImage",
+      "id": "41db5817327e"
     },
     {
-      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
-      "url": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PE57WMSNEKDPGAVGB8MBPQ/password-fraud-hacker-scam.png",
+      "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
+      "url": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S0G0RDKT5WK8GZZHWMB7ZP/hi-token-burning-explained-sec-1.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack\" cl",
-      "id": "8bf85ec37af6"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US 401(k) proposal leaves door open to altcoins, but hurdles remain\" class=\"ty",
+      "id": "46c5ade4b98c"
     },
     {
-      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
-      "url": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PFFXJ4XKPEQ9E1ESY0C401/two-men-with-badges.png",
+      "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
+      "url": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RZKYX3G2AZB93NGGBV65NX/digital-bank-russia.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fed, OCC check US banks after Binance hack as experts flag security risks \" cl",
-      "id": "a821ca12fcb2"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia finalizes crypto trading rules ahead of Nov. 17 rollout\" class=\"type:pr",
+      "id": "fcf6dc77b630"
     },
     {
-      "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
-      "url": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6P8H9870ZQY6MMMYHJSDGZ5/hi-how-binance-plans-to-bring-tokenized-us-stocks-4.png",
+      "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
+      "url": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5D4R4SY5YQGHZN1M57JSE8D/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price-2.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum\"",
-      "id": "5262a99dcdff"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strive buys 15,124 Bitcoin in October, closes in on top treasury holders\" clas",
+      "id": "0837864ef370"
     },
     {
-      "title": "Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup",
-      "url": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
-      "source": "Decrypt",
+      "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M500AA327W2X1RAET1WJ9AW5/article-covers-257087-bitcoin-dips-3percent-analysis-70k-btc-price-not-obviously-bearish-1280x853.webp",
+      "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "Anthropic's Claude finance assistant analyzes spending from linked accounts in the U.S., and Anthony Pompliano has a big problem with it.",
-      "id": "114439e6de14"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price dips under $75K as crypto markets miss tech-stock rebound\" class",
+      "id": "6fa12660a786"
     },
     {
-      "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
-      "url": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/Pena-Resignation-Paraguay-01-gID_4.jpg@png",
+      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
+      "url": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/scott-bessent-decrypt-style-1-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Ueno’s collapse trapped millions of Paraguayan depositors and triggered a president’s resignation, reviving Bitcoin’s argument for self-custody.",
-      "id": "cfc9a28e8874"
+      "summary": "FinCEN’s order, part of Operation Economic Outcast, bars U.S. institutions from any transfers to or from MEXC, which Treasury says facilitated $16 bil",
+      "id": "22b1a36c0dbf"
     },
     {
-      "title": "OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?",
-      "url": "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
+      "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
+      "url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "OpenAI wants to ease the backlash against AI campuses with promises on electricity, water and secrecy. Its new compact raises a tougher question: Who ",
-      "id": "de4f011b4944"
+      "summary": "Greece has approved a crypto tax framework with a €500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left imp",
+      "id": "6bda578d70c1"
     },
     {
-      "title": "DOJ Creates 'Super Intelligence' Task Force to Guard Against AI Abuse",
-      "url": "https://decrypt.co/382672/doj-creates-super-intelligence-task-force-to-guard-against-ai-abuse",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/DOJ-gID_7.jpg@png",
+      "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
+      "url": "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Led by two senior DOJ officials, the Super Intelligence Task Force will target misuse by foreign governments, criminal groups and fraudsters—while pus",
-      "id": "510519eb2635"
+      "summary": "Hyperliquid Strategies has applied to become a U.S. futures commission merchant, a move that could let Americans trade perpetual futures on permission",
+      "id": "ed5181a9bc00"
     },
     {
-      "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
-      "url": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-brazil-bitcoin-gID_7.png@png",
+      "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
+      "url": "https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/paraguay-flag-protests-banks-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Fresh forensic analysis traces $48.6 million across 11 blockchains and finds thousands of customer deposit addresses drained hours after the Brazilian",
-      "id": "6d3ca723173a"
+      "summary": "Savers locked out of Ueno Bank burned their cards, booed a former presidential candidate out of the crowd, and watched Congress move to remove Preside",
+      "id": "258b3f67a417"
     },
     {
-      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever",
-      "url": "https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-gID_7.jpg@png",
+      "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+      "url": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Zcash's latest upgrade promises faster transactions, but thousands of coins remain in an aging privacy system that will soon stop accepting withdrawal",
-      "id": "5c963871f73b"
+      "summary": "Fidelity and BlackRock led Thursday's Bitcoin ETF withdrawals as a technology-stock selloff rattled risk assets.",
+      "id": "05ca1a31c3d2"
     },
     {
-      "title": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them",
-      "url": "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+      "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
+      "url": "https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Treasury-Department1-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "An automated OpenAI system produced working exploits and draft fixes at roughly $1,279 per flaw, raising new questions about how cheaply AI can find h",
-      "id": "74b62190f030"
+      "summary": "OFAC targeted offshore companies and associates it says helped Prince Group executives hide assets and dodge earlier sanctions.",
+      "id": "1217906fd43d"
     },
     {
-      "title": "Trump-Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books",
-      "url": "https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png@png",
+      "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
+      "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/crypto-credit-cards-mastercard-visa-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "The Hut 8-backed miner reversed a second-quarter loss, driven largely by a $197 million gain on its Bitcoin holdings.",
-      "id": "70e5efef7a3d"
+      "summary": "Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren’t affected and its enterprise ",
+      "id": "1095c5cbfc46"
+    },
+    {
+      "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
+      "url": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
+      "source": "Decrypt",
+      "category": "crypto",
+      "summary": "Bitcoin fell toward $75,500 after AI stocks plunged, and over $1 billion in the crypto derivatives market has been wiped out.",
+      "id": "d86abd2a190b"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -474,6 +474,24 @@
   "categories": {
     "ai": [
       {
+        "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+        "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+        "id": "2c59d13cb1a5"
+      },
+      {
+        "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+        "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tu",
+        "id": "3cc40dc99f7a"
+      },
+      {
         "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
         "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
         "image": "",
@@ -528,24 +546,6 @@
         "id": "92f4f7c53484"
       },
       {
-        "title": "Securing the agentic enterprise with data lineage",
-        "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal com",
-        "id": "085f249c12e8"
-      },
-      {
-        "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-        "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-        "id": "0bde0f2089d2"
-      },
-      {
         "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
         "source": "OpenAI Blog",
         "category": "ai",
@@ -584,76 +584,94 @@
     ],
     "tech": [
       {
-        "title": "印度金融机构遭黑客利用 AI 工具发动的网络攻击",
-        "url": "https://www.solidot.org/story?sid=85809",
+        "title": "从 Linux 到维基百科：志愿者如何构建互联网",
+        "url": "https://www.solidot.org/story?sid=85820",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "印度计算机应急响应小组（CERT-In）星期三发布安全通报，被称为“狡猾猎鹰”（Crafty Falcon）的黑客组织，已入侵非银行贷款机构、金融科技公司及加密货币交易所。攻击者利用公开可用的 AI 工具，实现高速自动化入侵。印度计算机应急响应小组形容这项威胁“仍在发生，且持续活跃”。该机构点名四款",
-        "id": "a74670f80482"
+        "summary": "Linux 和维基百科代表了一种被称为同侪生产（Peer Production）的模式——这一名字由法学教授 Yochai Benkler 提出。古典经济学认为，如果想要人们开展合作以及有效分配合作所产生的成果，那么最有效方式是通过私人营利性企业实现，即由这些企业在开放市场中销售商品或服务。企业雇用",
+        "id": "e0a9350d84b0"
       },
       {
-        "title": "同步导致电网呈现周期为一分钟的震荡",
-        "url": "https://www.solidot.org/story?sid=85808",
+        "title": "特斯拉将停产 Cyber​​truck",
+        "url": "https://www.solidot.org/story?sid=85819",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "今天的电网接入了数以百万计的数字控制设备，为了维持电力供需平衡，精准预测和实时控制必不可少。电力系统因此转变成为一种信息物理融合的基础设施（Cyber–Physical Infrastructure）。物理设备与数字控制系统之间形成了紧密的相互依存关系，在带来前所未有的效率与灵活性的同时也引入了新的",
-        "id": "c69bfcbdb9c7"
+        "summary": "特斯拉 CEO 马斯克（Elon Musk）宣布将于 2027 年年中停产电动皮卡 Cyber​​truck。生产电动皮卡的工厂很可能转为生产电动出租车 Cybercabs。马斯克于 2019 年末宣布了外形奇特的 Cyber​​truck，预计售价低于 4 万美元，宣称它会和其主力电动汽车 Mod",
+        "id": "adc521ff7fc6"
       },
       {
-        "title": "越南对足球直播盗版者判刑最高一年",
-        "url": "https://www.solidot.org/story?sid=85807",
+        "title": "NASA 通过 AI 生成图像宣布 X-70 试验机",
+        "url": "https://www.solidot.org/story?sid=85818",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "越南一家法院对 14 名参与盗版足球赛事直播网站 Bun Cha TV 的团队判处最高一年徒刑。4 名内容、编程和运营团队负责人被判处 12 个月徒刑，另外 5 人判处 10 个月监禁，2 人判处 8 个月监禁，3 名解说员被判处 10 个月缓刑。所有 14 名被告都承认了指控，配合了调查。Bun ",
-        "id": "b9fb95ff4545"
+        "summary": "NASA 宣布了新试验机 X-70 Fractal，它展示了一幅生成图像——即并非实图，而是 AI 生成的。NASA 称，X-70 是载人飞行器，设计巡航速度为 0.75 马赫，最大飞行高度约 13700 米，航程 2778 公里。X-70 起飞重量为 4536 公斤，设计可容纳 900 公斤的机内",
+        "id": "83d754bb49cd"
       },
       {
-        "title": "白宫网络监测到住宅代理活动",
-        "url": "https://www.solidot.org/story?sid=85806",
+        "title": "中国三季度 CO2 排放下降 3%",
+        "url": "https://www.solidot.org/story?sid=85817",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "安全公司 Layer3 Intel 报告，他们在分配给白宫的自治系统 AS2650 中监测到住宅代理服务的活动。住宅代理服务会将用户的网络地址租给其他人使用。Layer3 在 10 月 5 日-11 月 3 日期间观察到了 236 次住宅代理连接活动。住宅代理的源头被认为来自 Windows 11 ",
-        "id": "7c7959a88c19"
+        "summary": "根据 Carbon Brief 的分析，中国第三季度 7-9 月的 CO2 排放量同比下降 3.1%，为 2022 年以来最大降幅。今年至今中国碳排放量累计下降 0.5%。数据显示，中国第三季度石油消费量同比下降 4%，煤炭使用量同比下降 3%。第三季度 CO2 排放量下降的关键因素之一是燃煤发电量",
+        "id": "9e9d7b8cedef"
       },
       {
-        "title": "Bazzite 45 释出",
-        "url": "https://www.solidot.org/story?sid=85805",
+        "title": "Silver Lake 和 PIF 磋商收购 Unity Software",
+        "url": "https://www.solidot.org/story?sid=85816",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "基于 Fedora 的游戏发行版 Bazzite 释出了 v45。主要变化包括；基于 Fedora 45，更新 Open Gaming Collective(OGC)内核，支持罗技 TrueWheel 设备等等。过去几年 Linux 对游戏的支持有了显著改善，但对很多用户而言仍然需要自行配置。Baz",
-        "id": "4c28f99fd5a5"
+        "summary": "私募股权公司 Silver Lake 和沙特主权财富基金 PIF 在今年八月完成以 550 亿美元收购 EA 之后正在磋商收购游戏引擎提供商 Unity Software。Silver Lake 持有 8% 的 Unity 股权。在 Unity 发布最新财报前，收购财团论过约 250 亿美元的估值；",
+        "id": "bbd110aaebc3"
       },
       {
-        "title": "Google 和 OpenAI 的模型对特定口音有偏见",
-        "url": "https://www.solidot.org/story?sid=85804",
+        "title": "Salon 宣布终止出版",
+        "url": "https://www.solidot.org/story?sid=85815",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "研究人员调查了先进多模态模型如何评估面试、会议报告和英语口语能力测试中的语音，测试的模型包括了 Google 的 Gemini 2.5 Pro 和 Gemini 2.5 Flash，以及 OpenAI 的 GPT-Audio 1.5，开放权重模型 Qwen 3 Omni。这些模型对五种不同口音——美",
-        "id": "3daa2d06d87e"
+        "summary": "有 31 年历史的 Salon 于 2026 年 11 月 5 日宣布从即日起停止出版。Salon 创办于 1995 年 11 月 5 日，当时的互联网与今天截然不同。一小群记者开始尝试创造一些与众不同的东西：他们希望创办一种具有鲜明风格、对世界充满好奇，并且坚信互联网能以全新的方式将新闻报道与读者",
+        "id": "a8c75d937a7a"
       },
       {
-        "title": "富钾盐替换普通盐有助于每年预防数百万人死亡",
-        "url": "https://www.solidot.org/story?sid=85803",
+        "title": "摩托罗拉宣布第一款支持 GrapheneOS 的旗舰手机",
+        "url": "https://www.solidot.org/story?sid=85814",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "澳大利亚乔治全球健康研究院的研究人员评估了在 193 个国家将食盐供应转换为富钾盐的健康益处。他们发现，全球每年可预防近 300 万例死亡和 1000 万例心血管疾病和肾脏疾病新发病例。富钾盐是通过用氯化钾替代部分氯化钠（即普通食盐的主要成分）制成的。它在外观、味道和烹饪方式上都与普通食盐一样。20",
-        "id": "0d11287d196b"
+        "summary": "摩托罗拉宣布了第一款支持安全加固发行版 GrapheneOS 的旗舰手机 Signature 27，但售价高达 1600 美元。Signature 27 配备了高通目前最强大的移动芯片骁龙 8 Elite Extreme Gen 6，内存只有 12GB 没有 16GB 版本（目前内存供应紧张而且价格",
+        "id": "8a124ad26f20"
       },
       {
-        "title": "Swift 天文台从印尼上空重返大气层",
-        "url": "https://www.solidot.org/story?sid=85802",
+        "title": "微软画图应用曝出远程代码执行漏洞",
+        "url": "https://www.solidot.org/story?sid=85813",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "NASA Neil Gehrels Swift 天文台于 11 月 4 日 7:39 a.m. EST 从印尼苏门答腊上空再入大气层，坐标为北纬 3.4 度、东经 98.6 度。天文台的大部分组件在重返大气层过程中烧毁，可能有部分组件幸存下来。Swift 天文台重 1.5 吨，于 2004 年发射升",
-        "id": "e7b608f19e9a"
+        "summary": "微软画图应用曝出了一个越界读取导致的远程代码执行漏洞，受影响版本从 11.0.0.0 到 11.2605.91.0 之前。画图应用被预装在每一台 Windows PC 上，最近一段时间微软为画图应用引入了越来越多的新功能，其中包括 AI 生成功能，它同时也给画图引入了新 bug。微软用户目前可能需要",
+        "id": "e5baf9dbb37f"
+      },
+      {
+        "title": "本周看什么 | 最近值得一看的 9 部作品",
+        "url": "https://sspai.com/post/118623",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "📅本周新预告《戴高乐之战》确认引进11月2日，电影《戴高乐之战》确认引进。该系列分为《戴高乐之战：淬炼时代》《戴高乐之战：我写下你的名字》上下两部曲。由法国百代公司出品，制作成本高达7520万欧元。作 ...<a href=\"https://sspai.com/post/118623\" target",
+        "id": "fd662ede52b8"
+      },
+      {
+        "title": "iPhone 变强了，但我没有",
+        "url": "https://sspai.com/post/118250",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "我们把 iPhone 18 Pro Max 带到了深圳、香港和吉隆坡，带入了形形色色的街头。在这个过程里，我们记录了使用 iPhone 拍到的美好画面，也借此描绘了自己的心情变化和生活感悟。<a href=\"https://sspai.com/post/118250\" target=\"_blank\"",
+        "id": "359338cf4c3b"
       },
       {
         "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
@@ -710,24 +728,6 @@
         "id": "68b183be502b"
       },
       {
-        "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
-        "url": "https://sspai.com/post/118498",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...<a href=\"https://sspai.com/post/118498\" target",
-        "id": "6376c6cd727d"
-      },
-      {
-        "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
-        "url": "https://sspai.com/post/117713",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。<a href=\"https://sspai.com/post/117713\" target=\"_blank\">查看全文</a>",
-        "id": "692b652d4fdb"
-      },
-      {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
         "source": "MacRumors",
         "category": "tech",
@@ -766,15 +766,6 @@
     ],
     "crypto": [
       {
-        "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
-        "url": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Q3CQMWTQJT7XAQTHW92TAX/bitcoin-5.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Core Scientific to quit Bitcoin mining by year-end as AI business surges\" clas",
-        "id": "7884bed64768"
-      },
-      {
         "title": "Here’s what happened in crypto today",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
@@ -784,130 +775,139 @@
         "id": "772e97788bfd"
       },
       {
-        "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
-        "url": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PN518266V0HS41TJ9DPJYP/make-bitcoin-great-again2.png",
+        "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
+        "url": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6SANJYQTNY4SS6GASXKN37C/hi-cover-imagereview-of-mexc.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI\" cl",
-        "id": "c107f99e1244"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Treasury cuts off MEXC over alleged $16B in illicit transactions\" class=\"ty",
+        "id": "f4e932e4e5fd"
       },
       {
-        "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
-        "url": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg",
+        "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+        "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S6NT7VH41TT0QGTWN2DZYP/phone-crypto-cash-cards-evil-smile-hacker.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Asian crypto exchanges batten down the hatches as hacks surge: Asia Express  \"",
-        "id": "71a8add574ab"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gnosis Pay breach exposes card details, personal data and crypto wallet inform",
+        "id": "d92e49417009"
       },
       {
-        "title": "Crypto ally French Hill wins reelection but set to lose House chair",
-        "url": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PRB5HN8051MQNHPJKXZT9K/fortune-glass-for-vote-prediction.jpg",
+        "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
+        "url": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6MAGXTEN3YDD171XWZ849SA/hacked-with-trm-logo.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto ally French Hill wins reelection but set to lose House chair\" class=\"ty",
-        "id": "18b7b8e7ab00"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance hack is ‘cyber war,’ TRM Labs executive says\" class=\"type:primaryImage",
+        "id": "41db5817327e"
       },
       {
-        "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
-        "url": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PE57WMSNEKDPGAVGB8MBPQ/password-fraud-hacker-scam.png",
+        "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
+        "url": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S0G0RDKT5WK8GZZHWMB7ZP/hi-token-burning-explained-sec-1.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack\" cl",
-        "id": "8bf85ec37af6"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US 401(k) proposal leaves door open to altcoins, but hurdles remain\" class=\"ty",
+        "id": "46c5ade4b98c"
       },
       {
-        "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
-        "url": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PFFXJ4XKPEQ9E1ESY0C401/two-men-with-badges.png",
+        "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
+        "url": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RZKYX3G2AZB93NGGBV65NX/digital-bank-russia.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fed, OCC check US banks after Binance hack as experts flag security risks \" cl",
-        "id": "a821ca12fcb2"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia finalizes crypto trading rules ahead of Nov. 17 rollout\" class=\"type:pr",
+        "id": "fcf6dc77b630"
       },
       {
-        "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
-        "url": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6P8H9870ZQY6MMMYHJSDGZ5/hi-how-binance-plans-to-bring-tokenized-us-stocks-4.png",
+        "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
+        "url": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5D4R4SY5YQGHZN1M57JSE8D/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price-2.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum\"",
-        "id": "5262a99dcdff"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strive buys 15,124 Bitcoin in October, closes in on top treasury holders\" clas",
+        "id": "0837864ef370"
       },
       {
-        "title": "Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup",
-        "url": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
-        "source": "Decrypt",
+        "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M500AA327W2X1RAET1WJ9AW5/article-covers-257087-bitcoin-dips-3percent-analysis-70k-btc-price-not-obviously-bearish-1280x853.webp",
+        "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "Anthropic's Claude finance assistant analyzes spending from linked accounts in the U.S., and Anthony Pompliano has a big problem with it.",
-        "id": "114439e6de14"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price dips under $75K as crypto markets miss tech-stock rebound\" class",
+        "id": "6fa12660a786"
       },
       {
-        "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
-        "url": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/Pena-Resignation-Paraguay-01-gID_4.jpg@png",
+        "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
+        "url": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/scott-bessent-decrypt-style-1-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Ueno’s collapse trapped millions of Paraguayan depositors and triggered a president’s resignation, reviving Bitcoin’s argument for self-custody.",
-        "id": "cfc9a28e8874"
+        "summary": "FinCEN’s order, part of Operation Economic Outcast, bars U.S. institutions from any transfers to or from MEXC, which Treasury says facilitated $16 bil",
+        "id": "22b1a36c0dbf"
       },
       {
-        "title": "OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?",
-        "url": "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
+        "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
+        "url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "OpenAI wants to ease the backlash against AI campuses with promises on electricity, water and secrecy. Its new compact raises a tougher question: Who ",
-        "id": "de4f011b4944"
+        "summary": "Greece has approved a crypto tax framework with a €500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left imp",
+        "id": "6bda578d70c1"
       },
       {
-        "title": "DOJ Creates 'Super Intelligence' Task Force to Guard Against AI Abuse",
-        "url": "https://decrypt.co/382672/doj-creates-super-intelligence-task-force-to-guard-against-ai-abuse",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/DOJ-gID_7.jpg@png",
+        "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
+        "url": "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Led by two senior DOJ officials, the Super Intelligence Task Force will target misuse by foreign governments, criminal groups and fraudsters—while pus",
-        "id": "510519eb2635"
+        "summary": "Hyperliquid Strategies has applied to become a U.S. futures commission merchant, a move that could let Americans trade perpetual futures on permission",
+        "id": "ed5181a9bc00"
       },
       {
-        "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
-        "url": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-brazil-bitcoin-gID_7.png@png",
+        "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
+        "url": "https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/paraguay-flag-protests-banks-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Fresh forensic analysis traces $48.6 million across 11 blockchains and finds thousands of customer deposit addresses drained hours after the Brazilian",
-        "id": "6d3ca723173a"
+        "summary": "Savers locked out of Ueno Bank burned their cards, booed a former presidential candidate out of the crowd, and watched Congress move to remove Preside",
+        "id": "258b3f67a417"
       },
       {
-        "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever",
-        "url": "https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-gID_7.jpg@png",
+        "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+        "url": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Zcash's latest upgrade promises faster transactions, but thousands of coins remain in an aging privacy system that will soon stop accepting withdrawal",
-        "id": "5c963871f73b"
+        "summary": "Fidelity and BlackRock led Thursday's Bitcoin ETF withdrawals as a technology-stock selloff rattled risk assets.",
+        "id": "05ca1a31c3d2"
       },
       {
-        "title": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them",
-        "url": "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
+        "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
+        "url": "https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Treasury-Department1-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "An automated OpenAI system produced working exploits and draft fixes at roughly $1,279 per flaw, raising new questions about how cheaply AI can find h",
-        "id": "74b62190f030"
+        "summary": "OFAC targeted offshore companies and associates it says helped Prince Group executives hide assets and dodge earlier sanctions.",
+        "id": "1217906fd43d"
       },
       {
-        "title": "Trump-Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books",
-        "url": "https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png@png",
+        "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
+        "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/crypto-credit-cards-mastercard-visa-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "The Hut 8-backed miner reversed a second-quarter loss, driven largely by a $197 million gain on its Bitcoin holdings.",
-        "id": "70e5efef7a3d"
+        "summary": "Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren’t affected and its enterprise ",
+        "id": "1095c5cbfc46"
+      },
+      {
+        "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
+        "url": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
+        "source": "Decrypt",
+        "category": "crypto",
+        "summary": "Bitcoin fell toward $75,500 after AI stocks plunged, and over $1 billion in the crypto derivatives market has been wiped out.",
+        "id": "d86abd2a190b"
       },
       {
         "title": "比特币突破 80000 美元",
