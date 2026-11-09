@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T03:42:56.567294",
+  "last_updated": "2026-11-09T03:55:23.469191",
   "total": 52,
   "news": [
     {
@@ -75,6 +75,42 @@
       "id": "92f4f7c53484"
     },
     {
+      "title": "LG 因其智能电视监视用户面临法律诉讼",
+      "url": "https://www.solidot.org/story?sid=85829",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "今年 9 月，研究人员报告 LG 智能电视会在屏幕关闭但没有断电的待机状态下扫描家庭网络，寻找手机和智能手表等设备和记录麦克风音频。除了内部 IP 地址，智能电视还会收集邻近 Wi-Fi 网络的名称、信号强度以及位置数据。收集的数据会发送到 LG 的定向广告部门 LG Ad Solutions。LG",
+      "id": "a44f6dceb039"
+    },
+    {
+      "title": "太平洋垃圾带海水变得更蓝更绿",
+      "url": "https://www.solidot.org/story?sid=85828",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "2002-2022 年间，在太平洋垃圾带内，部分太平洋海域的颜色发生了变化，部分区域明显变得更蓝、更绿。一项新研究表明，这可能是海水中微塑料浓度增加所致。直径小于 300 微米的微塑料颗粒造成的海洋污染难以直接测量，实验室研究表明，这一尺寸的微塑料具有特定的光学特性，或许能让人们通过遥感手段测量其在",
+      "id": "0a2400016916"
+    },
+    {
+      "title": "微软移除了 PC 到 PC 的迁移功能",
+      "url": "https://www.solidot.org/story?sid=85827",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "Windows 11 曾提供了一种 PC-to-PC 迁移工具，允许用户通过 Wi-Fi 或以太网在两台 PC 之间直接传输文件和设置。然而该工具如今已经移除。微软更新后的支持文档推荐用户使用 Windows Backup 工具。该工具不再依赖两台 PC 之间的直接连接，而是基于云存储服务 OneD",
+      "id": "1491f5ef58ba"
+    },
+    {
+      "title": "台积电考虑进入内存行业",
+      "url": "https://www.solidot.org/story?sid=85826",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "应最大客户英伟达的要求，台积电考虑进入内存行业，生产名为 3D DRAM 的先进内存芯片。台积电可能会选择新建工厂生产先进内存芯片，但尚不清楚计划何时开始生产。它也在探索收购现有工厂将其改造为内存芯片生产基地的可能性。该项目由台积电负责先进封装业务的副总裁徐国晋的领导。如果台积电进军先进内存芯片行业",
+      "id": "ff382f103ec0"
+    },
+    {
       "title": "ESA Hera 探测器发回 DART 撞击的小行星照片",
       "url": "https://www.solidot.org/story?sid=85825",
       "image": "",
@@ -111,40 +147,22 @@
       "id": "2f1eb44edf03"
     },
     {
-      "title": "广电总局整治 AI 低俗微短剧",
-      "url": "https://www.solidot.org/story?sid=85821",
+      "title": "派早报：特斯拉将停产 Cybertruck",
+      "url": "https://sspai.com/post/118805",
       "image": "",
-      "source": "Solidot",
+      "source": "少数派",
       "category": "tech",
-      "summary": "广电总局周五晚上公布了一则通知，整治 AI 低俗短剧：“针对 AI 微短剧质量良莠不齐、AI 技术助长低俗不良内容反弹等问题，部署开展新一轮微短剧低俗化同质化专项治理工作，治理为期两个月，自 11 月 1 日起至 12 月底。新一轮专项治理聚焦两个方面的突出问题，内容创作方面，深化治理儿童类不良、软",
-      "id": "2a3fbc5195f6"
+      "summary": "<p>特斯拉将停产 Cybertruck</p><p>深圳在 APEC 前夕整顿非法市场</p><p>美国数据中心股持续遭抛售，大量建设项目被取消</p><p>京津冀三地消协组织敦促航司、平台规范机票退改签</p><p>FBI 警告冰柜网络安全攻击风险</p><p>广电总局部署开展新一轮微短剧专项治",
+      "id": "3ba82d819828"
     },
     {
-      "title": "从 Linux 到维基百科：志愿者如何构建互联网",
-      "url": "https://www.solidot.org/story?sid=85820",
+      "title": "苹果产品那些不够颠覆，却值得被学习的细节",
+      "url": "https://sspai.com/post/118114",
       "image": "",
-      "source": "Solidot",
+      "source": "少数派",
       "category": "tech",
-      "summary": "Linux 和维基百科代表了一种被称为同侪生产（Peer Production）的模式——这一名字由法学教授 Yochai Benkler 提出。古典经济学认为，如果想要人们开展合作以及有效分配合作所产生的成果，那么最有效方式是通过私人营利性企业实现，即由这些企业在开放市场中销售商品或服务。企业雇用",
-      "id": "e0a9350d84b0"
-    },
-    {
-      "title": "特斯拉将停产 Cyber​​truck",
-      "url": "https://www.solidot.org/story?sid=85819",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "特斯拉 CEO 马斯克（Elon Musk）宣布将于 2027 年年中停产电动皮卡 Cyber​​truck。生产电动皮卡的工厂很可能转为生产电动出租车 Cybercabs。马斯克于 2019 年末宣布了外形奇特的 Cyber​​truck，预计售价低于 4 万美元，宣称它会和其主力电动汽车 Mod",
-      "id": "adc521ff7fc6"
-    },
-    {
-      "title": "NASA 通过 AI 生成图像宣布 X-70 试验机",
-      "url": "https://www.solidot.org/story?sid=85818",
-      "image": "",
-      "source": "Solidot",
-      "category": "tech",
-      "summary": "NASA 宣布了新试验机 X-70 Fractal，它展示了一幅生成图像——即并非实图，而是 AI 生成的。NASA 称，X-70 是载人飞行器，设计巡航速度为 0.75 马赫，最大飞行高度约 13700 米，航程 2778 公里。X-70 起飞重量为 4536 公斤，设计可容纳 900 公斤的机内",
-      "id": "83d754bb49cd"
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/118114\" target",
+      "id": "b13af8be61c7"
     },
     {
       "title": "一个 05 后的个人数码编年史",
@@ -201,22 +219,13 @@
       "id": "521bb5719195"
     },
     {
-      "title": "新玩意 255｜少数派的编辑们最近买了啥？",
-      "url": "https://sspai.com/post/118541",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/118541\" target",
-      "id": "63c7bb0f5bd6"
-    },
-    {
-      "title": "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
-      "url": "https://sspai.com/prime/story/30-easy-steamed-dishes",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "蒸锅真是懒人做饭好帮手。<a href=\"https://sspai.com/prime/story/30-easy-steamed-dishes\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/preco",
-      "id": "f9f81b60a7a9"
+      "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6YMNVH88N4KSXQB6XWMMW2K/screenshot-2026-11-09-093227.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodl",
+      "id": "87f548b094fd"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -226,6 +235,33 @@
       "category": "crypto",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s",
       "id": "772e97788bfd"
+    },
+    {
+      "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
+      "url": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6XKMA4GCCY02X2C5H5XBVBP/hi-consortium-open-doors-binance.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance France emails announce closure of its users’ accounts on Dec. 31\" clas",
+      "id": "b475b7076379"
+    },
+    {
+      "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
+      "url": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X8JFEEG972QNHB7E2TQ63J/hi-the-rise-of-major-institutions-is-inevitable-microsoft.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Amsterdam protesters break into Microsoft data center construction site: Repor",
+      "id": "7255f5d611df"
+    },
+    {
+      "title": "Binance’s  finance chief Kaiser Ng to leave company, report says",
+      "url": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X3D6NBXVQ58B0WF2EB2C96/bank-building-hall-entrance-door-binance.png",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance’s  finance chief Kaiser Ng to leave company, report says\" class=\"type:",
+      "id": "28285e15afb0"
     },
     {
       "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
@@ -255,40 +291,13 @@
       "id": "61c8a030334c"
     },
     {
-      "title": "Suspicious prediction market activity seen before election poll release: NYT",
-      "url": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TKZ82M5JMRKRWCTC3GH1QA/hi-one-month-left-to-polymarket-season.jpg",
-      "source": "CoinTelegraph",
+      "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
+      "url": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
+      "source": "Decrypt",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Suspicious prediction market activity seen before election poll release: NYT\" ",
-      "id": "15a176329a89"
-    },
-    {
-      "title": "Nvidia may face a more hostile post-election Washington: Report",
-      "url": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nvidia may face a more hostile post-election Washington: Report\" class=\"type:p",
-      "id": "8a4b76c4aec7"
-    },
-    {
-      "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
-      "url": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6SANJYQTNY4SS6GASXKN37C/hi-cover-imagereview-of-mexc.png",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Treasury cuts off MEXC over alleged $16B in illicit transactions\" class=\"ty",
-      "id": "f4e932e4e5fd"
-    },
-    {
-      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-      "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S6NT7VH41TT0QGTWN2DZYP/phone-crypto-cash-cards-evil-smile-hacker.png",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gnosis Pay breach exposes card details, personal data and crypto wallet inform",
-      "id": "d92e49417009"
+      "summary": "Cory Fields wants future quantum attackers to post Bitcoin as collateral before touching vulnerable wallets, giving prepared owners a chance to recove",
+      "id": "4eed89617786"
     },
     {
       "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
@@ -352,15 +361,6 @@
       "category": "crypto",
       "summary": "Savers locked out of Ueno Bank burned their cards, booed a former presidential candidate out of the crowd, and watched Congress move to remove Preside",
       "id": "258b3f67a417"
-    },
-    {
-      "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
-      "url": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
-      "source": "Decrypt",
-      "category": "crypto",
-      "summary": "Fidelity and BlackRock led Thursday's Bitcoin ETF withdrawals as a technology-stock selloff rattled risk assets.",
-      "id": "05ca1a31c3d2"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -584,6 +584,42 @@
     ],
     "tech": [
       {
+        "title": "LG 因其智能电视监视用户面临法律诉讼",
+        "url": "https://www.solidot.org/story?sid=85829",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "今年 9 月，研究人员报告 LG 智能电视会在屏幕关闭但没有断电的待机状态下扫描家庭网络，寻找手机和智能手表等设备和记录麦克风音频。除了内部 IP 地址，智能电视还会收集邻近 Wi-Fi 网络的名称、信号强度以及位置数据。收集的数据会发送到 LG 的定向广告部门 LG Ad Solutions。LG",
+        "id": "a44f6dceb039"
+      },
+      {
+        "title": "太平洋垃圾带海水变得更蓝更绿",
+        "url": "https://www.solidot.org/story?sid=85828",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "2002-2022 年间，在太平洋垃圾带内，部分太平洋海域的颜色发生了变化，部分区域明显变得更蓝、更绿。一项新研究表明，这可能是海水中微塑料浓度增加所致。直径小于 300 微米的微塑料颗粒造成的海洋污染难以直接测量，实验室研究表明，这一尺寸的微塑料具有特定的光学特性，或许能让人们通过遥感手段测量其在",
+        "id": "0a2400016916"
+      },
+      {
+        "title": "微软移除了 PC 到 PC 的迁移功能",
+        "url": "https://www.solidot.org/story?sid=85827",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "Windows 11 曾提供了一种 PC-to-PC 迁移工具，允许用户通过 Wi-Fi 或以太网在两台 PC 之间直接传输文件和设置。然而该工具如今已经移除。微软更新后的支持文档推荐用户使用 Windows Backup 工具。该工具不再依赖两台 PC 之间的直接连接，而是基于云存储服务 OneD",
+        "id": "1491f5ef58ba"
+      },
+      {
+        "title": "台积电考虑进入内存行业",
+        "url": "https://www.solidot.org/story?sid=85826",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "应最大客户英伟达的要求，台积电考虑进入内存行业，生产名为 3D DRAM 的先进内存芯片。台积电可能会选择新建工厂生产先进内存芯片，但尚不清楚计划何时开始生产。它也在探索收购现有工厂将其改造为内存芯片生产基地的可能性。该项目由台积电负责先进封装业务的副总裁徐国晋的领导。如果台积电进军先进内存芯片行业",
+        "id": "ff382f103ec0"
+      },
+      {
         "title": "ESA Hera 探测器发回 DART 撞击的小行星照片",
         "url": "https://www.solidot.org/story?sid=85825",
         "image": "",
@@ -620,40 +656,22 @@
         "id": "2f1eb44edf03"
       },
       {
-        "title": "广电总局整治 AI 低俗微短剧",
-        "url": "https://www.solidot.org/story?sid=85821",
+        "title": "派早报：特斯拉将停产 Cybertruck",
+        "url": "https://sspai.com/post/118805",
         "image": "",
-        "source": "Solidot",
+        "source": "少数派",
         "category": "tech",
-        "summary": "广电总局周五晚上公布了一则通知，整治 AI 低俗短剧：“针对 AI 微短剧质量良莠不齐、AI 技术助长低俗不良内容反弹等问题，部署开展新一轮微短剧低俗化同质化专项治理工作，治理为期两个月，自 11 月 1 日起至 12 月底。新一轮专项治理聚焦两个方面的突出问题，内容创作方面，深化治理儿童类不良、软",
-        "id": "2a3fbc5195f6"
+        "summary": "<p>特斯拉将停产 Cybertruck</p><p>深圳在 APEC 前夕整顿非法市场</p><p>美国数据中心股持续遭抛售，大量建设项目被取消</p><p>京津冀三地消协组织敦促航司、平台规范机票退改签</p><p>FBI 警告冰柜网络安全攻击风险</p><p>广电总局部署开展新一轮微短剧专项治",
+        "id": "3ba82d819828"
       },
       {
-        "title": "从 Linux 到维基百科：志愿者如何构建互联网",
-        "url": "https://www.solidot.org/story?sid=85820",
+        "title": "苹果产品那些不够颠覆，却值得被学习的细节",
+        "url": "https://sspai.com/post/118114",
         "image": "",
-        "source": "Solidot",
+        "source": "少数派",
         "category": "tech",
-        "summary": "Linux 和维基百科代表了一种被称为同侪生产（Peer Production）的模式——这一名字由法学教授 Yochai Benkler 提出。古典经济学认为，如果想要人们开展合作以及有效分配合作所产生的成果，那么最有效方式是通过私人营利性企业实现，即由这些企业在开放市场中销售商品或服务。企业雇用",
-        "id": "e0a9350d84b0"
-      },
-      {
-        "title": "特斯拉将停产 Cyber​​truck",
-        "url": "https://www.solidot.org/story?sid=85819",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "特斯拉 CEO 马斯克（Elon Musk）宣布将于 2027 年年中停产电动皮卡 Cyber​​truck。生产电动皮卡的工厂很可能转为生产电动出租车 Cybercabs。马斯克于 2019 年末宣布了外形奇特的 Cyber​​truck，预计售价低于 4 万美元，宣称它会和其主力电动汽车 Mod",
-        "id": "adc521ff7fc6"
-      },
-      {
-        "title": "NASA 通过 AI 生成图像宣布 X-70 试验机",
-        "url": "https://www.solidot.org/story?sid=85818",
-        "image": "",
-        "source": "Solidot",
-        "category": "tech",
-        "summary": "NASA 宣布了新试验机 X-70 Fractal，它展示了一幅生成图像——即并非实图，而是 AI 生成的。NASA 称，X-70 是载人飞行器，设计巡航速度为 0.75 马赫，最大飞行高度约 13700 米，航程 2778 公里。X-70 起飞重量为 4536 公斤，设计可容纳 900 公斤的机内",
-        "id": "83d754bb49cd"
+        "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/118114\" target",
+        "id": "b13af8be61c7"
       },
       {
         "title": "一个 05 后的个人数码编年史",
@@ -710,24 +728,6 @@
         "id": "521bb5719195"
       },
       {
-        "title": "新玩意 255｜少数派的编辑们最近买了啥？",
-        "url": "https://sspai.com/post/118541",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/118541\" target",
-        "id": "63c7bb0f5bd6"
-      },
-      {
-        "title": "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
-        "url": "https://sspai.com/prime/story/30-easy-steamed-dishes",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "蒸锅真是懒人做饭好帮手。<a href=\"https://sspai.com/prime/story/30-easy-steamed-dishes\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/preco",
-        "id": "f9f81b60a7a9"
-      },
-      {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
         "source": "MacRumors",
         "category": "tech",
@@ -766,6 +766,15 @@
     ],
     "crypto": [
       {
+        "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+        "url": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6YMNVH88N4KSXQB6XWMMW2K/screenshot-2026-11-09-093227.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodl",
+        "id": "87f548b094fd"
+      },
+      {
         "title": "Here’s what happened in crypto today",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
@@ -773,6 +782,33 @@
         "category": "crypto",
         "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s",
         "id": "772e97788bfd"
+      },
+      {
+        "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
+        "url": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6XKMA4GCCY02X2C5H5XBVBP/hi-consortium-open-doors-binance.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance France emails announce closure of its users’ accounts on Dec. 31\" clas",
+        "id": "b475b7076379"
+      },
+      {
+        "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
+        "url": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X8JFEEG972QNHB7E2TQ63J/hi-the-rise-of-major-institutions-is-inevitable-microsoft.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Amsterdam protesters break into Microsoft data center construction site: Repor",
+        "id": "7255f5d611df"
+      },
+      {
+        "title": "Binance’s  finance chief Kaiser Ng to leave company, report says",
+        "url": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X3D6NBXVQ58B0WF2EB2C96/bank-building-hall-entrance-door-binance.png",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance’s  finance chief Kaiser Ng to leave company, report says\" class=\"type:",
+        "id": "28285e15afb0"
       },
       {
         "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
@@ -802,40 +838,13 @@
         "id": "61c8a030334c"
       },
       {
-        "title": "Suspicious prediction market activity seen before election poll release: NYT",
-        "url": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TKZ82M5JMRKRWCTC3GH1QA/hi-one-month-left-to-polymarket-season.jpg",
-        "source": "CoinTelegraph",
+        "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
+        "url": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
+        "source": "Decrypt",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Suspicious prediction market activity seen before election poll release: NYT\" ",
-        "id": "15a176329a89"
-      },
-      {
-        "title": "Nvidia may face a more hostile post-election Washington: Report",
-        "url": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nvidia may face a more hostile post-election Washington: Report\" class=\"type:p",
-        "id": "8a4b76c4aec7"
-      },
-      {
-        "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
-        "url": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6SANJYQTNY4SS6GASXKN37C/hi-cover-imagereview-of-mexc.png",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Treasury cuts off MEXC over alleged $16B in illicit transactions\" class=\"ty",
-        "id": "f4e932e4e5fd"
-      },
-      {
-        "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-        "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S6NT7VH41TT0QGTWN2DZYP/phone-crypto-cash-cards-evil-smile-hacker.png",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gnosis Pay breach exposes card details, personal data and crypto wallet inform",
-        "id": "d92e49417009"
+        "summary": "Cory Fields wants future quantum attackers to post Bitcoin as collateral before touching vulnerable wallets, giving prepared owners a chance to recove",
+        "id": "4eed89617786"
       },
       {
         "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
@@ -899,15 +908,6 @@
         "category": "crypto",
         "summary": "Savers locked out of Ueno Bank burned their cards, booed a former presidential candidate out of the crowd, and watched Congress move to remove Preside",
         "id": "258b3f67a417"
-      },
-      {
-        "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
-        "url": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
-        "source": "Decrypt",
-        "category": "crypto",
-        "summary": "Fidelity and BlackRock led Thursday's Bitcoin ETF withdrawals as a technology-stock selloff rattled risk assets.",
-        "id": "05ca1a31c3d2"
       },
       {
         "title": "比特币突破 80000 美元",
