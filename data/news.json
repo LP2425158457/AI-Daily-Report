@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-11-12T05:10:38.822900",
+  "last_updated": "2026-11-13T04:26:56.455345",
   "total": 51,
   "news": [
+    {
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures ca",
+      "id": "a00a4e6a79e7"
+    },
+    {
+      "title": "The Download: COP31’s climate challenge and the quest for immortality",
+      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "id": "1a85c974cf54"
+    },
     {
       "title": "What to know about this year’s UN climate talks",
       "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
@@ -57,85 +75,94 @@
       "id": "78e1d1574c0d"
     },
     {
-      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-      "id": "1d86cf8fc581"
-    },
-    {
-      "title": "Innovating with AI in the special chemicals industry",
-      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting n",
-      "id": "552113f4583d"
-    },
-    {
-      "title": "假如地球没有诞生生命？",
-      "url": "https://www.solidot.org/story?sid=85862",
+      "title": "用户抱怨难以在流媒体服务上找到想看的内容",
+      "url": "https://www.solidot.org/story?sid=85874",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "假如地球没有诞生生命，它会变成什么模样？华盛顿大学团队进行了计算机模拟，他们将生命的因素彻底抽离，但完整保留了地核、地函、大气、海洋以及太阳辐射等 19 项关键物理变数，模拟这颗没有生命的地球从 45 亿年前诞生至今、乃至未来 5 亿年的演化史。在长达数十亿年的岁月里，这颗死寂的地球除了因为没有植物",
-      "id": "d3f116d77ba5"
+      "summary": "根据尼尔森的 Gracenote 对美国、巴西、法国、德国、墨西哥和英国的 3000 名 18 岁及以上的流媒体用户进行的调查：虽然流媒体平台内容无比丰富，但用户经常找不到想要看的内容。逾 51% 的受访者表示：内容和流媒体服务的极度丰富，反而让人更难找到想看的东西。19.2% 的受访者表示，他们总",
+      "id": "455ebff6be4b"
     },
     {
-      "title": "Firefox 内置 VPN 服务在三个月内不限制流量",
-      "url": "https://www.solidot.org/story?sid=85861",
+      "title": "印度苹果代工厂发生三名合同工死亡事故",
+      "url": "https://www.solidot.org/story?sid=85873",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "Mozilla 宣布，为迎接年底的假期 Firefox 内置的 VPN 服务从 11 月 10 日到 2027 年 1 月 31 日之间不限制流量。Firefox 内置的 VPN 不同于 Mozilla VPN，前者设计通过 Mozilla 管理的服务器路由浏览器的流量隐藏用户的真实 IP 地址；后",
-      "id": "be57db8e9a30"
+      "summary": "塔塔电子位于泰米尔纳德邦、为苹果公司 iPhone 生产零部件的工厂发生三名处理废水处理设施的合同工死亡事故。事故发生于周一晚间，地点位于 Krishnagiri 的 Hosur。工人在检查一个外部纳滤罐时吸入了气体导致了悲剧的发生。三名工人被送往一家私立医院，医生在他们抵达时确认其已经死亡。塔塔电",
+      "id": "ad9b420cb1ff"
     },
     {
-      "title": "黑猩猩后天习得部分叫声",
-      "url": "https://www.solidot.org/story?sid=85859",
+      "title": "BMI 误判数百万人肥胖",
+      "url": "https://www.solidot.org/story?sid=85871",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "长期以来，人们认为野生黑猩猩的发声完全由遗传决定，无需学习。发表于 PNAS 期刊上的一项研究挑战了这一观点，首次发现了野生黑猩猩中存在任意性、习得性发声惯例的证据。该发现缩小了黑猩猩交流与人类交流之间的差距。词语在人类语言中具有任意性和习得性。这里的任意性指一个词语在不同背景或领域里含义可能完全不",
-      "id": "63c4729a9835"
+      "summary": "中外研究团队基于中国、英国、美国、西班牙4国、超 84 万人的数据研究证实，肥胖诊断不能只看体重，更不能单凭BMI(体重除以身高的平方)“一刀切”。长期以来，全球普遍以 BMI 作为筛查和判定肥胖的核心指标。但论文第一作者及共同通讯作者、华中科技大学同济医学院公共卫生学院教授潘安指出，BMI 存在天",
+      "id": "02d8076aa638"
     },
     {
-      "title": "刚果埃博拉病例突破 1.1 万例",
-      "url": "https://www.solidot.org/story?sid=85858",
+      "title": "天文学家发现一个恒星系统每八分钟发射一次射电信号",
+      "url": "https://www.solidot.org/story?sid=85870",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "刚果政府周三宣布该国的埃博拉病例突破 1.1 万例达到 11,042 例，有 5,387 人死亡，这是刚果至今最致命的埃博拉疫情，感染者中近半数死亡。这场疫情已成为有记录以来扩散速度最快的埃博拉病毒爆发，其规模有可能超过 2014-2016 年席卷西非的埃博拉疫情——该波疫情有逾 1.1 万人死亡。",
-      "id": "3545e787db10"
+      "summary": "天文学家发现一个不同寻常的双星系统 GPM J071507−114153，由一颗白矮星——一颗恒星死亡后留下的致密核心——和一颗类太阳 G 型恒星组成。白矮星自转一周八分钟，它每八分钟发射一次射电信号。这是首次在绕类太阳恒星运行的白矮星中探测到射电脉冲。此类双星属于被称为长周期瞬变天体（long-p",
+      "id": "6f4b2c21aeb1"
     },
     {
-      "title": "AI 生成的代码并不可靠",
-      "url": "https://www.solidot.org/story?sid=85857",
+      "title": "《Big Walk》开发商利用 AI 修 Bug 引起争议",
+      "url": "https://www.solidot.org/story?sid=85869",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "一位 100% 依赖 AI 生成代码的资深开发者认为 AI 生成的代码库无法满足高可用、高扩展性 SaaS 应用的需求。原因包括：AI 写的测试过于简单，无法覆盖真正重要的使用场景；AI 写的代码过于复杂，经常引入两三个辅助方法，实际上一个就够了，这种复杂性增加了理解代码或进行调试的难度；人类程序员",
-      "id": "833e3348fec6"
+      "summary": "热门独游《Big Walk》开发商 House House 承认在生成式 AI 帮助下修 bug，结果在独立游戏节（Independent Games Festival，IGF）上引发了激烈争议。IGF 评委团的多名成员周一发表联合声明，强烈反对使用生成式 AI 的游戏，并督促官方制定强有力的反 A",
+      "id": "59b51e57b005"
     },
     {
-      "title": "CERN 如何为 LHC 研发下一代磁体",
-      "url": "https://www.solidot.org/story?sid=85856",
+      "title": "M87 星系黑洞存在甜甜圈结构",
+      "url": "https://www.solidot.org/story?sid=85868",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "CERN 的大强子对撞机（LHC）利用极其强大的磁体，使粒子接近光速发生碰撞，将粒子撞碎成更小的组成部分以供研究。当前状态下的 LHC 每秒能让约 60 个粒子发生碰撞，碰撞频率高达每秒 4000 万次。这一能力已经促成了本世纪粒子物理学领域一些最重要的发现。CERN 的科学家并没有止步。他们正对 ",
-      "id": "5eb8c33b0305"
+      "summary": "作为人类首张黑洞照片，距地球约 5500 万光年、质量超太阳 60 亿倍的 M87 星系中心超大质量黑洞(M87*黑洞)被形象称为“甜甜圈”的图像，自 7 年多前发布以来广受关注，学界对其独特环状结构是否存在也有争议。一项研究独立验证了M87*黑洞经典重建图像中的独特环状结构，确认“甜甜圈”图像无误",
+      "id": "2ae1ccf0baf5"
     },
     {
-      "title": "猫围着你叫是叫你去解决问题",
-      "url": "https://www.solidot.org/story?sid=85855",
+      "title": "《Python 之禅》作者 Tim Peters 去世",
+      "url": "https://www.solidot.org/story?sid=85867",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "当猫不停喵喵声时，它们不只是表达对世界的不满，更多是刻意引起你的注意，希望你能去解决问题。没留意到也没关系，毕竟人类向来以难以理解猫想要表达什么而著称。一项新研究发现，在猫的生活中，人类扮演着问题解决者的角色。巴西的研究人员针对 38 只宠物猫调查了人类主人在场和不在场时的行为。结果显示，人类铲屎官",
-      "id": "216aa50b6923"
+      "summary": "Python 语言作者 Guido van Rossum 发表文章悼念了 2026 年 7 月 15 日去世的 Tim Peters（享年 74 岁）。他写道：Tim Peters 最为人熟知的贡献是撰写了《Python 之禅》，“但对我而言他是我的良师益友，也是这门语言的共同设计者之一。”Tim ",
+      "id": "adcc6d770788"
+    },
+    {
+      "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+      "url": "https://sspai.com/post/118966",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。<a href=\"https://sspai.com/post/118966\" target=\"_blank\">查看全文</a>",
+      "id": "942a184b8bb1"
+    },
+    {
+      "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
+      "url": "https://sspai.com/post/118366",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与光景，也分享给你。4:3/3:4比例的图 ...<a href=\"https://sspai.com/post/118366\" target",
+      "id": "b9b7b2f9033b"
+    },
+    {
+      "title": "Mac 选购指南 2026 冬季版",
+      "url": "https://sspai.com/post/85735",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "内存、存储涨价但又得换 Mac？记得收下这份选购指南。<a href=\"https://sspai.com/post/85735\" target=\"_blank\">查看全文</a>",
+      "id": "1f955b829428"
     },
     {
       "title": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验",
@@ -183,58 +210,49 @@
       "id": "4c93125b0a8d"
     },
     {
-      "title": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
-      "url": "https://sspai.com/post/118905",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。<a href=\"https://sspai.com/post/118905\" target=\"_blank\">查看全文</a>",
-      "id": "88d0dc722a6b"
-    },
-    {
-      "title": "社区速递 165 | 透明工牌与派友十月购物清单",
-      "url": "https://sspai.com/post/118861",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/118861\" target",
-      "id": "789794e6f184"
-    },
-    {
-      "title": "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
-      "url": "https://sspai.com/post/118824",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "北京时间11月8日，第十一届「移动应用创新赛」在浙江大学紫金港校区完成决赛评选并举行颁奖典礼。从2016年的161所高校开始，这项由全国高等学校计算机教育研究会主办、浙江大学与Apple联合承办的比赛 ...<a href=\"https://sspai.com/post/118824\" target",
-      "id": "41cec795a49f"
-    },
-    {
-      "title": "MSCI confirms Strategy’s removal from indexes at end of November",
-      "url": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76H4XXFRZZF8PWNZVYPMH4D/hi-the-bitcoin-treasury-model-is-breaking-but-microstrategys-isnt-heres-why.jpg",
+      "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
+      "url": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79AVSJ6NY5RD5MSVWPM12XB/white-house-stablecoin-trump.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MSCI confirms Strategy’s removal from indexes at end of November\" class=\"type:",
-      "id": "72661a0aa8eb"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump nominates Hester Peirce successor among SEC, CFTC picks\" class=\"type:pri",
+      "id": "9d7003a13579"
     },
     {
-      "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
-      "url": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M764ZRJVHMZ7S56SH3QEE7QS/bank-building-hall-entrance-door-binance-1.png",
+      "title": "Former Nvidia CEO Huang had third alleged affair: Reuters",
+      "url": "https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Suiet wallet to shut down in latest exit from Sui ecosystem\" class=\"type:prima",
-      "id": "a1b7adb6e588"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Former Nvidia CEO Huang had third alleged affair: Reuters\" class=\"type:primary",
+      "id": "9d523afae5fa"
     },
     {
-      "title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
-      "url": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76CF387681Y1K94VQ7BS0CN/nvidia.jpg",
+      "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
+      "url": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79668CQYKG39DW60CKNSTF0/hi-gemini-review-2025-secure-regulated-and-feature-rich.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ\" class=\"type:prim",
-      "id": "b3ca8e3909cd"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gemini’s quarterly retail trading volume sinks to 3-year low\" class=\"type:prim",
+      "id": "fc54b3e7965d"
+    },
+    {
+      "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
+      "url": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78W1BXY18T2XKFJB5NNN63C/image-1.png",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Maple Finance’s strategy rift sends co-founder, COO to the exits\" class=\"type:",
+      "id": "f8b3d021e703"
+    },
+    {
+      "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+      "url": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg",
+      "source": "CoinTelegraph",
+      "category": "crypto",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Expre",
+      "id": "a565cc9f2694"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -246,112 +264,94 @@
       "id": "772e97788bfd"
     },
     {
-      "title": "Uncalled US House races could send more crypto allies to Congress",
-      "url": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75XNMPSEVD2H0XM5RBPTJMR/different-crypto-logos.png",
+      "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
+      "url": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78TX3PGYGRAKFVQT1WR50MD/hi-paying-the-price-kalshi-banned-politician-for-insider-trading.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Uncalled US House races could send more crypto allies to Congress\" class=\"type",
-      "id": "0e88f237ac90"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
+      "id": "6e43ccb87554"
     },
     {
-      "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
-      "url": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M763TD8E1ZBRMPTMFSD5YQ3A/bithumb-acquisition-deal-off-2.png",
+      "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
+      "url": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78SKXFN30X2QXCVG2NCJ1VY/hi-how-strategyb-turned-k-into-m-using-a-high-risk-high-precision-strategy.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nomura explores sale of crypto unit Laser Digital: Bloomberg\" class=\"type:prim",
-      "id": "465b21ab5a48"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off\" class=\"type",
+      "id": "33868d70ebc9"
     },
     {
-      "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
-      "url": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73MEN38K2N8NDYPGWJFZGPZ/hi-bitcoin-nodes-vs-miners-protection.jpg",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US data center restrictions could give Bitcoin miners an edge in AI, though ch",
-      "id": "34b6fe340a96"
-    },
-    {
-      "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
-      "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75S911M6Z2QY1MHSS3BEKGB/hi-how-binance-plans-to-bring-tokenized-us-stocks-5.png",
-      "source": "CoinTelegraph",
-      "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OKXICE moves ahead with tokenized stocks as blue chips push back\" class=\"type:",
-      "id": "99ba9d0126be"
-    },
-    {
-      "title": "Nvidia-Backed CoreWeave Is Surging: Here’s What It Means for the AI Boom",
-      "url": "https://decrypt.co/383099/nvidia-backed-coreweave-surging-what-means-for-ai-boom",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/CoreWeave-logo-gID_7.jpg@png",
+      "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
+      "url": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-11-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "CoreWeave's 168% revenue jump sent its shares soaring and lifted Nvidia and other AI stocks. Strong demand is reassuring investors, but the cost of bu",
-      "id": "2d81706cade3"
+      "summary": "Senator Josh Hawley wants a nationwide construction pause until households are protected from rising power bills, even as Congress advances legislatio",
+      "id": "a856ee4495ac"
     },
     {
-      "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
-      "url": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png",
+      "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
+      "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/north-korea-lazarus-group-dprk-hacker-decrypt-style-02-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Stablecoin supply fell $14.2 billion in 30 days, the fastest contraction since June 2022, amid weak ETF demand.",
-      "id": "e9ce0c047c17"
+      "summary": "The FBI says the “FaceStealer” scheme uses prerecorded footage and AI deepfakes of trusted contacts to trick crypto workers into installing malware on",
+      "id": "3133c8d2cc14"
     },
     {
-      "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
-      "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-03-gID_7.png@png",
+      "title": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
+      "url": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Recent buyers are moving billions in Bitcoin to exchanges below their purchase prices, while Binance sees sharp inflows from recently moved coins.",
-      "id": "55bd3dd3e311"
+      "summary": "Michael Saylor’s Bitcoin giant is being excluded from major investment benchmarks, raising questions about what qualifies as a business—and whether th",
+      "id": "30d73c04d3d9"
     },
     {
-      "title": "This New AI Music Model Is Already Better Than Suno—We Put ACE to the Test",
-      "url": "https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg@png",
+      "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
+      "url": "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "ACE Music v1 tops the AI music rankings with more natural vocals and stronger song structure. Our tests found impressive results, though niche genres ",
-      "id": "a4ebf67c8edb"
+      "summary": "Trezor CTO Tomáš Sušánka explains the trade-offs of Bitcoin’s leading post-quantum signature scheme.",
+      "id": "1783fd605fc1"
     },
     {
-      "title": "Tether's Tiny AI Agent Beats Models 2.5 Times Its Size at Controlling Your Phone",
-      "url": "https://decrypt.co/383066/tether-tiny-ai-agent-beats-models-phone",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/hs-paolo-ardonio-tether-decrypt-style-01-gID_7.png@png",
+      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
+      "url": "https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/colette-kress-nvidia-ceo-decrypt-style-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "BotPsy packs 800 million parameters into an AI assistant designed to manage everyday tasks locally, outperforming larger rivals as Tether expands its ",
-      "id": "ca2a36f8a01f"
+      "summary": "Nvidia’s longtime finance chief inherits its first leadership transition in 33 years, bringing decades of technology experience and Wall Street credib",
+      "id": "78bfee9f8e59"
     },
     {
-      "title": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
-      "url": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg@png",
+      "title": "Nvidia, AMD, Broadcom: The AI Stock Winners and Losers After Jensen Huang’s Ousting",
+      "url": "https://decrypt.co/383146/nvidia-amd-broadcom-ai-stock-winners-loses-jensen-huang",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Deutsche Bank’s custody service now holds Bitcoin, Ethereum and three stablecoins for institutional and corporate clients in Europe.",
-      "id": "2ac375b5b0d6"
+      "summary": "Nvidia shares tumbled after Jensen Huang’s exit, while AMD and Broadcom climbed and Nvidia-backed CoreWeave sank. Here's how the AI trade is shaping u",
+      "id": "c50d10c57984"
     },
     {
-      "title": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch",
-      "url": "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-mountain-decrypt-style-gID_7.png@png",
+      "title": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
+      "url": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/money-bitcoin-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Bitcoin is heading toward its first consecutive losing years, breaking an 18-year pattern. But there's some nuance in the data.",
-      "id": "d07d8785eaf9"
+      "summary": "The DOJ, the U.S. Chamber of Commerce, SIFMA and a crypto coalition led by a16z, Paradigm and Uniswap filed briefs backing a lawsuit to strike down th",
+      "id": "93eb66f65f42"
     },
     {
-      "title": "What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana",
-      "url": "https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/solana-security-padlocks-gID_5-pID_1.png@png",
+      "title": "'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit",
+      "url": "https://decrypt.co/383141/massive-mistake-tech-ai-crypto-founders-react-jensen-huang-nvidia-exit",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Solana Privacy Rings encrypt balances and transfer amounts without leaving Solana. Here's how they work, and how they compare.",
-      "id": "c309e181548a"
+      "summary": "Nvidia’s founder is out, and tech and crypto leaders are fuming. Some fear for open-source AI, others question the board, while Elon Musk says he’d be",
+      "id": "ad35e8fc687c"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -465,6 +465,24 @@
   "categories": {
     "ai": [
       {
+        "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+        "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures ca",
+        "id": "a00a4e6a79e7"
+      },
+      {
+        "title": "The Download: COP31’s climate challenge and the quest for immortality",
+        "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+        "id": "1a85c974cf54"
+      },
+      {
         "title": "What to know about this year’s UN climate talks",
         "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
         "image": "",
@@ -519,24 +537,6 @@
         "id": "78e1d1574c0d"
       },
       {
-        "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-        "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
-        "id": "1d86cf8fc581"
-      },
-      {
-        "title": "Innovating with AI in the special chemicals industry",
-        "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting n",
-        "id": "552113f4583d"
-      },
-      {
         "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
         "source": "OpenAI Blog",
         "category": "ai",
@@ -575,67 +575,94 @@
     ],
     "tech": [
       {
-        "title": "假如地球没有诞生生命？",
-        "url": "https://www.solidot.org/story?sid=85862",
+        "title": "用户抱怨难以在流媒体服务上找到想看的内容",
+        "url": "https://www.solidot.org/story?sid=85874",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "假如地球没有诞生生命，它会变成什么模样？华盛顿大学团队进行了计算机模拟，他们将生命的因素彻底抽离，但完整保留了地核、地函、大气、海洋以及太阳辐射等 19 项关键物理变数，模拟这颗没有生命的地球从 45 亿年前诞生至今、乃至未来 5 亿年的演化史。在长达数十亿年的岁月里，这颗死寂的地球除了因为没有植物",
-        "id": "d3f116d77ba5"
+        "summary": "根据尼尔森的 Gracenote 对美国、巴西、法国、德国、墨西哥和英国的 3000 名 18 岁及以上的流媒体用户进行的调查：虽然流媒体平台内容无比丰富，但用户经常找不到想要看的内容。逾 51% 的受访者表示：内容和流媒体服务的极度丰富，反而让人更难找到想看的东西。19.2% 的受访者表示，他们总",
+        "id": "455ebff6be4b"
       },
       {
-        "title": "Firefox 内置 VPN 服务在三个月内不限制流量",
-        "url": "https://www.solidot.org/story?sid=85861",
+        "title": "印度苹果代工厂发生三名合同工死亡事故",
+        "url": "https://www.solidot.org/story?sid=85873",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "Mozilla 宣布，为迎接年底的假期 Firefox 内置的 VPN 服务从 11 月 10 日到 2027 年 1 月 31 日之间不限制流量。Firefox 内置的 VPN 不同于 Mozilla VPN，前者设计通过 Mozilla 管理的服务器路由浏览器的流量隐藏用户的真实 IP 地址；后",
-        "id": "be57db8e9a30"
+        "summary": "塔塔电子位于泰米尔纳德邦、为苹果公司 iPhone 生产零部件的工厂发生三名处理废水处理设施的合同工死亡事故。事故发生于周一晚间，地点位于 Krishnagiri 的 Hosur。工人在检查一个外部纳滤罐时吸入了气体导致了悲剧的发生。三名工人被送往一家私立医院，医生在他们抵达时确认其已经死亡。塔塔电",
+        "id": "ad9b420cb1ff"
       },
       {
-        "title": "黑猩猩后天习得部分叫声",
-        "url": "https://www.solidot.org/story?sid=85859",
+        "title": "BMI 误判数百万人肥胖",
+        "url": "https://www.solidot.org/story?sid=85871",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "长期以来，人们认为野生黑猩猩的发声完全由遗传决定，无需学习。发表于 PNAS 期刊上的一项研究挑战了这一观点，首次发现了野生黑猩猩中存在任意性、习得性发声惯例的证据。该发现缩小了黑猩猩交流与人类交流之间的差距。词语在人类语言中具有任意性和习得性。这里的任意性指一个词语在不同背景或领域里含义可能完全不",
-        "id": "63c4729a9835"
+        "summary": "中外研究团队基于中国、英国、美国、西班牙4国、超 84 万人的数据研究证实，肥胖诊断不能只看体重，更不能单凭BMI(体重除以身高的平方)“一刀切”。长期以来，全球普遍以 BMI 作为筛查和判定肥胖的核心指标。但论文第一作者及共同通讯作者、华中科技大学同济医学院公共卫生学院教授潘安指出，BMI 存在天",
+        "id": "02d8076aa638"
       },
       {
-        "title": "刚果埃博拉病例突破 1.1 万例",
-        "url": "https://www.solidot.org/story?sid=85858",
+        "title": "天文学家发现一个恒星系统每八分钟发射一次射电信号",
+        "url": "https://www.solidot.org/story?sid=85870",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "刚果政府周三宣布该国的埃博拉病例突破 1.1 万例达到 11,042 例，有 5,387 人死亡，这是刚果至今最致命的埃博拉疫情，感染者中近半数死亡。这场疫情已成为有记录以来扩散速度最快的埃博拉病毒爆发，其规模有可能超过 2014-2016 年席卷西非的埃博拉疫情——该波疫情有逾 1.1 万人死亡。",
-        "id": "3545e787db10"
+        "summary": "天文学家发现一个不同寻常的双星系统 GPM J071507−114153，由一颗白矮星——一颗恒星死亡后留下的致密核心——和一颗类太阳 G 型恒星组成。白矮星自转一周八分钟，它每八分钟发射一次射电信号。这是首次在绕类太阳恒星运行的白矮星中探测到射电脉冲。此类双星属于被称为长周期瞬变天体（long-p",
+        "id": "6f4b2c21aeb1"
       },
       {
-        "title": "AI 生成的代码并不可靠",
-        "url": "https://www.solidot.org/story?sid=85857",
+        "title": "《Big Walk》开发商利用 AI 修 Bug 引起争议",
+        "url": "https://www.solidot.org/story?sid=85869",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "一位 100% 依赖 AI 生成代码的资深开发者认为 AI 生成的代码库无法满足高可用、高扩展性 SaaS 应用的需求。原因包括：AI 写的测试过于简单，无法覆盖真正重要的使用场景；AI 写的代码过于复杂，经常引入两三个辅助方法，实际上一个就够了，这种复杂性增加了理解代码或进行调试的难度；人类程序员",
-        "id": "833e3348fec6"
+        "summary": "热门独游《Big Walk》开发商 House House 承认在生成式 AI 帮助下修 bug，结果在独立游戏节（Independent Games Festival，IGF）上引发了激烈争议。IGF 评委团的多名成员周一发表联合声明，强烈反对使用生成式 AI 的游戏，并督促官方制定强有力的反 A",
+        "id": "59b51e57b005"
       },
       {
-        "title": "CERN 如何为 LHC 研发下一代磁体",
-        "url": "https://www.solidot.org/story?sid=85856",
+        "title": "M87 星系黑洞存在甜甜圈结构",
+        "url": "https://www.solidot.org/story?sid=85868",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "CERN 的大强子对撞机（LHC）利用极其强大的磁体，使粒子接近光速发生碰撞，将粒子撞碎成更小的组成部分以供研究。当前状态下的 LHC 每秒能让约 60 个粒子发生碰撞，碰撞频率高达每秒 4000 万次。这一能力已经促成了本世纪粒子物理学领域一些最重要的发现。CERN 的科学家并没有止步。他们正对 ",
-        "id": "5eb8c33b0305"
+        "summary": "作为人类首张黑洞照片，距地球约 5500 万光年、质量超太阳 60 亿倍的 M87 星系中心超大质量黑洞(M87*黑洞)被形象称为“甜甜圈”的图像，自 7 年多前发布以来广受关注，学界对其独特环状结构是否存在也有争议。一项研究独立验证了M87*黑洞经典重建图像中的独特环状结构，确认“甜甜圈”图像无误",
+        "id": "2ae1ccf0baf5"
       },
       {
-        "title": "猫围着你叫是叫你去解决问题",
-        "url": "https://www.solidot.org/story?sid=85855",
+        "title": "《Python 之禅》作者 Tim Peters 去世",
+        "url": "https://www.solidot.org/story?sid=85867",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "当猫不停喵喵声时，它们不只是表达对世界的不满，更多是刻意引起你的注意，希望你能去解决问题。没留意到也没关系，毕竟人类向来以难以理解猫想要表达什么而著称。一项新研究发现，在猫的生活中，人类扮演着问题解决者的角色。巴西的研究人员针对 38 只宠物猫调查了人类主人在场和不在场时的行为。结果显示，人类铲屎官",
-        "id": "216aa50b6923"
+        "summary": "Python 语言作者 Guido van Rossum 发表文章悼念了 2026 年 7 月 15 日去世的 Tim Peters（享年 74 岁）。他写道：Tim Peters 最为人熟知的贡献是撰写了《Python 之禅》，“但对我而言他是我的良师益友，也是这门语言的共同设计者之一。”Tim ",
+        "id": "adcc6d770788"
+      },
+      {
+        "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+        "url": "https://sspai.com/post/118966",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。<a href=\"https://sspai.com/post/118966\" target=\"_blank\">查看全文</a>",
+        "id": "942a184b8bb1"
+      },
+      {
+        "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
+        "url": "https://sspai.com/post/118366",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与光景，也分享给你。4:3/3:4比例的图 ...<a href=\"https://sspai.com/post/118366\" target",
+        "id": "b9b7b2f9033b"
+      },
+      {
+        "title": "Mac 选购指南 2026 冬季版",
+        "url": "https://sspai.com/post/85735",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "内存、存储涨价但又得换 Mac？记得收下这份选购指南。<a href=\"https://sspai.com/post/85735\" target=\"_blank\">查看全文</a>",
+        "id": "1f955b829428"
       },
       {
         "title": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验",
@@ -683,33 +710,6 @@
         "id": "4c93125b0a8d"
       },
       {
-        "title": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
-        "url": "https://sspai.com/post/118905",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。<a href=\"https://sspai.com/post/118905\" target=\"_blank\">查看全文</a>",
-        "id": "88d0dc722a6b"
-      },
-      {
-        "title": "社区速递 165 | 透明工牌与派友十月购物清单",
-        "url": "https://sspai.com/post/118861",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/118861\" target",
-        "id": "789794e6f184"
-      },
-      {
-        "title": "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
-        "url": "https://sspai.com/post/118824",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "北京时间11月8日，第十一届「移动应用创新赛」在浙江大学紫金港校区完成决赛评选并举行颁奖典礼。从2016年的161所高校开始，这项由全国高等学校计算机教育研究会主办、浙江大学与Apple联合承办的比赛 ...<a href=\"https://sspai.com/post/118824\" target",
-        "id": "41cec795a49f"
-      },
-      {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
         "source": "MacRumors",
         "category": "tech",
@@ -748,31 +748,49 @@
     ],
     "crypto": [
       {
-        "title": "MSCI confirms Strategy’s removal from indexes at end of November",
-        "url": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76H4XXFRZZF8PWNZVYPMH4D/hi-the-bitcoin-treasury-model-is-breaking-but-microstrategys-isnt-heres-why.jpg",
+        "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
+        "url": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79AVSJ6NY5RD5MSVWPM12XB/white-house-stablecoin-trump.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MSCI confirms Strategy’s removal from indexes at end of November\" class=\"type:",
-        "id": "72661a0aa8eb"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump nominates Hester Peirce successor among SEC, CFTC picks\" class=\"type:pri",
+        "id": "9d7003a13579"
       },
       {
-        "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
-        "url": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M764ZRJVHMZ7S56SH3QEE7QS/bank-building-hall-entrance-door-binance-1.png",
+        "title": "Former Nvidia CEO Huang had third alleged affair: Reuters",
+        "url": "https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Suiet wallet to shut down in latest exit from Sui ecosystem\" class=\"type:prima",
-        "id": "a1b7adb6e588"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Former Nvidia CEO Huang had third alleged affair: Reuters\" class=\"type:primary",
+        "id": "9d523afae5fa"
       },
       {
-        "title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
-        "url": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76CF387681Y1K94VQ7BS0CN/nvidia.jpg",
+        "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
+        "url": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79668CQYKG39DW60CKNSTF0/hi-gemini-review-2025-secure-regulated-and-feature-rich.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ\" class=\"type:prim",
-        "id": "b3ca8e3909cd"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gemini’s quarterly retail trading volume sinks to 3-year low\" class=\"type:prim",
+        "id": "fc54b3e7965d"
+      },
+      {
+        "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
+        "url": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78W1BXY18T2XKFJB5NNN63C/image-1.png",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Maple Finance’s strategy rift sends co-founder, COO to the exits\" class=\"type:",
+        "id": "f8b3d021e703"
+      },
+      {
+        "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+        "url": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg",
+        "source": "CoinTelegraph",
+        "category": "crypto",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Expre",
+        "id": "a565cc9f2694"
       },
       {
         "title": "Here’s what happened in crypto today",
@@ -784,112 +802,94 @@
         "id": "772e97788bfd"
       },
       {
-        "title": "Uncalled US House races could send more crypto allies to Congress",
-        "url": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75XNMPSEVD2H0XM5RBPTJMR/different-crypto-logos.png",
+        "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
+        "url": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78TX3PGYGRAKFVQT1WR50MD/hi-paying-the-price-kalshi-banned-politician-for-insider-trading.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Uncalled US House races could send more crypto allies to Congress\" class=\"type",
-        "id": "0e88f237ac90"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
+        "id": "6e43ccb87554"
       },
       {
-        "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
-        "url": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M763TD8E1ZBRMPTMFSD5YQ3A/bithumb-acquisition-deal-off-2.png",
+        "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
+        "url": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78SKXFN30X2QXCVG2NCJ1VY/hi-how-strategyb-turned-k-into-m-using-a-high-risk-high-precision-strategy.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nomura explores sale of crypto unit Laser Digital: Bloomberg\" class=\"type:prim",
-        "id": "465b21ab5a48"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off\" class=\"type",
+        "id": "33868d70ebc9"
       },
       {
-        "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
-        "url": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73MEN38K2N8NDYPGWJFZGPZ/hi-bitcoin-nodes-vs-miners-protection.jpg",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US data center restrictions could give Bitcoin miners an edge in AI, though ch",
-        "id": "34b6fe340a96"
-      },
-      {
-        "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
-        "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75S911M6Z2QY1MHSS3BEKGB/hi-how-binance-plans-to-bring-tokenized-us-stocks-5.png",
-        "source": "CoinTelegraph",
-        "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OKXICE moves ahead with tokenized stocks as blue chips push back\" class=\"type:",
-        "id": "99ba9d0126be"
-      },
-      {
-        "title": "Nvidia-Backed CoreWeave Is Surging: Here’s What It Means for the AI Boom",
-        "url": "https://decrypt.co/383099/nvidia-backed-coreweave-surging-what-means-for-ai-boom",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/CoreWeave-logo-gID_7.jpg@png",
+        "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
+        "url": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-11-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "CoreWeave's 168% revenue jump sent its shares soaring and lifted Nvidia and other AI stocks. Strong demand is reassuring investors, but the cost of bu",
-        "id": "2d81706cade3"
+        "summary": "Senator Josh Hawley wants a nationwide construction pause until households are protected from rising power bills, even as Congress advances legislatio",
+        "id": "a856ee4495ac"
       },
       {
-        "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
-        "url": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png",
+        "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
+        "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/north-korea-lazarus-group-dprk-hacker-decrypt-style-02-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Stablecoin supply fell $14.2 billion in 30 days, the fastest contraction since June 2022, amid weak ETF demand.",
-        "id": "e9ce0c047c17"
+        "summary": "The FBI says the “FaceStealer” scheme uses prerecorded footage and AI deepfakes of trusted contacts to trick crypto workers into installing malware on",
+        "id": "3133c8d2cc14"
       },
       {
-        "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
-        "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-03-gID_7.png@png",
+        "title": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
+        "url": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Recent buyers are moving billions in Bitcoin to exchanges below their purchase prices, while Binance sees sharp inflows from recently moved coins.",
-        "id": "55bd3dd3e311"
+        "summary": "Michael Saylor’s Bitcoin giant is being excluded from major investment benchmarks, raising questions about what qualifies as a business—and whether th",
+        "id": "30d73c04d3d9"
       },
       {
-        "title": "This New AI Music Model Is Already Better Than Suno—We Put ACE to the Test",
-        "url": "https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg@png",
+        "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
+        "url": "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "ACE Music v1 tops the AI music rankings with more natural vocals and stronger song structure. Our tests found impressive results, though niche genres ",
-        "id": "a4ebf67c8edb"
+        "summary": "Trezor CTO Tomáš Sušánka explains the trade-offs of Bitcoin’s leading post-quantum signature scheme.",
+        "id": "1783fd605fc1"
       },
       {
-        "title": "Tether's Tiny AI Agent Beats Models 2.5 Times Its Size at Controlling Your Phone",
-        "url": "https://decrypt.co/383066/tether-tiny-ai-agent-beats-models-phone",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/hs-paolo-ardonio-tether-decrypt-style-01-gID_7.png@png",
+        "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
+        "url": "https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/colette-kress-nvidia-ceo-decrypt-style-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "BotPsy packs 800 million parameters into an AI assistant designed to manage everyday tasks locally, outperforming larger rivals as Tether expands its ",
-        "id": "ca2a36f8a01f"
+        "summary": "Nvidia’s longtime finance chief inherits its first leadership transition in 33 years, bringing decades of technology experience and Wall Street credib",
+        "id": "78bfee9f8e59"
       },
       {
-        "title": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
-        "url": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg@png",
+        "title": "Nvidia, AMD, Broadcom: The AI Stock Winners and Losers After Jensen Huang’s Ousting",
+        "url": "https://decrypt.co/383146/nvidia-amd-broadcom-ai-stock-winners-loses-jensen-huang",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Deutsche Bank’s custody service now holds Bitcoin, Ethereum and three stablecoins for institutional and corporate clients in Europe.",
-        "id": "2ac375b5b0d6"
+        "summary": "Nvidia shares tumbled after Jensen Huang’s exit, while AMD and Broadcom climbed and Nvidia-backed CoreWeave sank. Here's how the AI trade is shaping u",
+        "id": "c50d10c57984"
       },
       {
-        "title": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch",
-        "url": "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-mountain-decrypt-style-gID_7.png@png",
+        "title": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
+        "url": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/money-bitcoin-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Bitcoin is heading toward its first consecutive losing years, breaking an 18-year pattern. But there's some nuance in the data.",
-        "id": "d07d8785eaf9"
+        "summary": "The DOJ, the U.S. Chamber of Commerce, SIFMA and a crypto coalition led by a16z, Paradigm and Uniswap filed briefs backing a lawsuit to strike down th",
+        "id": "93eb66f65f42"
       },
       {
-        "title": "What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana",
-        "url": "https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/solana-security-padlocks-gID_5-pID_1.png@png",
+        "title": "'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit",
+        "url": "https://decrypt.co/383141/massive-mistake-tech-ai-crypto-founders-react-jensen-huang-nvidia-exit",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Solana Privacy Rings encrypt balances and transfer amounts without leaving Solana. Here's how they work, and how they compare.",
-        "id": "c309e181548a"
+        "summary": "Nvidia’s founder is out, and tech and crypto leaders are fuming. Some fear for open-source AI, others question the board, while Elon Musk says he’d be",
+        "id": "ad35e8fc687c"
       },
       {
         "title": "比特币突破 80000 美元",
