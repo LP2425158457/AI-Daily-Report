@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-11-20T05:07:23.617766",
-  "total": 51,
+  "last_updated": "2026-11-21T05:00:23.888723",
+  "total": 52,
   "news": [
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it al",
+      "id": "68870df71081"
+    },
+    {
+      "title": "The Download: inside the quest to make our minds immortal",
+      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "image": "",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+      "id": "2997965698a1"
+    },
     {
       "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
       "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
@@ -57,85 +75,103 @@
       "id": "2452df0ccc33"
     },
     {
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to k",
-      "id": "ae5942b88ece"
-    },
-    {
-      "title": "Hydropower hit record lows in the US Southwest this summer",
-      "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
-      "image": "",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US En",
-      "id": "43542ea93196"
-    },
-    {
-      "title": "IEA 警告称到 2030 年数据中心碳排放量将增加七成",
-      "url": "https://www.solidot.org/story?sid=85937",
+      "title": "Anthropic 的数论学家声称证明黎曼猜想",
+      "url": "https://www.solidot.org/story?sid=85949",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "国际能源署（IEA）发表报告警告，到 2030 年数据中心碳排放量将增加七成。报告称，到 2030 年数据中心的用电量将达到目前的水平的两倍，未来四年 AI 数据中心每年将额外消耗 350 TWh 的电力，这一数字超过了英国全年的总耗电量。IEA 预计到这个十年末，中国 AI 数据中心所需电力中约半",
-      "id": "f4b31b45cab9"
+      "summary": "美国数学家 Levent Alpöge 以数论和算术统计方面的工作著称，他目前在 AI 公司 Anthropic 工作。他发表声明，声称与公司 AI 工具 Claude 合作获得了数论经典难题黎曼猜想的一般性证明。他们发现了黎曼猜想的一个证明，而这个证明方法可以进一步证明广义黎曼猜想和扩展黎曼猜想。",
+      "id": "666bc50e6e3d"
     },
     {
-      "title": "欧盟委员会如何向逾 4 万工作人员部署 Matrix",
-      "url": "https://www.solidot.org/story?sid=85936",
+      "title": "GTA 6 创游戏史上最高首日销售额",
+      "url": "https://www.solidot.org/story?sid=85948",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "Matrix 点对点通信协议正被越来越多的政府机构使用，其中之一是欧盟委员会。欧盟委员会在 2025 年 12 月完成了概念验证，证明 Matrix 协议及其客户端 Element 能完全满足其需求。2026 年 9 月欧盟将基于 Matrix 的工具部署到了每一台笔记本电脑，该工具由欧盟委员会自行",
-      "id": "6bf7f09b5f8a"
+      "summary": "根据 Sensor Tower 的数据，本周四上市的开放世界游戏 GTA 6 预购量和首日销量合计超过 2450 万份，收入约 23.6 亿美元。相比之下，今年票房最高的电影《蜘蛛侠：崭新之日》总票房收入为 25 亿美元。GTA 6 开发商 Rockstar 及其母公司 Take-Two 尚未披露销",
+      "id": "a2689aeb4bd0"
     },
     {
-      "title": "城镇夜空飞过的人造卫星数量超过肉眼可见星星数量",
-      "url": "https://www.solidot.org/story?sid=85935",
+      "title": "阿里巴巴警告未来两年算力紧缺",
+      "url": "https://www.solidot.org/story?sid=85947",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "在夜晚的任何时刻，中纬度地区城镇上空掠过的人造卫星数量超过 700 颗，很多情况下超过了肉眼可见的星星数量。目前地球低轨道运行着 15833 颗人造卫星，其中 Starlink 星座的卫星数量最多。Accu Components 公司的研究人员分析了 10 月 12 日和 18 日的卫星轨迹数据，发",
-      "id": "4cbfe66d4b98"
+      "summary": "阿里巴巴集团首席执行官吴泳铭在星期四召开的二季度业绩电话会上说，全球各区域的算力政策出现了非常大的变化，将对阿里云的数据中心建设产生影响。根据目前的初步评估，阿里此前制定的到 2032 年全球数据中心规模超过 20 吉瓦的目标有可能下调，资本开支可能有一定程度降低。不过公司管理层相信，美国商务部的算",
+      "id": "41d29b9d5f91"
     },
     {
-      "title": "全球专利申请量创新高",
-      "url": "https://www.solidot.org/story?sid=85933",
+      "title": "无限滚动自动播放有害社会",
+      "url": "https://www.solidot.org/story?sid=85946",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "世界知识产权组织公布的年度《世界知识产权指标》（WIPI）报告显示，2025 年全球专利申请量 394 万件，同比增长 6%，创近十年来最快增速。这可能与利用 AI 加快专利申请相关。数据显示，中国继续高居第一达到 191万 件，同比增长 6%，其次是美国（489,766件）、日本（466,301件",
-      "id": "e688936d4a0a"
+      "summary": "根据发表在《The Lancet Psychiatry》期刊上的一篇报告，全球逾十分之一人口可能受到问题性互联网使用的影响，每年由此带来的经济和社会成本可能高达数十亿美元。问题性互联网使用包括了：强迫性使用社交媒体、过度沉迷游戏、网络赌博、强迫性网购、问题性色情内容消费，以及反复搜索加剧焦虑的健康信",
+      "id": "e1d79578b1d6"
     },
     {
-      "title": "黄仁勋的下台可能削弱开放权重模型让闭源模型受益",
-      "url": "https://www.solidot.org/story?sid=85932",
+      "title": "三名胰腺癌患者在注射病毒后遏制了肿瘤继续发展",
+      "url": "https://www.solidot.org/story?sid=85945",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "黄仁勋的下台可能削弱开放权重模型生态，让 OpenAI 和 Anthropic 等闭源模型开发商受益。黄仁勋此前曾利用英伟达的资金打造一个广泛的 AI 生态系统。他通过投资和收购初创企业，支持开发开源和开放权重模型。黄仁勋是此类模型推广的坚定倡导者，曾游说反对华盛顿限制使用中国的开放权重模型，积极推",
-      "id": "5a967a377e33"
+      "summary": "在美国的一项临床试验中，三名胰腺癌患者在注射病毒后成功遏制肿瘤继续发展。项目领导者、明尼苏达大学的 Masato Yamamoto 表示临床试验注射的剂量仅为最终目标剂量的十分之一，因此疗效超出了预期。研究人员将对另外 15 名患者使用更高剂量的药物以确定最佳给药水平。胰腺癌被称为最致命的癌症，原因",
+      "id": "7a94efbc565a"
     },
     {
-      "title": "微软官方 agent-framework 软件包被黑客劫持安装恶意程序",
-      "url": "https://www.solidot.org/story?sid=85931",
+      "title": "Vint Cerf 谈 TCP/IP 为何从未申请专利",
+      "url": "https://www.solidot.org/story?sid=85944",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "微软托管在 PyPI 上的 agent-framework 软件包被黑客劫持安装窃取信息的恶意程序。agent-framework 每月下载量近 20 万次，主要用于构建和部署 AI 智能体。受影响的版本是 v1.26.1 和 1.26.2，会窃取开发者在 Azure、Git、Docker、Hugg",
-      "id": "b3144ba3914b"
+      "summary": "现年 83 岁的 Vint Cerf 因在 1970 年代与 Bob Kahn 合作设计了 TCP/IP 协议而被誉为互联网之父，他在今年早些时候卸任 Google 首席互联网布道官一职，但并没停止工作，他正参与创办名为 Tolero 的公司，为星际\n互联网构建软件。他接受采访时开玩笑的说，光速太慢",
+      "id": "ef81c8b19f7f"
     },
     {
-      "title": "蚊子在喜马拉雅冰川地区日益常见",
-      "url": "https://www.solidot.org/story?sid=85930",
+      "title": "韩国利用紧急短信等方法抓住了 111 起高考作弊",
+      "url": "https://www.solidot.org/story?sid=85943",
       "image": "",
       "source": "Solidot",
       "category": "tech",
-      "summary": "随着全球暖化冰川消退，蚊子在喜马拉雅冰川地区日益常见，将一些流行病带给了当地居民。克什米尔 Ladakh 一个名叫 Sakti 的村庄海拔 3900 米，居住着约四百户村民，大多属于 Boto 族。65 岁的村民 Phunchok Gyalpo 一生都居住在 Sakti，他说小时候每逢下雪，通常要等",
-      "id": "9d8ac3ef5fed"
+      "summary": "韩国高考从本周四开始，有约 50 万名考生参加。为打击高科技作弊，韩国采取了一种极端的方法：在全国范围内发送紧急短信，之后在没有预先通知的情况下不定时追加发送。该短信无法拒收，只要手机处于开机状态，手机就将持续发出 10.5 秒的提示音。据韩国媒体报道，该方法发现了 54 起未上交手机的案例。通过探",
+      "id": "62fe6f674f00"
+    },
+    {
+      "title": "微软测试对被盗或丢失设备远程锁定",
+      "url": "https://www.solidot.org/story?sid=85942",
+      "image": "",
+      "source": "Solidot",
+      "category": "tech",
+      "summary": "微软在测试一项新功能，允许企业 IT 管理员在不清除数据的情况下远程锁定丢失或被盗的 Windows 设备。被称为远程锁定（Remote Lock）的新功能已提供给运行 Build 26320.10003 或 Build 26340.10013 的 Windows 11 Insider Previe",
+      "id": "5ddac6630674"
+    },
+    {
+      "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
+      "url": "https://sspai.com/post/119291",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "上周末，今年正式被列入「全国普通高校学科竞赛排行榜」的2026鸿蒙高校创新赛在南京大学迎来全国总决赛颁奖典礼。华为董事、终端BGCEO何刚出席现场致辞并为获奖选手颁奖。他在现场表示，HarmonyOS ...<a href=\"https://sspai.com/post/119291\" target",
+      "id": "be30cea72c0f"
+    },
+    {
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "url": "https://sspai.com/post/119337",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...<a href=\"https://sspai.com/post/119337\" target",
+      "id": "a3475914c56e"
+    },
+    {
+      "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+      "url": "https://sspai.com/post/119327",
+      "image": "",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ...<a href=\"https://sspai.com/post/119327\" target",
+      "id": "b9ad29834c6d"
     },
     {
       "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
@@ -183,175 +219,148 @@
       "id": "771904c96cc3"
     },
     {
-      "title": "徒步旅行指南 | 玉龙虎跳峡与天堂雨崩",
-      "url": "https://sspai.com/post/119039",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/119039\" target",
-      "id": "4f22449f48e3"
-    },
-    {
-      "title": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等",
-      "url": "https://sspai.com/post/119239",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "AMD 更新虚幻引擎 FSR 插件、Google Wallet 登陆 iOS 等。<a href=\"https://sspai.com/post/119239\" target=\"_blank\">查看全文</a>",
-      "id": "cf2eaf67765b"
-    },
-    {
-      "title": "10 月音乐精选：音乐丰收季，必听这 7 张新专辑",
-      "url": "https://sspai.com/post/118985",
-      "image": "",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...<a href=\"https://sspai.com/post/118985\" target",
-      "id": "ab201e8a833a"
-    },
-    {
-      "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
-      "url": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M399X14JGMZWTWX9787D6BTC/hi-what-are-inflows-and-outflows-on-crypto-exchanges-bitcoin-etf.jpg",
+      "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+      "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X4D1A62D3GQT3E2RD261Q4/hi-company-hits-vulnerability-2.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Institutions pile back into US Bitcoin ETFs in Q3 after selling streak\" class=",
-      "id": "5613f6518cd7"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit\" class=\"type:",
+      "id": "5f03d483bf83"
     },
     {
-      "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
-      "url": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7V13YNHJY11MWW37WA0R9X8/hi-can-locked-liquidity-still-put-defi-users-at-risk.jpg",
+      "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
+      "url": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X2CXDXB4B5SGSAMFZAXXE0/hi-kraken-ipo-1.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger CTO Charles Guillemet to leave after nine years at company\" class=\"type",
-      "id": "57a762c518e8"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund ",
+      "id": "bc6113854d83"
     },
     {
-      "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
-      "url": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TW6KD0H9BEVC27QRWR5CP8/asia-express-jacket.png",
+      "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
+      "url": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79N7DA5EN5QTEX2W50DFFNH/hi-so-what-is-happening-to-bitcoin-bear-market-1.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express\" cl",
-      "id": "b9df33583e38"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin falls below $60K for first time since July amid broader market selloff",
+      "id": "8b71b95d63b4"
     },
     {
-      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
-      "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TRZBKZ9CRA2JGQ7AM7G08Z/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu-1.png",
+      "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
+      "url": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WS7SH44A7MXA0Q21TD4GY8/hi-when-will-the-prediction-market-take-place-and-what-effect-is-it-having-on-crypto-2.png",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MoonPay seeks US bank charter for stablecoin, custody services\" class=\"type:pr",
-      "id": "cc8eb5ba8331"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senate advances prediction market restrictions with DEATH BETS Act\" class=\"",
+      "id": "d8be3199e5aa"
     },
     {
-      "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
-      "url": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TJNVM868BCDV9G2DVS1TSG/hi-kraken-ipo.png",
+      "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
+      "url": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WQNA6474S1X1PQY3N7WJMX/hi-bollinger-band-explained2-960x640.webp",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price\" class=",
-      "id": "81d4b1fcf40e"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off\" class=",
+      "id": "0f66574213a5"
     },
     {
-      "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
-      "url": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TFD02FRZ10BM2N4QZ1NBPG/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2027.png",
+      "title": "DBS bets it can lose the deposit and keep the client",
+      "url": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WNFYH0FRWPZX615E3RNKNQ/sponsored-marina-bay-sand-singapore-light-water11-1.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock tradin",
-      "id": "758c5cbd66d9"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DBS bets it can lose the deposit and keep the client\" class=\"type:primaryImage",
+      "id": "a277a6d4ab6a"
     },
     {
-      "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
-      "url": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7T8797NST8JEDN3F6EH12SR/hi-can-crypto-exchanges-be-trusted-with-hard-forks.png",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility conce",
-      "id": "e4ae8db12752"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s",
+      "id": "772e97788bfd"
     },
     {
-      "title": "Why higher rates could slow Bitcoin buying at treasury firms",
-      "url": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg",
+      "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
+      "url": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WGQEQ57ZB4C6X8Y2M5KYTQ/christine-lagarde-imf.jpg",
       "source": "CoinTelegraph",
       "category": "crypto",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Why higher rates could slow Bitcoin buying at treasury firms\" class=\"type:prim",
-      "id": "2ab689fc3e4a"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Lagarde warns Europe could miss chance to unify tokenized markets\" class=\"type",
+      "id": "2c9b1a7fef32"
     },
     {
-      "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
-      "url": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg@png",
+      "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
+      "url": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/math-problems-AI-gID_1.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Citibank’s updated terms put customers on the hook for outside AI agents, including leaked logins.",
-      "id": "32c2667d547c"
+      "summary": "Levent Alpöge claims Claude helped prove a 167-year-old math conjecture, but independent checks remain pending, and the release just after Anthropic’s",
+      "id": "5f9922001224"
     },
     {
-      "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
-      "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png@png",
+      "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
+      "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Anthropic shares opened 34% above their $83 IPO price before giving up much of the gain, while Nvidia, AMD and other AI stocks slid across Wall Street",
-      "id": "977881ee8ed4"
+      "summary": "Nvidia shares fell about 13% to a 52-week low after reports that SEC enforcement staff are examining potential accounting issues, adding to pressure o",
+      "id": "8db1f534f018"
     },
     {
-      "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
-      "url": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
+      "title": "SBF’s 'The Altruists' Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion",
+      "url": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/sam-bankman-fried-ftx-sbf-decrypt-style-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "A new post-quantum signature proposal aims to secure Bitcoin’s future, but balancing user safety and efficiency comes with hurdles.",
-      "id": "bf85b3ded4c1"
+      "summary": "Anthropic’s IPO made FTX’s liquidated AI bet a $43 billion what-if, just as Netflix premiered its Sam Bankman-Fried drama.",
+      "id": "d35eede8e155"
     },
     {
-      "title": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
-      "url": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/crypto-credit-cards-mastercard-visa-gID_7.jpg@png",
+      "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
+      "url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/cathie-wood-ark-invest-decrypt-style-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "A ransomware group breached third-party vendors, not the companies’ own systems. Visa said no card data was affected while Mastercard cited a limited ",
-      "id": "cd421aa82576"
+      "summary": "The firm bought 934,968 Anthropic shares across six ETFs on the Claude maker’s Nasdaq debut while trimming a combined $4.1 million from its Ethereum a",
+      "id": "226b4e58ee80"
     },
     {
-      "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
-      "url": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg@png",
+      "title": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks",
+      "url": "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Anthropic shares surged on their Nasdaq debut, but stocks slid and Bitcoin fell lower. Its daily chart shows deeply oversold momentum, a strong downtr",
-      "id": "093e7b734ac1"
+      "summary": "Gemini's new Mac computer-use feature navigates apps, files, and websites in a separate window, but Google's own documentation warns about prompt inje",
+      "id": "fd0913bbb48f"
     },
     {
-      "title": "Protesters Arrested Outside Nasdaq as Activists Oppose Anthropic IPO Over AI Bubble Risks",
-      "url": "https://decrypt.co/383642/protesters-arrested-nasdaq-anthropic-ipo-ai-bubble-risks",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/anthropic-ipo-protests-nasdaq-gID_7.jpg@png",
+      "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
+      "url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "At least four people were arrested outside Nasdaq during Anthropic’s historic IPO, as protesters warned that AI valuations could leave retirement save",
-      "id": "841723c5510e"
+      "summary": "Wagyu’s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 mil",
+      "id": "292fc52e5e81"
     },
     {
-      "title": "What Are Perpetual Futures? How Crypto's Most Popular Derivative Works",
-      "url": "https://decrypt.co/resources/what-are-perpetual-futures-how-cryptos-most-popular-derivative-works",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/11/bitcoin-investment_2-gID_1-pID_6.png@png",
+      "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+      "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "Perpetual futures let traders bet on prices with leverage and no expiry date. Here's how they work, and why they dominate crypto trading.",
-      "id": "ce786c232c26"
+      "summary": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic’s IPO.",
+      "id": "79aadf876742"
     },
     {
-      "title": "Anthropic Stock Opens 33% Above IPO Price as AI Stocks Rally",
-      "url": "https://decrypt.co/383631/anthropic-stock-indicated-open-33-above-ipo-price",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-anthropic-dario-amodei-2-gID_7.png@png",
+      "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
+      "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg@png",
       "source": "Decrypt",
       "category": "crypto",
-      "summary": "The Claude maker's shares could debut at $110, pushing its valuation toward $2 trillion as enthusiasm for its historic IPO lifts the broader technolog",
-      "id": "ed7cc3aa6194"
+      "summary": "Sen. Adam Schiff's DEATH BETS Act would bar U.S.-regulated exchanges from listing contracts tied to war, assassinations or deaths.",
+      "id": "e50de00928ca"
     },
     {
       "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
@@ -465,6 +474,24 @@
   "categories": {
     "ai": [
       {
+        "title": "The most misunderstood graph in AI just got a major update",
+        "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it al",
+        "id": "68870df71081"
+      },
+      {
+        "title": "The Download: inside the quest to make our minds immortal",
+        "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+        "image": "",
+        "source": "MIT Tech Review",
+        "category": "ai",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ",
+        "id": "2997965698a1"
+      },
+      {
         "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
         "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
         "image": "",
@@ -519,24 +546,6 @@
         "id": "2452df0ccc33"
       },
       {
-        "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-        "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to k",
-        "id": "ae5942b88ece"
-      },
-      {
-        "title": "Hydropower hit record lows in the US Southwest this summer",
-        "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
-        "image": "",
-        "source": "MIT Tech Review",
-        "category": "ai",
-        "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US En",
-        "id": "43542ea93196"
-      },
-      {
         "title": "OpenAI 发布 GPT-4.5 Turbo：速度提升 300%",
         "source": "OpenAI Blog",
         "category": "ai",
@@ -575,67 +584,103 @@
     ],
     "tech": [
       {
-        "title": "IEA 警告称到 2030 年数据中心碳排放量将增加七成",
-        "url": "https://www.solidot.org/story?sid=85937",
+        "title": "Anthropic 的数论学家声称证明黎曼猜想",
+        "url": "https://www.solidot.org/story?sid=85949",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "国际能源署（IEA）发表报告警告，到 2030 年数据中心碳排放量将增加七成。报告称，到 2030 年数据中心的用电量将达到目前的水平的两倍，未来四年 AI 数据中心每年将额外消耗 350 TWh 的电力，这一数字超过了英国全年的总耗电量。IEA 预计到这个十年末，中国 AI 数据中心所需电力中约半",
-        "id": "f4b31b45cab9"
+        "summary": "美国数学家 Levent Alpöge 以数论和算术统计方面的工作著称，他目前在 AI 公司 Anthropic 工作。他发表声明，声称与公司 AI 工具 Claude 合作获得了数论经典难题黎曼猜想的一般性证明。他们发现了黎曼猜想的一个证明，而这个证明方法可以进一步证明广义黎曼猜想和扩展黎曼猜想。",
+        "id": "666bc50e6e3d"
       },
       {
-        "title": "欧盟委员会如何向逾 4 万工作人员部署 Matrix",
-        "url": "https://www.solidot.org/story?sid=85936",
+        "title": "GTA 6 创游戏史上最高首日销售额",
+        "url": "https://www.solidot.org/story?sid=85948",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "Matrix 点对点通信协议正被越来越多的政府机构使用，其中之一是欧盟委员会。欧盟委员会在 2025 年 12 月完成了概念验证，证明 Matrix 协议及其客户端 Element 能完全满足其需求。2026 年 9 月欧盟将基于 Matrix 的工具部署到了每一台笔记本电脑，该工具由欧盟委员会自行",
-        "id": "6bf7f09b5f8a"
+        "summary": "根据 Sensor Tower 的数据，本周四上市的开放世界游戏 GTA 6 预购量和首日销量合计超过 2450 万份，收入约 23.6 亿美元。相比之下，今年票房最高的电影《蜘蛛侠：崭新之日》总票房收入为 25 亿美元。GTA 6 开发商 Rockstar 及其母公司 Take-Two 尚未披露销",
+        "id": "a2689aeb4bd0"
       },
       {
-        "title": "城镇夜空飞过的人造卫星数量超过肉眼可见星星数量",
-        "url": "https://www.solidot.org/story?sid=85935",
+        "title": "阿里巴巴警告未来两年算力紧缺",
+        "url": "https://www.solidot.org/story?sid=85947",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "在夜晚的任何时刻，中纬度地区城镇上空掠过的人造卫星数量超过 700 颗，很多情况下超过了肉眼可见的星星数量。目前地球低轨道运行着 15833 颗人造卫星，其中 Starlink 星座的卫星数量最多。Accu Components 公司的研究人员分析了 10 月 12 日和 18 日的卫星轨迹数据，发",
-        "id": "4cbfe66d4b98"
+        "summary": "阿里巴巴集团首席执行官吴泳铭在星期四召开的二季度业绩电话会上说，全球各区域的算力政策出现了非常大的变化，将对阿里云的数据中心建设产生影响。根据目前的初步评估，阿里此前制定的到 2032 年全球数据中心规模超过 20 吉瓦的目标有可能下调，资本开支可能有一定程度降低。不过公司管理层相信，美国商务部的算",
+        "id": "41d29b9d5f91"
       },
       {
-        "title": "全球专利申请量创新高",
-        "url": "https://www.solidot.org/story?sid=85933",
+        "title": "无限滚动自动播放有害社会",
+        "url": "https://www.solidot.org/story?sid=85946",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "世界知识产权组织公布的年度《世界知识产权指标》（WIPI）报告显示，2025 年全球专利申请量 394 万件，同比增长 6%，创近十年来最快增速。这可能与利用 AI 加快专利申请相关。数据显示，中国继续高居第一达到 191万 件，同比增长 6%，其次是美国（489,766件）、日本（466,301件",
-        "id": "e688936d4a0a"
+        "summary": "根据发表在《The Lancet Psychiatry》期刊上的一篇报告，全球逾十分之一人口可能受到问题性互联网使用的影响，每年由此带来的经济和社会成本可能高达数十亿美元。问题性互联网使用包括了：强迫性使用社交媒体、过度沉迷游戏、网络赌博、强迫性网购、问题性色情内容消费，以及反复搜索加剧焦虑的健康信",
+        "id": "e1d79578b1d6"
       },
       {
-        "title": "黄仁勋的下台可能削弱开放权重模型让闭源模型受益",
-        "url": "https://www.solidot.org/story?sid=85932",
+        "title": "三名胰腺癌患者在注射病毒后遏制了肿瘤继续发展",
+        "url": "https://www.solidot.org/story?sid=85945",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "黄仁勋的下台可能削弱开放权重模型生态，让 OpenAI 和 Anthropic 等闭源模型开发商受益。黄仁勋此前曾利用英伟达的资金打造一个广泛的 AI 生态系统。他通过投资和收购初创企业，支持开发开源和开放权重模型。黄仁勋是此类模型推广的坚定倡导者，曾游说反对华盛顿限制使用中国的开放权重模型，积极推",
-        "id": "5a967a377e33"
+        "summary": "在美国的一项临床试验中，三名胰腺癌患者在注射病毒后成功遏制肿瘤继续发展。项目领导者、明尼苏达大学的 Masato Yamamoto 表示临床试验注射的剂量仅为最终目标剂量的十分之一，因此疗效超出了预期。研究人员将对另外 15 名患者使用更高剂量的药物以确定最佳给药水平。胰腺癌被称为最致命的癌症，原因",
+        "id": "7a94efbc565a"
       },
       {
-        "title": "微软官方 agent-framework 软件包被黑客劫持安装恶意程序",
-        "url": "https://www.solidot.org/story?sid=85931",
+        "title": "Vint Cerf 谈 TCP/IP 为何从未申请专利",
+        "url": "https://www.solidot.org/story?sid=85944",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "微软托管在 PyPI 上的 agent-framework 软件包被黑客劫持安装窃取信息的恶意程序。agent-framework 每月下载量近 20 万次，主要用于构建和部署 AI 智能体。受影响的版本是 v1.26.1 和 1.26.2，会窃取开发者在 Azure、Git、Docker、Hugg",
-        "id": "b3144ba3914b"
+        "summary": "现年 83 岁的 Vint Cerf 因在 1970 年代与 Bob Kahn 合作设计了 TCP/IP 协议而被誉为互联网之父，他在今年早些时候卸任 Google 首席互联网布道官一职，但并没停止工作，他正参与创办名为 Tolero 的公司，为星际\n互联网构建软件。他接受采访时开玩笑的说，光速太慢",
+        "id": "ef81c8b19f7f"
       },
       {
-        "title": "蚊子在喜马拉雅冰川地区日益常见",
-        "url": "https://www.solidot.org/story?sid=85930",
+        "title": "韩国利用紧急短信等方法抓住了 111 起高考作弊",
+        "url": "https://www.solidot.org/story?sid=85943",
         "image": "",
         "source": "Solidot",
         "category": "tech",
-        "summary": "随着全球暖化冰川消退，蚊子在喜马拉雅冰川地区日益常见，将一些流行病带给了当地居民。克什米尔 Ladakh 一个名叫 Sakti 的村庄海拔 3900 米，居住着约四百户村民，大多属于 Boto 族。65 岁的村民 Phunchok Gyalpo 一生都居住在 Sakti，他说小时候每逢下雪，通常要等",
-        "id": "9d8ac3ef5fed"
+        "summary": "韩国高考从本周四开始，有约 50 万名考生参加。为打击高科技作弊，韩国采取了一种极端的方法：在全国范围内发送紧急短信，之后在没有预先通知的情况下不定时追加发送。该短信无法拒收，只要手机处于开机状态，手机就将持续发出 10.5 秒的提示音。据韩国媒体报道，该方法发现了 54 起未上交手机的案例。通过探",
+        "id": "62fe6f674f00"
+      },
+      {
+        "title": "微软测试对被盗或丢失设备远程锁定",
+        "url": "https://www.solidot.org/story?sid=85942",
+        "image": "",
+        "source": "Solidot",
+        "category": "tech",
+        "summary": "微软在测试一项新功能，允许企业 IT 管理员在不清除数据的情况下远程锁定丢失或被盗的 Windows 设备。被称为远程锁定（Remote Lock）的新功能已提供给运行 Build 26320.10003 或 Build 26340.10013 的 Windows 11 Insider Previe",
+        "id": "5ddac6630674"
+      },
+      {
+        "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
+        "url": "https://sspai.com/post/119291",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "上周末，今年正式被列入「全国普通高校学科竞赛排行榜」的2026鸿蒙高校创新赛在南京大学迎来全国总决赛颁奖典礼。华为董事、终端BGCEO何刚出席现场致辞并为获奖选手颁奖。他在现场表示，HarmonyOS ...<a href=\"https://sspai.com/post/119291\" target",
+        "id": "be30cea72c0f"
+      },
+      {
+        "title": "本周看什么 | 最近值得一看的 10 部作品",
+        "url": "https://sspai.com/post/119337",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...<a href=\"https://sspai.com/post/119337\" target",
+        "id": "a3475914c56e"
+      },
+      {
+        "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+        "url": "https://sspai.com/post/119327",
+        "image": "",
+        "source": "少数派",
+        "category": "tech",
+        "summary": "编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ...<a href=\"https://sspai.com/post/119327\" target",
+        "id": "b9ad29834c6d"
       },
       {
         "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
@@ -683,33 +728,6 @@
         "id": "771904c96cc3"
       },
       {
-        "title": "徒步旅行指南 | 玉龙虎跳峡与天堂雨崩",
-        "url": "https://sspai.com/post/119039",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/119039\" target",
-        "id": "4f22449f48e3"
-      },
-      {
-        "title": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等",
-        "url": "https://sspai.com/post/119239",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "AMD 更新虚幻引擎 FSR 插件、Google Wallet 登陆 iOS 等。<a href=\"https://sspai.com/post/119239\" target=\"_blank\">查看全文</a>",
-        "id": "cf2eaf67765b"
-      },
-      {
-        "title": "10 月音乐精选：音乐丰收季，必听这 7 张新专辑",
-        "url": "https://sspai.com/post/118985",
-        "image": "",
-        "source": "少数派",
-        "category": "tech",
-        "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...<a href=\"https://sspai.com/post/118985\" target",
-        "id": "ab201e8a833a"
-      },
-      {
         "title": "苹果 M4 芯片 AI 性能跑分曝光",
         "source": "MacRumors",
         "category": "tech",
@@ -748,148 +766,148 @@
     ],
     "crypto": [
       {
-        "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
-        "url": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M399X14JGMZWTWX9787D6BTC/hi-what-are-inflows-and-outflows-on-crypto-exchanges-bitcoin-etf.jpg",
+        "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+        "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X4D1A62D3GQT3E2RD261Q4/hi-company-hits-vulnerability-2.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Institutions pile back into US Bitcoin ETFs in Q3 after selling streak\" class=",
-        "id": "5613f6518cd7"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit\" class=\"type:",
+        "id": "5f03d483bf83"
       },
       {
-        "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
-        "url": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7V13YNHJY11MWW37WA0R9X8/hi-can-locked-liquidity-still-put-defi-users-at-risk.jpg",
+        "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
+        "url": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X2CXDXB4B5SGSAMFZAXXE0/hi-kraken-ipo-1.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger CTO Charles Guillemet to leave after nine years at company\" class=\"type",
-        "id": "57a762c518e8"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund ",
+        "id": "bc6113854d83"
       },
       {
-        "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
-        "url": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TW6KD0H9BEVC27QRWR5CP8/asia-express-jacket.png",
+        "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
+        "url": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79N7DA5EN5QTEX2W50DFFNH/hi-so-what-is-happening-to-bitcoin-bear-market-1.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express\" cl",
-        "id": "b9df33583e38"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin falls below $60K for first time since July amid broader market selloff",
+        "id": "8b71b95d63b4"
       },
       {
-        "title": "MoonPay seeks US bank charter for stablecoin, custody services",
-        "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TRZBKZ9CRA2JGQ7AM7G08Z/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu-1.png",
+        "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
+        "url": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WS7SH44A7MXA0Q21TD4GY8/hi-when-will-the-prediction-market-take-place-and-what-effect-is-it-having-on-crypto-2.png",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MoonPay seeks US bank charter for stablecoin, custody services\" class=\"type:pr",
-        "id": "cc8eb5ba8331"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senate advances prediction market restrictions with DEATH BETS Act\" class=\"",
+        "id": "d8be3199e5aa"
       },
       {
-        "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
-        "url": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TJNVM868BCDV9G2DVS1TSG/hi-kraken-ipo.png",
+        "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
+        "url": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WQNA6474S1X1PQY3N7WJMX/hi-bollinger-band-explained2-960x640.webp",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price\" class=",
-        "id": "81d4b1fcf40e"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off\" class=",
+        "id": "0f66574213a5"
       },
       {
-        "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
-        "url": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TFD02FRZ10BM2N4QZ1NBPG/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2027.png",
+        "title": "DBS bets it can lose the deposit and keep the client",
+        "url": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WNFYH0FRWPZX615E3RNKNQ/sponsored-marina-bay-sand-singapore-light-water11-1.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock tradin",
-        "id": "758c5cbd66d9"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DBS bets it can lose the deposit and keep the client\" class=\"type:primaryImage",
+        "id": "a277a6d4ab6a"
       },
       {
-        "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
-        "url": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7T8797NST8JEDN3F6EH12SR/hi-can-crypto-exchanges-be-trusted-with-hard-forks.png",
+        "title": "Here’s what happened in crypto today",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility conce",
-        "id": "e4ae8db12752"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s",
+        "id": "772e97788bfd"
       },
       {
-        "title": "Why higher rates could slow Bitcoin buying at treasury firms",
-        "url": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg",
+        "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
+        "url": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WGQEQ57ZB4C6X8Y2M5KYTQ/christine-lagarde-imf.jpg",
         "source": "CoinTelegraph",
         "category": "crypto",
-        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Why higher rates could slow Bitcoin buying at treasury firms\" class=\"type:prim",
-        "id": "2ab689fc3e4a"
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Lagarde warns Europe could miss chance to unify tokenized markets\" class=\"type",
+        "id": "2c9b1a7fef32"
       },
       {
-        "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
-        "url": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg@png",
+        "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
+        "url": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/math-problems-AI-gID_1.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Citibank’s updated terms put customers on the hook for outside AI agents, including leaked logins.",
-        "id": "32c2667d547c"
+        "summary": "Levent Alpöge claims Claude helped prove a 167-year-old math conjecture, but independent checks remain pending, and the release just after Anthropic’s",
+        "id": "5f9922001224"
       },
       {
-        "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
-        "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png@png",
+        "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
+        "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Anthropic shares opened 34% above their $83 IPO price before giving up much of the gain, while Nvidia, AMD and other AI stocks slid across Wall Street",
-        "id": "977881ee8ed4"
+        "summary": "Nvidia shares fell about 13% to a 52-week low after reports that SEC enforcement staff are examining potential accounting issues, adding to pressure o",
+        "id": "8db1f534f018"
       },
       {
-        "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
-        "url": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
+        "title": "SBF’s 'The Altruists' Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion",
+        "url": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/sam-bankman-fried-ftx-sbf-decrypt-style-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "A new post-quantum signature proposal aims to secure Bitcoin’s future, but balancing user safety and efficiency comes with hurdles.",
-        "id": "bf85b3ded4c1"
+        "summary": "Anthropic’s IPO made FTX’s liquidated AI bet a $43 billion what-if, just as Netflix premiered its Sam Bankman-Fried drama.",
+        "id": "d35eede8e155"
       },
       {
-        "title": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
-        "url": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/crypto-credit-cards-mastercard-visa-gID_7.jpg@png",
+        "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
+        "url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/cathie-wood-ark-invest-decrypt-style-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "A ransomware group breached third-party vendors, not the companies’ own systems. Visa said no card data was affected while Mastercard cited a limited ",
-        "id": "cd421aa82576"
+        "summary": "The firm bought 934,968 Anthropic shares across six ETFs on the Claude maker’s Nasdaq debut while trimming a combined $4.1 million from its Ethereum a",
+        "id": "226b4e58ee80"
       },
       {
-        "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
-        "url": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg@png",
+        "title": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks",
+        "url": "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Anthropic shares surged on their Nasdaq debut, but stocks slid and Bitcoin fell lower. Its daily chart shows deeply oversold momentum, a strong downtr",
-        "id": "093e7b734ac1"
+        "summary": "Gemini's new Mac computer-use feature navigates apps, files, and websites in a separate window, but Google's own documentation warns about prompt inje",
+        "id": "fd0913bbb48f"
       },
       {
-        "title": "Protesters Arrested Outside Nasdaq as Activists Oppose Anthropic IPO Over AI Bubble Risks",
-        "url": "https://decrypt.co/383642/protesters-arrested-nasdaq-anthropic-ipo-ai-bubble-risks",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/anthropic-ipo-protests-nasdaq-gID_7.jpg@png",
+        "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
+        "url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "At least four people were arrested outside Nasdaq during Anthropic’s historic IPO, as protesters warned that AI valuations could leave retirement save",
-        "id": "841723c5510e"
+        "summary": "Wagyu’s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 mil",
+        "id": "292fc52e5e81"
       },
       {
-        "title": "What Are Perpetual Futures? How Crypto's Most Popular Derivative Works",
-        "url": "https://decrypt.co/resources/what-are-perpetual-futures-how-cryptos-most-popular-derivative-works",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/11/bitcoin-investment_2-gID_1-pID_6.png@png",
+        "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+        "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "Perpetual futures let traders bet on prices with leverage and no expiry date. Here's how they work, and why they dominate crypto trading.",
-        "id": "ce786c232c26"
+        "summary": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic’s IPO.",
+        "id": "79aadf876742"
       },
       {
-        "title": "Anthropic Stock Opens 33% Above IPO Price as AI Stocks Rally",
-        "url": "https://decrypt.co/383631/anthropic-stock-indicated-open-33-above-ipo-price",
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-anthropic-dario-amodei-2-gID_7.png@png",
+        "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
+        "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg@png",
         "source": "Decrypt",
         "category": "crypto",
-        "summary": "The Claude maker's shares could debut at $110, pushing its valuation toward $2 trillion as enthusiasm for its historic IPO lifts the broader technolog",
-        "id": "ed7cc3aa6194"
+        "summary": "Sen. Adam Schiff's DEATH BETS Act would bar U.S.-regulated exchanges from listing contracts tied to war, assassinations or deaths.",
+        "id": "e50de00928ca"
       },
       {
         "title": "比特币突破 80000 美元",
